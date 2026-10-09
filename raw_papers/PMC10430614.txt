@@ -1,0 +1,19 @@
+P1478: DRUGS ASSOCIATED PORPHYRIA：A PHARMACOVIGILANCE STUDY
+
+Abstract Topic: 28. Enzymopathies, membranopathies and other anemias
+
+Background: The porphyrias are a group of rare metabolic diseases caused by inherited or acquired enzymatic deficiency in the metabolic pathway of heme biosynthesis. The potentially fatal attacks of acute hepatic porphyrias （AHPs） are triggered by some commonly prescribed drugs. It is therefore important to identify the safety of drugs for carriers of porphyria genetic mutations. However, minute changes in the chemical structure of porphyrinogenic drugs may essentially modify their effect and in vitro models differ greatly from human body, so it is difficult to determine whether a specific drug will be safe. The review of drugs inducing porphyria in real word practice will verify the porphyrogenicity and provide valuable information for safe drug use of porphyria.
+
+The FDA’s Adverse Event Reporting System (FAERS) is the world’s largest repository of reported hazardous drug events. Reporting all adverse events to the FDA depends on healthcare professionals, consumers, and manufacturers. We conducted a retrospective pharmacovigilance study using data from the FAERS database to perform signal mining analysis to extract drugs with adverse events related to porphyria and display the characteristics of drugs inducing porphyria in clinical practice by big data.
+
+Aims: We used Drug Administration Adverse Event Reporting System (FAERS) to explore the drugs reported with adverse reactions of porphyria，and provide information about porphyria associated drugs to optimize the prescription management of carriers of porphyrias genetic mutations
+
+Methods: Reports with adverse reaction of porphyria were collected form FAERS data covering the period from January 2004 to March 2022. The search terms identified adverse events (AEs) of porphyria include “Porphyria”, “Porphyria screen”, “Porphyria non-acute”, “Porphyria acute”, “Acquired porphyria”, “Pseudoporphyria”. The association between drugs and adverse events were further identified by four algorithms “ROR”, “PRR”, “BCPNN”, “MGPS”. The characteristics of all the reports and signaling drugs were analyzed.
+
+Results: 1470 cases were reported with AEs of porphyria from the FAERS and 406 drugs were obtained by combining different trade names and generic names representing the same drug. The most common patients age was 18 to 44 years old (396, 26.94%) and more females were reported than males (47.07% vs. 38.98%, respectively). Most of the cases were submitted by health-care professional (69.80%) and consumers account for 13.79%. Outcomes events included hospitalization (31.01%), death (3.31%), life-threatening condition (2.61%), disability (2.03%), need for further intervention to prevent permanent impairment/damage（0.17%）, and others not detailed（59.88%）. Porphyria associated drugs were most frequently reported for anti-infective drug (230,30.22%), followed by digestive system drugs (111,14.59%), antitumor and immune drugs (101,13.27%), cardiovascular system drugs (69,9.06%). The top 10 drugs with the highest number of reports are shown in Figure 1. The main drug in the anti-infective drug were against Hepatitis C virus (HCV) infection (111,8.43%) and Human immunodeficiency virus (HIV) infection (72,5.47%). 52 drugs with signals were identified by all four algorithms.
+
+Summary/Conclusion: Great care must be taken to ensure that carriers of porphyrias genetic mutations are not prescribed porphyrinogenic drugs. The analysis of FAERS reports provides critical information on drugs porphyrogenicity which allow the prescription of drugs on a rational and evidence-based footing, and improve the accuracy of predicted porphyrogenicity by model algorithms.
+
+Figure 1：The top 10 drugs with the highest number of reports.
+
+Keywords: Patient reported outcomes, Prognostic, Side effects

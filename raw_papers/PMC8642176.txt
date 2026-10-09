@@ -1,0 +1,15 @@
+Other adverse reaction research
+
+Below is a list of other recently published drug safety-related scientific literature.
+
+Das B, et al. Leading 20 drug-drug interactions, polypharmacy, and analysis of the nature of risk factors due to QT interval prolonging drug use and potentially inappropriate psychotropic use in elderly psychiatry outpatients Therapeutic Advances in Cardiovascular Disease : 1 Dec 2021. Available from: URL: https://doi.org/10.1177/17539447211058892
+
+de Oliveira Silva NA, et al. Potential kidney damage associated with the use of remdesivir for COVID-19: analysis of a pharmacovigilance database Cadernos de Saude Publica / Ministerio da Saude, Fundacao Oswaldo Cruz, Escola Nacional de Saude Publica : 1 Dec 2021. Available from: URL: https://doi.org/10.1590/0102-311X00077721
+
+Hu F, et al. Renal toxicities in immune checkpoint inhibitors with or without chemotherapy: An observational, retrospective, pharmacovigilance study leveraging US FARES database Cancer Medicine : 1 Dec 2021. Available from: URL: https://doi.org/10.1002/cam4.4343
+
+Musiek ACM, et al. Dermatologic Events Associated with the Anti-CCR4 Antibody Mogamulizumab: Characterization and Management Internet Document : 1 Dec 2021. Available from: URL: https://doi.org/10.1007/s13555-021-00624-7
+
+Tobaiqy M, et al. Thrombotic Adverse Events Reported for Moderna, Pfizer and Oxford-AstraZeneca COVID-19 Vaccines: Comparison of Occurrence and Clinical Outcomes in the EudraVigilance Database Vaccines : 1 Dec 2021. Available from: URL: https://doi.org/10.3390/vaccines9111326
+
+Yamada T, et al. Risk of pregabalin-induced hypoglycemia: Analysis of the Japanese Adverse Event Report database Journal of Clinical Pharmacology : 24 Nov 2021. Available from: URL: http://doi.org/10.1002/jcph.2009

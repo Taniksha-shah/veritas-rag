@@ -1,0 +1,55 @@
+Addendum To: Study protocol of the HD-MED study aiming to personalize drug treatment in Huntington’s disease: a longitudinal, observational study to assess medication use and efficacy in relation to pharmacogenetics
+
+From the authors: As the HD-med study progressed, we realized that the current statistical methods in our article 1 were outdated. In the analysis, we will no longer combine the extremes of the pharmacogenetic profile (poor metabolizers (PMs) and ultra-rapid metabolizers (UMs)). Furthermore, we will no longer determine negative medication effects and definite prescription changes using the primary outcome definitions given in the original manuscript 1 . Instead, we decided to proceed with a simplified data preprocessing approach, as described below.
+
+With this addendum paper, we provide transparency on our updated methodology. Currently, recruitment and data collection are ongoing. We have not yet seen the final data. No changes in data collection procedures have been made. The updated approach has no relevant impact on the required sample size.
+
+PMs are at risk of experiencing more side effects, while UMs are at risk of experiencing no or less effect of a given drug. By grouping PMs and UMs in the same category of “divergent phenotype,” the true effect might be averaged out. Therefore, we thought it would be better not to combine these groups and just record the CYP2C19 and CYP2D6 genotype-predicted phenotype (PM, intermediate metabolizer (IM), normal metabolizer (NM) or UM). Depending on the actual number of subjects in each group, we may combine IMs and NMs in the analysis to increase power.
+
+In addition, actionable drugs are clustered in pharmacogenetic groups, either CYP2C19 or CYP2D6. Prodrugs are examined separately. We will count how often adverse drug reactions and lack of efficacy occur, compared to the control group (=no adverse drug reactions nor lack of efficacy) per genotype-predicted phenotype for each pharmacogenetic group. Results will be analyzed with ANalysis Of VAriance (ANOVA) or its non-parametric counterpart, depending on the distribution of the data. Causality of adverse events is rated by the Liverpool Adverse Drug Reaction Causality Assessment Tool 2 by two independent investigators. Only possible, probable, and definite causality assessments are included in the analysis. Disagreements are resolved by consensus. Lack of efficacy is reported according to Figure 2 of the original manuscript, 1 where each “negative medication effects” is replaced by “lack of efficacy.” The “Drug change due to side effects?” box in Figure 2 of the original manuscript 1 has therefore become redundant. The new standardized operating procedure to determine the lack of efficacy is included in this addendum (Figure 1). Drug–drug interactions and corresponding co-medication-induced phenoconversion are taken into account when present, according to the previously reported predictions in Table 2 of the original manuscript. 1
+
+Standardized operating procedure to determine lack of efficacy. To complete separately for actionable drug–gene interactions in CYP2C19 and CYP2D6.
+
+The primary objective and main outcome are redefined to reflect these changes.
+
+Primary objective: To classify the effect of the pharmacogenetic profile of CYP2C19 and CYP2D6 in Huntington’s disease gene expansion carriers.
+
+Main outcome: Number of adverse events and lack of efficacy per CYP2C19 and CYP2D6 genotype-predicted phenotype.
+
+Not applicable.
+
+ORCID iDs: Stephanie Feleus https://orcid.org/0000-0002-1160-0920
+
+Jesse J. Swen https://orcid.org/0000-0002-3965-5552
+
+Susanne T. de Bot https://orcid.org/0000-0002-3512-2468
+
+Stephanie Feleus, Department of Neurology, Leiden University Medical Center, Leiden, The Netherlands; Department of Clinical Epidemiology, Leiden University Medical Center, Leiden, The Netherlands.
+
+Maaike van der Lee, Department of Clinical Pharmacy and Toxicology, Leiden University Medical Center, Leiden, The Netherlands.
+
+Jesse J. Swen, Department of Clinical Pharmacy and Toxicology, Leiden University Medical Center, Leiden, The Netherlands
+
+Raymund A. C. Roos, Department of Neurology, Leiden University Medical Center, Leiden, The Netherlands
+
+Susanne T. de Bot, Department of Neurology, Leiden University Medical Center, Leiden, The Netherlands
+
+Ethics approval and consent to participate: This study will be conducted according to the World Medical Association of Helsinki and has been approved by the MREC Leiden Den Haag Delft based in the Leiden University Medical Center under number NL70391.058.19. All subjects have provided written informed consent.
+
+Consent for publication: Not applicable.
+
+Author contributions: Stephanie Feleus: Conceptualization; Data curation; Formal analysis; Funding acquisition; Investigation; Methodology; Project administration; Resources; Software; Validation; Visualization; Writing – original draft; Writing – review & editing.
+
+Maaike van der Lee: Data curation; Formal analysis; Writing – review & editing.
+
+Jesse J. Swen: Conceptualization; Methodology; Supervision; Writing – review & editing.
+
+Raymund A. C. Roos: Conceptualization; Funding acquisition; Methodology; Supervision; Writing – review & editing.
+
+Susanne T. de Bot: Conceptualization; Funding acquisition; Methodology; Project administration; Resources; Supervision; Visualization; Writing – review & editing.
+
+Funding: The authors disclosed receipt of the following financial support for the research, authorship, and/or publication of this article: The HD-med study is supported by private HD community donations. We received no funding from commercial or not-for-profit parties. HD-MED is an investigator-initiated study set up by the Department of Neurology and Department of Clinical Pharmacy and Toxicology of the Leiden University Medical Center.
+
+Leiden University Medical Center receives grants from the European Huntington’s Disease Network (EHDN) and Cure HD Initiative (CHDI), participates in an EU Horizon 2020 project: Innovative Medicines Initiative (IMI) 2 (IDEA_FAST), and participates in clinical trials sponsored by PRILENIA, PTC Therapeutics, WAVE and VICO Therapeutics. R.A.C. Roos is a member of the DSMB uniQure CT-AMT 130, DSMB Enroll-HD, and is on the advisory board of JEITO Pharm. The aforementioned sponsors had no role in the design, execution, interpretation, or writing of this current study protocol. Authors Maaike van der Lee and Jesse J. Swen declare no conflicts of interest.
+
+Availability of data and materials: The final results of the HD-MED study, irrespective of findings, will be submitted for publication in scientific journals and therewith publicly disclosed according to current international and local academic standards. Study data from the HD-MED protocol will not be publicly released, since this study is still ongoing. Parties that wish to collaborate on data generated by this study protocol are encouraged to contact the corresponding author.

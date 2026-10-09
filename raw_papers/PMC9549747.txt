@@ -1,0 +1,43 @@
+[Translated article] Lipschütz Ulcers After the AstraZeneca COVID-19 Vaccine
+
+To the Editor,
+
+A 24-year-old woman presented at the emergency department with 4 very painful ulcers on the labia majora that showed no signs of healing. She had received the AstraZeneca vaccine (Vaxzevria) 3 days earlier and experienced flu-like symptoms with fever and generalized joint and muscle pain.
+
+She denied risky sexual activity in the previous months and was not on any treatment. She did report a similar condition 9 months earlier consisting of painful vulvar ulcers, fever, and general malaise. This resolved after several weeks of symptomatic treatment following the exclusion of infectious and noninfectious causes.
+
+Physical examination showed vulvar swelling and 4 round ulcers with an erythematous border and a fibrinous, nonsuppurative center. The largest ulcer measured approximately 1.5 cm (Fig. 1 ). Both sides of the vulva were affected (Fig. 2 ). There were no other cutaneous or mucosal lesions and the lymph nodes were not palpable. The patient was afebrile and in good general health, although she described considerable pain.Figure 1Lipschütz ulcers. Round lesions with well-defined borders and a grayish background. The largest lesion (1.5 cm) was located next to the vaginal introitus.Figure 2Detailed view of the ulcers. Note the characteristic kissing lesions.
+
+Lipschütz ulcers. Round lesions with well-defined borders and a grayish background. The largest lesion (1.5 cm) was located next to the vaginal introitus.
+
+Detailed view of the ulcers. Note the characteristic kissing lesions.
+
+The cultures of the ulcers and exudate from the vulva and cervix were negative, as was polymerase chain reaction testing for herpes simplex virus types 1 and 2, Treponema pallidum, Mycoplasma genitalium, Trichomonas vaginalis, and Neisseria gonorrhoeae using a swab specimen taken from the ulcers. Serology for syphilis, HIV, and hepatitis A, B and C viruses and the autoimmune study were negative. The patient was not a carrier of the HLA B*51 or HLA B*57 allele.
+
+Treatment with a tapering dose of prednisone 30 mg and analgesics led to a rapid improvement in pain. At 3 weeks, the patient was asymptomatic and the ulcers had disappeared.
+
+Considering the above, a diagnosis of Lipschütz ulcer was made.
+
+The case was reported to the Spanish Pharmacovigilance System, whose causality algorithm determined the ulcer to be “possibly related to the vaccine”.1
+
+As of March 29, 2021, the pharmacovigilance database of the European Medicines Agency (EudraVigilance) contained 134 372 reports of adverse events possibly linked to the AstraZeneca COVID-19 vaccine. Four of these were vulvar ulcers, 3 of which were specifically described as Lipschütz ulcer (Table 1 ).Table 1Cases of Vulvar Ulcers Reported Following AstraZeneca COVID-19 Vaccination as per the European Medicines Agency's Pharmacovigilance Database (EudraVigilance) on March 29, 2021.Table 1CaseSex/age, yAdverse eventTime to adverse event, dOther symptomsOutcomeTests1F/18Lipschütz ulcer1FeverMyalgiaHeadacheRecovered2F/25Vulvar ulcer2Recovered3F/24Lipschütz ulcer1Sore throatRecoveringNegative for herpes virus, EBV, CMV, HIV, Mycoplasma, and Streptococcus A4F/25Lipschütz ulcer2Not recovered5 (current case)F/24Lipschütz ulcer3FeverGeneralized joint and muscle painRecoveredNegative for HSV types 1 and 2, Treponema pallidum, Mycoplasma genitalium, Trichomonas vaginalis, and Neisseria gonorrhoeaeNegative serology for syphilis, HIV, and hepatitis A, B, and CAbbreviations: CMV, cytomegalovirus; EBV, Epstein–Barr virus; HSV, herpes simplex virus.
+
+Cases of Vulvar Ulcers Reported Following AstraZeneca COVID-19 Vaccination as per the European Medicines Agency's Pharmacovigilance Database (EudraVigilance) on March 29, 2021.
+
+Abbreviations: CMV, cytomegalovirus; EBV, Epstein–Barr virus; HSV, herpes simplex virus.
+
+Lipschütz ulcer is an acute noninfectious genital ulcer mainly seen in women younger than 20 years.2 It is characterized by the sudden onset of 1 or more very painful, necrotic, genital ulcers larger than 1 cm. They have a symmetric, mirror-like distribution (kissing ulcers).3
+
+Lipschütz ulcer generally occurs in the presence of flu-like symptoms or infectious mononucleosis syndrome and resolves spontaneously in 3 weeks. Treatment is thus symptomatic and is based on hygiene measures and pain relief.2 The use of systemic corticosteroids to treat Lipschütz ulcer is controversial, as it may delay resolution.2 This treatment thus is reserved for more severe cases in which there is significant inflammation.4 Approximately one-third of patients, like ours, experience recurrence.3
+
+Diagnosis is clinical and based on the exclusion of other potential causes,4 including, primarily, sexually transmitted infections3 and certain systemic diseases such as Behçet disease, Crohn disease, fixed drug eruption, and malignancy.2
+
+The etiology and pathogenesis of Lipschütz ulcer is unknown, although it could involve a hypersensitivity reaction triggered by an infectious viral or bacterial agent. Indeed, 88% of cases occur in the context of infection. The most common associated infection is infectious mononucleosis syndrome due to Epstein–Barr virus (which may also be detected in genital lesions), followed by Mycoplasma infection. There have also been reports of Lipschütz ulcer in patients with other infections such as cytomegalovirus infection and Toxoplasma gondii.2 Isolated cases of genital ulcers have been described in association with adenovirus infection.5, 6
+
+The AstraZeneca COVID-19 vaccine is a monovalent vaccine composed of a recombinant, replication-deficient chimpanzee adenovirus vector that encodes the spike glycoprotein of SARS-CoV-2. Local expression of this protein following inoculation induces a humoral and cellular immune response that protects against infection.7
+
+In an exhaustive search of the literature, we found no reports of genital ulcers associated with vaccination.
+
+Nonetheless, our case, plus the other 4 reported in EudraVigilance,5 strengthens the hypothesis that immune responses triggered by an infectious agent or its particles (vaccines) can lead to the development of Lipschütz ulcer.
+
+The authors declare that they have no conflicts of interest.

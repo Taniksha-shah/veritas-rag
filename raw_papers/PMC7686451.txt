@@ -1,0 +1,183 @@
+Forum
+
+The UK National Institute for Health and Care Excellence (NICE) has agreed to collaborate with regulators and healthcare organisations to ensure an integrated approach to following safety recommendations made in NICE guidance.
+
+This follows the publishing of the First Do No Harm report of the Independent Medicines and Medical Devices Safety (IMMDS) Review, which found that following NICE guidance more closely may have avoided harmful adverse events (AEs) in patients. The review assessed how the healthcare system in England responded to reports from patients about adverse events associated with: a hormonal pregnancy test [Primados] which was withdrawn from the UK market in 1978; the use of sodium valproate during pregnancy; and the use of surgical mesh in the treatment of pelvic organ prolapse and stress urinary incontinence between 2016 and 2017 (NICE updated Interventional Procedures guidance on this issue before the review was announced).
+
+The review found that "more should have been done to ensure that healthcare professionals were aware of and following guidelines. In theory, regulators and professional organisations . . . reinforce their use through their professional standards and inspection or accreditation processes". It acknowledged that the NICE guidance was appropriate to known risks and alternatives.
+
+The NICE board supported the need for more collaboration with regulators and professional organisations to reinforce the use of NICE guidance through their professional standards and inspection or accreditation processes, and has agreed: "to consider how to facilitate the production of a single and collaboratively produced patient decision aids; to work with NHSX and other system partners to co-create databases and registries which could be used to inform our guideline development; and for an exceptional review to be carried out on its guideline on the management of urinary incontinence and pelvic organ prolapse in women". It also agreed to collaborate with other partners in a coordinated system response to the IMMDS Review overseen by the Department of Health and Social Care.
+
+"During the review we worked with partners from across the health and care system to implement improvements and ensure a more integrated approach to patient safety. This work will continue," said Professor Gillian Leng, chief executive at NICE.
+
+National Institute for Health and Care Excellence. NICE board agrees to stimulate action following publication of Independent Medicines and Medical Devices Safety Review report. 23 Sep 2020. https://www.nice.org.uk/news/article/nice-board-agrees-to-stimulate-action-following-publication-of-independent-medicines-and-medical-devices-safety-review-report. Accessed 4 Nov 2020.
+
+New Zealand's Medicines and Medical Devices Safety Authority (Medsafe) is introducing labelling requirements for substances including allergens, excipients and impurities in medicines and related products which may cause allergies or other adverse reactions.
+
+In an open consultation period on proposed warning statements between June and August 2019, Medsafe received 260 responses. Medsafe has now finalised the warning statements which will be implemented by March 2021 for New Medicines Applications, and by March 2024 for existing medicines and health products. The warnings will align with those required in Australia under the Therapeutic Goods Orders.
+
+Medsafe is currently seeking views on having warning statements for the following substances to be included in the Label Statements Database: antibacterials, aspartame, benzoates, crustacea and crustacean products, egg and egg products, ethanol, fish and fish products, galactose, gluten, hydroxybenzoic acid esters, lactose, milk and milk products, peanuts and peanut products, phenylalanine, pollen, potassium salts, propolis, royal jelly, saccharin, sesame and sesame seed products, sodium salts, sorbic acid and sorbic acid salts, soya bean and soya bean products, sucralose, sugar alcohols, sugars, sulphites, tartrazine, and tree nuts and tree nut products. After submissions have been reviewed, the Label Statements Database may be updated to include some or all of the new statements.
+
+All medicines released for supply in New Zealand after 1 March 2024 must have updated package labels.
+
+Medsafe. Outcome of the consultation on the proposed warning statements for substances (eg, allergens) in medicines that may cause undesirable reactions. 23 Sep 2020. https://www.medsafe.govt.nz/consultations/WarningStatementsForAllergens/WarningStatementsforAllergens.asp. Accessed 4 Nov 2020.
+
+The Canadian Agency for Drugs and Technologies in Health (CADTH) has announced a harmonised reimbursement review process for new drug products which is expected to increase cohesiveness, transparency and responsiveness.
+
+CADTH's three previous review pathways (Common Drug Review, pan-Canadian Oncology Drug Review, and Interim Plasma Protein Product Review) have now been incorporated into a single review process which includes the best practices from each program.
+
+The launch of Procedures for CADTH Drug Reimbursement Reviews follows an internal review, discussions with stakeholders, and a public consultation period during which CADTH received input from 80 organisations such as funding providers, drug companies, patient groups and clinician groups.
+
+"By introducing these changes, we have strengthened our process in a manner that increases stakeholder involvement and allows CADTH to better support the jurisdictions that implement our reimbursement recommendations," said Brent Fraser, Vice-President of Pharmaceutical Reviews.
+
+Canadian Agency for Drugs and Technologies in Health. CADTH announces aligned drug reimbursement review process. 30 Sep 2020. https://www.cadth.ca/news/cadth-announces-aligned-drug-reimbursement-review-process. Accessed 4 Nov 2020.
+
+The US FDA is taking action to reduce the prices of prescription drugs by allowing importation of certain prescription drugs to help make them more affordable for patients in America under the Safe Importation Action Plan.
+
+Final guidance from the FDA describes procedures for drug manufacturers to obtain a National Drug Code for their drugs to facilitate importation of FDA-approved prescription drugs (including biologicals) that are manufactured in other countries and authorised for sale in the country for which they were intended.
+
+"Today's action is an important part of FDA's priorities to promote choice and competition. The Safe Importation Action Plan aims to clearly describe procedures to import drugs that would lower prices and improve access while also maintaining the high quality and safety Americans expect and deserve," said the FDA Commissioner Dr Stephen Hahn.
+
+Under the rule, US states and Indian tribes (and pharmacists and wholesalers in the future) can submit importation program proposals to the FDA for review and authorisation. Importation programs can be co-sponsored. "These programs will also have to demonstrate significant cost reductions of the covered products to the American consumer," says the FDA.
+
+"Prescription drugs, including biological products, imported under the pathway described in the final guidance could be available to patients in a variety of settings, including hospitals, health care providers' offices or licensed pharmacies, and would include the FDA-approved labeling (including prescribing information)," they noted.
+
+US Food and Drug Administration. FDA takes actions to help lower U.S. prescription drug prices: final rule, guidance fulfill plan for safe importation of certain drugs originally intended for foreign markets. 24 Sep 2020. https://www.fda.gov/news-events/press-announcements/fda-takes-actions-help-lower-us-prescription-drug-prices. Accessed 4 Nov 2020.
+
+All international health technology assessment (HTA) agencies will be able to access cost-effectiveness models from the Institute for Clinical and Economic Review (ICER) in a "first-of-its-kind program" announced today by the ICER.
+
+Access to the models will be via a new cloud-based platform, called the ICER Interactive Modeler, and will allow customisation of model assumptions and inputs to reflect local conditions. The ICER-developed COVID-19 model, which evaluates the cost effectiveness of remdesivir and other treatments for COVID-19, will be the first one available on the platform. Additional models from previous, ongoing and future reports will be made available by ICER in conjunction with academic collaborators. The Interactive Modeler will be formally launched for patient groups, life science companies, payers and other stakeholders in November 2020, with several models available initially and additional models added frequently in the future.
+
+The aim of the initiative is to increase HTA assessment transparency, whilst allowing access to ICER models for all HTA groups, and enabling the HTA community to provide economic model results to inform government policy on drug pricing and coverage. International HTAs from the UK, Australia, Canada and South Africa are already participating in this programme.
+
+"We have had extensive interest among HTA groups in utilizing our COVID model, and we are proud that the Interactive Modeler can now make that model . . . available and accessible to lower and middle income countries as well as HTA agencies in major European and other markets", commented President of ICER, Steven D. Pearson. "This new international program is a significant step forward for transparent value assessments".
+
+Institute for Clinical and Economic Review. In landmark international program, HTA agencies around the world access ICER’s customizable COVID-19 cost-effectiveness model. 9 Oct 2020. https://icer-review.org/announcements/international-hta-agencies-use-icer-covid-model. Accessed 4 Nov 2020.
+
+Changes are being made to the way that the UK's MHRA issues safety-critical alerts to healthcare providers regarding medicines and medical devices, says the agency.
+
+As of 17 September, all safety-critical alerts "that require action to be taken by healthcare organisations will be issued as National Patient Safety Alerts", highlighted the MHRA.
+
+Criteria and a template agreed by the National Patients Safety Alerting Committee (NaPSAC) will help to ensure that the National Patient Safety Alerts will:
+
+only be issued for safety-critical issues (i.e. those associated with a risk of death or disability) that require organisations to act;
+
+clearly and effectively explain the risk;
+
+have required actions that have been assessed for feasibility, safety, efficacy and cost-effectiveness;
+
+be able to be quickly recognised and actioned by senior personnel;
+
+include SMART (i.e. specific, measurable, achievable, realistic and timely) actions.
+
+The MHRA noted that "failure to take the actions required by any National Patient Safety Alert may lead to the Care Quality Commission (CQC) taking regulatory action in England". The agency added that all healthcare providers that receive alerts relating to drugs and medical devices should ensure they subscribe to receive the National Patient Safety Alerts.
+
+Furthermore, the agency said "in the short term, drug alerts and medicines safety communications that do not meet the NaPSAC criteria will continue to be issued using the current format and process while the MHRA consults with the health system and healthcare professionals to determine the best way for these to be issued going forward".
+
+Safety communications relating to medical devices that do not fulfil the NaPSAC criteria will also change, and these changes will be communicated in due course.
+
+Medicines and Healthcare products Regulatory Agency. Safety-critical alerts are changing at the MHRA. 17 Sep 2020. https://www.gov.uk/government/news/safety-critical-alerts-have-changed-at-the-mhra--2. Accessed 4 Nov 2020.
+
+Modifying criteria for orphan drug market exclusivity in the US would affect only a small number of dugs but could generate large cost savings, according to findings of a study published in Value in Health.
+
+Data from the FDA Orphan Drug Designations and Approvals database were used to assess the prevalence of orphan indications in 86 drugs with approvals for at least two orphan indications between 1983 and July 2017, and approval years of orphan and non-orphan indications for these drugs. Budget impact analysis of data from Medicare and Marketscan claims databases were used to evaluate potential savings from market entry of generic or biosimilar drugs under two policy options for reforming the Orphan Drug Act: denying market exclusivity for drugs which have exceed a combined prevalence threshold of over 200 000 patients across all orphan indications; or denying market exclusivity for drugs which have crossed the market approval threshold by gaining approval for a non-orphan indication.
+
+It was estimated that 21 and 18 of the drugs would have been denied orphan drug market exclusivity periods under the combined prevalence threshold policy and the market approval threshold policy, respectively, resulting in Medicare savings of $2 billion on eight drugs and $1.3 billion on twelve drugs, respectively, and private insurer savings of $814 and $919 million, respectively. Most denials of market exclusivity would have occurred after 2010. Over half of the savings would have been derived from nine drugs that were initially marketed for a non-orphan indication.
+
+"Modifying the orphan drug threshold would affect a small number of drugs but could generate large savings by contributing to increased competition," concluded the authors. "Alternative incentives such as grants or tax credits for clinical trials could be explored to incentivize research for new orphan indications for drugs that crossed either of the thresholds," they suggested.
+
+Socal MP, Parasrampuria S, Anderson GF. Modifying the criteria for granting orphan drug market exclusivity. Value Health. Epub 28 Sep 2020. https://doi.org/10.1016/j.jval.2020.08.004. Accessed 4 Nov 2020.
+
+Decision aids can provide information technology to deliver sex/gender and patient-oriented research (POR) knowledge and help patients and investigators work together as research partners in clinical trials.
+
+This is the main finding of a study from Canada that developed decision aids for both patients and investigators to improve sex/gender knowledge and enhance engagement of patients as partners in clinical trials. The two decision aids, one for patients and one for investigators, were developed following a 3-phase project, including a literature review, a POR consultation workshop attended by 32 key stakeholders, and a new/early investigator POR training day where the decision aids, designed to be interactive and web-based/digital, were presented to 88 new/early investigators, researchers, clinicians, patient partners and decision makers.
+
+Each decision aid, designed to share sex/gender knowledge and information about POR, had five core functionalities: Introduction (get the facts on POR/patient engagement); My Priorities (patient partner and investigator); Learn More (resources for engaging as a patient partner or resources for engaging patients as partners); My Readiness (comparing priorities with perceived benefits/risks); and My Decision (decision and next steps). A preliminary evaluation of the decision aids in terms of user performance and satisfaction showed 'good' usability, as assessed using the System Usability Scale. The decision aids were thought to be engaging and considered to increase the user's understanding of sex and gender, patient engagement and POR. "The decision aids have the potential to make a significant contribution to Canada's Strategy for POR," suggest the researchers.
+
+Parry M, Bjørnnes AK, Toupin-April K, et al. Patient engagement partnerships in clinical trials: development of patient partner and investigator decision aids. Patient. Epub 7 Oct 2020. https://doi.org/10.1007/s40271-020-00460-5. Accessed 4 Nov 2020.
+
+Appropriate statistical methods that account for clustering and the correlation between costs and outcomes are important in economic evaluations (EEs) conducted alongside stepped wedge trials (SWTs), say authors of a systematic review published in PharmacoEconomics.
+
+PubMed, Scopus, Cochrane and National Health Service Economic Evaluation Database (NHS-EED) databases were searched up to February 2020 for studies conducting an EE alongside or based on data from a SWT (multi-arm, cluster-randomised, uni-directional crossover trial [from control to active treatment]).
+
+Of the 69 studies which met the selection criteria for inclusion in this systematic review, 54 published SWT protocols, seven reported EE and trial results, and eight reported EE results only. EE/trial results were more frequently reported in studies published in 2019 (8 out of 12 studies) .The SWTs were conducted in Europe (35.5%), Australia (16.2%), North America (8.1%), Africa (5.7%), Asia (4.6%) or South America (1.1%).
+
+The studies varied in their reporting of the details and methodology of statistical methods; only 16 of the studies reported appropriate methods (most used a mixed/multilevel model), while 34 reported no statistical methods for EEs, and two used apparently unrelated regression analysis. Twelve studies used generic bootstrap methods or other modelling methods, but 32 studies did not adequately account for clustering, correlation or adjustment for time.
+
+"Stepped wedge trial designs are gaining popularity, but statistical methods for EE conducted alongside SWTs have not been sufficiently explored and used. The use of appropriate methods that account for time, clustering and correlation between costs and outcomes is an important part of SWT health economics analysis, one that will benefit from an effort to communicate the methods available and performance," concluded the authors.
+
+Lung T, Si L, Hooper R, et al. Health economic evaluation alongside stepped wedge trials: a methodological systematic review. Pharmacoeconomics. Epub 5 Oct 2020. https://doi.org/10.1007/s40273-020-00963-x. Accessed 4 Nov 2020.
+
+There appears to be a low probability of introducing or discontinuing additional risk minimisation measures (aRMMs) for new drugs authorised for use in the EU, according to findings of a study published in Drug Safety.
+
+Data from European Public Assessment Reports on the European Medicines Agency website were used to investigate post-authorisation introductions of new aRMMs and discontinuations of existing aRMMs for all 476 new drugs authorised in EU between 2006 and 2017. Medicines were followed from the date of marketing authorisation until first introduction or discontinuation of aRMMs, excluding Direct Healthcare Professional Communications (DHPCs).
+
+Overall, 91% of new drugs were granted regular marketing authorisation (MA), 4% were granted conditional MA, and 5% were granted MA under exceptional circumstances; aRMMs were required at the time of authorisation for 27% of the drugs.
+
+The 5-year probability of introducing aRMMs after authorisation of drugs authorised without aRMMs was 3.5%, and the 10-year probability was 6.9%. For drugs authorised with aRMMs, the 5-year probability of discontinuation of aRMMs was 0.9% and the 10-year probability was 8.3%.
+
+"We found low probabilities of introduction and discontinuation of aRMMs (excluding DHPCs) during the product life cycle for medicines authorised between 2006 and 2017. The low rate of discontinuation may potentially be due to a lack of robust data on effectiveness of aRMMs," concluded the authors.
+
+Francisca RDC, Baba E, Hoeve CE, et al. Introduction or discontinuation of additional risk minimisation measures during the life cycle of medicines in Europe. Drug Saf. Epub 30 Sep 2020. https://doi.org/10.1007/s40264-020-00993-6. Accessed 4 Nov 2020.
+
+HMG-CoA reductase inhibitor (statin)-related AEs reported in Twitter generally support regulatory data but may also provide useful information on AEs that are most pertinent to patients, say authors of a study published in Drug Safety.
+
+Investigators collected data on statin-related AEs reported on Twitter (12 649 tweets) between June 2013 and August 2018, and from the US FDA Adverse Event Reporting System (FAERS; 45 447 reports), the UK Medicines and Healthcare products Regulatory Agency (MHRA; 10 415 reports), two drug information databases (Facts and Comparisons, and Clinical Pharmacology) and 17 systematic reviews. The proportion and relative frequencies of AEs from each source were compared for atorvastatin, fluvastatin, lovastatin, pitavastatin, pravastatin, rosuvastatin and simvastatin, as well as for cerivastatin which was withdrawn from the market.
+
+The most frequently used MeDRA preferred terms for statin-related AEs on FAERS were myalgia, rhabdomyolysis, drug interaction, fatigue, muscle spasm, pain in extremities, arthralgia, asthenia, muscular weakness, acute kidney injury and dizziness.
+
+Compared with other data sources, Twitter reports were frequently about musculoskeletal symptoms than other AEs. However, most AEs showed a high level of agreement between Twitter and regulatory data, while drug information databases demonstrated similar patterns but not as strongly. The term 'Musculoskeletal and connective tissue disorders' was mentioned 21.7 times the index comparator in Twitter, 3.82 times the index in FAERS, 3.61 times the index in MHRA and 5.96 times the index in drug information databases. Systematic reviews were more likely to assess pre-specified AEs or those reported by trial investigators.
+
+"Social media may provide information about medications that supports what is known and also potentially useful information not readily available from traditional sources including adverse events of most concern to patients," the authors commented.
+
+Golder S, Smith K, O’Connor K, et al. A comparative view of reported adverse effects of statins in social media, regulatory data, drug information databases and systematic reviews. Drug Saf. Epub 1 Oct 2020. https://doi.org/10.1007/s40264-020-00998-1. Accessed 4 Nov 2020.
+
+Adverse drug reaction (ADR) reporting patterns for drugs used to treat COVID-19 appear to differ between men and women, according to findings of a study published in Drug Safety.
+
+Data from VigiBase, the WHO global database of individual case safety reports (ICSRs), were used to investigate ADR reporting in male versus female patients receiving drugs for the treatment of COVID-19 (azithromycin, chloroquine, hydroxychloroquine, lopinavir/ritonavir, oseltamivir, remdesivir and tocilizumab) in over 130 countries, and to compare ADR reporting when these drugs were used for other indications.
+
+Overall, 2573 ICSRs associated with drugs used to treat COVID-19 were submitted to VigiBase as of 7 June 2020, and 93% of these reports included azithromycin, chloroquine, hydroxychloroquine, lopinavir/ritonavir and/or remdesivir. Lopinavir/ritonavir was more frequently reported in men than in women (309 vs 160 ICSRs).
+
+The most frequently reported ADRs in men (in order of frequency) were QT-interval prolongation, diarrhoea, nausea, hepatitis and vomiting, while the most frequently reported ADRs in women were diarrhoea, QT-interval prolongation, nausea, vomiting and upper abdominal pain. Liver enzyme abnormalities and acute kidney injury were also reported frequently in men but were not reported in women, while insomnia, headache, vertigo and blurred vision were reported in more frequently in women.
+
+Reporting patterns in drugs used for COVID-19 differed from non-pandemic reporting patterns when the drugs were used in other indications. Of note, no heart, liver or renal disorders were among the most reported ADRs when the drugs were used for other indications.
+
+"The increased risk for males of severe COVID-19 disease is reflected in a male predominance of ADR reports in drugs used in the COVID-19 indication. Notably, some hepatic and renal reactions and QT prolongation were more commonly observed in male reports," concluded the authors.
+
+Zekarias A, Watson S, Vidlin SH, et al. Sex differences in reported adverse drug reactions to COVID-19 drugs in a global database of individual case safety reports. Drug Saf. Epub 25 Sep 2020. https://doi.org/10.1007/s40264-020-01000-8. Accessed 4 Nov 2020.
+
+Use of opioid analgesics after treatment for breast cancer appears to increase the risk of AEs, according to findings of a study published in JAMA Network Open.
+
+US Surveillance, Epidemiology and End Results-Medicare data (2007−2016) in 38 310 female fee-for-service Medicare beneficiaries were used to evaluate the risk of opioid misuse-related AEs (opioid abuse, opioid dependence, opioid overdose or poisoning), other opioid-related AEs (cardiovascular events, falls and fractures, gastrointestinal disorders and serious infections) and all-cause hospitalisation during the year after completion of breast cancer treatment in patients 66−90 years of age who were diagnosed with breast cancer stage 0−III between 2008 and 2015. Medicare Part D prescription claims were used to determine opioid analgesic use.
+
+The rate of substance abuse-related AEs was 0.010 per 1000 patient-days, the rate of other opioid-related AEs was 0.237 per 1000 patient-days, and the rate of all-cause hospitalisation was 0.675 per 1000 patient-days. Opioid use significantly increase the risk of substance abuse-related AEs (adjusted risk ratio [aRR] 14.62; 95% CI 9.69, 22.05), other opioid-related AEs (aRR 2.50; 95% CI 2.11, 2.96) and all-cause hospitalisation (aRR 2.77; 95% CI 2.55, 3.02; all p<0.001). The risk of AEs was significantly greater in patients receiving high doses of opioids than in those receiving low doses.
+
+Our findings demonstrate that "opioid therapy significantly increases the risk of multiple preventable serious adverse drug events. Clinicians should carefully weigh the benefits and comprehensive risks of opioid therapy in older adult survivors of breast cancer who have completed active breast cancer treatment," concluded the authors.
+
+Winn AN, Check DK, Farkas A, et al. Association of current opioid use with serious adverse events among older adult survivors of breast cancer JAMA Netw Open. 2020;3(9):e2016858.
+
+Payments from drug companies to patient organisations appear to be underreported by both companies and organisations in the UK, according to findings of a study published in BMJ Open.
+
+Investigators compared the number and value of payments from 87 drug companies to 425 patient organisations disclosed on drug company and charity regulator websites between 2012 and 2016.
+
+The number of payments reported by drug companies was 259.8% greater than those reported to have been received, and the value of payments reported by donors was 163.7% greater than those reported to have been received. The proportion of companies with matching payment numbers and values was 3.4% and 0.0%, respectively; corresponding proportions in patient organisations were 7.8% and 1.9%, respectively.
+
+However, data on payments were missing from 23 companies and three patient organisations during the study period, and accounted for 38.1% and 3.6% of those in datasets, respectively.
+
+Industry and patient organisation data were in agreement for 38.9% and 68.4% of payments in each dataset, respectively.
+
+"Given the shortcomings of the industry self-regulatory system, charity regulators should introduce tailored solutions related to reporting corporate funding in annual accounts, including a standardised template comprising a short payment description (including payment form and goal), its value and donor name . . . However, ultimately, only a single state-run permanent database integrating payments reported by drug companies and patient organisations could eliminate under-reporting," commented the authors.
+
+Ozieranski P, Csanádi M, Rickard E, et al. Under-reported relationship: a comparative study of pharmaceutical industry and patient organisation payment disclosures in the UK (2012-2016). BMJ Open. 2020;10:e037351.
+
+Patient organisations face both external and internal barriers to being more involved with pharmacovigilance, according to the results of a European study reported in Drug Safety, and an environment where patient organisations "can actively engage and contribute as stakeholders will benefit pharmacovigilance".
+
+In the quantitative study phase, a survey of patient organisations resulted in 337 respondents. Results revealed different perspectives about direct patient reporting (DPR). Most respondents who were negative or doubtful about DPR referred to incomprehension of the reporting data process, data treatment, and purpose. Many organisations have very limited budgets and must prioritise their activities. However, they mentioned many safety-oriented activities, primarily education, and mentioned sharing information or supporting initiatives from other stakeholders. Their requirements tended to include very specific information about drugs and their associated adverse events, and about how the pharmacovigilance system works. However, validation and encouragement are needed, as the respondents mentioned their disease or adverse event did not seem to be taken seriously, with problems making themselves heard.
+
+Of the 98 survey respondents who agreed to participate in an in-depth interview, quota sampling of those with "interesting opinions" from the open-ended questions resulted in 16 interviews being conducted; participants were from 11 countries. The questions were asked following a tree scheme dependent on previous answers.
+
+Patients considered they had a broad contribution to pharmacovigilance, with a big impact, including contributing to drug leaflets. However, the ideological limitations to participation may include patients having no responsibility for drug safety, or not seeing any benefit. Pharmacovigilance activities varied, but included participation in legislation, education, and encouraging adverse event reporting. All noted dissatisfaction with the reporting forms and means of reporting, including that the forms are not designed to meet patient needs, or easy to find. As many staff are volunteers and often also patients, health conditions may limit their participation in the organisation. Much of the informative material is in English, which staff and patients may not find comfortable to read, but translation is time-consuming.
+
+Suggestions for improvement included changes to pharmacovigilance systems, education in pharmacovigilance, more awareness of pharmacovigilance, and more involvement of patient organisations. A more proactive approach from national competent authorities may help, "involving patient organizations and creating better communication systems where all stakeholders can interact and understand their different points of view".
+
+Chinchilla K, Matos C, Hall V, et al. Patient organizations' barriers in pharmacovigilance and strategies to stimulate their participation. Drug Saf. Epub 28 Sep 2020. https://doi.org/10.1007/s40264-020-00999-0. Accessed 4 Nov 2020.

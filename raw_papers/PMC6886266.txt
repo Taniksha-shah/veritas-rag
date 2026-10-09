@@ -1,0 +1,415 @@
+The 3rd European Pharmacovigilance Congress: speaker abstracts
+
+Marco Sardella
+
+Chief Pharmacovigilance Officer and EU QPPV ADIENNE Pharma and Biotech Chairperson and Scientific board for EU PV Congress
+
+Lucia Costanzo
+
+Senior Conference Manager PEC and Responsible Person for EUPV Congress
+
+Introduction
+
+The development of pharmacovigilance legislation was based on the observation that too many cases of death from ‘noxious and unintended’ responses to medicines had been reported worldwide (in the EU alone there are around 197,000 cases a year).1
+
+It is now clear that through the adequate surveillance of the benefit/risk profile of medicinal products, and through the implementation of measures aimed at improving the correct use of drugs, complications can be managed and their occurrence reduced.
+
+All these aspects have thus led legislators to revise the pharmacovigilance legislation wherever possible, with the involvement of a wide range of stakeholders including competent authorities, pharmaceutical companies/organizations as well as patients and healthcare professionals to ensure its effective implementation. Through experience gained over time, technical and scientific progress, the need for common standards within several regional/local differences and political developments must be taken into account by legislators when reviewing pharmacovigilance requirements. Indeed, keeping up with these continuously evolving scenarios can be quite challenging.
+
+The third edition of the European Pharmacovigilance Congress, organized by the Pharma Education Center, took place in Milan (Italy) on 28–29 November 2019. The event provided a forum to address all these aspects through the shared experiences of a variety of experts, from marketing authorization holders to competent authorities, international pharmacovigilance organizations, and European patient expert organizations, from around the globe. The event was a successful opportunity for exchanges between different parties, as well as a chance to gain new insights from valuable experts to learn more about new requirements, discuss new emerging needs and the possible strategies and solutions to address them.
+
+This online supplement includes a collection of abstracts from some of the talks presented at the event. Key topics discussed during the congress included:
+
+pharmacovigilance inspections (current and future landscapes);
+
+signal management (including the use of the EudraVigilance Data Analysis System, EVDAS), risk management, and risk minimization;
+
+patient expert engagement (central role in pharmacovigilance for a better and safer use of medicinal products), patient support programs, and medical information;
+
+pharmacovigilance in clinical trials, in special populations (geriatrics versus pediatric, pregnancy, and breastfeeding), and in the frame of advanced therapies/rare diseases;
+
+pharmacovigilance systems (organization, data integrity, and quality)’
+
+updates from international pharmacovigilance organizations.
+
+The fourth edition of the European Pharmacovigilance Congress will be held in Milan, Italy, on 26–27 November 2020.
+
+Reference
+
+1. European Commission. Strengthening pharmacovigilance to reduce adverse effects of medicines. MEMO/08/782, 2008. Available at: https://ec.europa.eu/commission/presscorner/detail/en/MEMO_08_782
+
+Guerrina Barbara Testoni
+
+Chief Operation Officer in Dueali Consulting SRL, 43123 Parma, Italy
+
+Data integrity has always been an intrinsic aspect of the quality management system of a pharmaceutical company since, in a regulated area such as public health, all decisions that may affect patient safety and/or product quality are actually made on the basis of documented data and information.
+
+The issue of data integrity has recently assumed considerable importance in the context of pharmacovigilance.
+
+Year after year, pharmacovigilance departments had to invest more resources in order to meet the increasing regulatory demands, especially to manage and control data and information becoming more and more complex and coming from different sources (e.g. EudraVigilance, medical information, partners, HCPs, patients and National Health Institutes).
+
+As a consequence, the increasing data volume as well as increasing data complexity to be assessed and managed have forced many pharmaceutical companies to request consultancy services to external contract research organizations (CROs) in order to maintain adequate efficacy levels and, at the same time, not to increase the number of employees.
+
+At the same time the continuous updating needed for the computerized systems to be harmonized to the regulation requirements has led companies to prefer solutions accessible on cloud platforms and managed by the supplier rather than those installed on-premises inside the company.
+
+The commitment of the pharmacovigilance staff is fundamental in this articulated scenario to guarantee the integrity of these data used with various information systems both to manage the operational processes and to exchange information with the authorities or the various actors involved.
+
+The speech during the Congress aims at promoting an approach able to ensure the adoption of adequate measures to guarantee data integrity and, at the same time, able to define operational processes, focusing both on compliance aspects and on efficiency and cost reduction in the management of adverse events and periodic surveillance reports. Through the recent approach of ‘validation for intended purpose’, it is possible to interpret the criteria of data integrity to evaluate and improve the operational data management processes, in paper and/or electronic format. The risk assessment of the whole data lifecycle helps to identify both the adequate controls, executed by the system or manually by an operator, and the basic elements for drafting accurate standard operating procedures that allow the process compliance with the applicable regulations and with the data integrity principles to be guaranteed.
+
+During the risk analysis, even if the main purpose is to guarantee the accuracy and consistency of the data generated during the process, it is fundamental to ensure the absence of any alteration that might occur, for example, during data writing and/or reading: this activity remains in the charge of the individual.
+
+The information systems will always be more efficient, the degree of automation of the processes will always be higher, but the risk of data manipulation will always remain latent: it can never be nullified. The first real means to safeguard the integrity of the data will always remain the culture of data integrity, through the definition of a data governance policy/guideline, the adoption of a robust ‘data management system’ and the teaching to all the hierarchical levels of the deepest meaning, less doctrinal but of paramount importance, of data integrity.
+
+Calin Lungu
+
+Chief Executive Officer, Drug Development Consulting Services S.A. (DDCS), L-8399 Windhof, Luxembourg
+
+The new EudraVigilance (EV) system and the EudraVigilance Data Analysis System (EVDAS) have been in use in the European Economic Area (EEA) since 22 November 2017, the date when the direct reporting to EV and EV Data Access Policy were implemented.
+
+On 22 February 2018, a pilot phase was initiated for marketing authorization holders (MAHs) with products containing substances under additional monitoring with respect to the use of EVDAS in signal detection. Currently, this pilot phase has been extended.
+
+These new activities created new challenges for MAHs, sometimes increasing the need for additional resources.
+
+The level 2A/2B download of individual case safety reports (ICSRs), their triage, analysis, and, in some cases, further reporting to regulators outside of the EEA has created additional work and, in several cases, resulted in creation of duplicate reports in EV. The download process of exclusively ICH E2B(R3) has added a level of complexity for MAHs still using an ICH E2B(R2) safety database.
+
+There are large numbers of downloaded ICSRs for some MAHs, with the increase also due to the nonserious EEA ICSRs and nonhealthcare professional reported cases as well as to the algorithm by which the ICSRs are made available for download, for example, by active substance. In addition, the downloaded cases are resubmitted to EV by some MAHs, against instructions not to do so from the European Medicines Agency (EMA) and national competent authorities (NCAs).
+
+In addition to the ICSR triage activities for MAHs, there is the issue of reporting ICSRs to regulators outside of the EEA. The lack of international harmonization in this respect can lead to duplicate reporting outside of the EEA, with the real risk of generating false safety signals. In addition, the notion of day 0 for expedited reporting outside of the EEA is still a challenge, as there is no official definition for it for several reasons, for example, EMA’s mandate not allowing legislation with respect to expedited reporting outside of the EEA, the non-EEA regulators being unfamiliar with the specifics of ICSR downloads in the EEA, and thus not providing guidance to MAHs as to both day 0 in their respective territories and to the obligation or not to report download ICSRs from EV.
+
+Other challenges faced by MAHs are the identification of false safety signals resulting from duplicate ICSRs submitted to EV. These duplicates are to be communicated to the EMA via the service desk by MAHs, contributing to the improvement of the EV database contents.
+
+Since 26 July 2018, a new EMA Unique Account has been implemented for all users of the EMA systems. Changes also occurred in the process for EV registration.
+
+In preparation of the implementation of the ISO identification of medicinal products standards (IDMP), the Substance, Product, Organisation and Referential Management Service (SPOR) has been launched by the EMA. New organizations (MAHs, sponsors of clinical trials) will have to pre-register in SPOR before they can complete their EV registration.
+
+In June 2018 the EMA published an EV Operational Plan – Milestones 2018 to 2020, which details the activities in this area. Due to the challenges generated by its relocation to Amsterdam, the EMA has delayed some of the originally planned timelines.
+
+The presentation at the European Pharmacovigilance Congress in Milan on 28–29 November 2019 will address these aspects, their consequence for MAHs and NCAs as well as it will discuss solutions to these challenges.
+
+Alessandra Traversa
+
+PV Manager, Netherlands
+
+The Reference Safety Information (RSI) is a key document for conducting pharmacovigilance in clinical trials and the publication of the Q&A document on RSI was one of the most defining moments for pharmacovigilance in drug development. The Q&A document adds clarity on some aspects of the RSI such as content, timing for update, approval, and implementation, but it also generates more questions and calls for additional clarifications.
+
+For a noncommercial sponsor, the Q&A document represents a significant regulatory challenge as in most cases they are not the owners of the RSI as a commercial partner often authors them. These sponsors sit between the competent authorities and the commercial partners, suffering the stringent review of the clinical trial assessors and the authors’ delay in addressing the regulatory feedback, but with limited power to promote changes. In addition, the Q&A document is mostly written for commercial sponsors, therefore the process for noncommercial sponsors is sometimes unclear. A couple of examples of this are as follows.
+
+Fatal events: the Q&A document explains that an investigational drug should not have a fatal outcome. However, it clarifies later that the RSI may include fatal reactions if they are already listed in the summary of product characteristics (SmPC) for the product. It is unclear how this would work in practice for a noncommercial sponsor, for example, whether they are expected to check fatal events in the SmPC or whether the commercial sponsor and the competent authorities ensure that the two documents are aligned and the synchronization is maintained for each update. As this comparison falls outside the remit of contractual agreements in clinical trials, a noncommercial sponsor should be able to use the RSI within the IB without additional checks.
+
+RSI for trials with combinations of IMPs: noncommercial sponsors often use very old drugs in new combinations. According to the Q&A document, the sponsor can create an IB for the new combination if data can be drawn from a ‘similar combination in previous trials’. However, whilst side effects are well-documented in the individual SmPCs, in case of a new cocktail of these drugs, it is unlikely that robust safety data are available in the literature as this is the purpose of conducting the clinical trial. As these drugs will be given together to the patient, it will be impossible to carry out differential causality assessment for each individual treatment, so the whole combination will be held responsible for the serious reaction. However, the serious reaction may be expected for only one of the drugs in the cocktail. As a consequence, the SmPCs for the individual drugs will be inadequate for expectedness assessment as well-known events for one drug will still trigger expedited reporting for the combination. Nonetheless, despite acknowledging the problem, the Q&A document offers no solution to the issue.
+
+In summary, noncommercial sponsors face unique challenges in implementing the Q&A guidance on RSI. There are consequences of its role in the clinical trial arena as well as lack of clarity and detail for noncommercial sponsors in the Q&A document. Additional detail and guidance for noncommercial sponsors are therefore needed.
+
+Doris I. Stenver
+
+pharmacovigilance adviser, founder of the consultancy Unique Advice, former member of PRAC, Unique Advice, Copenhagen, Denmark
+
+The EU Pharmacovigilance Risk Assessment Committee (PRAC) was established in 2012, and members are appointed by the member states and the European Commission. The mandate of the PRAC covers a wide range of procedures, including procedures aiming at prospective risk management, and procedures aiming at resolving concerns over the safety or benefit–risk balance of a medicine or class of medicines, the so-called referrals.
+
+The concept of prospective risk management was introduced in the EU with the risk management plans in 2005. The aim of the risk management plan is to document that the marketing authorization holder has a risk management system in place, with the purpose of identifying, characterizing, and minimizing the risks. The overarching aim of risk management is to ensure that the benefits of a particular medicinal product exceed the risks by the greatest achievable margin.
+
+The evaluation of the different parts of the risk management plan is as a shared responsibility of two committees: the safety specification, which lists the status regarding important identified risks, the important potential risks and missing information, is the mandate of the Committee for Human Medicinal Products (CHMP); the pharmacovigilance plan and the risk minimization plan are the mandate of the PRAC. The pharmacovigilance plan describes the planned or ongoing activities aiming at identifying, characterizing, and quantifying clinically relevant risks. The risk minimization plan provides an overview with regard to the planning and implementation of risk minimization measures. It also includes information on how evaluation of the effectiveness of these measures will be performed.
+
+Failure to effectively minimize the risk of a medicinal product can have serious and even fatal consequences. One such example is the fatal dosing error observed with methotrexate when used for inflammatory diseases. This safety concern triggered a referral procedure, which recently was finalized with recommendations of new risk minimization measures.
+
+The methotrexate example underlines that it is important to ensure that the various risk minimization measures adequately meet the needs, and that pharmacovigilance overall facilitates the safe use of medicines and protect the patients. In cooperation with relevant stakeholders PRAC has therefore developed a new conceptual and strategic approach for measuring the impact of pharmacovigilance. The PRAC strategy outlines four key areas for measuring impact: (I) effectiveness of risk minimization activities; (II) effectiveness of specific pharmacovigilance processes; (III) enablers of effective pharmacovigilance and stakeholder engagement; (IV) identification and development of analytical methods.
+
+Safety-related referrals are assessed by PRAC and finalized by either CHMP or the Co-ordination group for Mutual recognition or Decentralised procedures (CMD). The first step in a referral procedure is the submission of a notification to the European Medicines Agency (EMA) by either the regulatory authority in a member state or by the European Commission. The notification explains the rationale for triggering the referral and is published together with the list of questions to be addressed by the marketing authorization holder(s). Examples of referral procedures assessed by PRAC are presented.
+
+Doris I. Stenver
+
+Pharmacovigilance adviser, founder of the consultancy Unique Advice, former member of PRAC, Unique Advice, Copenhagen, Denmark
+
+Patients are involved to an increasing extent throughout the entire lifecycle of medicinal products. Patients advise on protocol development, on compliance, and on prioritization issues. In drug safety surveillance, patients contribute as committee members, ad hoc advisers, and by reporting adverse drug reactions. This is in sharp contrast to the 20th century pharmacovigilance environment, which only included healthcare professionals.
+
+One of the European Commission’s key arguments for implementing new EU pharmacovigilance legislation in 2012 was that societies and expectations of citizens were changing, and that there was a need to consider the appropriate level of involvement of different stakeholders. Involvement and transparency are considered important factors to ensure that the pharmacovigilance system is sufficiently robust. By engaging with each other regulators and patients gain new insights. Regulators regarding clinical practice and healthcare infrastructure. Patients regarding how drug safety surveillance is performed and how they themselves can contribute, being first-line observers of adverse drug reactions.
+
+The EU Pharmacovigilance Risk Assessment Committee (PRAC) established in 2012 works in a highly transparent and involving/engaging manner. Agendas, minutes, and recommendations are made available to the public. PRAC has amongst its members two patient representatives. On an ad hoc basis, PRAC liaises with relevant patient organizations on, for example, need for and content of communication and information on safety topics evaluated by PRAC. Several patient engagement tools were implemented in 2012, for example, direct patient reporting of adverse drug reactions, public hearings, and additional monitoring.
+
+Direct patient reporting of adverse drug reactions from patients to authorities were introduced in 2012, and this source of information has become a significant contribution to the management of new signals by PRAC. PRAC is mandated to organize public hearings, where patients can participate either in person or via the internet. Patients can thereby directly inform PRAC about their experiences with the usage of a particular medicine, its adverse effects, and, most importantly, their view with regard to how risks can by further minimized. PRAC can also seek information from patients via surveys, for example, ask patients about how they prefer to be informed about risks. Additional monitoring, the system by which all new products introduced on the market are designated by a black triangle, to highlight to patients (and healthcare professionals) that the product is under enhanced surveillance, was also introduced in 2012. There are two objectives with the additional monitoring system. In addition to being an incentive to the industry stakeholder to provide better data, it is an objective to create awareness amongst patients and as a consequence stimulate reporting of adverse drug reactions.
+
+In conclusion, patient engagement today is implemented throughout the entire life cycle, including in pharmacovigilance, and patient engagement is of key importance to PRAC. In contrast to the practice in the early days of pharmacovigilance, patients have become empowered and capable of influencing regulatory decisions.
+
+Fabio De Gregorio
+
+Vice President, Head of Drug Safety Europe, Shionogi Europe, London, WC2B 6UF, GB
+
+The current European pharmacovigilance legislation defines signal and risk management as ‘a set of pharmacovigilance activities and interventions designed to identify, characterise, prevent or minimise risks relating to a medicinal product, including the assessment of the effectiveness of those interventions’.1 These provisions of the pharmacovigilance legislations have been implemented in the relevant modules of Good Pharmacovigilance Practice (GVP),2 which further clarify that signal management should ‘determine whether, based on an examination of individual case safety reports (ICSRs), aggregated data from active surveillance systems or studies, scientific literature information or other data sources, there are new risks associated with an active substance or a medicinal product or whether known risks have changed, as well as any related recommendations, decisions, communications and tracking’.
+
+Marketing authorization holders (MAHs) have several ways to implement these requirements, on condition that the following activities and responsibilities are duly and timely fulfilled:
+
+continuous monitoring of the safety of their medicinal products (and inform the authorities of any new information that might have an impact on the marketing authorization);3
+
+continuous monitoring of the EudraVigilance (EV) database;4
+
+conducting signal detection through multiple sources (not limiting this exercise to the company’s safety database);5
+
+collaborating with the PRAC (for the assessment of the signals) by providing the additional information requested;6
+
+keeping their product information up to date.7
+
+The basic and classical approach to signal detection is conducting a critical qualitative review of all case reports entered into the company safety database. This approach becomes too convolute and no longer sustainable when the number of safety reports is too elevated. Hence, a comprehensive approach based on a combination of qualitative and quantitative methods is necessary to deal with high reporting volumes and maintain a seamless integration of multiple data sources.8,9
+
+The comprehensive approach must ensure flexibility and cost efficiency and, ideally, it should be powered by artificial intelligence and automated signal management applications. However, implementation of these tools can be expensive and not always entirely justified. When considerations on the life cycle of the product, the therapeutic area, the population exposed, and the known toxicology of the product do not warrant their use, the MAH can still improve their process with the following simple actions.
+
+Implementing simple quantitative metrics,10 for instance, calculating the ‘reporting rate’ (not the ‘proportionate reporting rate’). This simple value can help identify changes in frequency of reporting of a drug–event combination (DEC), which can generate a signal.
+
+Irrespective of whether the product is included or not in the list of active substances involved in the pilot phase on signal detection in EV, starting using the electronic Reaction Monitoring Report (eRMR) downloaded from EVDAS in a more extensive way, not limited to capturing information on signals of disproportionate reporting (SDRs), but aimed at also analyzing DECs not flagged as SDRs.
+
+Setting rules to define when a quantitative measure of a DEC should represent a signal and trigger actions to validate or refute it.
+
+Improving the qualitative review of individual case safety reports, harmonizing the approach undertaken by different safety physicians, and implementing methods and processes to reduce subjectivity. Then, setting rules to define when a DEC observed with qualitative methods should represent a signal and trigger actions to validate or refute it.
+
+Implementing ‘designated medical events’ and ‘product specific targeted medical events’ lists.
+
+Finally, the current legislation stipulates that there should be a record management system in place that allows the ‘traceability of the measures taken to investigate safety concerns, of the timelines for those investigations and of decisions on safety concerns, including their date and the decision-making process’.11 Therefore, a MAH is responsible for implementing a robust tracking system for signal management that allows proper audit trails and satisfies PV inspectors. Alongside a signal tracker, it may be useful to develop a form to record decisions and rationale applied during signal validation. This activity must be separated from that necessary to evaluate a signal (signal evaluation), the process by which the MAH verifies whether a validated signal represents a new risk or changes the characterization of a known risk.
+
+To conclude, there are many difficulties to overtake to carry out signal management correctly. One of the main hurdles is that the current terminology used by the different stakeholders is uncertain and often contradictory.12 An effort to use a common terminology should be made at all levels. Another is in the necessity to adopt a product-specific approach and not a generalized one. The golden rule to apply is that ‘there is not one size that fits all’: an effective and efficient signal detection strategy must be developed considering the therapeutic area, the known toxicology of the product, its exposure, and its life cycle. Modern data mining software, integrated with computer learning applications based on artificial neural networks, able to utilize big data from multiple sources, will be the future of this science and, even now, they can already dramatically improve the efficiency of signal management. However, they are not affordable to every company: their implementation should be proportionate to the complexity of signal detection activities, which are dictated by the level of exposure, the number of reports to analyze periodically and the benefit/risk profile associated with each single product. Nevertheless, an efficient and legally compliant signal detection system can also be successfully and elegantly carried out with limited resources.
+
+References
+
+1. DIR 2001/83/EC Art 1(28b), reinforced by IR 520/2012.
+
+2. GVP Module IX.
+
+3. DIR Art 23(2), REG Art 16(2).
+
+4. IR Art 18.
+
+5. GVP module IX.
+
+6. DIR Art 23(4) and REG Art 16(3a).
+
+7. IR Art 11(1)(f), DIR Art 23(3), REG Art 16(3).
+
+8. GVP module IX – Addendum.
+
+9. Screening for adverse reactions in EudraVigilance, EMA/849944/2016
+
+10. Practical Aspects of Signal Detection in Pharmacovigilance. Report of CIOMS Working Group VIII, 2010.
+
+11. IR Art 12(1).
+
+12. SCOPE Work Package 5 Signal Management – Best Practice Guide, June 2016.
+
+Giovanni Furlan
+
+Safety Risk Lead, Director, Pfizer Italia SRL, 20152 Milano, Italy
+
+The effect of the intake of a medicinal product in elderly patients is different that of the general adult population owing to a number of factors such as the different pharmacokinetics and pharmacodynamics (exaggerated response to some drugs and decreased to others), the greater prevalence of multiple of comorbidities, the increased number of concomitant medications causing an increased risk of adverse reactions caused by interactions. In addition, older patients suffer from geriatric conditions (such as delirium, falls, urinary incontinence) that can increase the risk of adverse reactions and that can worsen adverse reactions. Studies have shown that in the elderly polypharmacy is associated with poor medication adherence that increases the risk of admissions, worsening of disease, and death.
+
+One of the reasons of nonadherence can be attributed to the different expectations elderly patients have from drug intake as compared with younger adults. In fact, elderly patients suffering from multiple pathologies, with reduced physiological reserves and short life expectations (i.e. the frailest) tend to be more focused on the quality of life, maintenance of functional independence, and absence of severe adverse reactions, rather than increased survival. However, treatment guidelines are based on the results of studies that underrepresent the population more frequently affected by a certain pathology (the elderly) and among them the frail older patients are even more underrepresented. This results in drugs being administered based on the results of a patient population with different treatment expectations and drug response.
+
+It is time to change this paradigm by removing the barriers to the enrolment of older and frailer patients in clinical trials. These should not have exclusion criteria (such as comorbidities, polypharmacy, or organ impairment) that rule out the enrolment of older and frailer patients, while they should facilitate the participation of these subjects by implementing strategies such as providing transportation to the trial center (for physically impaired patients), remotely collecting data, performing home visits, and increasing the time for face-to-face communication (for patients with sensory loss or cognitive decline). Elderly frail patients should be enrolled starting from phase I studies so that the efficacy and toxicity of a medicinal product can be understood early in drug development and the fear of adverse reactions or the lack of clarity of how they could benefit from an investigational medicinal product is not an obstacle for their enrolment in subsequent phase studies. To reduce the risk of toxicity in phase I studies, the strategies that can be applied include ‘start low and go slow’ or gradually increasing the number of allowed comorbidities and functional dependences for a certain dose.
+
+Separate benefit–risk assessments for elderly frail patients should be considered if the pharmacological effects, adverse reaction profile, and benefit expectations are different from the general population. In post-marketing pharmacovigilance, the number of concomitant medications and/or comorbidities could be used as a proxy to identify elderly frail patients and perform separate signal detection in this patient population that can be different not only from the general population, but also from fit elderly patients.
+
+Glyn Belcher
+
+PV Consultancy Ltd, London, UK
+
+The aim of risk management planning as described in European risk management plans is to optimize the benefit–risk profile of a medicine. For risks of medicines, this is achieved through activities designed to define further the important known and potential risks associated with use of a medicine and relevant exercises used to minimize these risks as far as possible.
+
+Risk minimization activities can be divided into routine risk minimization, which uses the prescribing information to prescribers [summary of product characteristics (SmPC)] and patients [patient information leaflet (PIL)] to inform and direct how best to avoid or reduce known risks, and additional risk minimization, which includes activities above and beyond the provision of the SmPC and PIL as are deemed necessary. These latter are varied in nature but, in the EU, usually involve specific healthcare professional and patient education, which also include Dear Healthcare Professional letters approved by regulatory agencies. Other possible additional risk minimization can comprise, for example, specific packaging and package sizes as well as limitations on the distribution of medicines through controlled access only to individually certified physicians and patients in named treatment centers.
+
+It is important to understand whether risk minimization is effective in reducing risk. In the EU, approaches to determine the effectiveness of risk minimization are described in the Good Pharmacovigilance Practice (GVP) guidelines modules V and XVI. For routine risk minimization, effectiveness is usually measured through regular signal detection methods and reviews in periodic safety reports. For additional risk minimization, GVP module XVI divides effectiveness measurement into two categories; process indicators and outcome indicators. Process indicators include measurement of effectiveness of distribution of materials as well as evidence of understanding of the materials by recipients. Distribution of materials can be documented by careful maintenance of records of receipt of materials. Understanding of materials is often demonstrated using market research methodologies such as surveys of prescribers and patients. Data on outcome indicators that require demonstration of reduction of risk can be more challenging to obtain. When new additional risk minimization is added to minimization activities for a medicine already on the market, frequencies of reporting of the occurrence of risk before and after can be generated. However, if additional risk minimization is included at the time of first marketing the absence of any comparator data can make proof of effectiveness difficult. It is sometimes possible to compare frequencies of reports of events with background rates or compare frequencies of events in territories with and without additional risk minimization, but understanding of the healthcare systems in different territories can make interpretation difficult. The most appropriate methodologies have not yet been defined and may differ for different medicines and the different additional risk minimizations associated with their approval.
+
+Glyn Belcher
+
+PV Consultancy Ltd, London, UK
+
+The safety profiles of medicines at the time of marketing approval are always preliminary because of the limited patient numbers included in trials, limited durations of therapy, and the special nature of the ‘clinical trial’ population treated. The safety profiles of medicines for rare diseases are usually more constrained because of the few data available from an even smaller numbers of patients, often no more than a few hundred patients or in some cases only less than a hundred patients. For medicines for more common diseases, large amounts of data can be obtained from exposure to medicines on the market through spontaneous reporting of suspect ADRs and formal post-marketing studies, thus allowing the safety profile to be further confirmed. However, for medicines used for rare diseases, even market exposure may be relatively small, making conclusions concerning the safety of such medicines difficult.
+
+By using all sources of data for rare disease drugs in the development phase, including both preclinical and clinical data as well as relevant epidemiological and drug class data, and by carefully assessing these data at regular intervals, the most informed safety profile can be obtained. This should allow better oversight of available data and, equally important, a clear view of data that are not available at any given time point. This can facilitate the planning of strategies to obtain data through appropriate post-marketing risk management.
+
+Although it is not always easy, there are possibilities to increase the speed by which data in the post-marketing period can be generated by collection of data during continuation of treatment over the long term in patients treated for shorter periods in formal clinical trials and by early planning of drug or disease registries. The operation of registries can often be leveraged using the power of both disease patient support groups, which are often well established, and the existing networks which coordinate international research, specifically in rare diseases. Cooperation between different pharmaceutical companies, marketing different products for the same disease, in the management of disease registries is encouraged by regulators, albeit market competition between companies can hinder this. In the future, approaches using personal medical monitoring data tools and ‘big data’ to further facilitate the availability of information and to determine the effectiveness and safety profiles of drugs used for rare diseases may become more readily available and thus allow the benefit/risk of these drugs to be optimized.
+
+Ilaria Grisoni
+
+Senior Director, EEA QPPV, Jazz Pharmaceuticals, 22079 Villa Guardia (CO), Italy
+
+Within the very dynamic international pharmacovigilance (PV) context, the role of the European Union (EU) Qualified Person for Pharmacovigilance (QPPV) is evolving into a new challenging perspective, expanding its scope outside of the EU and reaching out to other territories. In fact, there are more and more countries worldwide that are taking inspiration from, and sometimes even mirroring, the EU PV requirements in many aspects, including the role and responsibilities of the QPPV, and the need for a Pharmacovigilance System Master File (PSMF) or equivalent document.
+
+In this scenario, the EU QPPV is the most knowledgeable and experienced person within a pharmaceutical company who can actively support the global business expansion plans from a PV perspective, by coordinating and monitoring all necessary PV activities even in non-EU territories.
+
+The evolving role of the EU QPPV actually requires the QPPV to look far beyond the burden of EU to become an expert of other countries’ PV requirements, mastering local PV regulations through a robust regulatory intelligence infrastructure, negotiating PV agreements, preparing and maintaining adequate documentation, ensuring the oversight of the very fluid PV system of the company.
+
+Taking advantage of their solid background in EU PV regulations, which are acknowledged to be the most stringent and comprehensive worldwide for PV matters, the EU QPPV is now requested to develop into an ‘international’ role concerning coordination of all local QPPVs network, and global oversight of interconnected PV systems operating in different territories worldwide, but synchronized in their maintenance processes under the leadership of the Office of QPPV infrastructure.
+
+This is just the beginning of the journey, as many political and geographical challenges (e.g. Brexit) are now accelerating an already ongoing process, which will lead the EU QPPV to face many different challenges and turn them into development opportunities.
+
+Jose Alberto Ayala Ortiz
+
+PVpharm CEO, EU QPPV, EudraVigilance EVWeb-XEVMPD Trainer, PV Consultant, LCPPV Services Spain, GVP Audit, PVpharm S.L., Almeria, Spain
+
+This presentation describes the responsibilities of the sponsor of clinical trials in the European Economic Area in line with the European legislation. The author is summarizing the legal background within the scope of clinical trials in the EU. Then the main elements under the sponsor responsibility are described, including the safety management plan, the investigator brochure, the study protocol, SUSAR reporting, annual safety reports or DSUR, and the provision of information of the development medicinal product to the XEVMPD.
+
+The author concludes that it is necessary to document and align sponsor processes with the European legislation in order to reach a study outcome in compliance with the regulations.
+
+Laura Paola Boga
+
+Qualified Person for Pharmacovigilance, Dompé farmaceutici S.p.A., Milan, Italy
+
+In order to support the implementation of the European pharmacovigilance legislation, in force since July 2012, the European Medicines Agency (EMA) published a set of guidelines for the conduct of pharmacovigilance in the European Union (EU), replacing the previous set in Volume 9A of the Rules Governing Medicinal Products in the EU.
+
+Good pharmacovigilance practices (GVP) guidelines are organized into two types of chapters, namely modules on pharmacovigilance processes and product- or population-specific considerations.
+
+Chapters on product- or population-specific considerations are available for vaccines, biological medicinal products, and the paediatric population. Two more considerations chapters are planned, respectively referring to pregnancy and breast-feeding and to the geriatric population.
+
+Considering that pediatric clinical trials are often limited in size and duration and that the frequency, nature, severity, and presentation of adverse reactions in children may substantially differ from those occurring in adults, there is a recognized concern and need of a dedicated approach to pharmacovigilance in children. In November 2018, the European Medicines Agency (EMA) published the new GVP Chapter IV on ‘Specific Considerations for the Paediatric Population’, covering approved medicines with a paediatric indication or with an ongoing paediatric development, and medicines only approved for adults, when they are used off-label to treat children, that is, for a medical purpose not in accordance with the terms of the marketing authorization.
+
+This new Guidance replaces the previous Guideline on the Conduct of Pharmacovigilance for Medicines Used in the Paediatric Population (EMEA/CHMP/PhVWP/235910/2005 rev 1), which came into effect in 2007, with the implementation of the Paediatric Regulation (Regulation (EC) No. 1901/2006 of the European Parliament and of the Council). Since 2007 and moreover since 2012, changes in the scientific and regulatory environments significantly affected the conduct of pharmacovigilance in the paediatric population. The 2012 legislation extended the definition of adverse reaction (adverse reactions may arise from use of the product within or outside the terms of the marketing authorization or from occupational exposure). Use outside the marketing authorization includes off-label use, overdose, misuse, abuse and medication errors, which are all important aspects related to the pattern of utilization of medicines in the paediatric population. Consequently to these changes, the previous guideline needed to be updated.
+
+The guidance considers significant topics, such as off-label use and medication errors, and contains specific guidance on all major pharmacovigilance tools and processes, including adverse drug reactions collection, risk management plans, periodic safety update reports, post-authorization safety studies, signal management and safety communication.
+
+To note, this guidance, as a GVP Considerations Chapter, aims at integrating paediatric pharmacovigilance within the structures and processes for pharmacovigilance overall and shall therefore be applied in conjunction with the GVP Modules I to XVI. The paediatric guidance does not replace the GVP modules or introduce regulatory requirements in addition to those already covered in existing modules.
+
+Margherita D’Antuono
+
+Corporate Pharmacovigilance Director, and EU QPPV, Italfarmaco S.p.A., 20126 Milan, Italy
+
+Drug intake during pregnancy or breastfeeding cannot be avoided because some women enter pregnancy with pre-existing medical condition or develop new medical problems that require a therapeutic treatment. However, it is important to consider the risks and benefits of drug therapy to both mother and foetus. The decision to treat relies on a number of factors, including the safety profile of the drug, the severity of the symptom and the potential for quality-of-life improvement.
+
+From a pharmaceutical company perspective, pregnant or breastfeeding women are mostly excluded from clinical trials during drug development, unless the drug is specifically intended for use in pregnancy. Thus, the only data available are those from preclinical studies.
+
+Therefore, often little is known about the risk of harm for pregnant women and their infants at the time of granting a marketing authorization for a drug, and this makes it challenging for prescribers and patients alike to decide about whether to use a medicine or not.
+
+For this reason, the European legal framework requires pharmaceutical companies to collect and manage as much as information on any possible medicinal product exposure to an embryo or foetus and to follow-up on the outcome of the pregnancy during the post-marketing phase.
+
+The most important safety data that need to be collected are: (1) reports of congenital anomalies or developmental delay, in the foetus or the child; (2) reports of foetal death and spontaneous abortion; and (3) reports of suspected adverse reactions in the neonate that are classified as serious.
+
+To comply with these requirements, pharmaceutical companies shall have in place a process to manage any abnormal outcome, in order to increase the knowledge of the use of the drug during pregnancy or breastfeeding and also to take an immediate action in case of an emerging safety signal arise, and thus protect patient safety.
+
+Nele Matthijs
+
+Federal Agency for Medicines and Health Products, Brussels, Belgium
+
+This abstract includes information on the pitfalls identified during pharmacovigilance (PV) inspections, focused on the differences observed between small- and medium-sized or big companies. In addition, the role of consultant in the PV system is explained as related to the possible and most common problems, observed when contractors perform important functions in the PV system.
+
+Since the PV legislation has been more detailed since 2012 with development of the Good pharmacovigilance practices (GVP) guidelines, the interpretation and application of the requirements might be different depending on the size or structure of the company. In addition, the number of drugs has an effect on how legislation is implemented in a company, with different pitfalls or problems observed depending on the type of structure a company has incorporated. In a system where contractors are involved, contract and PV agreements are very important factors related to deficiencies in PV inspections. For small marketing authorization holders, the difficulty is more apparent in the incorporation of specific expertise for each PV obligation, whereas big companies seem to have trouble with internal communication.
+
+The goal of PHV inspections is to ensure that marketing authorization holders have a PV system in accordance with the current legislation and a qualified person in PV and to evaluate the effectiveness of department(s) and/or system(s) involved in the tasks of PV.
+
+Deficiencies in PV are classified into three categories. In the case of noncompliance with legal obligations concerning PHV, FAMHP currently considers various actions:
+
+education and recommendations to the marketing authorization holder to improve its system of PV, its practices or processes and introduction of an action plan;
+
+formal warning reminding the legal obligations of PHV;
+
+administrative fines;
+
+urgent actions (suspension or cancellation of registration of the QPPV on the list, amendments to the summary of product characteristics, withdrawal, suspension of the marketing authorization, recall, etc.).
+
+This presentation will summarize the pitfalls and deficiencies observed in the different types of companies related to all domains that are important for PV. These domains include EudraVigilance/adverse drug reaction reporting, electronic databases, database system validation, safety monitoring, signal detection, PSURs, risk-management, contracts.
+
+Paola Kruger
+
+Patient Expert, EUPATI, 00149 Roma, Italy
+
+With an increasing number of drugs being approved on shorter trials that involve fewer patients, obtaining accurate reports of adverse events and side effects after approval is increasingly important. EU pharmacovigilance legislation passed in 2012 requires all national centres in Europe to have a system that can receive reports directly from patients in each country across the EU and evidence shows that the number of reports submitted directly by European patients and consumers through the national competent authorities (NCAs) and marketing authorization holders (MAHs) increased by 91% in 2018 (Source: EMA, QPPV Update, August 2019).
+
+Moreover, a study conducted in the UK, which evaluated the effect of patients’ reporting on signal generation, demonstrated that combining patients’ reports with healthcare providers’ reports resulted in the generation of 47 new signals for serious adverse drug reactions (ADRs).1
+
+Patient reporting without the influence of a healthcare professional is important, as doctors underestimate certain side effects and overestimate others in terms of importance or relevance to a patient; for example, doctors will often dismiss fatigue, whereas for the patient it is a symptom that impacts considerably on quality of life. Even when side effects are reported, there are differences in how doctors and patients report them. Patients’ reports are more focused on the subjective impact of the adverse event, whereas reports from health professionals include a lot of clinical information, but less on the experience of the patient.
+
+The value of patients’ direct reports can be summarized as follows.
+
+They give more and better context than indirect reports from professionals.
+
+They commonly describe the impact on people’s lives, which clinicians rarely note.
+
+Indirect and direct reports complement each other, generating multicultural knowledge.
+
+Knowledge of ADRs and their importance accumulates faster.
+
+Patients become active participants in their care.
+
+Patients learn how to manage their medicines and to communicate better with professionals.
+
+The best way to encourage direct patient reporting in pharmacovigilance is to listen to patients’ suggestions and work on better ways to engage them in the whole process.
+
+Reference
+
+1. Avery AJ, Anderson C, Bond CM, Fortnum H, Gifford A, Hannaford PC, Hazell L, Krska J, Lee AJ, McLernon DJ, Murphy E, Shakir S and Watson MC. Evaluation of patient reporting of adverse drug reactions to the UK “Yellow Card Scheme”: literature review, descriptive and qualitative analyses, and questionnaire surveys. Health Technol Assess 2011; 15: 20.
+
+Sarah Hall
+
+Mipsol Limited, High Wycombe, UK
+
+All pharmaceutical companies have a legal responsibility to capture, analyse and share safety information with healthcare professionals, patients and their carers to enable medicines to be used appropriately and as safely as possible. The pharmacovigilance (PV) team has the overall responsibility for this, but needs support from all functions. The medical information team is a particularly important partner. Here are some insights on ways that the medical information and PV teams can, and probably should, work together.
+
+Many people think that collecting safety information from callers is really easy. However, a PV report can be ‘hidden’ in a seemingly simple enquiry and often callers are in a hurry and just want an answer. It is quite a skill to capture safety information, particularly if your caller is angry or worried. The way calls are handled can be different depending on the therapy area and products used. It helps if your PV and medical information teams understand each other’s roles. Role shadowing is a good opportunity to develop this understanding and often results in proposals on ways to improve call handling techniques to capture more robust safety information.
+
+Regular reconciliation of all medical information enquiries not only ensures that all PV data are being collected, but also acts as an opportunity for learning. The PV team can learn about the use of a product in practice and the medical information team can learn additional questions that callers need to be asked so that no PV data are missed. In-depth therapy area and product training for both teams as well as shared meetings can also improve accurate identification of PV reports.
+
+Not only is your medical information team a pair of ‘eyes’ and ‘ears’ to the outside world, they are also a pair of ‘eyes’ and ‘ears’ within the company. They are often involved in brand team meetings, approval of promotional items, advisory boards, company and disease-specific website preparation and other company activities that PV may not be part of. If a medical information team are appropriately trained, you can rely on them to ensure relevant safety information is included where necessary and that they alert your PV team when required.
+
+Last, but not least, the medical information team is the ‘voice’ of the company. They need to be aware of all relevant PV information, including risk minimization materials, that need to be shared with healthcare professionals and patients using your products. This is another area where close working between the PV and medical information teams is needed to ensure these messages reach your customers.
+
+Implementing these changes should ensure a closer working relationship and better understanding between medical information and PV teams which ultimately helps protect the safety of your patients.
+
+Valentina Mancini
+
+Director of Pharmacovigilance, EU QPPV, Shionogi Europe, London, UK
+
+The current European pharmacovigilance (PV) legislation means to increase involvement of all stakeholders, by direct patient reporting of suspected adverse drug reactions (ADRs) and the inclusion of patients in the decision-making process.1
+
+The number of reports submitted by European patients and consumers almost doubled in 2018 compared with 2017 (this is partly explained by the launch of the new EudraVigilance system, in operation since 22 November 2017, that requires reporting of nonserious cases in addition to serious ones). Furthermore, the number of patients’ reports in 2018 were almost quintupled versus 2014. This is a significant expansion, which reflects patients’ commitment in reporting side effects, as a result of EU and Member States awareness initiatives.2
+
+There is an aspect that needs to be taken into consideration in the analysis of the impact of direct patient reporting. It is the role played by information originating from:
+
+organized data collection systems, such as patient support and disease management programmes, surveys (e.g. market researches) with collection of information on efficacy or patient compliance);3
+
+Digital media, such as websites under company management or responsibility or activities conducted by the company in any noncompany sponsored digital medium3 (for example, social listening activities).
+
+As for current European PV legislation, companies are required to collect and report information from the sources mentioned above. The legislation only provides guidance on general principles and this leads to the need to create and put in place processes and procedures, ensuring PV information collection and tracking. Processes should be tailored on specific company characteristics (type of products and type/volume of patients exposed, size of the company, prescription rules). Third parties are often involved (providers) and contractual arrangements need to be in place, in order to create binding rules for training, PV information collection, periodic reconciliation, right to audit and respect of timelines. For digital media, it is also very important that the frequency of screening for adverse events and the appropriate definition of the date of awareness (day 0 for reportable Individual Cases Safety Reports) is included in agreements with vendors. In addition, in case multichannel interactions are allowed, the type of communications to be considered and screened (email, posts, chatbots, audio and video files) should be defined. Vendors’ respect of agreed arrangements should be checked on an ongoing basis.
+
+Digital media can represent an important and ‘first hand’ source of PV information, especially for certain age groups of patients and disease types (e.g. young patients affected by a disease with an important impact on quality of life; embarrassing diseases or situations) where the internet can represent a ‘safe’ and ‘reassuring’ environment for patients’ information exchange on their health status.
+
+The main issues encountered in handling cases originated from digital media are:
+
+the identifiability of the reporter (quite often it is not possible to verify the existence of a real person, especially in multichannel interaction situations);
+
+possibility to conduct follow-up activity;
+
+data protection aspects;
+
+source document (how to create a source document from a video or from a chatbot);
+
+information reliability.
+
+The main issues faced when handling cases originated during patient support programmes and when conducting surveys are:
+
+obtaining follow-up information (especially in surveys/market researches);
+
+data protection issues (patient anonymity maintenance) and the disclosure of information that may compromise the objectivity of answers (e.g. disclosing the name of the company that is commissioning a survey).
+
+Patient support programs can be an excellent source of important information on product safety, since patients feel free to report any change to their health status, especially when interviews/contacts are conducted by healthcare professionals or caregivers (e.g. psychologists, nurses, dieticians, coaches) that are particularly close to patients and their disease.
+
+In conclusion, direct patient reporting has surely had a relevant impact on the volume of information collected and number of ICSRs reported to EudraVigilance. This positively affects the assessment activities (signal management, PSURs, risk management) due to the increased volume of available data. The new sources of reports allow the engagement of patients in sharing information on drug safety and facilitate the collection of adverse events and special situations. Patient reports often provide very useful information and details that support causality assessment (family history and other concomitant factors) and about the severity of the reactions. Many campaigns conducted by the health authorities in the EU have made patients better aware of the importance of reporting and made patients play the lead in this process. In several situations, the reliability of reporter and authenticity of information could be questionable and an effort should be made by companies and authorities to minimize this factor.
+
+References
+
+1. Directive 2010/84/EU of the European Parliament and of the Council. Official Journal of the European Union 2011;53 L348/74.
+
+2. EMA - Annual Report 2018 (published on 3 May 2019).
+
+3. GVP Module VI.
+
+Navalesi Giovanni, Rossi Alessia, Falorsi Giulia and Biagiotti Lucia
+
+Pharmaceutical Development and Services (PHARMAD&S), Florence, Italy
+
+Performing the periodic aggregate reviews of the safety data for the purpose of the signal detection should have a well-defined rationale based on well-defined risk factors, with the main weight of sources represented by the Company Global Safety Database.
+
+Keya Pitts
+
+Alnylam Pharmaceuticals, Cambridge, MA 02142, USA
+
+The function of drug safety and pharmacovigilance has evolved to prioritize the focus for manufacturers on benefit–risk management of pharmaceutical products, and to allocate medically and scientifically trained resources accordingly. With vendors and functional service providers increasingly becoming the standard for how manufacturers execute key responsibilities throughout the course of the pharmaceutical product development lifecycle, the oversight of such vendors and service providers has to be properly performed in a quality manner.
+
+The ability to integrate vendors and service providers into an organization’s quality system has to be thoughtfully coordinated, beginning with the contracting process, in determining how the services will be performed and effective governance structure to oversee the work. All relevant business functions should be involved in the process to ensure adequate assessment and evaluation of the vendors, in particular, how the sponsor or manufacturer will ensure quality oversight.
+
+Sponsors will contract with vendors for the expertise and experience that they have performing the investigation, and receive final deliverables produced in accordance with their internal quality management system. However, more often, sponsors elect to request the vendors to train on and to execute contracted tasks in accordance with the sponsor’s internal processes, creating a situation that requires an adjusted quality management strategy for auditing. Any vendor oversight strategy needs to consider the governing quality management strategy for the work as it is assessed for compliance with regulatory requirements and the contract established between the sponsor/manufacturer and the vendor or service provider, so that a sponsor can appropriately demonstrate to any inspectorate or health authority how effective oversight has been performed with their service providers.
+
+The delineation of operational responsibilities between sponsor/manufacturer and vendor/service provider must be documented and be clear to all parties, so that quality oversight can be properly demonstrated, with respect to active and passive quality control and quality assurance.

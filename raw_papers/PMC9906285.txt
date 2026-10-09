@@ -1,0 +1,857 @@
+Focus on pharmacogenomics, phytonutrient–drug interactions and COVID-19 vaccines: Perspectives on ADRs, ADEs, and SEDs
+
+Adverse drug events (ADEs), drug-induced toxicity and side effects are a significant concern. ADEs are known to pose significant morbidity, mortality, and cost burdens to society. ADEs are estimated to be the 4th leading cause of death in the United States—ahead of pulmonary disease (before the COVID-19 pandemic), diabetes, AIDS, pneumonia, accidents, and automobile deaths (USFDA-1) [S]. However, there is a lack of strong evidence to determine their precise impact. For example, FDA receives over 1 million adverse event and medication error reports annually which considerably helps in monitoring post-market surveillance data. However, FAERS data do not necessarily include all known safety information for a reported medication; therefore, all other pertinent information should be considered before making any drug-related treatment decisions (USFDA-2) [S].
+
+FAERS (FDA Adverse Event Reporting System) provides a web-based public dashboard for the practitioners, healthcare professionals and the public to look for the information reported to FDA by the pharmaceutical industry, healthcare providers and consumers. The primary intent of creating FAERS was to improve data access and establish transparency. However, caution is warranted before interpreting the data because the report on certain drugs or biologics may not reflect the cause of the ADEs by the concerned agents (USFDA-2) [S]. Other data constraints could be: (i) duplicate or incomplete reports; (ii) mere inclusion of a report does not pinpoint a causation; (iii) unverified information in the reports; (iv) reports not necessarily reflecting rates of incidences. In 2020 alone, over 1.1 million reports were received compared to over 2.19 million in 2019 and 2.15 million in 2018. In the 2020 total reports, over 591 000 reports were expedited and over 473 000 reports were non-expedited. Approximately 42 000 were direct reports (voluntarily submitted directly to FDA through the MedWatch program by consumers and healthcare professionals) (USFDA-3) [S]. In this regard: (i) expedited report connotes—at least one AE that is not currently described in the product labeling and for which the patient outcome is serious; (ii) non-expedited means—reports that do not meet the criteria for expedited reports, including cases that are reported as serious and expected, non-serious and unexpected, and non-serious and expected (USFDA-3) [S].
+
+The landmark 1999 Institute of Medicine (IOM) report, “To Err is Human” implicated adverse drug events in 7000 annual deaths at an estimated cost of $2 billion (USFDA-4) [S]. Similarly, a second landmark study from 1995 suggested that approximately 28% of ADEs were preventable through optimization of medication safety and distribution systems, provision and dissemination of timely patient and medication information, and staffing assignments (Leape et al., 1995) [R]. Subsequent investigations suggest these numbers are most likely conservative estimates of the morbidity and mortality impact of ADEs (James, 2013) [R]. This concern, however, has not been resolved as demonstrated in a 2015 report from the National Patient Safety Foundation, “Free from Harm: Accelerating Patient Safety Improvement Fifteen Years After To Err Is Human” (Natl. Saf. Found., 2015) [R]. The report found adverse drug events play a role in 50% of surgeries and that more than 700 000 outpatients annually are treated in emergency departments for a drug-induced adverse event and that 120 000 of these cases require hospitalization (Kang et al., 2022) [R, M].
+
+In 2001, the US Department of Health and Human Services estimated 770 000 people were injured or died each year in hospitals from ADEs, which cost up to $5.6 million each year per hospital excluding the other accessory costs (e.g., hospital admissions due to ADEs, malpractice and litigation costs, or the costs of injuries) (USDHHS, 2001) [S]. Nationally, hospitals spend $1.56–$5.6 billion each year, to treat patients who suffer ADEs during hospitalization (USDHHS, 2014) [S]. In response, the Department of Health and Human Services issued the National Action Plan for Adverse Drug Event Prevention (ADE Action Plan) in 2014 that identified the means to measure and prevent ADEs and describes future goals to improve patient safety (USDHHS, 2014) [S].
+
+A recent report suggested that ADEs and/or side effects of drugs occur in approximately 30% of hospitalized patients (Wang et al., 2015) [R]. The American Society of Health-System Pharmacists (ASHP) defines medication mishap as unexpected, undesirable, iatrogenic hazards or events where a medication was implicated (ASHP-advisory-1 [R]). These events can be broadly divided into two categories: (i) medication errors (i.e., preventable events that may cause or contain inappropriate use), (ii) adverse drug events (i.e., any injury, whether minor or significant, caused by a medication or lack thereof). Another significant ADE-generating category that can be added to the list is lack of incorporation of pre-existing condition(s) or pharmacogenetic factors. This work focuses on adverse drug events; however, it should be noted that adverse drug events may or may not occur secondary to a medication error (ASHP advisory 2030, 2020) [R, S].
+
+The lack of more up-to-date epidemiological data regarding the impact of ADEs is largely due to challenges with low adverse drug event reporting (Kang et al., 2022 [R]; Lemos et al., 2021 [R]). ASHP recommends that health systems implement adverse drug reaction (ADR) monitoring programs in order to (i) mitigate ADR risks for specific patients and expedite reporting to clinicians involved in care of patients who do experience ADRs and (ii) gather pharmacovigilance information that can be reported to pharmaceutical companies and regulatory bodies (ASHP-advisory-1; Lee et al., 2022 [R]). Factors that may increase the risk for ADEs include polypharmacy, multiple concomitant disease states, pediatric or geriatric status, female gender, genetic variance, and drug factors, such as class and route of administration. The Institute for Safe Medication Practices (ISMP advisory, 2018) [S] defines high-alert medications as those with high-risk for harmful events, especially when used in error (ISMP advisory, 2018) [S]. Examples of high-alert medications include antithrombotic agents, cancer chemotherapy, insulin, opioids, and neuromuscular blockers. Meta-analysis of intervention studies is also underway to reduce ADRs in certain populations (see below for reference). Pharmacogenomics considerations during diagnosis and treatment is generally considered a safer approach (Shah et al., 2021) [R,C].
+
+The following table provides the most recent CDC estimates (updated June 7, 2018) on Adverse Drug Events, hospitalizations and/or ED visits. Corresponding references are provided below:
+
+Note: Meta-analysis of Interventions to Reduce ADRs in Older Adults: https://onlinelibrary.wiley.com/doi/abs/10.1111/jgs.15195
+
+Approximately 150 000 adults are treated in emergency departments each year because of adverse events from antibiotics.
+
+https://www.cdc.gov/medicationsafety/adverse-drug-events-specific-medicines.html
+
+Finding and eating or drinking medicines, without adult supervision, is the main cause of emergency visits for adverse drug events among children less than 5 years old. Approximately 60 000 children <5 years old are brought to emergency departments each year because of unsupervised ingestions. Nearly 70% of emergency department visits for unsupervised medication ingestions by young children involve 1- or 2-year-old children.
+
+ADEs may be further classified based on expected severity into adverse drug reactions (ADRs) or adverse effects (also known as side effects). ASHP defines ADRs as an “unexpected, unintended, undesired, or excessive response to a drug” resulting in death, disability, or harm (Edwards & Aronson, 2000 [R]; Ferner & Aronson, 2010 [R]; Gray et al., 2018 [M]; Eva Montané & Santesmases, 2020 [R]; Lee et al., 2022 [R]). The World Health Organization (WHO) has traditionally defined an ADR as a “response to a drug which is noxious and unintended, and which occurs at doses normally used”; however, another proposed definition, intended to highlight the seriousness of ADRs is “an appreciably harmful or unpleasant reaction, resulting from an intervention related to the use of a medicinal product, which predicts hazard from future administration and warrants prevention or specific treatment, or alteration of the dosage regimen, or withdrawal of the product” (Edwards & Aronson, 2000) [R]. Under all definitions, ADRs are distinguished from side effects in that they generally necessitate some type of modification to the patient's therapeutic regimen. Such modifications could include discontinuing treatment, changing medications, significantly altering the dose, elevating, or prolonging care received by the patient, or changing diagnosis or prognosis. ADRs include drug allergies, immunologic hypersensitivities, and idiosyncratic reactions. In contrast, side effects, or adverse effects, are defined as “expected, well-known reactions resulting in little or no change in patient management” (ISMP advisory, 2018) [S]. Side effects occur at predictable frequency and are often dose-related, whereas ADRs are less foreseeable (Edwards & Aronson, 2000 [R]; ISMP [S]; Cochrane et al., 2013 [R]; Lemos et al., 2021 [R]).
+
+Two additional types of adverse drug events are drug-induced diseases and toxicity. Drug-induced diseases are defined as an “unintended effect of a drug that results in mortality or morbidity with symptoms sufficient to prompt a patient to seek medical attention, require hospitalization, or both” (Tisadale et al., 2018) [R]. In other words, a drug-induced disease has elements of an ADR (i.e., significant severity, elevated levels of patient care) and adverse effects (i.e., predictability, consistent symptoms). Toxicity is a less precisely defined term referring to the ability of a substance “to cause injury to living organisms as a result of physicochemical interaction” (Wexler et al., 2014) [R]. This term is applied to both medication and non-medication types of substances, while “ADRs,” “side effects,” and “drug-induced diseases” typically only refer to medications. When applied to medication use, toxicity typically refers to use at higher-than-normal dosing or accumulated supratherapeutic exposure over time, while ADRs, side effects, and drug-induced diseases are associated with normal therapeutic use (Laatikainen et al., 2022 [C,R]; Laroche et al., 2022 [R,C]).
+
+Although the title of this monograph is “Side Effects of Drugs,” this work provides emerging information for all adverse drug events including ADRs, side effects, drug-induced diseases, toxicity, and other situations less clearly classifiable into a particular category, such as effects subsequent to drug interactions with other drugs, foods, and cosmetics. Pharmacogenetic considerations have been incorporated in several chapters as appropriate and subject to availability of literature.
+
+Adverse drug reactions are described in Side Effects of Drugs Annual (SEDA) using two complementary systems, EIDOS and DoTS (Aronson & Ferner, 2003 [R]; Callréus, T., 2006 [R]; Aronson & Ferner, 2010 [R]). These two systems are illustrated in Figs 1 and 2 and general templates for describing reactions in this way are shown in Fig. 3, Fig. 4, Fig. 5 . Examples of their use have been discussed elsewhere (Callréus, 2006 [R]; Aronson et al., 2009 [R]; Calderón-Ospina & Bustamante-Rojas, 2010 [R]; Ferner & Aronson, 2010 [R]; Aronson & Ferner, 2010 [R]). As clinicians are becoming more cognizant about different types of AEs, ADEs and ADRs, reports in this arena are growing faster than one can imagine; few recent highly relevant reviews are listed for reference (Category [R]: Alghamdi et al., 2019; White & Thomson Reuters Accelus, 2015; Davies & O’Mahony 2015; Mouton et al., 2015; Bouvy et al., 2015; Coleman & Pontefract, 2016; Castillon et al., 2019; Patton & Borshoff, 2018; Eva Montané & Santesmases, 2020); (Gray et al., 2018 [M]; Lovegrove et al., 2019; [M]; Kojima et al., 2019 [M]); Laatikainen et al., 2022 [C,R]).
+
+Describing adverse drug reactions using two complementary systems. Note that the triad of drug–patient–adverse reaction appears outside the triangle in EIDOS and inside the triangle in DoTS, which leads to a scenario as depicted in Fig. 2.
+
+How the EIDOS and DoTS systems relate to each other. Here, the two triangles in Fig. 1 are superimposed, to show the relation between the two systems. An adverse reaction occurs when a drug is given to a patient. Adverse reactions can be classified mechanistically (EIDOS) by noting that when the Extrinsic (drug) species and an Intrinsic (patient) species, are co-distributed, a pharmacological or other effect (the Outcome) results in the adverse reaction (the Sequela). The adverse reaction can be further classified (DoTS) by considering its three main features—its Dose-relatedness, its Time-course, and individual Susceptibility.
+
+A general form of the EIDOS and DoTS template for describing an adverse effect or an adverse reaction.
+
+A general form of the EIDOS and DoTS template for describing two mechanisms of an adverse reaction or (illustrated here) the balance of benefit to harm, each mediated by a different mechanism.
+
+A general form of the EIDOS and DoTS template for describing an adverse drug interaction.
+
+The EIDOS mechanistic description of adverse drug reactions [17] has five elements:
+
+the Extrinsic species that initiates the reaction (Table 1 );
+
+the Intrinsic species that it affects;
+
+the Distribution of these species in the body;
+
+the (physiological or pathological) Outcome (Table 2 ), which is the adverse effect;
+
+the Sequela, which is the adverse reaction.
+
+Extrinsic species
+
+The EIDOS mechanistic description of adverse drug effects and reactions.
+
+The parent compound
+
+An excipient
+
+A contaminant
+
+An adulterant
+
+A degradation product formed before the drug enters the body
+
+A derivative of any of these (e.g., a metabolite)
+
+Nucleic acids
+
+Enzymes
+
+Receptors
+
+Ion channels/transporters
+
+Other proteins
+
+Water
+
+Hydrogen ions (pH)
+
+Other ions
+
+Direct tissue damage
+
+Altered physicochemical nature of the extrinsic species
+
+Examples of physiological and pathological changes in adverse drug effects (some categories can be broken down further).
+
+Physiological changes
+
+Cellular adaptations
+
+Altered cell function
+
+Cell damage
+
+Intracellular accumulations
+
+This can be the parent compound, an excipient, a contaminant or adulterant, a degradation product, or a derivative of any of these (e.g., a metabolite) (for example, see Table 1).
+
+Intrinsic species
+
+This is usually the endogenous molecule with which the extrinsic species interacts; this can be a nucleic acid, an enzyme, a receptor, an ion channel or transporter, or some other protein.
+
+Distribution
+
+A drug will not produce an adverse effect if it is not distributed to the same site as the target species that mediates the adverse effect. Thus, the pharmacokinetics of the extrinsic species can affect the occurrence of adverse reactions.
+
+Outcome
+
+Interactions between extrinsic and intrinsic species in the production of an adverse effect can result in physiological or pathological changes (for example, see Table 2). Physiological changes can involve either increased actions (e.g., clotting due to tranexamic acid) or decreased actions (e.g., bradycardia due to β(beta)-adrenoceptor antagonists). Pathological changes can involve cellular adaptations (atrophy, hypertrophy, hyperplasia, metaplasia and neoplasia), altered cell function (e.g., mast cell degranulation in IgE-mediated anaphylactic reactions) or cell damage (e.g., cell lysis, necrosis or apoptosis).
+
+Sequela
+
+The sequela of the changes induced by a drug describes the clinically recognizable adverse drug reaction, of which there may be more than one. Sequelae can be classified using the DoTS system.
+
+In the DoTS system (SEDA-43), adverse drug reactions are described according to the Dose at which they usually occur, the Time-course over which they occur, and the Susceptibility factors that make them more likely, as follows:
+
+Relation to dose○Toxic reactions (reactions that occur at supratherapeutic doses)○Collateral reactions (reactions that occur at standard therapeutic doses)○Hyper susceptibility reactions (reactions that occur at subtherapeutic doses in susceptible individuals)
+
+Toxic reactions (reactions that occur at supratherapeutic doses)
+
+Collateral reactions (reactions that occur at standard therapeutic doses)
+
+Hyper susceptibility reactions (reactions that occur at subtherapeutic doses in susceptible individuals)
+
+Time course○Time-independent reactions (reactions that occur at any time during a course of therapy)
+
+Time-independent reactions (reactions that occur at any time during a course of therapy)
+
+Time-dependent reactions○Immediate or rapid reactions (reactions that occur only when drug administration is too rapid)○First-dose reactions (reactions that occur after the first dose of a course of treatment and not necessarily thereafter)○Early tolerant and early persistent reactions (reactions that occur early in treatment then either abate with continuing treatment, owing to tolerance, or persist)○Intermediate reactions (reactions that occur after some delay but with less risk during longer-term therapy, owing to the ‘healthy survivor’ effect)○Late reactions (reactions the risk of which increases with continued or repeated exposure)○Withdrawal reactions (reactions that occur when, after prolonged treatment, a drug is withdrawn or its effective dose is reduced)○Delayed reactions (reactions that occur at some time after exposure, even if the drug is withdrawn before the reaction appears)
+
+Immediate or rapid reactions (reactions that occur only when drug administration is too rapid)
+
+First-dose reactions (reactions that occur after the first dose of a course of treatment and not necessarily thereafter)
+
+Early tolerant and early persistent reactions (reactions that occur early in treatment then either abate with continuing treatment, owing to tolerance, or persist)
+
+Intermediate reactions (reactions that occur after some delay but with less risk during longer-term therapy, owing to the ‘healthy survivor’ effect)
+
+Late reactions (reactions the risk of which increases with continued or repeated exposure)
+
+Withdrawal reactions (reactions that occur when, after prolonged treatment, a drug is withdrawn or its effective dose is reduced)
+
+Delayed reactions (reactions that occur at some time after exposure, even if the drug is withdrawn before the reaction appears)
+
+Susceptibility factors○Genetic (Ex. Variations in expression of certain drug metabolizing enzymes)○Age (newborn, pediatric, young adult, adult and old age)○Sex (gender differences—hormonal variations)○Physiological variation (e.g., weight, pregnancy)○Exogenous factors (for example, the effects of other drugs, devices, surgical procedures,○food, phytochemicals & nutraceuticals, alcoholic beverages, smoking, misc. other behavioral & lifestyle-related, etc.)○Diseases (ongoing but latent with no clinical signs, pre-existing and obvious)○Environmental factors (drinking water containing trace chemicals; breathing polluted air)
+
+Genetic (Ex. Variations in expression of certain drug metabolizing enzymes)
+
+Age (newborn, pediatric, young adult, adult and old age)
+
+Sex (gender differences—hormonal variations)
+
+Physiological variation (e.g., weight, pregnancy)
+
+Exogenous factors (for example, the effects of other drugs, devices, surgical procedures,
+
+food, phytochemicals & nutraceuticals, alcoholic beverages, smoking, misc. other behavioral & lifestyle-related, etc.)
+
+Diseases (ongoing but latent with no clinical signs, pre-existing and obvious)
+
+Environmental factors (drinking water containing trace chemicals; breathing polluted air)
+
+Although not systematically used in Side Effects of Drugs Annual, the WHO classification, used at the Uppsala Monitoring Center, is a useful schematic to consider in assessing ADRs and adverse effects. Possible classifications include:
+
+Type A (dose-related, “augmented”): more common events that tend to be related to the pharmacology of the drug, have a mechanistic basis, and result in lower mortality
+
+Type B (non-dose-related, “bizarre”): less common, unpredictable events that are not related to the pharmacology of the drug
+
+Type C (dose-related and time-related, “chronic”): events that are related to cumulative dose received over time
+
+Type D (time-related, “delayed”): events that are usually dose-related but do not become apparent until significant time has elapsed since exposure to the drug
+
+Type E (withdrawal, “end of use”): events that occur soon after the use of the drug
+
+Type F (unexpected lack of efficacy, “failure”): common, dose-related events where the drug effectiveness is lacking, often due to drug interactions
+
+ASHP-advisory-1: ASHP guidelines on adverse drug reaction monitoring and reporting. American Society of Hospital Pharmacy, (1995). [S] https://pubmed.ncbi.nlm.nih.gov/7757870/ [R]
+
+Lee LM, Carias DC, Gosser R, Hannah A, Stephens S, Templeman WA. (2022). ASHP-advisory-2: ASHP Guidelines on adverse drug reaction monitoring and reporting. Am J. Health Syst Pharm., 79(1): e83–e89. DOI: https://doi.org/10.1093/ajhp/zxab324
+
+ASHP Practice Advancement Initiative 2030: New recommendations for advancing pharmacy practice in health systems. (2020) [No authors listed] Am J. Health Syst Pharm., 77(2):113–121. doi: https://doi.org/10.1093/ajhp/zxz271.
+
+Aronson, J.K. & Ferner, R.E. (2003). Joining the DoTS. New approach to classifying adverse drug reactions. BMJ, 327:1222–1225. https://pubmed.ncbi.nlm.nih.gov/14630763/
+
+Aronson, J.K. & Ferner, R.E. (2005). Clarification of terminology in drug safety. Drug Saf., 28(10):851–870. [R] https://pubmed.ncbi.nlm.nih.gov/16180936/
+
+Aronson, J.K. & Ferner, R.E. (2010). EIDOS: a mechanistic classification of adverse drug effects. Drug Saf., 33(1):13–23. [R] https://pubmed.ncbi.nlm.nih.gov/20000863/
+
+Alghamdi, A.A., et al., (2019). Prevalance and nature of medication errors and preventable adverse drug events in pediatric and neonatal intensive care settings: A systematic review. Drug Saf., 42:1423–1436. [R] https://pubmed.ncbi.nlm.nih.gov/31410745/
+
+Aronson, J.K. & Ferner, R.E. (2010). Preventability of drug-related harms. Part 2: Proposed criteria, based on frameworks that classify adverse drug reactions. Drug Saf., 33(11):995–1002. [R] https://pubmed.ncbi.nlm.nih.gov/20925437/
+
+Aronson, J.K., et al., (2009). A strategy for regulatory action when new adverse effects of a licensed product emerge. Drug Saf., 32(2):91–98. [R] https://pubmed.ncbi.nlm.nih.gov/19236116/
+
+Bouvy, JC., De Bruin, ML. & Koopmanschap, MA. (2015). Epidemiology of adverse drug reactions in Europe: a review of recent observational studies. [R] Drug Saf., 38(5):437–53. https://pubmed.ncbi.nlm.nih.gov/25822400/
+
+Calderón-Ospina, C. & Bustamante-Rojas, C. (2010). The DoTS classification is a useful way to classify adverse drug reactions: a preliminary study in hospitalized patients. [c] Int J Pharm Pract., 18(4):230–235. [R] https://pubmed.ncbi.nlm.nih.gov/20636675/
+
+Callréus, T. (2006). Use of the dose, time, susceptibility (DoTS) classification scheme for adverse drug reactions in pharmacovigilance planning. Drug Saf., 29(7):557–566. [R] https://pubmed.ncbi.nlm.nih.gov/16808549/
+
+Castillon, G., et al., (2019). The Social Impact of Suspected Adverse Drug Reactions: An analysis of the Canada Vigilance Spontaneous Reporting Database. Drug Saf., 42(1):27–34. [R] https://pubmed.ncbi.nlm.nih.gov/30121742/
+
+Coleman, J.J. & Pontefract, S.K. (2016). Adverse drug reactions. Clin Med (Lond).,16(5):481–485. [R] https://pubmed.ncbi.nlm.nih.gov/27697815/
+
+Cochrane, Z.R, Hein D., Gregory, P.J., (2013). Medication misadventures I: adverse drug reactions. [R]. In: Malone PM, Kier KL, Stanovich JE, Malone MJ, Eds. Drug Information: A Guide for Pharmacists, 5th edition. New York, NY: McGraw-Hill Publishing.
+
+Davies, E.A. & O’Mahony, M.S. (2015). Adverse drug reactions in special populations - the elderly. Br J Clin Pharmacol., 80(4):796–807. [R] https://pubmed.ncbi.nlm.nih.gov/25619317/
+
+Edwards, I. R. & Aronson, J. K. (2000). Adverse drug reactions: Definitions, diagnosis, and management. Lancet, 356:1255–59. [R] https://pubmed.ncbi.nlm.nih.gov/11072960/
+
+Eva Montané, E & Santesmases, J. (2020). Adverse drug reactions. Med Clin (Barc), 154(5):178–184. [R]
+
+https://pubmed.ncbi.nlm.nih.gov/31771857/
+
+Ferner, RE. & Aronson, JK. (2010). Preventability of drug-related harms. Part 1: A systematic review. Drug Saf., 33(11):985–994. [R] https://pubmed.ncbi.nlm.nih.gov/20925436/
+
+Grey, S.L., et al. (2018). Meta-analysis of Interventions to Reduce Adverse Drug Reactions in Older Adults. [M] J Am Geriatr Soc., 66(2):282–288. https://pubmed.ncbi.nlm.nih.gov/29265170/
+
+ISMP-advisory: Institute for Safe Medication Practices. ISMP list of high-alert medications in acute care settings, (2018). [S] https://www.ismp.org/recommendations/high-alert-medications-acute-list
+
+James JT. (2013). A new, evidence-based estimate of patient harms associated with hospital care. J Patient Saf., 9(3):122–128. [R] https://pubmed.ncbi.nlm.nih.gov/23860193/
+
+Kang MN, et al. (2022). Adverse drug events leading to emergency department visits: A multicenter observational study in Korea. PLoS One, 17(9):e0272743. https://pubmed.ncbi.nlm.nih.gov/36121802/
+
+Kojima, T., et al. (2019). Risk factors for adverse drug reactions in older inpatients of geriatric wards at admission: multicenter study. Geriatrics & Gerontol. Intl., 20(2): 144–149. [M] https://pubmed.ncbi.nlm.nih.gov/31829506/
+
+Laatikainen O., et al. (2022). Medication-related adverse events in health care-what have we learned? A narrative overview of the current knowledge. Eur J Clin Pharmacol., 78(2):159–170. https://pubmed.ncbi.nlm.nih.gov/34611721/
+
+Laroche ML., et al. (2022). Incidence and preventability of hospital admissions for adverse drug reactions in France: A prospective observational study (IATROSTAT). Br J Clin Pharmacol., 2022 Aug 24. https://pubmed.ncbi.nlm.nih.gov/36002314/
+
+Leape LL, Bates DW, Cullen DJ, et al., (1995). Systems analysis of adverse drug events- ADE Prevention Study Group. JAMA, 274(1):35–43. [R] https://pubmed.ncbi.nlm.nih.gov/7791256/
+
+Lemos JD, et al. (2021). Preventable adverse drug events causing hospitalization: identifying root causes and developing a surveillance and learning system at an urban community hospital, a cross-sectional observational study. BMJ Open Qual., 10(1):e001161. https://pubmed.ncbi.nlm.nih.gov/33495196/
+
+Lovegrove, M.C., et al. (2019). US emergency department visits for adverse drug events from antibiotics in children, 2011–2015. J of Ped. Infec. Dis. Soc., 2019; 8(5): 384–391. [M]
+
+https://pubmed.ncbi.nlm.nih.gov/30137509/
+
+Mouton, J.P., et al., (2015). Mortality from adverse drug reactions in adult medical inpatients at four hospitals in South Africa: a cross-sectional survey. Br J Clin Pharmacol., 80(4):818–26. [C]
+
+https://pubmed.ncbi.nlm.nih.gov/25475751/
+
+National Patient Safety Foundation. Free from Harm: Accelerating Patient Safety Improvement Fifteen Years After: To Err Is Human. Boston, MA, (2015). National Patient Safety Foundation, pp. 1–59. [R]
+
+Patton, K. & Borshoff, D. C., (2018). Adverse drug reactions. Anaesthesia, 73 (Suppl. 1):76–84. [R] https://pubmed.ncbi.nlm.nih.gov/29313907/
+
+Tisdale, J. E., Miller, D. A., (2018). Eds. Drug-Induced Diseases: Prevention, Detection, and Management. 3rd edition. Bethesda, MD: American Society of Health-System Pharmacists. [R] ISBN: 978-1-58528-530-3.
+
+US Department of Health & Human Services. Reducing and Preventing Adverse Drug Events To Decrease Hospital Costs: Research in Action, (2001).
+
+http://archive.ahrq.gov/research/findings/factsheets/errors-safety/aderia/ade.html.
+
+USFDA-1: https://www.fda.gov/drugs/drug-interactions-labeling/preventable-adverse-drug-reactions-focus-drug-interactions. [S]
+
+USFDA-2: FDA Adverse Reporting System Dashboard: https://www.fda.gov/drugs/questions-and-answers-fdas-adverse-event-reporting-system-faers/fda-adverse-event-reporting-system-faers-public-dashboard [S]
+
+USFDA-3: FDA Adverse Reporting System Dashboard (yearly breakdown of reports received by report type from 2010 to September 2020): https://fis.fda.gov/sense/app/d10be6bb-494e-4cd2-82e4-0135608ddc13/sheet/7a47a261-d58b-4203-a8aa-6d3021737452/state/analysis [S]
+
+USFDA-4: Kohn, LT, Corrigan JM, Donaldson MS, Eds, (1999). To Err is Human: Building a Safer Health System. Washington, DC National Academy Press; pp. 1–8. [S]
+
+US Department of Health and Human Services. National Action Plan for Adverse Drug Event Prevention (ADE Action Plan). (2014). [S] pp. 1–190. https://health.gov/our-work/national-health-initiatives/health-care-quality/adverse-drug-events/national-ade-action-plan
+
+Wang, G., et al., (2015). A method for systematic discovery of adverse drug events from clinical notes. JAMA, 22(6): 1196–1204. https://pubmed.ncbi.nlm.nih.gov/26232442/
+
+Wexler, P., et al., (2014). Phl Wexler Eds., Enyclopedia of Toxicology, 3rd Ed. Burlington, MA: Academic Press, Elsevier. https://www.sciencedirect.com/referencework/9780123864550/encyclopedia-of-toxicology
+
+White, R.S. & Thomson Reuters Accelus. (2015). Pharmaceutical and Medical Devices: FDA Oversight, 28:1–97. [S] https://pubmed.ncbi.nlm.nih.gov/30695852/
+
+Lavan, AH., et al., (2019). Adverse drug reactions in an oncological population: Prevalence, predictability and preventability. Oncologist, 24(9): e968–e977. [R] https://pubmed.ncbi.nlm.nih.gov/30833488/
+
+Alfirevic, A., & Pirmohamed, M. (2016). Genomics of Adverse Drug Reactions.Trends in Pharmacol Sci., 38(1):100–109. [R] https://pubmed.ncbi.nlm.nih.gov/27955861/
+
+Zhang, H., et al., (2019). Trends in adverse drug reaction-related hospitalisations over 13 years in New South Wales, Australia. Int Med. J., 49(1): 84–93. [C] https://pubmed.ncbi.nlm.nih.gov/30281186/
+
+Ferner, R. & Aronson, J. (2019). Susceptibility to adverse drug reactions. Br. J. Clin Pharmacol., 85(10). [R] https://pubmed.ncbi.nlm.nih.gov/31169324/
+
+It has long been known that individuals respond differently to the same medication, regardless of dose, and that these differences may result in adverse drug reactions. In addition to well-recognized clinical factors, such as age, sex, kidney and liver function, drug–drug interactions, and comorbid conditions, genetic variation also explains some, or the majority, of the variability in drug response. Heritability is the amount of variation that is explained by genetics, and the heritability of drug responses range from 25% to 79% (Roden et al., 2011) [R]. Therefore, genetics explains a proportion of every drug response, and in some cases, genetics explains the majority of drug response. The study of how genetics affects drug response is called pharmacogenetics or pharmacogenomics. Those terms are used interchangeably, but typically pharmacogenetics refers to the study of one or a few genes, whereas pharmacogenomics refers to the study of many genes or the entire genome. A primary goal of this field is to characterize the relationship between genetic variations and drug responses, and the role of genetic variations in the development of adverse drug reactions is now well recognized. Greater use of pharmacogenomics may replace, in part or in full, the “one-size-fits-all” approach to drug prescription in favor of a more tailored pharmacological approach. The ultimate goal of clinical pharmacogenetic testing is to use a patient's genetic profile to maximize efficacy of the medication while minimizing the risk of adverse drug reactions. This is the promise of individualized or personalized medicine.
+
+The genetic variations between individuals may be described by polymorphisms in their genetic code, also known as genetic variants. These variations may be caused by the insertion or deletion of a few nucleotides, entire gene deletions, copy number variations or, more typically, are the result of single nucleotide polymorphisms (SNPs). SNPs are variations in a single nucleotide within a gene that may result in the production of a protein with a different amino acid sequence and altered activity or expression. Depending on the kind of protein that is affected by the polymorphisms, drug pharmacokinetics or pharmacodynamics may be altered. Polymorphisms in proteins such as drug-metabolizing enzymes or transporters may affect drug absorption, metabolism, distribution, and excretion. Polymorphisms in proteins such as membrane and intracellular receptors may affect drug binding to the receptor and hence the pharmacodynamics. Polymorphisms in proteins such as human leukocyte antigens (HLA) may affect immune reactions and hypersensitivity to drugs. These pharmacogenetic variants are quite common. It is estimated that 99% of individuals carry at least one actionable pharmacogenetic variant (Chanfreau-Coffinier et al., 2019) [R]. Changes in drug pharmacokinetics and pharmacodynamics affect both the efficacy of the drug and the development of adverse drug reactions. With respect to adverse drug reactions, of particular interest in the field of pharmacogenomics is the role of polymorphisms in drug-metabolizing enzymes, transporters, and HLA, which are described in more detail below.
+
+The cytochrome P450 (CYP) enzymes metabolize 70–80% of all drugs in clinical use, and many genetic variants significantly affect CYP enzyme function and expression, thereby affecting pharmacokinetics and risk of ADE (Zanger & Schwab, 2013) [R]. Other drug-metabolizing enzymes with variation-inducing toxicity include N-acetyl transferase type 2 (NAT2), thiopurine methyltransferase (TPMT), dihydropyrimidine dehydrogenase (DPYD), uridine diphosphateglucuronosyl transferases (UGT), and organic anion transporters (OAT). Pharmacogenomic analyses have also shown the association of mutations in KCNE1and KCNE2, which encode cardiac ion channels and their components, with long QT syndrome (LQTS) induced by several drugs, including antibiotics, antipsychotics, chemotherapeutics, antiemetics, opioid analgesics, and anti-arrhythmics (Lopez-Medina et al., 2022) [R]. Examples of genes associated with adverse drug effects are shown in Table 3 .
+
+Examples of genes in which genetic polymorphisms lead to increased risk of drug-induced adverse reactions.
+
+The HLA family comprises over 200 genes, forming the human major histocompatibility complex (MHC). Associated adverse drug reactions may occur through direct or indirect interaction of the drug with a specific HLA allele, thereby initiating an immune response and causing an adverse effect. These HLA-mediated reactions are typically hypersensitivity reactions, but they also include drug-induced injury to such organs as the liver, kidney, skin, muscle, and heart. As these reactions are dependent upon the presence of specific HLA alleles, the phenotype or ethnicity of an individual is of particular interest in determining if a medication may cause unwanted effects.
+
+Due to the risk of adverse drug reactions, HLA genotyping is commonly done prior to prescribing several medications. In the case of abacavir, screening for the presence of HLA-B*5701 is required by American and European regulatory authorities prior to the initiation of treatment. Similarly, genetic screening for HLA-B*1502 and HLA-B*5801 before administration of carbamazepine or allopurinol has become commonplace in several Asian countries and in patients with Asian ancestry. Several drug-induced reactions have been associated with specific variants in the HLA genes and several examples are shown in Table 4 . The HLA Adverse Drug Reaction Database also provides an up-to-date listing of HLA alleles and the associated adverse drug reactions (Ghattaoraya et al., 2016) [R].
+
+Examples of HLA allele variants and associated drug-induced adverse reactions.
+
+The cost of genetic testing is declining rapidly. Pharmacogenetic tests can be performed for as little as a few hundred dollars, and health insurance companies are commonly reimbursing for the costs (Empey et al., 2021) [R]. Turnaround time to receive results from tests typically range from 48 h to 2 weeks, and tests can be performed using a saliva sample, blood sample, or a buccal swab. Health systems that are currently implementing pharmacogenetic testing use a variety of different genetic testing platforms and assays (Luzum et al., 2017) [R]. Available pharmacogenetic tests can be found in the Genetic Testing Registry® curated by the National Center for Biotechnology [S]. The amount of evidence required for the clinical use of pharmacogenetic testing is widely debated, and decisions regarding the clinical use of pharmacogenetic testing depend upon the relative frequency of the genetic variation in the affected population, the disease phenotype, and the severity of the outcome/reaction (Luzum et al., 2021) [R].
+
+Types of genomic testing that are used in pharmacogenomic research are as follows:
+
+Candidate gene association studies (CGAS)
+
+There are approximately 30 000 genes and 1 000 000 independent genetic variants in the human genome. CGAS analyze only a few genetic variants or genes. The candidate genetic variants and genes are selected based on a priori knowledge that the genes have a role in pharmacology (e.g., pharmacokinetics or pharmacodynamics), and the variants affect protein function and/or expression. CGAS have led to the identification of many clinically important pharmacogenetic interactions, but by only analyzing a few genetic variants or genes, the major limitation of CGAS is that they can miss many other potentially important genes or variants in the genome.
+
+Genome-wide association studies (GWAS)
+
+GWAS overcome that limitation of CGAS by analyzing all ~30 000 genes and ~1 000 000 independent variants in the genome. Although GWAS was initially used as a means to better understand human disease, this method has increasingly been used to study the genetic basis for adverse drug reactions. It is likely that as costs and application limitations decrease, whole genomic analysis will become the preferred method. As a GWAS makes ~1 000 000 statistical tests, rigorous corrections for statistical significance must be employed to limit the potential for false positive associations in GWAS. Therefore, the major limitation of GWAS is low statistical power, and thus very large sample sizes are required. Large sample sizes are particularly challenging for pharmacogenomic GWAS, as it is difficult to identify thousands of patients all treated with the same drug for the same indication and with whole genome analyses completed. Large sample sizes are particularly challenging if the adverse drug reaction is rare. Despite those challenges, hundreds of pharmacogenomic GWAS have now been published, and all GWAS studying the association with response to a drug can be found in the publicly available GWAS catalog (Buniello et al., 2019) [R]. Polygenic scores, which add together the cumulative effects of multiple genetic variants discovered in GWAS, are becoming a more common and successful research approach in pharmacogenomics (Jhonson et al., 2022 [R]; Lanfear et al., 2020 [R]).
+
+Next-generation sequencing methods
+
+A limitation of both CGAS and GWAS is that they only analyze certain locations in the genome where variants are a priori known to be present, which is approximately 1 in every 300 nucleotides. Therefore, CGAS and GWAS do not analyze all nucleotides in the genome, nor can they identify novel mutations associated with drug response. Sequencing overcomes that limitation by analyzing the complete nucleotide sequence. The human genome includes ~3 billion pairs of nucleotides, and thus massively parallel (or “Next Generation”) sequencing is necessary to sequence a human genome within a feasible amount of time (which can now be completed in as fast as 1 day). While whole genome sequencing is currently possible and may be preferential, the processing power for analysis of the ~3 billion nucleotides is prohibitive for the majority of users. As a result, a subset of the genome, the exome, or all exons (protein coding regions), is typically analyzed in whole exome sequencing (WES). This technique allows identification of any variations within this section of the genome; a major drawback, however, is that any variations in other areas of the genome such as in introns (regulatory regions) are not included. Specific to pharmacogenetics, sequencing is most useful for identifying rare genetic mutations, such as those associated with long QT syndrome (Lopez-Medina et al., 2022) [R].
+
+In addition to the resources mentioned above, several other resources exist for pharmacogenetic information. The Pharmacogenomics Knowledgebase (PharmGKB®) is the best resource because it is a central location for almost all pharmacogenetic information, including clinical and variant annotations, links to the primary literature, and clinical and regulatory recommendations from around the world (Whirl-Carrillo et al., 2021; PharmGKB) [R]). The most commonly used guidelines by pharmacogenetic implementers (Luzum et al., 2021) [R] are by the Clinical Pharmacogenetics Implementation Consortium (CPIC), which can be found on the CPIC website or PharmGKB®. The US FDA provides two different pharmacogenetic resources: the “Table of Pharmacogenomic Biomarkers in Drug Labeling” [R] and the “Table of Pharmacogenetic Associations” (USFDA Table) [S]. Information on pharmacogenetic implementation can be found on the Implementing Genomics in Practice (IGNITE) website [S]. The Pharmacogene Variation Consortium (PharmVar) is a central repository for pharmacogenetic variation that focuses on haplotype structure and allelic variation (PharmVar). The Pharmacogenomics Global Research Network (PGRN) catalyzes and leads research in precision medicine for the discovery and translation of genomic variation influencing therapeutic and adverse drug effects [S].
+
+The availability of genetic testing technology and increasing knowledge about genetic variation-associated adverse drug reactions has elevated the role of pharmacogenomics in designing the drug regimen tailored to the individual patient (“individualized” or “personalized medicine”). An individual's genetic profile would, therefore, help to determine what medication would be most appropriate along with the most effective dosing regimen to increase the drug effectiveness and reduce the probability of adverse drug reactions. The cost of conducting genetic testing to identify polymorphisms that influence drug response has been declining, and reimbursement rates by health insurance companies are improving. Although pharmacogenetic testing is becoming more widespread in application, it is not expected that this approach will eliminate standard therapeutic monitoring or measurement of other phenotype variables, but rather supplement it. It is known that adverse reactions may be affected by other factors such as drug–drug interactions, drug–food, and drug–dietary supplement interactions, besides age, gender, ethnicity, and comorbidities. In the future, it is likely that there will be a blending of the different methods to provide the most appropriate therapeutic approach. Additional information on this topic can be found in these reviews (Osanlou et al., 2019 [R]; Cacabelos et al., 2019 [R]; Ray et al., 2020 [R]; Ray et al., 2021 [R]; Woo et al., 2020 [R]).
+
+Buniello, A. et al. (2019). The NHGRI-EBI GWAS Catalog of published genome-wide association studies, targeted arrays and summary statistics. [S] Nucleic Acids Res., 47(D1):D1005–D1012. https://pubmed.ncbi.nlm.nih.gov/30445434/
+
+Chanfreau-Coffinier, C., Hull, L.E., Lynch, JE. et al. (2019). Projected Prevalence of Actionable Pharmacogenetic Variants and Level A Drugs Prescribed Among US Veterans Health Administration Pharmacy Users. [R] JAMA Netw Open2(6):e195345. https://pubmed.ncbi.nlm.nih.gov/31173123/
+
+CPIC- Clinical Pharmacogenetics Implementation Consortium. [S] https://cpicpgx.org/
+
+Empey, PE., et al. (2021). Expanding evidence leads to new pharmacogenomics payer coverage. Genet. Med., 23(5):830–832. [R] https://pubmed.ncbi.nlm.nih.gov/33627827/
+
+Ghattaoraya, GS. et al. (2016). A web resource for mining HLA associations with adverse drug reactions: HLA-ADR. [R] Database (Oxford), 2016: baw069. [R] https://pubmed.ncbi.nlm.nih.gov/27189608/
+
+IGNITE – Implementating Genomics in Practice. [S] https://gmkb.org/implementation-guides/
+
+Johnson D., et al. (2022). A Systematic Review and Analysis of the Use of Polygenic Scores in Pharmacogenomics. Clin Pharmacol Ther., 111(4):919–930. https://pubmed.ncbi.nlm.nih.gov/34953075/
+
+Kullak-Ublick GA., et al. (2017). Drug-induced liver injury: Recent advances in diagnosis and risk assessment. Gut. 66(6): 1154–1164. [R] https://pubmed.ncbi.nlm.nih.gov/28341748/
+
+Lanfear DE, Luzum JA, She R., et al. (2020). Polygenic Score for β-Blocker Survival Benefit in European Ancestry Patients With Reduced Ejection Fraction Heart Failure. Circ Heart Fail., 13(12):e007012. https://pubmed.ncbi.nlm.nih.gov/33012170/
+
+Lauschke VM. & Ingelman-Sundberg M. (2016). The importance of patient-specific factors for hepatic drug response and toxicity. Int. J. Mol. Sci. 17(10): 1714–1741. [R] https://pubmed.ncbi.nlm.nih.gov/27754327/
+
+Luzum, JA., Pakyz, RE, Elsey, AE., et al. (2017). The Pharmacogenomics Research Network Translational Pharmacogenetics Program: Outcomes and Metrics of Pharmacogenetic Implementations Across Diverse Healthcare Systems. [R] Clin. Pharmacol. Ther., 102(3):502–510. https://pubmed.ncbi.nlm.nih.gov/28090649/
+
+Luzum, JA., et al. (2021). Moving Pharmacogenetics into Practice: It's All About the Evidence! Clin. Pharmacol. Ther., 110(3):649–661. [R] https://pubmed.ncbi.nlm.nih.gov/34101169/
+
+Maagdenberg H., et al. (2016). Pharmacogenomics in paediatric patients: towards personalized medicine. Paediatr. Drugs., 18(4): 251–260. [R] https://pubmed.ncbi.nlm.nih.gov/27142473/
+
+Maggo SD., et al. (2016). Impact of new genomic technologies on understanding adverse drug reactions. Clin. Pharmacokinet., 55(4): 419–436. [R] https://pubmed.ncbi.nlm.nih.gov/26369774/ {Erratum: https://pubmed.ncbi.nlm.nih.gov/26883878/}
+
+National Center for Biotechnology Information. https://www.ncbi.nlm.nih.gov/gtr/ [S].
+
+Lopez-Medina AI, Chahal CAA, Luzum JA. (2022) The genetics of drug-induced QT prolongation: evaluating the evidence for pharmacodynamic variants. Pharmacogenomics, 23(9):543–557. [R] https://pubmed.ncbi.nlm.nih.gov/35698903/
+
+O’Donnell PH, Danahey K, Ratain MJ. The outlier in all of us: why implementing pharmacogenomics could matter for everyone. 2016. Clin. Pharmacol. Ther. 99(4): 401–404. [R]
+
+PharmGKB: https://www.pharmgkb.org/
+
+PharmVar – Pharmacogene Variation Consortium. [S] https://www.pharmvar.org/
+
+PGRN – Pharmacogene Global Research Network. [S] https://www.pgrn.org/
+
+Ray SD. et al., (2018). ADRs, ADEs and SEDs: A Bird's Eye View. Editorial Article- In: Ray SD, Editor. Side Effects of Drugs: Annual: A worldwide yearly survey of new data in adverse drug reactions, Vol. 40: xxvii-xliv. https://www.sciencedirect.com/bookseries/side-effects-of-drugs-annual/vol/40/suppl/C
+
+Ray, SD., et al., (2019). ADRs, ADEs and SEDs: A Bird's Eye View. Editorial Article- In: Ray SD, Editor. Side Effects of Drugs: Annual: A worldwide yearly survey of new data in adverse drug reactions, Vol. 41: xxvii-xlviii. [R] https://www.sciencedirect.com/bookseries/side-effects-of-drugs-annual/vol/41/suppl/C
+
+Ray, SD., et al., (2020). ADRs, ADEs and SEDs: A Bird's Eye View. Editorial Article- In: Ray SD, Editor. Side Effects of Drugs: Annual: A worldwide yearly survey of new data in adverse drug reactions, Vol. 42: xxv-xlvii. [R] https://www.sciencedirect.com/science/article/abs/pii/S0378608020300520
+
+Ray SD, Luzum JA, Gray JP, Stohs SJ. (2021). Focus on pharmacogenomics, phytonutrient-drug interactions and COVID-19 vaccines: Perspectives on ADRs, ADEs, and SEDs. Side Effects of Drugs Annual. 2021; 43: xxv–lii. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8565918/
+
+Roden, DM. et al., (2011). Pharmacogenomics: the genetics of variable drug responses. Circulation 123, 1661–1670. [R] https://pubmed.ncbi.nlm.nih.gov/21502584/
+
+Su SC, Hung SI, Fan WL, et al. Severe cutaneous adverse reactions: the pharmacogenomics from research to clinical implementation. 2016. Int. J. Mol. Sci. 17(11): 1890–1990. [R]
+
+USFDA Table: https://www.fda.gov/drugs/science-and-research-drugs/table-pharmacogenomic-biomarkers-drug-labeling
+
+Whirl-Carrillo, M., et al., (2021). An Evidence-Based Framework for Evaluating Pharmacogenomics Knowledge for Personalized Medicine. [R] Clin. Pharmacol. Ther., 110(3):563–572. https://pubmed.ncbi.nlm.nih.gov/34216021/
+
+Zanger, UM. & Schwab, M. (2013). Cytochrome P450 enzymes in drug metabolism: regulation of gene expression, enzyme activities, and impact of genetic variation. Pharmacol Ther., 138(1):103–41. [R] https://pubmed.ncbi.nlm.nih.gov/23333322/
+
+Osanlou, O., et al., (2018). Pharmacogenetics of Adverse Drug Reactions. [R] Adv Pharmacol., 83:155–190. https://pubmed.ncbi.nlm.nih.gov/29801574/
+
+Cacabelos, R., et al., (2019). The role of pharmacogenomics in adverse drug reactions. [R]. Expert Rev. Clin. Pharmacol., 12(5): 407–442. https://pubmed.ncbi.nlm.nih.gov/30916581/
+
+Woo, SA et al., (2020). Preventable adverse drug events: Descriptive epidemiology. Br. J. Clin. Pharmacol., 86(2):291–302. [MR] https://pubmed.ncbi.nlm.nih.gov/31633827/
+
+Immunological reactions to drugs are diverse and varied. Nearly five decades ago, Karl Landsteiner's ground-breaking work “The Specificity of Serological Reactions” set the standard in experimental immunology. Several new discoveries in immunology in the 20th century, such as, ‘CD’ receptors (cluster of differentiation), recognition of ‘self’ vs ‘non-self’, a large family of cytokines and antigenic specificity became instrumental in describing immunological reactions. The most widely accepted classification divides immunological reactions (drug allergies or otherwise) into four pathophysiological types:
+
+Type I hypersensitivity: (anaphylaxis, immediate type)
+
+Type II hypersensitivity: (antibody-mediated cytotoxic reactions, cytotoxic type)
+
+Type III hypersensitivity: (immune complex-mediated reactions, toxic-complex syndrome)
+
+Type IV hypersensitivity: (cell-mediated immunity, delayed-type hypersensitivity)
+
+Although this classification was proposed more than 30 years ago, it is still widely used today (Coombs & Gell, 1975 [R]; Schnyder & Pitcher, 2009 [R]; Boyman et al., 2014 [E]).
+
+In type I reactions, hypersensitivity is induced when IgE antibodies are produced by B-cells against an antigen. These IgE antibodies bind to mast cells and blood basophils, sensitizing them to subsequent exposures in which they release pharmacological mediators (histamine, 5-hydroxytryptamine, kinins, and arachidonic acid derivatives) which cause the allergic response. The development of such a reaction depends exclusively upon exposure to the same assaulting agent (antigen, allergen, or metabolite) for the second time and the severity depends on the level of exposure. The clinical effects (Schnyder & Pichler, 2009) [R] are due to smooth muscle contraction, vasodilatation, and increased capillary permeability. The symptoms include faintness, light-headedness, pruritus, nausea, vomiting, abdominal pain, and a feeling of impending doom (angor animi). The signs include urticaria, conjunctivitis, rhinitis, laryngeal edema, bronchial asthma, pulmonary edema, angioedema, and anaphylactic shock. In addition, takotsubo cardiomyopathy can occur as well as Kounis syndrome (an acute coronary episode associated with an allergic reaction). Not all type I reactions are IgE-dependent, however; adverse reactions that are mediated by direct histamine release have conventionally been called anaphylactoid reactions but are better classified as non-IgE-mediated anaphylactic reactions. Cytokines, such as, inteleukin (IL)-4, IL-5, IL-6 and IL-13 either mediate or influence this class of hypersensitivity reaction. Representative agents that are known to induce such reactions include: gelatin, gentamicin, kanamycin, neomycin, penicillins, polymyxin B, streptomycin and thiomersal (Coombs & Gell, 1975 [R]; Schnyder & Pichler, 2009 [R]; Boyman et al., 2014 [E]). In this regard, it is not uncommon that drugs and their metabolites can form complexes with serum or tissue proteins and provoke a multitude of immunological reactions including type-I. A classic example would be how metabolites of sulfamethoxazole mount such reactions.
+
+Type II reactions involve circulating immunoglobulins G (IgG) or M (IgM) (or rarely IgA) binding with cell surface antigens (membrane constituent or protein) and interacting with an antigen formed by a hapten (drug or metabolite) and subsequently fixing complement. Complement is then activated leading to cytolysis. Type II reactions often involve antibody-mediated cytotoxicity directed to the membranes of erythrocytes, leukocytes, platelets, and probably hematopoietic precursor cells in the bone marrow. Drugs that are typically involved are methyldopa (hemolytic anemia), aminopyrine (leukopenia), and heparin (thrombocytopenia) with mostly hematological consequences, including thrombocytopenia, neutropenia, and hemolytic anemia (Coombs & Gell, 1975 [R]; Schnyder & Pitcher, 2009 [R]; Boyman et al., 2014 [E]).
+
+In type III reactions, formation of an immune-complex and its deposition on tissue surface serve as primary initiators. Occasionally, immune complexes bind to endothelial cells and lead to immune complex deposition with subsequent complement activation in the linings of blood vessels. Circumstances that govern immune formation or immune complex disease remain unclear to date, and it usually occurs without symptoms. The clinical symptoms of a type III reaction include serum sickness (β-lactams), drug-induced lupus erythematosus (quinidine), and vasculitis (minocycline). Type III reactions can result in acute interstitial nephritis or serum sickness (fever, arthritis, enlarged lymph nodes, urticaria, and maculopapular rashes) (Coombs & Gell, 1975 [R]; Schnyder & Pitcher, 2009 [R]; Boyman et al., 2014 [E]).
+
+Type IV reactions are initiated when a hapten–protein antigenic complex sensitizes T lymphocytes (T cells). Upon re-exposure to the immunogen, the activity of the sensitized T-cells usually results in severe inflammation in the affected areas. Type IV reactions are exemplified by contact dermatitis while pseudoallergic reactions may resemble allergic reactions clinically but are not immunologically mediated. Examples of Type IV reactions include asthma and rashes caused by aspirin and maculopapular erythematous rashes due to ampicillin or amoxicillin in the absence of penicillin hypersensitivity. This reaction may also be caused by sulfonamides and sulfites, anticonvulsants (phenytoin, carbamazepine, and phenobarbital), NSAIDs (aspirin, naproxen, nabumetone, and ketoprofen), antiretroviral agents and cephalosporins (Coombs & Gell, 1975 [R]; Schnyder & Pitcher, 2009 [R]; Boyman et al., 2014 [E]; Brown, 2004 [R]).
+
+Classification of drugs into particular types of hypersensitivity reactions may be challenging because the presentations of hypersensitivity can be quite different. For example, a study of pediatric hypersensitivity reactions to non-steroidal anti-inflammatory drugs showed combinations of symptoms of urticaria, angioedema, anaphylaxis, and respiratory involvement. In this case, the authors classified NSAID hypersensitivity into three categories: NSAID-induced urticarial/angioedema, NSAID-exacerbated cutaneous disease, NSAID-exacerbated respiratory disease, and single NSAID-induced urticarial/angioedema and/or anaphylaxis. At the molecular level, these differences can be partially explained by local or systemic effects induced by histamine and leukotriene metabolites (Johansson et al., 2001 [S]; Dispenza, 2009; Descotes & Choquet-Kastylevsky, 2001 [r]; Corominas et al., 2016 [E]; Velicković et al., 2015 [A]; Yip et al., 2017 [R]).
+
+Several types of adverse drug reactions do not easily fit into the general classification scheme. These include most cutaneous hypersensitivity reactions (such as toxic epidermal necrolysis), ‘immune-allergic’ hepatitis and hypersensitivity pneumonitis. Another difficulty is that allergic drug reactions can occur via more than one mechanism; picryl chloride in mice induces both type I and type IV responses. Several articles are included in this review to serve as a pointer to this field (Arikoglu et al., 2016 [R]; Blanca-Lopez et al., (2019) [R]; Agúndez et al., 2019 [R]; Wheatley et al., 2015 [R]). Miscellaneous other types of drug reactions are listed throughout this manuscript in other sections (Leon et al., 2018 [R]; Ramsbottom et al., 2018 [R]; Just et al., 2020 [R]; Malki & Pearson, 2020 [R]).
+
+Agúndez J.A., Mayorga, C., García-Martin, E., (2015). Drug metabolism and hypersensitivity reactions to drugs. Curr Opin Allergy Clin Immunol., 15(4):277–84. [R] https://pubmed.ncbi.nlm.nih.gov/26110676/
+
+Arikoglu, T., et al., (2017). Discrepancies in the diagnosis and classification of nonsteroidal anti-inflammatory drug hypersensitivity reactions in children. Allergol. int., 66(3), 418–424. [R] https://pubmed.ncbi.nlm.nih.gov/27865769/
+
+Blanca-Lopez, N., et al., (2019). NSAID-induced reactions: classification, prevalence, impact, and management strategies. Journal of asthma and allergy, 12, 217–233. [R] https://pubmed.ncbi.nlm.nih.gov/31496752/
+
+Boyman, O., Comte, D., Spertini, F. (2014). Adverse reactions to biologic agents and their medical management. Nat Rev. Rheumatol., 10(10): 610–627. [E] https://pubmed.ncbi.nlm.nih.gov/25112605/
+
+Brown, SGA. (2004). Clinical features and severity grading of anaphylaxis. J. Allergy Clin. Immunol., 114(2): 371–376. [R] https://pubmed.ncbi.nlm.nih.gov/15316518/
+
+Coombs, RRA. & Gell, PGH. (1975). Classification of allergic reactions responsible for clinical hypersensitivity and disease. In: Gell PGH, Coombs RRA, Lachmann PJ, Eds. Clinical Aspects of Immunology. London: Blackwell Scientific Publications; Pp. 761–81.
+
+Corominas, M., Andrés-López, B. & Lleonart R. (2016). Severe adverse drug reactions induced by hydrochlorothiazide: A persistent old problem. Ann Allergy Asthma Immunol., 117(3):334–5. [E] https://pubmed.ncbi.nlm.nih.gov/27613469/
+
+Dispenza, MC. (2019). Classification of hypersensitivity reactions. Allergy Asthma Proc., 40(6): 470–473. [R] https://pubmed.ncbi.nlm.nih.gov/?term=Classification+of+hypersensitivity+reactions
+
+Descotes, J. & Choquet-Kastylevsky, G. (2001). Toxicology, 158(1–2):43–9. Gell and Coombs's classification: is it still valid? [r] https://pubmed.ncbi.nlm.nih.gov/11164991/
+
+Johansson, SG., et al., (2001). A revised nomenclature for allergy. An EAACI position statement from the EAACI nomenclature task force. [S] Allergy, 56(9): 813–24.
+
+https://pubmed.ncbi.nlm.nih.gov/11551246/
+
+Just, KS. et al. (2020). Personalising drug safety-results from the multi-centre prospective observational study on Adverse Drug Reactions in Emergency Departments (ADRED). [R] Eur J Clin Pharmacol., 76(3):439–448. https://pubmed.ncbi.nlm.nih.gov/31832731/
+
+Malki, MA & Pearson, ER. (2020). Drug–drug-gene interactions and adverse drug reactions. Pharmacogenomics J., 20(3):355–366. https://pubmed.ncbi.nlm.nih.gov/31792369/
+
+Leon, L., Gomez, A., Vadillo, C., et al., (2018) Severe adverse drug reactions to biological disease-modifying anti-rheumatic drugs in elderly patients with rheumatoid arthritis in clinical practice. [R] Clin Exp Rheumatol., 36(1):29–35. https://pubmed.ncbi.nlm.nih.gov/28598787/
+
+Ramsbottom, KA., et al., (2018). Critical assessment of approaches for molecular docking to elucidate associations of HLA alleles with adverse drug reactions. Mol Immunol., 101:488–499. [R] https://pubmed.ncbi.nlm.nih.gov/30125869/
+
+Schnyder, B. & Pichler, W. (2009). Mechanisms of Drug-Induced Allergy. Mayo Clin Proc., 84(3): 268–272. [R] https://pubmed.ncbi.nlm.nih.gov/19252115/
+
+Velicković, J., Palibrk, I., Miljković, B., et al., (2015). Self-reported drug allergies in surgical population in serbia. Acta Clin Croat., 54(4):492–9. [A] https://pubmed.ncbi.nlm.nih.gov/27017725/
+
+Wheatley, LM., Plaut, M., Schwaninger, JM. et al., (2015). Report from the National Institute of Allergy and Infectious Diseases workshop on drug allergy. J Allergy Clin Immunol., 136(2):262–71.e2. [S] https://pubmed.ncbi.nlm.nih.gov/26254053/
+
+Yip, V.L., Alfirevic, A., & Pirmohamed, M. (2015). Genetics of immune mediated adverse drug reactions: a comprehensive and clinical review. Clin Rev. Allergy Immunol., 48(2–3):165–75. [R] https://pubmed.ncbi.nlm.nih.gov/24777842/
+
+Although not the primary subject of this series, increased interest in adverse effects induced by vaccinations merits the inclusion of this section. Adverse effects can be induced by the active immunological agent of the vaccine, by adjuvants, and/or by other components such as preservatives. However, in nearly all cases, the concentration of preservatives is well below the threshold toxicological dose, suggesting the majority of adverse effects are due to the immunological agents of the vaccine and/or adjuvants.
+
+The most common side effects of vaccines are associated with the immunological activation of the innate immune response by adjuvants. Indeed, these effects are necessary to induce inflammation that results in better vaccine take. Proposed mechanisms of action include sustained release of antigen at the site of injection (the depot effect), upregulation of cytokines and chemokines, cellular recruitment to the site of injection, increased antigen uptake by antigen presenting cells, activation of antigen presenting cells followed by their migration to lymph nodes, and activation of inflammasomes (extensively reviewed by Awate et al., 2013 [R]). Their mechanism of action is often complex and varied. However, the side effects are localized and often short in duration (Di Pasquale et al., 2015) [R].
+
+Adjuvants are mostly used for vaccines that are not self-replicating, including inactivated whole pathogen vaccines, subunit vaccines, and purified antigens. Since their discovery in the early part of the 20th century, adjuvants have been licensed components of more than 30 vaccines from different manufacturers (Di Pasquale et al., 2015) [R]. As vaccine development has progressed away from live attenuated vaccines to recombinant vaccine methodologies, adjuvant usage has increased.
+
+There are several safety concerns around adjuvanted vaccines (Di Pasquale et al., 2015) [R]. A local inflammatory response can include temporary pain and inflammation at the site of injection that lasts several days. However, studies so far have not demonstrated a statistically-significant increase in immune-mediated diseases such as Guillain-Barre syndrome in vaccinated individuals. Similarly, macrophagic myofasciitis was hypothesized to be induced by aluminum in vaccines, but was refuted upon further study by the WHO Global Advisory Board on Vaccine Safety. Long-term side effects from adjuvants have not been noted.
+
+The vaccine adjuvants include alum (aluminum salts), AS04 (combination of aluminum hydroxide and monophosphoryl lipid A), and AS03 (squalene, dl-alpha-tocopherol, and polysorbate80, used with influenza vaccines primarily) are used to induce inflammation in conjunction with vaccines. Alum, the most commonly used vaccine adjuvant in use for over 70 years, has been implicated in some type 1 hypersensitivity reactions. Monophosphoryl lipid A (MPA) has been implicated in one case of anaphylaxis to a pollen extract vaccine. AS03-adjuvanted H1N1pdm09 vaccine was associated with an enhanced rate of anaphylaxis (8 cases per million doses administered) (Soriano et al., 2012) [R]. Overall, it is not clear that the rare hypersensitivity reactions can be decoupled from the efficacy of the adjuvant at inducing the proper immune response to accompanying antigens.
+
+The hypersensitivity reactions to preservatives and stabilizers of vaccines were reviewed in a recent article. Gelatin, which is used to stabilize several vaccines, is known to cause both type 1 and type 4 hypersensitivity reactions. Thimerosal has been reported to cause similar hypersensitivity reactions in patients pre-developed hypersensitivity due to previous exposure via cosmetics such as contact lens solution or makeup (Mondino et al., 1982) [R], although most patients with pre-existing allergy tolerated thimerosal-containing vaccines (Leventhal et al., 2012) [R]. A single report exists for formaldehyde causing hypersensitivity reactions (Kuritzky et al., 2015) [R].
+
+Within the past decade, autoinflammatory/autoimmunity syndrome induced by adjuvants (ASIA) in susceptible patients has been proposed as a result of exposure to foreign materials such as vaccine adjuvants. ASIA syndrome is defined as an adjuvant exposure that induces autoimmunity, and several of the adverse effects described in the previous table may fall under the ASIA umbrella. Implanted foreign materials such as silicone breast implants and stents are thought to induce ASIA by acting as an adjuvant promoting autoimmunity. Vaccines may contain adjuvants capable of inducing similar responses, although the literature in this area is sparse. Genetic predisposition such as HLA-DRB1*01 or HLA-DRB4 may render patients more likely to have an ASIA syndrome following vaccination (Perricone et al., 2013) [R].
+
+Adverse effects may also be induced by the primary antigens of the vaccine, the most common types of which are shown in Table 5 (D’Alo et al., 2017) [R]. This table reflects only those adverse effects confirmed through a robust meta-analysis. These adverse effects may be related to the antigenic features of the causative agent itself or may duplicate adverse effects caused by the infections themselves.
+
+Adverse effects associated with particular vaccines.
+
+Alterations in menstrual cycle length have been observed in several studies of COVID-19 vaccination. One clinical study assessed contrasted vaccinated and unvaccinated individuals. This study tracked menstrual cycle length for 3 months prior to vaccination and for multiple months afterwards by enrolling women who used a digital menstrual cycle tracking application. The authors found that the COVID-19 vaccine was associated with less than a one day change in cycle length that was nonetheless significant (Edelman et al., 2022) [R].
+
+Other larger studies used surveys to assess menstrual cycle length impact using survey methodology. A large cross-sectional study of women who receive a full course of COVID-19 vaccination at least 3 months prior showed that a majority (78%, 11 017) experienced menstrual cycle changes after vaccination (Baena-Garcia et al., 2022) [R]. A second study that queried women about post-vaccination changes found that 120 women (65.21%) had normal ranges of menstrual cycle, whereas 48 women (26.08%) had a longer cycle more than nine days (Rodriguez Quejada et al., 2022) [R]. A third study (a non-peer reviewed preprint) utilized surveys to assess 5688 women showed an increase in heavier bleeding, longer duration, and short interval between menstruations in vaccinated individuals (Lill, 2022 [R]). A fourth study assessed 14 915 participants who utilized the Apple Health app or related apps that track menstrual cycle data (Gibson et al., 2022) [R]. This study found a <1 day increase in menstrual cycle length. Interestingly, if dosing occurred in the follicular phase of the menstrual cycle was associated with longer cycles, whereas dosing in the luteal phase was associated with slightly shorter cycles. The authors attribute the changes to interaction between inflammation and the hormonal system.
+
+An opinion letter warned that the use of surveys can lead to biased outcomes, but that further study is needed nonetheless (Hallberg et al., 2022) [R]. A second review argued that while changes to menstrual cycle do occur, they are small compared with natural variation and temporary (Male, 2022) [R]. Indeed, other vaccines such as the human papillomavirus vaccine have been associated with menstrual changes (Suzuki and Hosono, 2018) [R].
+
+COVID-19 infection itself may also cause changes in menstrual cycle. A retrospective, cross-sectional study found that 19% of patients had a prolonged cycle (Li et al., 2021) [R]. Another review discussed short-term decrease in fertility as a result to testicular damage due to SARS-CoV-2 infection and similar impacts on ovaries (Bechmann et al., 2022) [R]. A review also discussed the lengthening of menstrual cycles following SARS-CoV-2 infection, but warned that there were too few publications on the topic to make conclusions (Lebar et al., 2022) [R].
+
+Awate, S., L.A. Babiuk, and G. Mutwiri, Mechanisms of action of adjuvants. Front Immunol, 2013. 4: p. 114.
+
+Di Pasquale, A., et al., Vaccine Adjuvants: from 1920 to 2015 and Beyond. Vaccines (Basel), 2015. 3(2): pp. 320–43.
+
+Soriano, A., et al., Giant cell arteritis and polymyalgia rheumatica after influenza vaccination: report of 10 cases and review of the literature. Lupus, 2012. 21(2): pp. 153–7.
+
+Mondino, B.J., S.M. Salamon, and G.W. Zaidman, Allergic and toxic reactions of soft contact lens wearers. Surv Ophthalmol, 1982. 26(6): pp. 337–44.
+
+Leventhal, J.S., et al., Hypersensitivity reactions to vaccine constituents: a case series and review of the literature. Dermatitis, 2012. 23(3): pp. 102–9.
+
+Kuritzky, L.A. and M. Pratt, Systemic Allergic Contact Dermatitis After Formaldehyde-Containing Influenza Vaccination. J Cutan Med Surg, 2015. 19(5): pp. 504–6.
+
+Perricone, C., et al., Autoimmune/inflammatory syndrome induced by adjuvants (ASIA) 2013: Unveiling the pathogenic, clinical and diagnostic aspects. J Autoimmun, 2013. 47: pp. 1–16.
+
+D'Alo G, L., et al., Frequently asked questions on seven rare adverse events following immunization. J Prev Med Hyg, 2017. 58(1): pp. E13–E26.
+
+Buettcher, M., et al., Hypotonic-hyporesponsive episode (HHE) as an adverse event following immunization in early childhood: case definition and guidelines for data collection, analysis, and presentation. Vaccine, 2007. 25(31): pp. 5875–81.
+
+Goodwin, H., et al., Vaccination of children following a previous hypotonic-hyporesponsive episode. J Paediatr Child Health, 1999. 35(6): pp. 549–52.
+
+Monteiro, S.A., O.A. Takano, and E.A. Waldman, Surveillance for adverse events after DTwP/Hib vaccination in Brazil: sensitivity and factors associated with reporting. Vaccine, 2010. 28(18): pp. 3127–33.
+
+Czajka, H. and J. Wysocki, [Hypotonic-hyporesponsive episode (HHE) following vaccination with a combined vaccine against diphtheria, tetanus and pertussis (whole cell vaccine -DTPv)]. Neurol Neurochir Pol, 2004. 38(1 Suppl 1): pp. S17–24.
+
+Langer-Gould, A., et al., Vaccines and the risk of multiple sclerosis and other central nervous system demyelinating diseases. JAMA Neurol, 2014. 71(12): pp. 1506–13.
+
+Mailand, M.T. and J.L. Frederiksen, Vaccines and multiple sclerosis: a systematic review. J Neurol, 2017. 264(6): pp. 1035-1050.
+
+Farez, M.F. and J. Correale, Immunizations and risk of multiple sclerosis: systematic review and meta-analysis. J Neurol, 2011. 258(7): pp. 1197–206.
+
+Eichenwald, E.C., F. Committee on, and A.A.o.P. Newborn, Apnea of Prematurity. Pediatrics, 2016. 137(1).
+
+Sen, S., et al., Adverse events following vaccination in premature infants. Acta Paediatr, 2001. 90(8): pp. 916–20.
+
+Cooper, P.A., et al., Apnea and its possible relationship to immunization in ex-premature infants. Vaccine, 2008. 26(27–28): pp. 3410–3.
+
+Lee, J., J.L. Robinson, and D.W. Spady, Frequency of apnea, bradycardia, and desaturations following first diphtheria-tetanus-pertussis-inactivated polio-Haemophilus influenzae type B immunization in hospitalized preterm infants. BMC Pediatr, 2006. 6: p. 20.
+
+Botham, S.J., D. Isaacs, and D.J. Henderson-Smart, Incidence of apnoea and bradycardia in preterm infants following DTPw and Hib immunization: a prospective study. J Paediatr Child Health, 1997. 33(5): pp. 418–21.
+
+Botham, S.J. and D. Isaacs, Incidence of apnoea and bradycardia in preterm infants following triple antigen immunization. J Paediatr Child Health, 1994. 30(6): pp. 533–5.
+
+Sanchez, P.J., et al., Apnea after immunization of preterm infants. J Pediatr, 1997. 130(5): pp. 746–51.
+
+Watts, R.A., et al., Systemic vasculitis--is it time to reclassify? Rheumatology (Oxford), 2011. 50(4): pp. 643–5.
+
+Hehn, J., et al., [Influenza vaccination and skin disease--coincidence or causal association?]. J Dtsch Dermatol Ges, 2003. 1(2): pp. 99–104.
+
+de Carvalho, J.F., R.M. Pereira, and Y. Shoenfeld, Systemic polyarteritis nodosa following hepatitis B vaccination. Eur J Intern Med, 2008. 19(8): pp. 575–8.
+
+Sukumaran, L., et al., Adverse Events Following Measles, Mumps, and Rubella Vaccine in Adults Reported to the Vaccine Adverse Event Reporting System (VAERS), 2003-2013. Clin Infect Dis, 2015. 60(10): pp. e58–65.
+
+Schattner, A., Consequence or coincidence? The occurrence, pathogenesis and significance of autoimmune manifestations after viral vaccines. Vaccine, 2005. 23(30): pp. 3876–86.
+
+Toussirot, E. and M. Bereau, Vaccination and Induction of Autoimmune Diseases. Inflamm Allergy Drug Targets, 2015. 14(2): pp. 94–8.
+
+Rejjal, A.L., G. Britten, and H. Nazer, Thrombocytopenic purpura following measles-mumps-rubella vaccination. Ann Trop Paediatr, 1993. 13(1): pp. 103–4.
+
+Mantadakis, E., E. Farmaki, and G.R. Buchanan, Thrombocytopenic purpura after measles-mumps-rubella vaccination: a systematic review of the literature and guidance for management. J Pediatr, 2010. 156(4): pp. 623–8.
+
+O'Leary, S.T., et al., The risk of immune thrombocytopenic purpura after vaccination in children and adolescents. Pediatrics, 2012. 129(2): pp. 248–55.
+
+Meyboom, R.H., H. Fucik, and I.R. Edwards, Thrombocytopenia reported in association with hepatitis B and A vaccines. Lancet, 1995. 345(8965): p. 1638.
+
+Edelman, A., et al., Association Between Menstrual Cycle Length and Coronavirus Disease 2019 (COVID-19) Vaccination: A U.S. Cohort. Obstet Gynecol, 2022. 139(4): pp. 481–489.
+
+Baena-Garcia, L., et al., Premenstrual and menstrual changes reported after COVID-19 vaccination: The EVA project. Womens Health (Lond), 2022. 18: p. 17455057221112237.
+
+Rodriguez Quejada, L., et al., Menstrual cycle disturbances after COVID-19 vaccination. Womens Health (Lond), 2022. 18: p. 17455057221109375.
+
+Lill, T., Trogstad, Lill, Increased Occurrence of Menstrual Disturbances in 18- to 30-Year-Old Women after COVID-19 Vaccination. SSRN, 2022.
+
+Gibson, E.A., et al., Covid-19 vaccination and menstrual cycle length in the Apple Women's Health Study. medRxiv, 2022.
+
+Hallberg, E., et al., Association Between Menstrual Cycle Length and Coronavirus Disease 2019 (COVID-19) Vaccination: A U.S. Cohort. Obstet Gynecol, 2022. 139(5): pp. 940–941.
+
+Male, V., Menstruation and covid-19 vaccination. BMJ, 2022. 376: p. o142.
+
+Suzuki, S. and A. Hosono, No association between HPV vaccine and reported post-vaccination symptoms in Japanese young women: Results of the Nagoya study. Papillomavirus Res, 2018. 5: pp. 96–103.
+
+Li, K., et al., Analysis of sex hormones and menstruation in COVID-19 women of child-bearing Lage. Reprod Biomed Online, 2021. 42(1): pp. 260–267.
+
+Bechmann, N., et al., COVID-19 Infections in Gonads: Consequences on Fertility? Horm Metab Res, 2022. 54(8): pp. 549–555.
+
+Lebar, V., et al., The Effect of COVID-19 on the Menstrual Cycle: A Systematic Review. J Clin Med, 2022. 11(13).
+
+This type of reaction occurs when either one non-toxic chemical interacts with another non-toxic chemical, or one non-toxic chemical interacts with another toxic chemical at low doses (subtoxic, acutely toxic) results in a greater level of toxicity. An alternate interpretation could be when two drugs are taken together and one of them intensifies the action of the other. In such scenarios, if the final result is high toxicity, then the final outcome is called potentiation (increasing the toxic effect of ‘Y’ by ‘X’). Results usually lead to unanticipated level of cell death in the form of apoptosis, necrosis, apocrosis (or necroptosis, aponecrosis), autophagy or features combining any of these forms of cell death. Theoretically, it can be expressed as: x + y = M (1 + 0 = 4).
+
+When chronic or regular alcohol drinkers, consume therapeutic doses of acetaminophen, it can lead to alcohol-potentiated acetaminophen-induced hepatoxicity (cause: ethanol-induced massive CYP2E1 induction in the liver)
+
+Administration of iron supplements in patients on doxorubicin therapy may cause potentiation of doxorubicin-induced cardiotoxicity (cause: hydroxyl radical formation and redox cycling of doxorubicin)
+
+Phenergan®, an antihistamine, when given with a painkilling narcotic such as Demerol® can intensify the narcotic effect; reducing the dose of the narcotic is advised.
+
+Ethanol potentiation of CCl4-induced hepatotoxicity
+
+Use of phenytoin and calcium-channel blockers combination should be used with caution.
+
+Several H1 antagonists (e.g., desloratadine, loratadine, and fexofenadine) and the H2 antagonists (e.g., famotidine, cimetidine, ranitidine) markedly potentiate analgesia of opioids (e.g., morphine, fentanyl and nalbuphine).
+
+Potentiation of warfarin by dietary supplements and foods as garlic, ginger, ginkgo, and grapefruit
+
+Synergism is somewhat similar to potentiation. When two drugs are taken together that are similar in action, such as barbiturates and alcohol, which are both depressants, an effect exaggerated out of proportion to that of each drug taken separately at the given dose may occur (mathematically: 1 + 1 = 4). Normally, taken alone, neither substance would cause serious harm, but if taken together, the combination could cause coma or death. Another example is when smokers get exposed to asbestos, resulting in the development of lung cancer.
+
+Additive effect is defined as a consequence which follows exposure to two or more agents which act jointly but do not interact, the total effect is the simple sum of the effects of separate exposure to the agents under the same conditions. This could be represented by 1 + 1 = 2:
+
+a barbiturate and a tranquilizer given together before surgery to relax the patient
+
+the toxic effect on bone marrow resulting after AZT + ganciclovir or AZT + clotrimazole administration.
+
+Antagonistic effects are when two drugs/chemicals are administered simultaneously, or one closely followed by the other with the net effect of the final outcome of the reaction being negligible or zero. This could be expressed by 1 + 1 = 0. An example might be the use of a tranquilizer to stop the action of LSD.
+
+When ethanol is administered to methanol poisoned patient
+
+NSAIDs administered to diuretics (hydrochlorothiazide/furosemide): Reduce diuretics effectiveness
+
+Certain β-blockers (INDERAL®) taken to control high blood pressure and heart disease, counteract β-adrenergic stimulants, such as albuterol®.
+
+St. John's wort in combination with drugs as digoxin, indinavir, nifedipine and alprazolam.
+
+Asher, GN., Corbett, AH. & Hawke, RL. (2017). Common herbal dietary supplement–drug interactions. [R] Am Fam Physician. 96(2):101–107. https://pubmed.ncbi.nlm.nih.gov/28762712/
+
+Betharia, S., Farris, FF., Corcoran, GB., Ray SD. (2014). ‘Mechanisms of Toxicity’ In: Wexler, P. (Ed.), Encyclopedia of Toxicology, 3rd edition vol 3. Elsevier Inc., pp. 165–175. http://www.sciencedirect.com/science/article/pii/B9780123864543003298
+
+CSS, Tan & SWH, Lee. (2021). Warfarin and food, herbal or dietary supplement interactions: A systematic review. [R] Br J Clin Pharmacol., 87(2):352–374. https://pubmed.ncbi.nlm.nih.gov/32478963/
+
+Calderon-Aparicio A, Strasberg-Rieber M, Rieber M. (2015). Disulfiram anti-cancer efficacy without copper overload is enhanced by extracellular H2O2 generation: antagonism by tetrathiomolybdate. Oncotarget, 6(30):29771–81.
+
+Djillani, A., Doignon, I., Luyten, T., et al. (2015). Potentiation of the store-operated calcium entry (SOCE) induces phytohemagglutinin-activated Jurkat T cell apoptosis. [E] Cell Calcium., 58(2):171–85.
+
+Gammella, E., Maccarinelli, F., Buratti, P., et al. (2014). The role of iron in anthracycline cardiotoxicity. Front Pharmacol., 5:25. doi: https://doi.org/10.3389/fphar.2014.00025. eCollection 2014.
+
+Kuchárová, B., Mikeš, J., Jendželovský, R., et al. (2015). Potentiation of hypericin-mediated photodynamic therapy cytotoxicity by MK-886: focus on ABC transporters, GDF-15 and redox status. [E] Photodiagnosis Photodyn Ther., 12(3):490–503.
+
+Lu, CF., Yuan, XY., Li, LZ., et al. (2015). Combined exposure to nano-silica and lead-induced potentiation of oxidative stress and DNA damage in human lung epithelial cells. [E] Ecotoxicol Environ Saf., 122:537–44.
+
+Niu, F., Zhao, S., Xu, CY., et al. (2015). Potentiation of the antitumor activity of adriamycin against osteosarcoma by cannabinoid WIN-55,212–2. [E] Oncol Lett., 10(4):2415–2421.
+
+Nurcahyanti, AD. & Wink M. (2015). Cytotoxic potentiation of vinblastine and paclitaxel by L-canavanine in human cervical cancer and hepatocellular carcinoma cells. [E] Phytomedicine, 22(14):1232–7.
+
+Onakpoya IJ, Heneghan CJ. & Aronson JK. (2017). Postmarketing withdrawal of human medicinal products because of adverse reactions in animals: a systematic review and analysis. [R] Pharmacoepidemiol Drug Saf., 26(11):1328–1337. doi: https://doi.org/10.1002/pds.4256.
+
+Ray, SD. & Corcoran, GB. “Apoptosis and Cell Death”, 3rd Edition, Vol. I, Chapter-11, Pp. 247–312, in Ballantyne, Marrs and Syversen Eds., ‘General and Applied Toxicology‘; Wylie Publishing, UK, 2009. http://onlinelibrary.wiley.com/doi/10.1002/9780470744307.gat015/abstract
+
+Ray, SD. & Mehendale HM. (1990). Potentiation of CCl4 and CHCl3 hepatotoxicity and lethality by various alcohols. [E] Fundam Appl Toxicol., 15(3):429–40. https://pubmed.ncbi.nlm.nih.gov/2258008/
+
+Smith, MA., Reynolds, CP., Kang, MH., et al. (2015). Synergistic activity of PARP inhibition by talazoparib (BMN 673) with temozolomide in pediatric cancer models in the pediatric preclinical testing program. [E] Clin Cancer Res., 21(4):819–32.
+
+Yoon, E., Babar, A., Choudhary, M. et al. (2016). Acetaminophen-Induced Hepatotoxicity: a Comprehensive Update. [R] J Clin Transl Hepatol., 4(2): 131–142.
+
+Zajac, J., Kostrhunova, H., Novohradsky, V., et al. (2016). Potentiation of mitochondrial dysfunction in tumor cells by conjugates of metabolic modulator dichloroacetate with a Pt(IV) derivative of oxaliplatin. [E] J Inorg Biochem., 156:89–97.
+
+The use of phytonutrients, dietary supplements and herbal medicines has increased markedly in recent years, with over 50% of adults in the United States regularly using these products. Due to the diverse nature of the bioactive and novel constituents in these products, a potential exists for unintended interactions with drugs. Interactions between constituents in these products and drugs may be considered similar to drug–drug interactions due in part to the involvement of the same or similar mechanisms.
+
+It should be kept in mind that the potential for drug–phytonutrient interactions increases with the number of phytonutrients and drugs consumed, and the number of drugs used daily increases with age. The average elderly person routinely uses 9–13 different drugs daily, and approximately three-fourths of these individuals concurrently consume phytonutrients (Agbabiaka et al., 2018) [R]. Thus, elderly individuals are most susceptible to experience adverse events from drug-phytonutrient interactions as well as from drugs alone (Arora et al., 2022) [R].
+
+In general, herbal remedies are better tolerated and exhibit fewer adverse effects than synthetic medications (Izzo et al., 2016) [R]. However, serious adverse events have been described due to phytonutrient–drug interactions. Nutraceutical–drug interactions can generally be classified as being pharmacokinetic or pharmacodynamic in nature (Yeung et al., 2018 [R]; Briguglio et al., 2018 [R]). Pharmacokinetic interactions describe and denote how a phytonutrient/herbal product can influence the absorption, distribution, metabolism and excretion of a drug or group of drugs. Pharmacodynamic interactions describe how a phytonutrient/herbal product alters the actions of drugs when used concurrently and is the result of the pharmacokinetic interactions. Several examples involving potentiation and antagonism are noted above in Analysis of Toxicological Reactions.
+
+Research studies have focused on the mechanisms associated with phytonutrient–drug interactions. Most phytonutrients that interact with drugs have been shown to involve inhibition or induction/activation of cytochrome P450 (CYP) metabolizing isoenzymes, and/or the upregulation or downregulation of efflux transporter P-glycoprotein (P-gp) or influx organic anion transporting polypeptides (OATPs) (Agbabiaka et al., 2018; Izzo et al., 2016 [R]; Yeung et al., 2018 [R]; Briguglio et al., 2018 [R]; Posadki et al., 2012 [R]; Feltrin & Simoes, 2019 [R]; Arora et al., 2022 [R]). Initial mechanistic studies focused on the role of cytochrome P450s (CYPs), while more recent studies have described the importance of intestinal and hepatocellular transporter proteins (Feltrin & Simoes, 2019 [R]; Murtaza et al., 2019 [R]). It should be noted that phytonutrient–drug interactions mechanistically may concomitantly involve both cytochrome P450 isoenzymes as well as transporters. Furthermore, in recent years the pregnane X receptor (PXR) has been shown to be one of the most important transcriptional factors involved in the regulation of phase I and phase II drug metabolizing enzymes and drug transporter proteins and polypeptides (Hogle et al., 2018) [R]. PXR has been implicated in multiple phytonutrient–drug interactions.
+
+The most definitive information regarding mechanisms of action has been derived from studies with specific phytonutrients and phytochemicals. The potential interactions of 170 specific chemical entities found in phytonutrients with various drugs has been assessed by identifying the targets (receptors) which may involve phytochemicals and drugs acting as an inhibitors, inducers or substrates (Auxtero et al., 2021) [R]. Based on this knowledge and knowing the mechanisms of action and the targets involved for specific drugs enables the prediction and prevention of phytonutrient-drug interactions. Unfortunately, most dietary supplements and herbal remedies contain multiple phytochemical ingredients that may interact with drugs, and therefore the net effect may be additive, synergistic or inhibitory with respect to pharmacological action. in an additive, synergistic or inhibitory manner.
+
+The amounts of each phytochemical in a preparation plays specific phytochemicals in a preparation also play an important role in determining if a potential interaction will occur, the nature of the interaction, and the clinically relevant. Herbal extracts may not be comparable in composition due to many factors including methods of preparation, lack of standardization, plant part used, age at harvest and geographical location. Furthermore, high genetic inter-individual variability exists which can markedly influence whether an interaction occurs and to what extent (Liu et al., 2015 [R]; Werba et al., 2018 [R]). Thus, the extent to which an interaction and adverse event occurs, and its clinical relevance, depends on many factors.
+
+Various studies have reviewed the literature regarding case study reports and pharmacokinetic studies involving phytonutrient–drug interactions (Izzo et al., 2016 [R]; Posadzki et al., 2012 [R]; Murtaza et al., 2017 [R]; Ge et al., 2014 [R]; Asher et al., 2015 [R]). It should be noted that the results of in vitro mechanistic studies do not always agree with the results of in vivo clinical observations. Clinically observed effects may not be observed in spite of in vitro effects on metabolizing enzymes and/or transporters (Briguglio et al., 2018 [R]; Feltrin & Simoes, 2019 [R]; Murtaza et al., 2019 [R]).
+
+From a phytochemical perspective, bioactive compounds with the greatest potential to cause phytonutrient–drug interactions contain phenolic groups (ca. 67%), terpenes (ca. 23%), alkaloids (ca. 9%), and phytosterols (ca. 1%) (Auxtera et al., 2021) [R]. Several scenarios exist with respect to specific phytonutrient–drug interactions. A drug and bioactive compound my interact with the same target or targets in opposite or the same direction. Additionally, the drug may inhibit at least one target for which the bioactive is a substrate. For example, diclofenac and eugenol both inhibit cyclooxygenase-2 (COX-2), while diclofenac also inhibits the cytochrome CYP2E1 for which eugenol is a substrate (Auxtera et al., 2021) [R].
+
+From a chemical perspective, bioactive compounds with a phenolic group (i.e., genistein, daidzein) are known to inhibit cytochromes as CYP2C9. Terpenes and flavonoids have been shown to modulate various transporters, which may have the advantage of increasing the absorption of poorly absorbed drug while conversely promoting potential toxicity of drugs with narrow therapeutic windows (Auxtera et al., 2021) [R].
+
+Two of the most common phytonutrients associated with the report of serious drug interactions are St. John's wort (Hypericum perforatum) which contains hyperforin and grapefruit (Citrus paradise) which contains furanocoumarins (Asher et al., 2015 [R]; Wilson & Mulik, 2018 [R]). Hyperforin acts as an inducer of cytochromes, most notably CYP3A4, and P-glycoprotein via activation of PXR (Feltrin & Simoes, 2019 [R]; Murtaza et al., 2019 [R]; Hogle et al., 2018 [R]). Furanocoumarins act as inhibitors of cytochromes and can also modulate P-gp (Feltrin & Simoes, 2019 [R]; Murtaza et al., 2019 [R]).
+
+Various other phytonutrients for which less frequent interactions with drugs have been reported include ginkgo, ginger, ginseng, garlic, valerian, curcumin, cranberry, Echinacea, and Camellia (green tea) (Izzo et al., 2016 [R]; Briguglio et al., 2018 [R]; Posadki et al., 2012 [R]; Feltrin & Simoes, 2019 [R]; Liu et al., 2015 [R]; Tsai et al., 2012 [R]; Ge et al., 2014 [R]; Awortew et al., 2018 [R]; Awortwe et al., 2019 [R]; Asher et al., 2017 [R]; Wilson et al., 2016 [R]). The most common drugs that are involved in interactions with phytonutrients due to their metabolism by CYPs and/or transport by P-gp and OATPs involve anticoagulants, hormones including insulin, and cardiovascular drugs (most notably digoxin) with fewer interactions being reported that involve antineoplastic and immunosuppressive agents, neuroactive drugs and anti-infective agents.
+
+Various studies have examined and reported on the potential for hepatotoxicity due to phytonutrient–drug interactions (Wang et al., 2016 [R]; Parvez & Rishi, 2019 [R]). Various reviews also exist regarding specific drugs with phytonutrients. The most probable mechanism for the occurrence of hepatotoxicity involves the formation of reactive metabolites which react with cellular components as proteins, DNA, and membranes, subsequently resulting in the overproduction of reactive oxygen species, oxidative stress and cellular dysfunction. Fortunately, the most potentially hepatotoxic herbals as Evodia, Rheum, Senecio, Angelica and Psoralea species are not commonly used.
+
+Finally, adverse effects of drugs that are frequently overlooked involve the impact of drugs on micronutrients/nutrients and the production of nutritional deficiencies (Amadi & Mgbahurike, 2018 [R]; Gurley et al., 2018 [R]). In some cases, it is the drug that causes nutrition-related untoward effects. Several examples are provided. Long-term use of proton pump inhibitors can result in severe iron deficiency anemia (Dado et al., 2017) [R], hypomagnesemia (William & Danziger, 2016) [R], and hypocalcemia (Liamis et al., 2009) [R]. Other drugs that can cause hypocalcemia include aminoglycoside antibiotics, antiepileptics, bisphosphonates and cisplatin (Liamis et al., 2009) [R]. Furthermore, proton pump inhibitors, H2-receptor antagonists and metformin can product vitamin B-2 deficiency, resulting in megaloblastic anemia and neurological disorders (Chapman et al., 2016 [R]; Miller, 2018 [R]). Other examples could be provided. It is important for the clinician to keep in mind that adverse effects beyond those of a toxicological nature can occur in response to various drugs.
+
+A rapidly growing body of information is available regarding phytonutrient/nutrient–drug interactions. The targets of a large number of phytochemicals have been catalogued, and the mechanisms of most drugs have been elucidated, therefore enabling the prediction of potential interactions. However, in general, nutraceuticals contain more than one bioactive phytochemical and therefore, predicting interactions is not always straight forward. Based on the wide-spread use of phytonutrients, dietary supplements, and herbal medicines as well as the plethora of drugs used in modern medicine, the occurrence of interactions is not unexpected. Fortunately, the number of serious life-threatening interactions is relatively small, in part due to the growing understanding of most prominent mechanisms as well as most likely and clinically relevant drugs and nutraceuticals that are involved. Healthcare professionals must ascertain phytonutrient/dietary supplement/herbal medicine product use histories and be aware of the common pharmacokinetic and pharmacodynamics interactions that can affect therapeutic outcomes of drugs. In addition, the fact that drugs can interfere with, and cause deficiencies of various essential nutrients should also be kept in mind.
+
+Agbabiaka, TB. et al. (2018). Prevalence of drug-herb and drug-supplement interactions in older adults: a cross-sectional survey. [R] Br. J. Gen. Pract., 68 (675) e711–717.
+
+https://pubmed.ncbi.nlm.nih.gov/30249608/
+
+Amadi, CN. & Mgbahurike, AA. (2018). Selected food/herb-drug interactions: mechanisms and clinical relevance. [R] Am J Ther., 25(4): e425–e433. https://pubmed.ncbi.nlm.nih.gov/29232282/
+
+Arora, G., Arora, A., Chaudary, V., Kamlija, M., & Kamlija, H. (2022). Possible herbal-drug interactions: An evidenced base review. Altern. Ther. Health Med. 28(2): 70–77.
+
+https://pubmed.ncbi.nlm.nih.gov/33038080/
+
+Asher, GN., Corbett, AH., Hawke, RL. (2017). Common herbal dietary supplement-drug interactions. [R] Am Fam Physician, 96 (2): 101–107. https://pubmed.ncbi.nlm.nih.gov/28762712/
+
+Auxtero, MD., Chalante, S., Abade, MR., Jorge, R., & Fernandes, AI. (2021). Potential herb-drug interactions in the management of age-related cognitive dysfunction. Pharmaceutics. 2021, 13(1): 124. https://pubmed.ncbi.nlm.nih.gov/33478035/
+
+Awortwe, C., Makiwane, M., Reuter, H., et al. (2018). Critical evaluation of causality assessment of herb-drug interactions in patients. [R] Br J Clin Pharmacol., 84(4): 679–693. https://pubmed.ncbi.nlm.nih.gov/29363155/
+
+Awortwe, C., Bruckmueller, H., Cascorbi, I. (2019). Interaction of herbal products with prescribed medications: a systematic review and meta-analysis. [R] Pharmacol Res. 141: 397–408. https://pubmed.ncbi.nlm.nih.gov/30660822/
+
+Briguglio, M., Hrelia, S., Malaguti, M. et al. (2018). Food bioactive compounds and their interference in drug pharmacokinetic/pharmacodynamics profiles. [R] Pharmaceutics, 10(4):277. https://pubmed.ncbi.nlm.nih.gov/30558213/
+
+Chapman, LE., Darling, AL. & Brown JE. (2016). Association between metformin and vitamin B12 deficiency in patients with type 2 diabetes: a systematic review and meta-analysis. [R] Diabetes Metab., 42(5): 316–327. https://pubmed.ncbi.nlm.nih.gov/27130885/
+
+Dado, DN., Loesch, EB., Jaganathan, SP. (2017). A case of severe iron deficiency anemia associated with long-term proton pump inhibitor use. [R] Curr Ther Res Clin Exp., 84: 1–3.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5522969/
+
+Feltrin, C. & Simöes, CMO. (2019). Reviewing the mechanisms of natural product-drug interactions involving efflux transporters and metabolic enzymes. [R] Chem Biol Interact., 314:1–8825. Doi:https://doi.org/10.1016/j.cbi.2019.108825.
+
+Ge, B., Zhang, Z. & Zuo, Z. (2014). Updates on the clinical evidenced herb-warfarin interactions. [R] Evidenced-based Comp Alt Med., doi: https://doi.org/10.1155/2014/957362.
+
+Gurley, BJ. et al., (2018). Clinically relevant herb-micronutrient interactions: When botanicals, minerals, and vitamins collide. [R] Adv Nutr., 9(4): 524S–532S.
+
+Hogle, BC., et al. (2018). PXR as a mediator of herb-drug interaction. [R] J Food Drug Anal., 26(2S): S26–S31. https://pubmed.ncbi.nlm.nih.gov/29703383/
+
+Izzo, AA. et al. (2016). A critical approach to evaluating clinical efficacy. Adverse events and drug interactions of herbal remedies. [R] Phytother Res., 30 (5):691–700. https://pubmed.ncbi.nlm.nih.gov/26887532/
+
+Liamis, G., Milionis, HJ. & Elisaf, M. (2009). A review of drug-induced hypocalcemia. [R] J Bone Min Metabo, 27(6): 635–642. https://pubmed.ncbi.nlm.nih.gov/19730969/
+
+Liu, MZ., Zhang, YL., Zeng, MZ., et al. (2015). Pharmacogenomics and herb-drug interactions: merge of future and tradition. [R] Evidence-Based Comp Alt Med., 2015:321091. https://pubmed.ncbi.nlm.nih.gov/25821484/
+
+Miller, JW. (2018). Proton pump inhibitors, H2 antagonists, metformin, and vitamin B12 deficiency: clinical implications. [R] Adv Nutr., 9(4): 511S–518S. https://pubmed.ncbi.nlm.nih.gov/30032223/
+
+Murtaza, G., Ullah, N., Mukhtar, F., et al. (2017). Phytotherapeutics: The emerging role of intestinal and hepatocellular transporters in drug interactions with botanical supplements. [R] Molecules, 22(10), doi: https://doi.org/10.3390/molecules22101699.
+
+Parvez, M. & Rishi, V. (2019). Herb-drug interactions and hepatotoxicity. [R] Curr Drug Metab. 2019; 20(4): 275–282. https://pubmed.ncbi.nlm.nih.gov/30914020/
+
+Posadzki, P. (2012). Herb-drug interactions: an overview of systematic reviews. [R] Br J Clin Pharmacol., 75(3): 603–618. https://pubmed.ncbi.nlm.nih.gov/22670731/
+
+Wang, L., et al. (2016). Mechanism-based inhibitors from phytomedicine: Risks of hepatotoxicity and their potential hepatotoxic substances. [R] Curr Drug Metab. 17(10): 971–991.
+
+https://pubmed.ncbi.nlm.nih.gov/27890005/
+
+Werba, JP., Misaka, S., Giroli, MG., et al. (2018). Update of green tea interactions with cardiovascular drugs and putative mechanisms. [R] J Food Drug Anal., 26(2S): S72–S77. https://pubmed.ncbi.nlm.nih.gov/29703388/
+
+William, JH. & Danziger, J. (2016). Magnesium deficiency and proton-pump inhibitor use: a clinical review. [R] J. Clin Pharmacol. 2016; 56(6):660–666. https://pubmed.ncbi.nlm.nih.gov/26582556/
+
+Wilson, V. & Mulik, SK. (2018). Herb-drug interactions in neurological disorders: a critical appraisal. [R] Curr Drug Metabo., 19(5): 443–453. https://pubmed.ncbi.nlm.nih.gov/29086684/
+
+Yeung, SK., Gubili, J. & Mao JJ. (2018). Herb-drug interactions in cancer care. Oncology, 32(10): 516–520. [R] https://pubmed.ncbi.nlm.nih.gov/30334243/
+
+Drugs and chemicals may exhibit adverse drug reactions (ADRs or adverse drug effects) that may include unwanted (side effects), uncomfortable (system dysfunction), or dangerous effects (toxic). ADRs are a form of manifestation of toxicity which may occur after over-exposure or high-level exposure or, in some circumstances ADRs may also occur after exposure to therapeutic doses but often an underlying cause (pre-existing condition) is present. In contrast, ‘Side effect’ is an imprecise term often used to refer to a drug's unintended effects that occur within the therapeutic range (Merck Manuel). Risk–benefit analysis provides a window into the decision-making process prior to prescribing a medication. Patient characteristics such as age, gender, ethnic background, pre-existing conditions, nutritional status, genetic pre-disposition or geographic factors, as well as drug factors (e.g., type of drug, administration route, treatment duration, dosage, and bioavailability) may profoundly influence ADR outcomes. Drug-induced adverse events can be categorized as unexpected, serious or life-threatening.
+
+Adverse drug reactions are graded according to intensity, using a scheme that was originally introduced by the US National Cancer Institute to describe the intensity of reactions to drugs used in cancer chemotherapy (NCI, 2006). This scheme is now widely used to grade the intensity of other types of adverse reactions, although it does not always apply so clearly to them. The scheme assigns grades as follows:
+
+Grade 1 ≡ mild;
+
+Grade 2 ≡ moderate;
+
+Grade 3 ≡ severe;
+
+Grade 4 ≡ life-threatening or disabling;
+
+Grade 5 ≡ death.
+
+Then, instead of providing general definitions of the terms “mild”, “moderate”, “severe”, and “life-threatening or disabling”, the system describes what they mean operationally in terms of each adverse reaction, in each case the intensity being described in narrative terms. For example, hemolysis is graded as follows:
+
+Grade 1: Laboratory evidence of hemolysis only (e.g., direct antiglobulin test; presence of schistocytes).
+
+Grade 2: Evidence of red cell destruction and ≥2 g/dL decrease in hemoglobin, no transfusion.
+
+Grade 3: Transfusion or medical intervention (for example, steroids) indicated.
+
+Grade 4: Catastrophic consequences (for example, renal failure, hypotension, bronchospasm, emergency splenectomy).
+
+Grade 5: Death.
+
+Not all adverse reactions are assigned all grades. For example, serum sickness is classified as being of grade 3 or grade 5 only, i.e., it is always either severe or fatal.
+
+The system is less good at classifying subjective reactions. For example, fatigue is graded as follows:
+
+Grade 1: Mild fatigue over baseline.
+
+Grade 2: Moderate or causing difficulty performing some activities of daily living.
+
+Grade 3: Severe fatigue interfering with activities of daily living.
+
+Grade 4: Disabling.
+
+Attribution categories can be defined as follows:
+
+Definite: The adverse event is clearly related to the investigational agent(s).
+
+Probable: The adverse event is likely related to the investigational agent(s).
+
+Possible: The adverse event may be related to the investigational agent(s).
+
+Unlikely: The adverse event is doubtfully related to the investigational agent(s).
+
+Unrelated: The adverse event is clearly NOT related to the investigational agent(s).
+
+Merck Manuals: http://www.merckmanuals.com/professional/clinical_pharmacology/adverse_drug_reactions/adverse_drug_reactions.html
+
+National Cancer Institute. Common Terminology Criteria for Adverse Events v3.0 (CTCAE). 9 August, 2006. http://ctep.cancer.gov/protocolDevelopment/electronic_applications/docs/ctcaev3.pdf
+
+The FDA has established five categories to indicate the potential of a drug to cause birth defects if used during pregnancy. The categories are determined by the reliability of documentation and the risk to benefit ratio. They do not take into account any risks from pharmaceutical agents or their metabolites in breast milk. The pregnancy categories are:
+
+Adequate and well-controlled studies have failed to demonstrate a risk to the fetus in the first trimester of pregnancy and there is no evidence of risk in later trimesters.
+
+Example drugs or substances: levothyroxine, folic acid, magnesium sulfate, liothyronine.
+
+Animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women.
+
+Example drugs: metformin, hydrochlorothiazide, cyclobenzaprine, amoxicillin, pantoprazole.
+
+Animal reproduction studies have shown an adverse effect on the fetus and there are no adequate and well-controlled studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.
+
+Example drugs: tramadol, gabapentin, amlodipine, trazodone, prednisone.
+
+There is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience or studies in humans, but potential benefits may warrant use of the drug in pregnant women despite potential risks.
+
+Example drugs: lisinopril, alprazolam, losartan, clonazepam, lorazepam.
+
+Studies in animals or humans have demonstrated fetal abnormalities and/or there is positive evidence of human fetal risk based on adverse reaction data from investigational or marketing experience, and the risks involved in use of the drug in pregnant women clearly outweigh potential benefits.
+
+Example drugs: atorvastatin, simvastatin, warfarin, methotrexate, finasteride.
+
+FDA has not classified the drug.
+
+Example drugs: aspirin, oxycodone, hydroxyzine, acetaminophen, diazepam.
+
+Examples of drugs approved since June 30th, 2015 showing various new pregnancy and lactation subsections in their labels:
+
+Addyi (flibanserin)—indicated for generalized hypoactive sexual desire disorder (HSDD) in premenopausal women.
+
+Descovy (emtricitabine and tenofovir alafenamide fumarate)—indicated for HIV-1 infection.
+
+Entresto (sacubitril and valsartan)—indicated for heart failure.
+
+Harvoni (ledipasvir and sofosbuvir)—indicated for chronic viral hepatitis C infection (HCV).
+
+Praluent (alirocumab)—indicated for heterozygous familial hypercholesterolemia, or patients with atherosclerotic heart disease who require additional lowering of LDL-cholesterol.
+
+Vosevi (sofosbuvir, velpatasvir and voxilaprevir)—indicated for chronic hepatitis C infection (HCV).
+
+Nerlynx (neratinib)—indicated for early stage HER2-overexpressed breast cancer, following adjuvant trastuzumab-based therapy.
+
+Rituxan Hycela (rituximab and hyaluronidase human)—indicated for follicular lymphoma, diffuse large B-cell lymphoma (DLBCL), and chronic lymphocytic leukemia (CLL).
+
+Mydayis (amphetamine mixed salts)—indicated for attention deficit hyperactivity disorder (ADHD).
+
+Kevzara (sarilumab)—indicated for rheumatoid arthritis.
+
+Radicava (edaravone)—indicated for amyotrophic lateral sclerosis (AML).
+
+Imfinzi (durvalumab)—indicated for urothelial carcinoma
+
+On December 3, 2014, the FDA issued a final rule for the labeling of drugs during pregnancy and lactation, titled “Content and Format of Labeling for Human Prescription Drug and Biological Products; Requirements for Pregnancy and Lactation Labeling”; this rule is also informally known as the “Pregnancy and Lactation Labeling Rule (PLLR)”.
+
+The rule changes the content and format for drug labeling information and the new labeling requirements include:
+
+Elimination the pregnancy letter categories (A, B, C, D and X) ○ Text provides specific information in each section to assist with making benefit–risk decisions when medication is needed
+
+Text provides specific information in each section to assist with making benefit–risk decisions when medication is needed
+
+Labeling sections are changed ○ Old: Pregnancy, Labor and Delivery, Nursing Mothers ○ New: Pregnancy (includes L&D), Lactation (includes nursing mothers), Females and Males of Reproductive Potential
+
+Old: Pregnancy, Labor and Delivery, Nursing Mothers
+
+New: Pregnancy (includes L&D), Lactation (includes nursing mothers), Females and Males of Reproductive Potential
+
+Requirement that the label is updated as new information becomes available
+
+The PLLR changes are effective as of June 30, 2015. Prescription medications and biologics approved after this date will use the new format while older material will have a 3-year phase-in for the new labeling. These changes are not applicable to over-the-counter (OTC) products.
+
+Australian classification: https://www.tga.gov.au/australian-categorisation-system-prescribing-medicines-pregnancy#.U038WfmSx8E
+
+Doering, PL., Boothby, LA. & Cheok, M. (2002). Review of pregnancy labeling of prescription drugs: is the current system adequate to inform of risks? Am J Obstet Gynecol., 187(2): 333–9. https://pubmed.ncbi.nlm.nih.gov/12193921/
+
+Drugs.com: http://www.drugs.com/pregnancy-categories.html
+
+FDA. Pregnancy and Lactation Labeling (Drugs) Final Rule. [S] https://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm450636.pdf; https://www.fda.gov/Drugs/DevelopmentApprovalProcess/DevelopmentResources/Labeling/ucm093307.htm
+
+FDA/CDER SBIA Chronicles. Drugs in Pregnancy and Lactation: Improved Benefit–Risk Information. January 22, 2015. [S]
+
+http://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/SmallBusinessAssistance/UCM431132.pdf
+
+FDA Consumer Articles. Pregnant? Breastfeeding? Better Drug Information Is Coming. Updated: December 17, 2014. [S] URL: https://www.drugs.com/fda-consumer/pregnant-breastfeeding-better-drug-information-is-coming-334.html
+
+FDA News Release. FDA issues final rule on changes to pregnancy and lactation labeling information for prescription drug and biological products. December 3, 2014. [S] URL: http://www.fda.gov/NewsEvents/Newsroom/PressAnnouncements/ucm425317.htm
+
+Mospan C. New Prescription Labeling Requirements for the Use of Medications in Pregnancy and Lactation. CE for Pharmacists. Alaska Pharmacists Association. April 15, 2016. [S] URL: http://www.alaskapharmacy.org/files/CE_Activities/0416_State_CE_Lesson.pdf
+
+Ramoz, LL. & Patel-Shori, NM. (2014). Recent changes in pregnancy and lactation labeling: retirement of risk categories. [R] Pharmacotherapy, 34(4):389–95. https://pubmed.ncbi.nlm.nih.gov/24390829/
+
+Schaefer C. (2018). Drug safety in pregnancy-a particular challenge. Bundesgesundheitsblatt Gesundheitsforschung Gesundheitsschutz. [R] https://www.ncbi.nlm.nih.gov/pubmed/30094469
+
+Wesley, BD., et al. (2021). Prescription medications for use in pregnancy-perspective from the US Food and Drug Administration. [R] Am J Obstet Gynecol., 225(1):21–32. https://pubmed.ncbi.nlm.nih.gov/34215352/
+
+Adverse drug events, including ADRs, side effects, drug-;induced diseases, toxicity, pharmacogenetic, immunologic, drug–drug, drug–gene and drug–phytonutrient interactions represent a significant burden to patients, health care systems, and society. It is the goal of Side Effects of Drugs Annual to summarize and evaluate important new evidence-based information in order to guide clinicians in the monitoring, assessment and prevention of adverse drug events in their patients. This review provides not only a summary of this essential new data, but suggestions for how it may be interpreted and possible implications for practice.

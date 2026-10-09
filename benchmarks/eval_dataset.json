@@ -1,0 +1,102 @@
+[
+  {
+    "id": "qa_01_clozapine_malignancy",
+    "question": "What is the relationship between cumulative clozapine exposure and the risk of hematologic malignancy?",
+    "doc_id": "PMC_CLOZAPINE_01",
+    "context_passage": "Risk was dose-dependent, where cumulative clozapine exposures from 3000-4999 DDD (OR 1.78 [95% CI 1.13-2.79]) and >= 5000 DDD (OR 1.81 [95% CI 1.24-2.64]) were significantly associated with malignancy risk, but exposures < 3000 DDD were not. Similarly, clozapine exposure of five or more years was associated with malignancy risk (OR=1.88; 95% CI: 1.43-2.47), but shorter durations were not. Conclusions: This study found a dose-dependent increased risk of hematologic malignancy associated with clozapine exposure.",
+    "ground_truth_claims": [
+      "The risk of hematologic malignancy is dose-dependent on cumulative clozapine exposure.",
+      "Cumulative clozapine exposures from 3000-4999 DDD are significantly associated with malignancy risk (OR 1.78, 95% CI 1.13-2.79).",
+      "Cumulative clozapine exposures >= 5000 DDD are significantly associated with malignancy risk (OR 1.81, 95% CI 1.24-2.64).",
+      "Cumulative clozapine exposures under 3000 DDD are not significantly associated with malignancy risk.",
+      "Clozapine exposure of five or more years is associated with malignancy risk (OR 1.88, 95% CI 1.43-2.47)."
+    ]
+  },
+  {
+    "id": "qa_02_cardiac_irae",
+    "question": "What are the recommended treatments and monitoring protocols for cardiac immune-related adverse events (irAEs)?",
+    "doc_id": "PMC_CARDIO_02",
+    "context_passage": "The treatment of cardiac irAEs is mainly supportive and includes the use of corticosteroids, immunosuppressive agents, and/or IV immunoglobulin. In some cases, it may be necessary to temporarily interrupt or discontinue immune checkpoint inhibitors (ICIs) therapy. Close monitoring of cardiac function is necessary during and after treatment, and includes frequent ECGs, echocardiograms, and biomarker evaluations. Patients with moderate or severe cardiac irAEs may require hospitalization for close monitoring.",
+    "ground_truth_claims": [
+      "Treatment of cardiac irAEs is mainly supportive.",
+      "Supportive therapy for cardiac irAEs includes corticosteroids, immunosuppressive agents, and intravenous immunoglobulin.",
+      "Immune checkpoint inhibitor therapy may need to be temporarily interrupted or discontinued.",
+      "Cardiac monitoring includes frequent ECGs, echocardiograms, and biomarker evaluations.",
+      "Moderate or severe cardiac irAEs may require hospitalization."
+    ]
+  },
+  {
+    "id": "qa_03_ild_respiratory_support",
+    "question": "What evidence exists regarding non-invasive respiratory support in interstitial lung diseases with acute respiratory failure?",
+    "doc_id": "PMC_RESP_03",
+    "context_passage": "Introduction: The data of non-invasive respiratory support (non-invasive positive pressure ventilation; NIPPV and high flow nasal cannula; HFNC) in interstitial lung diseases (ILDs) with acute respiratory failure (ARF) are scarce. Our study aimed to identify the benefits of non-invasive respiratory support on this patient subgroup. Methods: MEDLINE, EMBASE and the Cochrane Library searches were conducted from 1946 to June 2022. Results: Of 380 studies, 9 articles were included in the meta-analysis.",
+    "ground_truth_claims": [
+      "Data regarding non-invasive respiratory support in interstitial lung diseases with acute respiratory failure are scarce.",
+      "Non-invasive respiratory support includes non-invasive positive pressure ventilation and high-flow nasal cannula.",
+      "Databases searched included MEDLINE, EMBASE, and the Cochrane Library from 1946 to June 2022.",
+      "From 380 studies identified, 9 articles met criteria for inclusion in the meta-analysis."
+    ]
+  },
+  {
+    "id": "qa_04_hfnc_icu_mortality",
+    "question": "What were the intubation rates and mortality outcomes for patients failing HFNC in the ICU?",
+    "doc_id": "PMC_ICU_04",
+    "context_passage": "Results: 94 patients were admitted during the study period. ICU mortality rate was 22% (21/94), total in-hospital mortality was 38% (36/94). HFNC was used as first line respiratory support in 58/94 cases, of which 39.6% required intubation. Of those patients who failed HFNC, time to intubation was significantly higher in those patients who passed away than those who were intubated and survived (mean 6.08 days vs 2.86 days, p < 0.05). In all patients, very late intubation defined as intubation > 5d post admission, occurred in 6/41 patients, of which the mortality rate was 100%.",
+    "ground_truth_claims": [
+      "In total, 94 patients were admitted during the study period.",
+      "The ICU mortality rate was 22% and in-hospital mortality was 38%.",
+      "HFNC was utilized as first-line support in 58 of 94 patients, with 39.6% requiring intubation.",
+      "Patients who died following HFNC failure had a significantly higher time to intubation than survivors (6.08 days vs 2.86 days, p < 0.05).",
+      "Very late intubation (> 5 days post-admission) had a 100% mortality rate (6 of 6 patients)."
+    ]
+  },
+  {
+    "id": "qa_05_myocarditis_ecg",
+    "question": "Can a normal ECG rule out myocarditis, and what diagnostic limitations exist for ECG and troponin?",
+    "doc_id": "PMC_MYO_05",
+    "context_passage": "Although ECG and troponin tests are commonly used to diagnose myocarditis, they do not have the sensitivity and specificity required for diagnosis and can be abnormal because of other cardiovascular disorders. Sinus tachycardia, QRS/QT prolongation, conduction abnormalities, diffuse T-wave inversion, Q waves, and ST elevation may be present. A normal electrocardiogram (ECG) does not rule out myocarditis, despite the fact that abnormalities are present upon presentation in the vast majority of individuals.",
+    "ground_truth_claims": [
+      "ECG and troponin testing lack the necessary sensitivity and specificity to independently diagnose myocarditis.",
+      "ECG and troponin abnormalities can be caused by other cardiovascular disorders.",
+      "A normal ECG does not rule out a diagnosis of myocarditis.",
+      "Abnormalities in ECG are present upon presentation in the vast majority of myocarditis patients."
+    ]
+  },
+  {
+    "id": "qa_06_clozapine_inflammation_crp",
+    "question": "How does inflammation impact clozapine metabolism, and what role does CRP monitoring play?",
+    "doc_id": "PMC_CRP_06",
+    "context_passage": "While the clinical presentation of inflammatory adverse drug reactions (ADRs) is heterogeneous, underlying inflammation may also result in decreased clozapine metabolism. It is theorized that this acute increase of clozapine concentration further perpetuates the inflammatory process. Reported is a case demonstrating how CRP monitoring may have prevented clozapine-related ADRs. While the exact mechanism is unknown, clozapine has direct impact on cytokine production and inflammatory response.",
+    "ground_truth_claims": [
+      "Underlying systemic inflammation may decrease clozapine metabolism.",
+      "Decreased metabolism causes an acute increase in clozapine concentration, theorized to perpetuate inflammation.",
+      "CRP monitoring may assist in preventing or identifying clozapine-related adverse drug reactions.",
+      "Clozapine directly affects cytokine production and the inflammatory response."
+    ]
+  },
+  {
+    "id": "qa_07_pnes_pharmacotherapy",
+    "question": "What is psychogenic nonepileptic seizures (PNES) and what evidence was reported for escitalopram?",
+    "doc_id": "PMC_PNES_07",
+    "context_passage": "Psychogenic nonepileptic seizures (PNES) is a somatoform disorder diagnosis given to patients who experience involuntary seizure-like episodes without any associated findings of electrophysiological epileptic changes. Escitalopram was shown initially to be effective in reducing the frequency and severity of PNES episodes, in addition to improving depression and anxiety. This is the first case report of effectively treating PNES symptoms with escitalopram and concomitant psychotherapy.",
+    "ground_truth_claims": [
+      "PNES is a somatoform disorder involving involuntary seizure-like episodes without electrophysiological epileptic changes.",
+      "PNES is frequently misdiagnosed as epilepsy.",
+      "Escitalopram with concomitant psychotherapy was shown to reduce the frequency and severity of PNES episodes.",
+      "Escitalopram improved comorbid depression and anxiety in the reported case."
+    ]
+  },
+  {
+    "id": "qa_08_uppsala_signal_prioritization",
+    "question": "What are the core triggers for signal prioritization at Uppsala Monitoring Centre?",
+    "doc_id": "PMC_UMC_08",
+    "context_passage": "At Uppsala Monitoring Centre, the following points are among triggers for prioritizing further evaluation: new, or new aspects of, adverse events with fatal, life-threatening or otherwise serious outcomes; vulnerable populations; essential medicines; or conditions that are commonly caused by drugs. In the signal assessment process, attention will be paid to the strength of evidence, quality of data, clinical relevance, risk factors and opportunities for risk mitigation.",
+    "ground_truth_claims": [
+      "Triggers for signal prioritization include new or serious aspects of adverse events with fatal or life-threatening outcomes.",
+      "Triggers include signals involving vulnerable populations.",
+      "Triggers include signals concerning essential medicines.",
+      "Triggers include clinical conditions commonly drug-induced.",
+      "Signal assessment evaluates evidence strength, data quality, clinical relevance, and risk mitigation opportunities."
+    ]
+  }
+]

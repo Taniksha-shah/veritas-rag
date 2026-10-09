@@ -1,0 +1,14 @@
+{
+  "input_records": 277,
+  "valid_records_before_dedup": 277,
+  "exact_duplicates_removed": 0,
+  "near_duplicates_removed": 0,
+  "final_records": 277,
+  "rejected_records": 0,
+  "quality_flagged_records": 18,
+  "train_records": 221,
+  "validation_records": 27,
+  "test_records": 29,
+  "random_seed": 42,
+  "near_duplicate_threshold": 0.95
+}

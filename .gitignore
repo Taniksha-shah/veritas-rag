@@ -1,0 +1,29 @@
+# Environment & Secrets (NEVER COMMIT KEYS)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Model checkpoints & large indices
+stage_a_model/
+veritas_index/
+audit_logs/*.jsonl
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

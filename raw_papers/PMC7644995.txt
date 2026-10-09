@@ -1,0 +1,23 @@
+Other adverse reaction research
+
+Below is a list of other recently published drug safety-related scientific literature.
+
+Cheung CYS, et al. Direct Oral Anticoagulant Use in Chronic Kidney Disease and Dialysis Patients With Venous Thromboembolism: A Systematic Review of Thrombosis and Bleeding Outcomes. Annals of Pharmacotherapy : 1060028020967635, 19 Oct 2020. Available from: URL: http://dx.doi.org/10.1177/1060028020967635
+
+Cumenal M, et al. The safety of medications used to treat peripheral neuropathic pain, part 2 (opioids, cannabinoids and other drugs): review of double-blind, placebo-controlled, randomized clinical trials. Expert Opinion on Drug Safety : 26 Oct 2020. Available from: URL: https://doi.org/10.1080/14740338.2021.1842871
+
+Hilmi M, et al. Cardiotoxicity Associated with Gemcitabine: Literature Review and a Pharmacovigilance Study. Pharmaceuticals : 21 Oct 2020. Available from: URL: https://doi.org/10.3390/ph13100325
+
+Lingineni K, et al. Quantitative Benefit-Risk Assessment of P-gp Mediated Drug-Drug Interactions (DDIs) of Dabigatran Co-Administered with Pharmacokinetic Enhancers in Patients with Renal Impairment. Clinical Pharmacology and Therapeutics : 19 Oct 2020. Available from: URL: http://dx.doi.org/10.1002/cpt.2087
+
+Mohamoud M, et al. Complementary Use of U.S. FDA&apos;s Adverse Event Reporting System and Sentinel System to Characterize Direct Oral Anticoagulants-Associated Cutaneous Small Vessel Vasculitis. Pharmacotherapy : 8 Oct 2020. Available from: URL: http://dx.doi.org/10.1002/phar.2468
+
+Naushad SM, et al. Pharmacogenetic profiling of dihydropyrimidine dehydrogenase (DPYD) variants in the Indian population. Journal of Gene Medicine : 26 Oct 2020. Available from: URL: https://doi.org/10.1002/jgm.3289
+
+Patil T, et al. Proton pump inhibitor utilization in veteran patients on combined antithrombotic therapy and validation of simplified bleeding risk score. Pharmacotherapy : 19 Oct 2020. Available from: URL: http://dx.doi.org/10.1002/phar.2477
+
+Surapat B, et al. Role of clinical pharmacists in telemonitoring for patients with Coronavirus Disease 2019 (COVID-19). Internet Document : 21 Oct 2020. Available from: URL: https://doi.org/10.1111/jcpt.13293
+
+Thurin NH, et al. Empirical assessment of case-based methods for identification of drugs associated with acute liver injury in the French National Healthcare System database (SNDS). Pharmacoepidemiology and Drug Safety : 25 Oct 2020. Available from: URL: http://dx.doi.org/10.1002/pds.5161
+
+Wintzell V, et al. Data Mining for Adverse Events of Tumor Necrosis Factor-Alpha Inhibitors in Pediatric Patients: Tree-Based Scan Statistic Analyses of Danish Nationwide Health Data. Clinical Drug Investigation : 26 Oct 2020. Available from: URL: https://doi.org/10.1007/s40261-020-00977-5

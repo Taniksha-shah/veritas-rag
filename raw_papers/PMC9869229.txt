@@ -1,0 +1,655 @@
+The 6th European Pharmacovigilance Congress: speaker abstracts
+
+Marco Sardella1 and Lucia Costanzo2
+
+1Chief Pharmacovigilance Officer and EU-UK QPPV, ADIENNE Pharma; Biotech–Chairperson and scientific board member for EU PV Congress
+
+2Senior Conference Manager, PEC; Responsible Person for EU PV Congress
+
+The sixth edition of the European Pharmacovigilance Congress, organized by the Pharma Education Centre, was a mixed event broadcasted online on 7 and 8 November 2022, and in-person in Milan on 10 November 2022. The congress was remarkably successful, with speakers and delegates from five continents, from regulatory agencies, expert patient organizations, academia, pharmaceutical companies, service providers and international pharmacovigilance organizations such as the Council for International Organizations of Medical Sciences (CIOMS), the International Society of Pharmacovigilance (ISoP) and the Uppsala Monitoring Centre (UMC).
+
+During the Congress, new strategies for a redesign of pharmacovigilance were discussed to facilitate earlier detection of safety signals, and for the prediction and prevention of adverse drug reactions (ADRs). ADRs are among the most frequent causes of hospitalization and are one of the leading causes of death worldwide.1–3 Hospitalizations due to ADRs have reached up to 10% in Europe and up to 30% in other Countries such as in the United States, where the costs associated with their handling represent a significant burden on the health care system with a mean cost of US$30 billion per year.4 It is therefore easy to understand how the costs behind the management of ADRs could be difficult to sustain or even be unsustainable, especially in low-income countries.
+
+Today, the search for potential signals relies heavily on disproportionality analysis and/or other statistical methodologies in large ADR databases.1 Even if these methodologies on the hand help in the identification of short term reactions, they may on the other hand not be sensitive enough to detect weaker drug–event associations with greater public health impact, missing certain ADRs, or only making their detection with notable delay.1,5 The massive increase in safety reporting caused by the pandemic has further contributed to the background noise, thus making weaker associations even more difficult to detect (e.g. in Europe there has been a 93% increase of individual case study reports (ICSRs) in EudraVigilance compared with the previous year as a consequence of the pandemic).6 It is therefore of utmost importance to adopt new strategies that improve the efficiency and effectiveness of the current pharmacovigilance systems, allowing wherever possible the prediction of ADRs, their rapid identification and the detection of weaker associations.
+
+The European Pharmacovigilance Congress 2022 included 12 different sessions. Key topics were as follows:
+
+Benefit–risk and signal detection, including the methodologies according to the current guidelines and the use of a new probabilistic tool for the assignment of causality in signal detection;
+
+Serious cutaneous adverse reactions (SCARS);
+
+Artificial intelligence in pharmacovigilance as a path to facilitate the identification of ADRs;
+
+Safety of gene therapies;
+
+Updates on EU and extra-EU pharmacovigilance regulatory requirements;
+
+Pharmacovigilance databases and pharmacoepidemiology, focusing on the importance of real-world data and evidence in pharmacovigilance, as well as updates from the UMC on the WHO Programme for International Drug Monitoring and examples of monitoring and evaluation of data collected through registries from the Italian Medicines Agency (AIFA);
+
+Safety of COVID-19: prevention and therapeutic options;
+
+Patient centricity as important pillar for the development, regulation and safety use of medicines;
+
+Pharmacovigilance (PV) inspections and audits (European and non-European trends);
+
+Quality in global PV systems;
+
+Interface between PV and good manufacturing practice/good distribution practice (GMP/GDP), including an emphasis on the need to strengthen the integration between pharmacovigilance and quality, manufacturing and distribution systems over the product life cycle. This would improve signal detection activities allowing the identification of safety and efficacy issues which may be the consequence of quality defects, variations to manufacturing processes, inadequate quality control testing, storage and control over the distribution channels. A better integration of these areas would likewise facilitate the identification of counterfeit or falsified products into the supply chain, a problem that has unfortunately been further accentuated by the pandemic;7
+
+EudraVigilance, the MHRA submission portal and Clinical Trial Information System (CTIS).
+
+The Congress also offered a lectio magistralis on statistical considerations in Pre-Marketing Safety Surveillance. The seventh edition of the European Pharmacovigilance Congress will be held in Milan, Italy, in November 2023.
+
+References
+
+1. Le Louët H and Pitts PJ. Twenty-first century global ADR management: a need for clarification, redesign, and coordinated action. Ther Innov Regul Sci. Epub ahead of print 11 August 2022. DOI: 10.1007/s43441-022-00443-8.
+
+2. Pérez Menéndez-Conde C, Bermejo Vicedo T, Delgado Silveira E, et al. Adverse drug reactions which provoke hospital admission. Farm Hosp 2011; 35: 236–243.
+
+3. Parameswaran Nair N, Chalmers L, Peterson GM, et al. Hospitalization in older patients due to adverse drug reactions – the need for a prediction tool. Clin Interv Aging 2016; 11: 497–505.
+
+4. Sultana J, Cutroneo P and Trifirò G. Clinical and economic burden of adverse drug reactions. J Pharmacol Pharmacother 2013; 4(Suppl. 1): S73–S77.
+
+5. Sardella M and Lungu C. Evaluation of quantitative signal detection in EudraVigilance for orphan drugs: possible risk of false negatives. Ther Adv Drug Saf 2019; 10: 2042098619882819.
+
+6. European Medicines Agency. https://www.ema.europa.eu/en/documents/report/2021-annual-report-eudravigilance-european-parliament-council-commission_en.pdf (accessed 3 October 2022).
+
+7. Sardella M, Belcher G, Lungu C, et al. Monitoring the manufacturing and quality of medicines: a fundamental task of pharmacovigilance. Ther Adv Drug Saf 2021; 12: 20420986211038436.
+
+Giovanni Furlan
+
+Pfizer S.r.l.
+
+According to the decision-theory perspective, before taking an action, the consequences of the action should be pondered:1 the positive and negative consequences of the action and the uncertainties regarding what can happen should be evaluated. This is also applicable to the medicinal products patients take. However, a drug has many favourable and unfavourable effects and not all of them can alter the benefit–risk balance of a drug. Therefore, the focus should be on the important drug effects and what is important is based on the data and on how the data are evaluated.
+
+There are various frameworks describing which data to consider and how to structure them to perform drugs’ benefit–risk evaluation, but the information to consider is rather similar throughout all benefit–risk guidelines.
+
+First, it is necessary to understand the context within which the medicine is used: its indication, the aspects of the medical condition that are being treated that are of most relevance to the patients (e.g. its incidence, duration, mortality and impact on quality of life) and the aspects of the targeted pathology that are being targeted (e.g. symptoms’ relief and prolonged survival).2,3 Then, the nature of key favourable effects, which are usually the clinical trial endpoints, needs to be described in terms of point estimate, confidence interval and/or duration together with key favourable effects differences in important patient subpopulations (defined, for example, by age, sex, genetic polymorphism or organ function). Similarly, the most important risks need to be described and characterized.
+
+At this stage, the data must be presented avoiding interpretations or value judgements. The same is applicable to the many uncertainties of the drugs’ favourable and unfavourable effects that need to be considered. These uncertainties can have many causes, including, but not limited to, the clinical studies’ statistical limitations, the limited external validity of the study results because the population enrolled in the studies is not representative of the patients who will take the medicine in real life, inconsistent findings among different patient subpopulations or inconsistencies between primary and secondary endpoints.
+
+According to European Medicines Agency (EMA) Co-Rapporteur Critical Assessment Report,3 the abovementioned data should be summarized in an effects table that succinctly describes the medicine’s favourable and unfavourable effects, specifies the units for measuring these effects, the magnitude of the effect of the treatment that is being evaluated and of the comparator, the effects’ uncertainties, and their strength of evidence. The data for evaluating a drug’s benefit–risk balance can be presented in different formats in different reports, but it is the type of data to be presented fundamentally remains that included in the effects table.
+
+Once the necessary data are available, the importance of the favourable and unfavourable effects needs to be separately evaluated. The factors to consider are the importance of each favourable effect given the objective of the medicine administered to treat the disease (e.g. if the effect is a surrogate endpoint, what is its importance as compared with clinical endpoints?), the importance of each unfavourable effect given its characteristics such as severity, reversibility, impact on the quality of life, the relevance of the magnitude of each effect as compared with the alternative therapy, and to what extent the effect uncertainties can change the evaluation of its importance.
+
+Finally, the importance of the benefits needs to be compared with that of the risks by evaluating what is the willingness to increase the risk of suffering from an adverse reaction so to increase the expected efficacy. This is a matter of value judgement, but humans all have different values and priorities. Therefore, it is important to define who decides the relative importance of the risk to that of the benefits. At present, pharma companies and patients are involved, and regulators have the last word.
+
+References
+
+1. European Medicines Agency. Benefit-risk methodology project Work package 1 report: description of the current practice of benefit-risk assessment for centralised procedure products in the EU regulatory network. 25 May 2011. https://www.ema.europa.eu/en/documents/report/benefit-risk-methodology-project-work-package-1-report-description-current-practice-benefit-risk_en.pdf (accessed 10 August 2022).
+
+2. U.S. Department of Health and Human Services, Food and Drug Administration. Benefit-risk assessment for new drug and biological products. Draft guidance for the industry. September 2021. https://www.fda.gov/media/152544/download (accessed 10 August 2022).
+
+3. Committee for Medicinal Products for Human Use. Day 80 assessment report – overview and D120 LOQ template with guidance. Rev 8.21. https://www.ema.europa.eu/en/human-regulatory/marketing-authorisation/assessment-templates-guidance#day-80-and-day-120-assessment-report-templates-(containing-guidance)-section (accessed 10 August 2022).
+
+Jan Petracek
+
+iVigee
+
+The standard and concepts of the Periodic Benefit–Risk Evaluation Report [PBRER – based on ICH E2B(R2)] have introduced more robust tools for ongoing evaluation of the benefit-risk profile of medicinal products. After 10 years of implementation and experience, the industry has changed its view on how to perform and report benefits and risks to regulatory authorities. The ongoing evaluation became a standard part of the pharmacovigilance workload and processes have been developed to increase efficiency and clarity. In many companies today, PBRERs are produced based on core documents at Headquarter level. Processes are often semi-automated and advanced analytics may help with the clarity and purpose. However, medical insight may still need to be improved, as the over-reliance on technology may hinder opportunities for a better understanding of the benefit–risk profile. PBRER includes safety specifications based on ICH E2E principles. The same principles have been used for EU risk management plans (RMP) as well. Nevertheless, the objective of EU RMP requires a different threshold of importance for the selection of safety concerns to be managed through RMP. Therefore, there are a growing number of products with different EU RMP and PBRER safety specifications for the same medicinal product. As long as the rationale and thresholds are well explained and understood internally and externally, this division seems to be not only acceptable but even helpful in focusing on things that matter most. The flexibility of benefit–risk methodologies continues to be an important factor in clarity of thinking and communication. Regulatory authorities must understand what methodology has been applied. The explanation of the method is equally important as the results themselves. The one size fits all approach is fortunately not prevailing anywhere in the world and the wide selection of methodologies is getting enriched with new possibilities of real-world evidence, using big data approaches and artificial intelligence (AI).
+
+Panos Tsintis
+
+Council of International Organisations of Medical Sciences (CIOMS)
+
+The Council of International Organisations of Medical Sciences (CIOMS) Working Group (WG) XII Benefit–Risk Balance for Medicinal Products will report on the update and extended scope of CIOMS IV and forward a lifecycle-based approach to benefit–risk assessment of pharmaceuticals to support decision-making and transparent communication.1 The group includes participants from industry, regulators, academia and the World Health Organization (WHO). CIOMS IV in 1998 focused on the postapproval phase of the medicines’ life cycle, but it is considered relevant to extend this to cover the pre-approval phase in the current CIOMS XII document. Also, there have been significant developments since that time with the introduction of new types of medicinal products (monoclonal antibodies, advanced therapies) and evidence (‘real world’). B/R assessment will have to be performed in a transparent manner based on scientifically sound and robust evidence and will have to allow for an external, independent, scrutiny by relevant stakeholders to give a wide acceptance of its implications. A core structured, descriptive lifecycle approach will be described by CIOMS for identifying, evaluating, and communicating the considerations into a structured benefit-risk (BR) assessment. The BR framework is explicit in defining the dimensions that will be assessed, data/evidence to be considered, as well as how the conclusions are reached based on the totality of the evidence and uncertainty from all the dimensions. The structured BR assessment framework can be supported using more advanced qualitative or quantitative methodologies for complex problems to help address specific questions related to benefits, risks, benefit–risk trade-off and associated uncertainty/data/evidence needed. In particular, the use of BR methodologies, quantitative analyses, patient-centred approaches, special considerations and visualizations for benefit–risk assessments will be addressed. The CIOMS WG will explain the ultimate purpose of a structured approach which is to support decision-making and serve purposes of communication, training and documentation both by Sponsors/Industry and by regulatory authorities. Products in different stages of drug development may require a unique approach and methodology considerations due to their available level of evidence. As with other CIOMS topics, this Benefit–Risk Report will include a Glossary of important terms in this space, which will subsequently be added to the CIOMS cumulative glossary of pharmacovigilance, currently released in version 2.0.2 The WG report will include implementation recommendations, planning for the use of the structured BR approach, and several case studies, using the usual collaborative consensus approach of CIOMS.
+
+References
+
+1. https://cioms.ch/working-groups/working-group-xii/
+
+2. https://cioms.ch/publications/product/cioms-cumulative-pharmacovigilance-glossary/
+
+Chia-Yu Chu
+
+Department of Dermatology, National Taiwan University Hospital, Taipei, Taiwan
+
+Severe cutaneous adverse reactions (SCARs) to drugs are groups of hypersensitivity reactions with a heterogeneous clinical presentation. Two of the most notorious SCARs are Stevens–Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) because of their high morbidity and mortality rates. SJS and TEN are characterized by erythema evolving into sometimes extensive blistering that resembles a second-degree burn. This is accompanied by mucosal erosions, especially affecting the mouth, the lips, the conjunctiva, and the genitals. SJS is characterized by a preference for the trunk or generalized dissemination of rather atypical target lesions and maculae.
+
+Recently, another SCAR started to be noticed for its unique clinical presentation and revealed a pathogenesis – drug reaction with eosinophilia and systemic symptoms (DRESS), also called drug-induced hypersensitivity syndrome (DIHS).
+
+Acute generalized exanthematous pustulosis (AGEP) is characterized by very acute widespread erythema with dozens of small non-follicular pustules, especially along the skin folds and on the flexor surfaces. Patients have acute fever and neutrophilia on blood tests. Fixed drug eruption (FDE) is a distinct cutaneous drug eruption characterized by well-demarcated dusky-red or heavily pigmented patches involving the skin and mucosae. Sometimes, blisters or erosions formed within pigmented patches.
+
+Generalized bullous fixed drug eruption (GBFDE) is thought to be a particular form of FDE characterized by widespread blisters and erosions involving the whole body as well as the typical FDE lesions. Because of extensive cutaneous or mucosal involvement in GBFDE, clinically, it is sometimes difficult to differentiate GBFDE from SJS and TEN.
+
+Glyn Belcher
+
+PV Consultancy Ltd., London
+
+Cutaneous reactions to medicines are some of the most commonly reported suspect adverse drug reactions (ADRs) from both clinical trials and as spontaneous reports from the market. Determining a causal association between development of cutaneous lesions and the use of a particular medicine is often difficult. This is because many of the reports are described purely as rash without further details, patients often are taking other medicines known to cause rashes and rashes themselves, from a variety of causes, occur commonly as background disease.
+
+In controlled clinical trials frequencies of reports of rashes and other dermatological pathologies can be compared with the drug under investigation and comparator treatments. If excess reports are seen, further investigation of the nature and the timing of occurrence of dermatological disease can be undertaken to assist with assessment of causal association. With individual spontaneous reports from the market of dermatological disease, there is often inadequate detail concerning the events and possible confounders, even with attempts at follow-up, to reach a clear conclusion on causal association. However, as it is recognized that most medicines have the potential to induce skin pathology, there is a low threshold for including dermatological reactions as ADRs in product information.
+
+Reports of suspect drug skin reactions which are classified as serious are less often reported but are of greater clinical significance. These require careful assessment to determine if there is reasonable evidence of a role for an individual medicine in the aetiology of the reported event(s). While in some cases a clear causal association with an individual medicine can be determined, in many cases such investigations reveal that there are multiple possible causes for the occurrence of serious skin reactions.
+
+Experience of assessment within the pharmacovigilance department of pharmaceutical companies of reports of suspect ADRs of skin reactions indicates that there is both overdiagnosis and underdiagnosis by prescribing physicians of drug-related skin reactions, that confirming the exact nature of such reactions is often difficult and substantiates the view that obtaining evidence of a clear causal association between use of a medicine and the occurrence of skin pathology is often impossible. In the absence of this, it is usual to assume that a drug has a role in the aetiology of any reported events.
+
+Shaun Hopgood
+
+Ergomed/PrimeVigilance Ltd
+
+The volume of data that we process as an industry continues to grow exponentially as technology develops. This in return is driving an increased demand on technology to find ways to process data faster, make that data accessible everywhere, but continue to deliver the consistency, quality and safety demanded by regulators.
+
+Process Automation, Machine Learning and Artificial Intelligence are words that we now hear every day. These relatively new technologies are often positioned as the panacea to our data and performance challenge because that can reduce manual intervention and processing time and decrease the time to decision. But are we ready for these technologies and will they really address the challenges that we face?
+
+The combination of new technologies, the increase in the volumes of data and the growing number of data sources also require significant changes in our ways of working, and in the quality of the data that we produce, process and manage.
+
+For good reasons, we are a heavily regulated industry that delivers safety, quality and consistency through considered well proven methodologies that we change slowly after great reflection and significant testing. Therefore, the need speed at which new technology and technology approaches are driving change appears to be in direct conflict with our regulatory backdrop.
+
+If these challenges are not complex enough, there are some other factors that must be considered.
+
+The economics of pharmacovigilance: drug development and drug safety are becoming more costly. The resource pools that we currently use are becoming more expensive, and almost inevitably, new smart technology cost more in their adoption cycles than some of our traditional approaches.
+
+New technologies are also driving an increased requirement for business and pharmacovigilance experts to understand more about technology to ensure that it can be deployed and leveraged correctly within the regulations.
+
+Finally, there is the speed at which regulations are changing to allow the adoption of new technologies and technology methodologies is creating a grey area that maybe acting as a rate limiter to technology change.
+
+These things combined give rise to ‘The Digital Dilemma’ and leave us with the complex question – ‘How do we accelerate the adoption and integration of the required technology capabilities into our regulatory governed processes at a speed that maintains the consistency, quality and safety that our industry, the regulations, and duty our care to patients demands?’.
+
+In this presentation, we look at some of the drivers, considerations and potential outcomes from this dilemma.
+
+Manfred Hauben
+
+Pfizer
+
+The invention of Bayesian disproportionality analysis for pharmacovigilance signal detection by WHO UMC in the late 1990s stimulated over two decades of intense research on all forms of this methodology by various stakeholders including software vendors, regulatory authorities, pharmaceutical companies and academics. Although the totality of the work made lasting contributions to pharmacovigilance, it was also marked by hype, instances of undisclosed commercial, intellectual and personal conflicts of interest, and lack of transparency. In fact, the CIOMS VIII Working Group Report on Practical Aspects of Signal Detection in Pharmacovigilance which focused on disproportionality analysis includes a warning about these adverse effects. Some researchers report that hype still exists in this area today, though with less commercial elements. One could argue that the conversations about disproportionality analysis very roughly followed a ‘hype cycle’. Today, a much wider array of technologies, including ‘artificial intelligence’ are being investigated and deployed for many purposes in pharmacovigilance, and it apt to consider whether similar adverse effects occur in this domain. Upon review, while hype does exist in this area, and is an important consideration, the adverse effects seen with disproportionality analysis are not as much of an issue with artificial intelligence in pharmacovigilance, and no obvious hype cycle trajectory is evident. The difference in the two scenarios is rationalizable.
+
+Andrew Bate
+
+GSK, Brentford, UK
+
+One of the (many) definitions of AI proposed is ‘The part of computer science concerned with designing systems that exhibit the characteristics we associate with intelligence in human behaviour’.1 With this lens, the potential application of AI extends across the entire PV life cycle. Indeed, the application of AI has been examined in all facets of Pharmacovigilance from data capture to data ingestion to data analysis and measuring impact, for anomaly detection for quality assessment to intelligent automation for triaging data.2 AI is being evaluated across all data streams of potential value to PV from traditional PV focussed data, namely, spontaneous reports, to healthcare databases and social media data streams. The volume of research on AI is increasing in recent years driven by data and technological advances,3 much as across the entire life sciences and healthcare fields. Although there has been much methods testing and ongoing scientific research, there has been a relative paucity of routine use of AI in PV.4 This is changing, and some examples are provided and reasons for the delayed uptake of routine AI in PV are discussed.4
+
+References
+
+1. Barr A and Feigenbaum EA. The handbook of artificial intelligence. Los Altos, CA: William Kaufmann, Inc., 1981.
+
+2. Bate A and Luo Y. Artificial Intelligence and Machine learning for safe medicines. Drug Saf 2022; 45: 403–405.
+
+3. Kompa B, Hakim JB, Palepu A, et al. Artificial intelligence based on machine learning in pharmacovigilance: a scoping review. Drug Saf 2022; 45: 477–491.
+
+4. Bate A and Hobbiger SF. Artificial intelligence, real-world automation and the safety of medicines. Drug Saf 2021; 44: 125–132.
+
+Mattia Calissano
+
+Orchard Therapeutics
+
+According to current requirements and guidelines, patients who receive hematopoietic stem cell (HSC) gene therapies, or any advanced therapy medicinal products (ATMPs), are required to be followed via long-term efficacy and safety registries as post-marketing commitments to regulatory authorities.1–5 The type of product, mode of administration, concomitant other treatment modalities (e.g. preconditioning regimens) or expected comorbidities add complexity to risk assessment and risk management.
+
+Specific challenges are as follows:
+
+Uncertainties on how to monitor the continued effectiveness of the therapy.
+
+Uncertainties in the definition of the safety treatment profile related to the complex and different procedures required for the administration of the gene therapy itself. For example, the SmpC of the product is required to report also the list of ADRs to any auxiliary medicine used for the administration for the HSC itself.
+
+Challenges in the compliance related to safety reporting in light of the 15-year long-term follow-up.
+
+Lack of specific and clear guidance in pharmacovigilance (PV) and risk management requirements on the revision of safety specifications during the lifecycle of ATMPs (e.g. good pharmacovigilance practice (GVP) requirements in the EU Module V).
+
+Similar uncertainties identified within the EU guidance occur also within the FDA framework.
+
+References
+
+1. CAT/CHMP/GTWP/671639/2008: Quality, non-clinical and clinical aspects of medicinal products containing genetically modified cells.
+
+2. EMA/CAT/80183/2014: Quality, preclinical and clinical aspects of gene therapy medicinal products.
+
+3. EMEA/149995/2008: Guideline on safety and efficacy follow-up and risk management of advanced therapy medicinal products.
+
+4. FDA-2018-D-2173: Long term follow-up after administration of human gene therapy products.
+
+5. FDA-2018-D-2258: Human gene therapy for rare diseases.
+
+David T Chonzi
+
+Instil Bio; PV Safety Solutions LLC
+
+Gene-based therapies are becoming more and more common. Unlike small molecules and even most biologics, one of the most important differences is that the effect of gene therapies is usually long-lasting, if not permanent. Therefore, there is the potential for adverse events to occur long after the product administration. The agencies have come up with very important guidance to harmonize the long-term follow-up of patients who receive genetic therapies, either as part of studies or commercially.
+
+The potential long-term adverse effects include malignancy, autoimmune disorders, impairment of gene function, persistent/recurrent infections, persistent haematological disorders and reactivation of latency and infection. The main objectives of long-term follow-up are to identify the long-term risks to the patients receiving the GT product, mitigate the risks associated with long-term follow-up as well as to understand the persistence of the product.
+
+The most used viruses to transfer the genetic material are the adeno-associated viruses, lentivirus and gammaretroviruses. These viruses are modified so that the viral genes that encode viral proteins are replaced with a therapeutic transgene. Integration of the transgene into the host genome is usually permanent; however, the expression of the transgene depends on the presence of regulatory elements that control production of the therapeutic protein.
+
+Long-term follow-up is expected to be conducted for 15 years for integrating vectors (e.g. lentivirus) and genome editing–based products. For gene-based products using adeno-associated viral vectors, at least 5 years of follow-up is recommended. Then, there is the risk-based approach for vectors capable of latency or those with no integration but have long-term expression. If accumulated manufacturing and clinical experience demonstrates consistently negative vector persistence, then discussion with the health agencies with a view to modify the expected duration of follow is strongly encouraged.1
+
+To date, there has been no evidence of replication-competent retrovirus identified in patients or by testing the products.2–5 The retroviruses have been modified in such a way to reduce the risk of being replication-competent. Using lentivirus as an example, these modifications include deletion of six HIV-1 accessory genes (vif, vpr, vpu, nef, env and tat) essential for HIV-1 pathogenesis; splitting the components of the viral genome across four different plasmids thereby reducing the likelihood of recombination as well as the removal of the transcriptional elements from the 5′ and 3′ long terminal repeats (LTR) to render the vector system replication-incompetent.6
+
+Another major concern with gene-based therapies is the risk of secondary malignancy. Integration into target cell genes during transduction is associated with potential risk of disrupting expression of nearby genes leading to clonal expansion or oncogenesis. The mechanism of how this happens is through activation of nearby cellular proto-oncogenes or by gene inactivation by promoter insertion near tumour suppressor genes. DNA impurities packaged in vector capsids could increase oncogenesis. These changes can result in oligoclonality or monoclonality. Clonal expansion itself does not always result in malignancy, though it does increase the risk of malignancy.
+
+How is the risk of insertional oncogenesis minimized? The use of self-inactivation (SIN) vectors in which the promoters and enhancers from LTR in both gammaretroviral vectors (GRVs) and lentiviral vectors (LVVs) are removed and instead rely on an internal promoter to control transgene expression. This self-inactivation design removes the ability of the LTRs to have enhancer and promoter effects on nearby endogenous genes.
+
+Also, if at least 1% cells in the surrogate sample are positive for vector sequences by polymerase chain reaction (PCR), then it is recommended to assess the pattern of vector integration sites. Comparing the identified integration site sequence with known human sequences in the human genome database to determine whether the identified sequences is known to be associated with any human cancers.
+
+Integration site analysis will allow tracking of the relative frequency over time of an integration site and allows for inferences into clonal dynamics of the cells that contain that integration sites. Regular integration site analysis is required since relative insertion site frequencies commonly fluctuate over time, and thus, individual insertion sites may increase in frequency but then plateau or decline.
+
+Should there be any increased concern for malignancy, based on clinical signs and symptoms as well as the location of insertion site of interest and its rate of expansion, additional clinical and molecular workups are undertaken to further investigate the potential presence of malignancy. Prompt discussions with the agencies are always encouraged any time there are positive findings during the follow-up period.7,8
+
+References
+
+1. FDA, Center for Biologics Evaluation and Research. Long term follow-up after administration of human gene therapy products, https://www.fda.gov/media/113768/download (2020, accessed 3 October 2022).
+
+2. Cornetta K, et al. Molecular therapy, 2018.
+
+3. Cornetta K, et al. Molecular Therapy – Methods & Clinical Development, 2018.
+
+4. Testing of retroviral vector-based human gene therapy products for replication competent retrovirus during product manufacture and patient follow-up: draft guidance for industry, Center for Biologics Evaluation and Research, Food and Drug Administration, 2018.
+
+5. Li C and Samulski RJ. Engineering adeno-associated virus vectors for gene therapy. Nat Rev Genet 2020; 21: 255–272.
+
+6. Miyoshi H, Blömer U, Takahashi M, et al. Development of a self-inactivating lentivirus vector. J Virol 1998; 72: 8150–8157. 2. Kraunus J, Schaumann DHS, Meyer J, et al. Self-inactivating retroviral vectors with improved RNA processing. Gene Ther 2004; 11: 1568–1578.
+
+7. As per FDA Office of Tissues and Advanced Therapies, https://www.fda.gov/vaccines-blood-biologics/cellular-gene-therapy-products/approved-cellular-and-gene-therapy-products (accessed 3 October 2022).
+
+8. FDA Cellular, Tissue and Gene Therapies Advisory Committee (CTGTAC) Meeting # 70, 2–3 September 2021.
+
+Margherita D’Antuono
+
+Piramal Critical Care
+
+In 2012, the New Pharmacovigilance (PV) regulation came into force in Europe to be applicable only in Member States. For almost 10 years, EU marketing authorization holders (MAHs) have developed and maintained their EU PV system, sharing best practice and learning from inspection findings. However, maintaining a PV system can be a challenge, especially in countries in the process of building their expertise or when resources are limited.
+
+Several countries in non-EU territories have introduced a PV legislation and guidance to provide a legal foundation and practical implementation for national PV systems based on EU good pharmacovigilance practices (GVP) and other international standards, but others have added significant complexity to pharmacovigilance requirements, that need to be addressed by an MAH.
+
+Multiple stakeholders, including national competent authorities and MAHs, are working together on harmonized standards for the development and step-wise implementation of key PV system component, including automation, in a global setting.
+
+Marcela Fialova
+
+iVigee Services, a.s.
+
+There are almost 200 countries in the world today, with their inhabitants receiving medical treatment, including treatment with medicinal products. Administration of medicinal products is expected to positively influence the patient’s health, but in some cases, it can have negative effects.
+
+In line with the WHO’s definition, the main purpose of pharmacovigilance is to detect, assess, understand and prevent any adverse effects or drug-related problems, but this cannot be done internally and in isolation by individual marketing authorization holders or manufacturers. On the contrary, all safety information must be gathered and assessed cumulatively, and outcomes of assessment shared with patients, healthcare providers and others. As governments take care of the public health in their countries; systems for the collection of safety information on the products registered within their territory were developed and the rules summarized in various regulations, guidelines, laws, instructions, good practice guides and so on.
+
+Although not all 200 countries in the world have achieved the same level of maturity of their PV systems, nowadays, there are many country-specific pharmacovigilance regulatory requirements that need to be available to marketing authorization applicants and holders. If these requirements are met, then the product may be authorized and kept on the market.
+
+We live in a globalized world – many PV regulatory intelligence requirements can be found on the Internet, often in English. There are harmonization initiatives (e.g. ICH) or cooperation programmes among competent authorities; however, the world of PV regulatory intelligence is often convoluted, with local exceptions or specific requirements, local interpretations, different levels of detail expected or different pharmacovigilance topics covered from country to country.
+
+We cannot hope that PV requirements will be the same in all countries, one day. There will always be differences (due to different health care systems, access of the population to medical care, infrastructure in individual countries, etc.); therefore, we need to find a way to reliable pharmacovigilance regulatory intelligence, enabling marketing authorization holders (MAHs) to comply with the requirements, to keep the product on the market and to provide safe treatment to patients.
+
+How can we be sure that the piece of regulatory intelligence information is reliable? This is not only about robust data collection covering all possible data sources. Trustworthy data curation and checking for correctness, quality, and completeness all need to be added. It is not surprising that the amount of information will pile up quickly, and that beyond data collection and curation a systematic approach to data management and distribution of information must be introduced, either through regular reports, searchable databases or news alerts.
+
+Only if robust regulatory intelligence is in place can we rely on the data, fulfil the PV regulatory requirements in all countries of interest and contribute to public health through the provision of safe medicinal products.
+
+Pier Paolo Olimpieri and Pierluigi Russo
+
+AIFA – Italian Medicines Agency
+
+AIFA Monitoring Registries (wMRs) constitute a collection of drug registries (product registries) deployed to physicians and pharmacists through a national web platform. They have been adopted in the clinical practice since 2005 and are used to define the population for which the drug is available under the umbrella of the National Health Service (NHS – Servizio Sanitario Nazionale SSN), monitor prescription appropriateness and ensure the rapid access to potentially priority medicines allowing the implementation of patient-based managed entry agreements (MEAs). Each registry consists of specific data entry forms, collecting data at the patient level and filled in by authorized clinicians and pharmacists. The required information includes:
+
+Registration form with patient personal data (anonymized after registration);
+
+Eligibility and clinical data form;
+
+Prescription and administration forms;
+
+Evaluation of disease status and treatment update form; and
+
+End-of-treatment form.
+
+Evaluation and end-of-treatment forms provide main safety and effectiveness data at a patient level. Moreover, since entry forms are the same throughout the nation, this platform allows access to treatment in a homogeneous manner throughout the country. Recently, a new type of registry has been released, with the primary aim of monitoring the pregnancy prevention programme (PPP) following the prescription of potentially teratogenic medicinal products.
+
+All this information is collected in a national database that represents a key source of postmarketing evidence that is frequently exploited to answer both administrative and clinical questions, such as drug utilization among a specific pharmacological class or the effectiveness of a drug in a census consisting of all Italian patients treated with that medicinal product. For example, given the prospective nature of the data contained inside the wMRs, AIFA together with members of the relevant scientific associations were able to evaluate the effect of the COVID-19 pandemic and lockdown measures on the new prescription (i.e. first prescription) of some cardiovascular drugs in Italy and suggest new studies to analyse the occurrence of new cardiovascular-related events resulting from the decline in the activation of these treatments. Equally important is the work assessing the effectiveness of tyrosine kinase inhibitors in chronic myeloid leukaemia (CML) patients in Italian clinical practice, which was able to highlight important aspects on both expected mortality and consequential use in first and second line TKIs in Italy. Finally, the wMRs were also a critical instrument in the management of the COVID-19 medicinal products since 29 October 2020, providing essential evidence on drug availability through the country, predicting possible shortages and publishing hundreds of freely available reports on the utilization trend of COVID-19 drugs in the different Italian Regions.
+
+In conclusion, the wMRs represent a key tool to generate pharmaco-epidemiological evidences in the Real-world setting and monitoring drug appropriateness for expensive, innovative drug.
+
+Pinelopi Lundquist
+
+WHO Collaborating Centre Department, Uppsala Monitoring Centre, Sweden
+
+Uppsala Monitoring Centre (UMC) is an independent and self-funded Swedish foundation. There are many stakeholders in the field of medicines safety, and by drawing on our different competences, skills and roles in the PV world, UMC strives to always pursue our vision: working together to advance medicines safety.
+
+UMC’s different business areas focus on various external stakeholders, one of which focuses on the WHO Programme of International Drug Monitoring (WHO PIDM). Since 1968, the programme has provided a forum for WHO Member States to collaborate in pharmacovigilance. This enables programme members to be alerted to patterns of harm emerging across the world, but which might not be evident from their local data alone. There are now over 170 member countries/territories. The programme’s operational activities were moved to Uppsala in 1978 under the sponsorship of the Swedish government, which marked the starting point for our organization and its designation as one of WHO’s 800 Collaborating centres – the WHO Collaborating Centre for International Drug Monitoring.1
+
+UMC is custodian and manager of VigiBase, WHO’s global database of reported potential side effects of medicinal products. This gold mine is used to generate insights for various PV stakeholders. The WHO PIDM members, which are usually the national regulatory authorities, collect reports of adverse events from patients, physicians, the pharmaceutical industry and other stakeholders within their national PV systems. VigiBase accumulates the data from programme members, and currently contains about 33 million case reports. For other external stakeholders, VigiBase data can be made available with limited level of detail via VigiBase Services, open to, for example, academia, the pharmaceutical industry and health care providers.2,3
+
+Besides VigiBase maintenance, our Collaborating Centre also provides programme members with IT solutions for data collection and analysis in their national setting to support their mission for safe products in their markets. There are many IT solutions, but to highlight two: VigiFlow, for example, is a data collection and management system, used by over 100 members as their national safety database. And in VigiLyze, members have a powerful analysis tool free of charge, which can analyse national data as well as data in regional collaborations with instant access to the global data in VigiBase and others’ experiences as a reference. Safety signals found by UMC and other programme members are also available in VigiLyze. The Collaborating Centre generates and shares credible and evidence-based information on the safety of medicines and vaccines for further decision-making by regulators and scientific high-level committees. That work relies on the use of sophisticated methods for signal detection, but also on internal and external clinical expertise. Selected signals are also published in scientific journals to reach a broader audience such as the prescribers. In addition, our centre helps national pharmacovigilance centres to support safe use of medicines by offering training aligned with their needs. We get many training requests from WHO PIDM members and WHO regions. Our hands-on and web-based courses provide national centres with the technical know-how and skills to strengthen their pharmacovigilance systems and practices. We also facilitate the sharing of PV insights and know-how globally using a variety of channels for information; for example, Uppsala Reports magazine and website, our podcast called Drug Safety Matters and our various social media channels. COVID-19 vaccine safety monitoring is a top priority at UMC, and significant resources have been allocated to this. Our recent insights and experiences have enriched us and brought us even closer to our collaborating partners and we are better prepared for the next challenges.4
+
+References
+
+1. WHO. WHO Collaborating Centres Global database. Reference Number: SWE-28. https://apps.who.int/whocc/Detail.aspx?DfT6Na60S0olEABAP30OCg==
+
+2. WHO/UMC. VigiAccess. https://vigiaccess.org/
+
+3. UMC. VigiBase Services. https://who-umc.org/vigibase/vigibase-services/
+
+4. Rudolph A, Mitchell J, Barrett J, et al. Global safety monitoring of COVID-19 vaccines: how pharmacovigilance rose to the challenge. Ther Adv Drug Saf 2022; 13: 20420986221118972.
+
+Qun-Ying Yue
+
+Uppsala Monitoring Centre, Sweden
+
+Since late 2019, the pandemic of COVID-19, caused by SARS-CoV-2, has resulted in high morbidity and mortality worldwide. During 2020, safety monitoring of medicinal treatments for this novel disease was performed by Uppsala Monitoring Centre (UMC) in VigiBase, WHO’s global database of suspected adverse drug reactions, which is the largest international repository of reported ADRs.
+
+Initially, COVID-19 treatments included numerous repurposed medicines previously approved for other indications, such as chloroquine and hydroxychloroquine. Although chloroquine is a widely used drug which has been on the market for a very long time, the efficacy and safety profile have not been thoroughly studied in COVID-19 patients. In early 2020, chloroquine and hydroxychloroquine were authorized by major regulatory agencies for emergency use, or only for use within clinical trials. Given the interest over the use of these drugs in COVID-19, the ADR reports in VigiBase for them were summarized and communicated to reiterate their toxicities, in particular the cardiac reactions which may result in fatal outcomes.1
+
+Remdesivir, the first novel antiviral drug authorized for use in treatment for COVID-19, was the most commonly reported COVID-19 medicine within VigiBase during 2020. Employing indication-focused descriptive statistics (disproportionality analysis), together with the use of a comparator tocilizumab with a known safety profile, it was possible to identify known safety information for both remdesivir and tocilizumab and suggest potential safety concerns for remdesivir. The most reported adverse events were liver dysfunction, kidney injury, death and bradycardia.2
+
+In late 2020, several new vaccines for COVID-19 were developed, received emergency authorization and rolled out on a large scale. The vaccines used novel technology and a rapid and vast deployment was anticipated. For this scale of activity, a well-functioning international postmarketing safety surveillance system is essential.
+
+The unprecedented volume of reports of suspected adverse events following immunization has led to the development of new routines and the use of new tools at UMC, for example, a digital reporting form designed for mobile devices was implemented; more frequent updates of VigiBase data allowed timely data analyses; a COVID-19 vaccine-specific standardized drug grouping (SDG) was created enabling the data analysis on a vaccine platform level; and a monthly descriptive report regarding COVID-19 vaccine reporting in VigiBase was made available for member countries of the WHO Programme for International Drug Monitoring (PIDM).3
+
+UMC regularly screened VigiBase for previously unknown or incompletely documented COVID-19 vaccines adverse reactions. These signals were shared with all WHO PIDM members to complement their signal detection and support local action to protect patients from harm. Some signals were also published outside the WHO PIDM to raise awareness or encourage data collection.4,5
+
+In summary, successful adaptations were made at UMC in a short period to handle the COVID-19 pandemic situation. However, the pandemic has not ended yet and further challenges are anticipated. The safety monitoring of COVID-19 therapies and vaccines still needs to continue.
+
+References
+
+1. Zhang Q and Yue QY. Chloroquine and hydroxychloroquine in COVID-19. WHO Pharmaceuticals Newsletter No. 2, 2020, pp. 12–13.
+
+2. Rocca E, Gauffin O, Savage R, et al. Remdesivir in the COVID-19 pandemic: an analysis of spontaneous reports in VigiBase during 2020. Drug Saf 2021; 44: 987–998.
+
+3. Rudolph A, Mitchell J, Barrett J, et al. Global safety monitoring of COVID-19 vaccines: how pharmacovigilance rose to the challenge. Ther Adv Drug Saf 2022; 13: 20420986221118972.
+
+4. Mitchell J and Yue QY. Myocarditis and the COVID-19 vaccines. WHO Pharmaceuticals Newsletter No. 4, 2021, pp. 20–27.
+
+5. Rausch C and Yue QY. Covid-19 vaccines and hearing loss and tinnitus. WHO Pharmaceuticals Newsletter No. 1, 2022, pp. 18–25.
+
+MM Lino, S Mather, A Ayoub and R Maroko
+
+Pfizer SRL
+
+From the approval of the first COVID-19 vaccine in December 2020 up to 2 October 2022, 68% of the world population received at least one dose of COVID-19 vaccine and more than 12 billion doses have been administered globally.1 In the meantime, the pandemic became more complex due to the new circulating COVID-19 virus variants. The emergence of the alpha, beta, delta and omicron SARS-CoV-2 variants were associated with new waves of infections. Even so, several studies showed that vaccination using the COVID-19 vaccines formulated against the non-mutated spike protein have remained effective in preventing severe COVID-19, hospitalization, and death. The safety surveillance of the COVID-19 vaccine represented a challenge given the unprecedented scenario present in this pandemic. Challenges and factors to consider include the following:
+
+Administration to many individuals in a short time;
+
+Staggered distribution prioritizing individuals at highest risk;
+
+High number of reported AEs in an environment of hyper-pharmacovigilance;
+
+Product availability;
+
+Regional public health recommendations that differed from clinical trial scenarios; and
+
+New mutations in the circulating virus.
+
+All these aspects need to be considered for a proper evaluation of the safety profile of each COVID-19 vaccine. The Pfizer/BioNTech booster dose (3 and 4) has a favourable safety and benefit–risk profile. The safety profile after administration of booster doses was similar to that seen for the primary doses where the elderly and medically frail subjects with multiple comorbidities reported different adverse events than other populations, such as young or healthy people vaccinated at a later time point. With a broader population (including healthy individuals, adults, adolescent, children and infants) now boosted, the safety profile appears stable and confirms a favourable benefit–risk profile. Overall, the most commonly reported adverse events were local and systemic known reactogenicity events, consistent with clinical trial data, and events related to the pandemic situation (inappropriate schedule of product administration and heterologous vaccinations). The pandemic is not over yet, and now countries have begun to authorize the bivalent COVID-19 vaccines covering previous and newer variants of concern.
+
+Reference
+
+1. https://ourworldindata.org/covid-vaccinations
+
+Dominique Hamerlijnck
+
+EUPATI Fellow
+
+The lived-with expertise of patients is becoming necessary information in research and in pharmacovigilance. More and more often (expert) patients are involved as expert partners like clinicians, researchers and investigators. New EU regulations, the Clinical trial Regulation (CTR), Pharmacovigilance legislation, Health technology Regulation (HTAR) and the new review of the EU general pharmaceutical legislation are requiring patient engagement at all levels. The patient lived-with expertise is needed to be able to develop a relevant balance between benefit–risk that is acceptable to patients over time throughout the lifecycle of the treatment. New treatment working on different pathways challenges us in choosing the relevant outcome assessments as the traditional assessment are often no longer relevant. Real-world data and evidence are becoming more important in evaluating treatments and pharmacovigilance. But there is a need to evaluate at what data are included, available and what is missing. These are exciting and challenging times where co-creating the answers with patients will become even more of a necessity. This presentation will give insight in what has been happening, the challenges and new developments.
+
+Paolo Porcelli
+
+AIFA – Italian Medicines Agency
+
+One aspect that is of great interest and subject to debate among European (EU) inspectors is the risk-based approach adopted to determine which marketing authorization holders (MAHs) should be inspected before others. As per GVP module III, pharmacovigilance inspection planning should be based on systematic and risk-based approach methodologies. Nevertheless, these evaluations shall be the result of cooperation between national competent authorities and the European Medicines Agency (EMA) to avoid duplications wherever possible and to maximize the use of the available resources to achieve common goals.
+
+As of today, a risk-based approach is used for inspection planning by all Member States (MSs), most relying on data collected by means of customized national risk-assessment questionnaires and by information which may be already available at the Agency’s premises [e.g. data from PSMF, PSUR, signals, assessors, EudraVigilance, XEVMPD, National databases, number and type of Marketing Authorizations (MAs) and Company’s portfolio changes from last inspection, number of critical deviations detected in the last inspection conducted].
+
+During the COVID-19 pandemic, onsite inspections were stopped and, taking into account national and European legislation, the AIFA’s Inspection offices revised their way to conduct inspections by implementing distant assessments for good manufacturing practice (GMP) and remote inspections for good pharmacovigilance practice (GVP) and good clinical practice (GCP) (Phase 1 facilities, Sponsor/CROs). In these circumstances, distant assessments and remote inspections can represent a suitable means to verify compliance against the different GMP, GCP and GVP applicable requirements. During the COVID-19 pandemic pharmacovigilance inspections continued, though some required adjustments to the inspection plans which had been prepared before the COVID-19 emergency (e.g. plans previously established for the years 2019 and 2020).
+
+The remote inspection capabilities were developed fairly quickly and each inspectorate developed an internal procedure to support this kind of inspection. In many instances, MAHs and third parties involved in their PV systems were shown to be ready to sustain these remote inspections with great professionalism and preparation. Under these circumstances, the inspectors were able to successfully complete the inspection as per the full planned agenda in the same way as the inspection would have been conducted if it were on site.
+
+It is worth noting that no specific findings or clear changes (e.g. number, category and classification of findings) were detected that could be considered directly attributable to the remote nature of the conducted inspections. This result further confirms that the risk-based approaches used by AIFA to prepare annual inspection plans worked properly to tackle these remote inspection modalities, allowing the identification of criticalities of pharmacovigilance systems in use at the MAHs in the same way they would have been detected if the inspections were on site.
+
+The majority of the detected findings regarded the management of ADRs and computerized systems, followed by deviations concerning the PSMF, the quality system, audit, training, standard operating procedures and signal management.
+
+Azira Cajic and Indira Fazlagic
+
+Agency for Medicinal Products and Medical Devices Bosnia & Herzegovina (ALMBIH)
+
+The existing legislation in Bosnia and Herzegovina related to pharmacovigilance is not aligned with European guidelines.1 The legal basis for successfully conducting PV inspections of local marketing authorization holders (MAHs) of multinational companies, especially company with headquarters in the EU, is nonexistent. The existing Medicinal Products and Medical Devices Act (‘Official Gazette of B-H, no.58/08’) contains only two articles that emphasize the obligation of the MAH regarding pharmacovigilance, but which do not define all pharmacovigilance processes as obligatory.
+
+An additional aggravating circumstance is the complex arrangement of the health and political systems in the country, which slows down EU advanced integration processes. Agency for Medicinal Products and Medical Devices Bosnia & Herzegovina (ALMBIH) succeeds to adapt routine PV processes that are based on EU GVP guidelines, although with modest resources for monitoring dynamic global regulatory requirements. PV inspections have improved pharmacovigilance in Bosnia and Herzegovina, which resulted in the harmonization of the PV processes of local MAHs. The requirements for pharmacovigilance monitoring and implementation of quality systems in healthcare institutions have been increased.
+
+The draft of the ‘Rulebook of Good Pharmacovigilance Practice’ (for pharmaceutical products) is currently being harmonized with EU standards by the Directorate for European Integration in Bosnia and Herzegovina. This Rulebook is based on Directive 2001/83 EC, Regulation EC 726/2004, Regulation EU 520/2012 and EU GVP guidelines. GVP Guidelines will become mandatory in the legislation in Bosnia and Herzegovina after Rulebook’s entry into force.
+
+ALMBIH participates in the WHO Programme for the international monitoring of medicines and reports on adverse drug reaction from Bosnia and Herzegovina. The safety report from VigiLize is used as a regulatory assessment tool. A project for the procurement of a PV electronic system in Bosnia and Herzegovina was proposed to the WHO regional office.
+
+Reference
+
+1. http://www.almbih.gov.ba/en/_doc/regulative/medicinal_products_and_medical_devices_act.pdf
+
+Alberto Gramaccioli and Isabella Ventura
+
+Pfizer
+
+The Pharmacovigilance System Master File (PSMF) is a document that describes a company’s pharmacovigilance system and supports and documents its performance in the context of medicinal products authorized in specific regions or countries. The PSMF replaces the Detailed Description of the Pharmacovigilance System (DDPS). A Global DDPS may still be maintained to document and describe the PV system for countries that do not have a (PSMF) requirement.
+
+Local DDPS, national Pharmacovigilance Sub-System File (PSSF) and/or any other local Pharmacovigilance System Description (PVSD) documents may also be maintained to comply with specific country legislation/local requirements.
+
+Good pharmacovigilance practices (GVP) Module II with EU PSMF requirements became effective in 2012, as of today global pharmaceutical companies may produce up to 20 or more separate PSMFs. Non-EU markets have implemented local PSMF regulations and issued guidelines; generally, these are aligned with most of the EU requirements with a few minor exceptions.
+
+The PSMF consists of a detailed description of the pharmacovigilance system included in the main body (also referred as core document) and the annexes containing current and accurate metrics reports, listings, change logs and other data supporting the core document. PSMF core includes a cover page with registration number, a table of legal entities and seven specific sections. Core content for non-EU markets generally mirrors the EU market, except for Ghana and China which require an additional section. Ghana’s guideline requires a section for administrative information: a signed statement that the Company has the necessary means to fulfil the tasks and responsibilities listed in the Ghana regulatory guideline. China’s guideline requires a section for details about local full-time staff. Annex requirements for non-EU markets typically align with most EU ones with few exceptions.
+
+The PSMF is a key document that covers most of the typical areas on which pharmacovigilance inspectors focus on. The content of Marketing Authorization Holder (MAH)/Applicant PSMFs may also be used by the inspecting health authorities to plan inspections using a risk-based approach (e.g. by looking at audit and quality events information or significant changes in the company structure or PV systems). The PSMF can be requested any time by any competent authority within a PSMF region/country, and it reflects the status of the local and global MAH Pharmacovigilance (PV) system. For some authorities where the PSMF is not a legal requirement, it is possible to get a request to provide a summary of the MAH’s pharmacovigilance system. In this case, MAH/Applicant may need to consider tailoring the content, providing a summary of the PSMF/DDPS or PVSD to comply with the specific information required by the requesting authority.
+
+The PSMF should provide a clear, easy-to-understand overview of the PV organization and associated activities. In general, the accurate descriptions and data in the PSMF are critical to demonstrate the company has good quality oversight of the PV system. The MAH/Applicant must also ensure consistency between the core and the annexes.
+
+Through the production of the PSMF, the Qualified Persons for PharmacoVigilance (QPPVs)/MAH/Applicant should be able to demonstrate that the pharmacovigilance system has been implemented in accordance with the regulatory requirements and shows to be aware of potential deficiencies or risks in the conduct of specific aspects of pharmacovigilance.
+
+Good data management of all PSMF source systems will ensure the most accurate information is shared with Health Authorities (HAs). At the same time, it will make it easier to find what a HA inspector asks for, eliminating rework or time spent clarifying data errors or omissions. The PSMF must always be kept up to date so that what is discussed during PV inspection interview sessions (or provided as a separate request) aligns with what is described in the document.
+
+PSMF maintenance is also critical for a successful inspection. Frequency of periodic updates, centralized versus decentralized approaches for content management oversight (centralized is under control by one single central/global office while decentralized is under control by regional/country office/s) along with training of PSMF contributors and monitoring of new/updated regulations are key aspects to consider. Feedback mechanisms for PSMF updates and improvements may also include internal and external audits/assessments, inspections and industry working groups.
+
+References
+
+European Union:
+
+– Directive 2010/84/EU
+
+– Regulation (EC) No 1235/2010
+
+– Commission Implementing Regulation (EU) No 520/2012
+
+– Guideline on Good Pharmacovigilance Practice (GVP) Module II
+
+Arab League:
+
+– Guideline on Good Pharmacovigilance Practices (GVP) For Arab Countries version 3.0 of December 2015
+
+Turkey:
+
+– Guideline on good pharmacovigilance practices (GVP) Module V – Pharmacovigilance system master file 16 February 2015
+
+Nigeria:
+
+– National Agency for Food & Drug Administration & Control (NAFDAC) Good Pharmacovigilance Practice Guidelines 2021
+
+Ghana:
+
+– Food and Drugs Authority Guidelines for Conducting Pharmacovigilance Inspections (FDA/SMC/SMD/GL-PVI/2013/02) 1 May 2016, version 3
+
+– Food and Drugs Authority Guidelines For Qualified Person For Pharmacovigilance (FDA/SMC/SMD/GL-QPP/2013/03) 1 May 2020, version 7
+
+EAEU:
+
+– Eurasian Economic Union Good Pharmacovigilance Practice (GVP)
+
+Ukraine:
+
+– Ukrainian Ministry of Health (MoH) Order 898 of 27 December 2006 (as amended by Ukraine MoH Order 996 of 26 September 2016), effective 6 January 2017
+
+India:
+
+– Drug and Cosmetics Act, 1940 and Rules, 1945, as amended up to 31 December 2016
+
+– Pharmacovigilance Guidance Document for Marketing Authorization Holders of Pharmaceutical Products (Version 1.0, January 2018)
+
+– Guidance for Industry on Pharmacovigilance Requirements For Biological Products 27 January 2017
+
+Kenya:
+
+– Guidelines for the establishment of the Qualified Person for Pharmacovigilance in Kenya, December 2018
+
+– Guidelines on the Safety and Vigilance of Medicinal Products and Health Technologies, December 2019
+
+Azerbaijan:
+
+– The Cabinet of Ministers of the Republic of Azerbaijan – Resolution No. 503, effective 1 July 2020 and Resolution #39 (GVP), effective 25 August 2020
+
+Uganda:
+
+– Pharmacovigilance Guidelines for licensed persons, 18 December 2020
+
+United Kingdom:
+
+– The Human Medicines Regulations 2012 (HMR) (statutory instrument 2012 No. 1916, as amended) which has been further amended by the Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 ( ‘the EU Exit Regulations’), which were made in exercise of the powers conferred by section 8(1) of, and paragraph 21(b) of Schedule 7 to, the European Union (Withdrawal) Act 2018.
+
+Malaysia:
+
+– Malaysian Guidelines on Good Pharmacovigilance Practices (GVP) for Product Registration Holders, First Edition, August 2021
+
+China:
+
+– Good Pharmacovigilance Practice ([2021] No. 65) released by National Medical Products Administration (NMPA), effective 1st Dec 2021- last update: February 2022
+
+South Africa:
+
+– Pharmacovigilance Systems Guidance for Holders of Certificate of Registration, November 2021
+
+Zimbabwe:
+
+– Pharmacovigilance Guideline for Pharmaceutical Industry, March 2021
+
+Pakistan:
+
+– Guidelines on Good Pharmacovigilance Practices for Registration Holders, April 2022
+
+Indonesia:
+
+– Agency for Drug and Food Control–Badan Pengawas Obat dan Makanan (BPOM)/ Decree No 15 Years 2022 concerning Pharmacovigilance Implementation
+
+Argentina:
+
+– Buenas Prácticas de Farmacovigilancia - 2012
+
+Bosnia and Herzegovina:
+
+– Rulebook on Monitoring Adverse Events Related to Medical Devices (Material Vigilance of Medical Devices), (‘Official Gazette of Bosnia and Herzegovina’, No. 58/12), 2012.
+
+Brazil:
+
+– Good Pharmacovigilance Practices and Inspections (GPPI) for MAHs. RESOLUTION – RDC no. 4, dated 10/Feb/09 (DOU 11/Feb/09)
+
+Guatemala:
+
+– Guía de Evaluación del Plan de Farmacovigilancia - 17Jul 2020
+
+Morocco:
+
+– ‘Dossiers de demande d’autorisasion de mise sur le marché’. Decree 2-14-841 (05-Aug-2015)
+
+France:
+
+– Bonne pratiques de Pharmacovigilance, ANSM (Agence Nationale de Sécurité du Médicament et des Produits de Santé), February 2018
+
+Serbia:
+
+– Rulebook on the method of reporting, collecting and monitoring adverse reactions to medicines–Pursuant to the article 161, paragraph 8 of the Law on Medicines and Medical Devices ( ‘Official Gazette RS’, number 30/10)
+
+Valentina Mancini
+
+Shionogi. TransCelerate
+
+A Pharmacovigilance Agreement (PVA) at a high level is an agreement between companies to outline safety data exchange and responsibilities; the overall responsibility for the pharmacovigilance system remains with the Marketing Authorization Holder/sponsor regardless of the type of business relationship. The management of PVAs requires time, resources and expertise. If a PVA is not in place in a timely manner, it may result in delays to clinical trial start, launch, and/or asset transfer, and may result in inspection/audit findings. PVAs are a critical part of the PVA system. As such, during audits and inspections PVAs and the end-to-end lifecycle of such (including the process) are carefully reviewed. This review typically includes (a) assessment that the appropriate responsibilities of partner companies are defined and (b) ensure the fulfilment of company procedures and regulations. The PVAO suite can help to optimize the process and support the preparation for audits/inspections. In addition:
+
+Lengthy negotiation periods and contractual maintenance discussions may lead to delays and potentially strained business relationships.
+
+The volume and complexity of PVAs continually increase year over year. Inefficiencies in negotiating and complying with PVAs waste resources and contribute to non-value-added work.
+
+The PVA Optimization (PVAO) Initiative was launched by TransCelerate (TransCelerate is a not-for-profit entity, founded in 2012 under the principle of collaboration. TransCelerate works towards streamlining and accelerating the R&D of new therapies around the world) as a result of these challenges, and focuses on supporting the development of potential efficiencies of tasks commonly included throughout the PVA lifecycle through the collation of industry approaches. Three solutions have been launched from this initiative – Process Map, Glossary and Table of Contents – that have been made publicly available on the TransCelerate website. All three tools are interactive and can be used individually or as a suite of products.
+
+The Process Map illustrates the end-to-end PVA lifecycle and key considerations throughout the development of PVAs, providing a fundamental basis for the process.
+
+It is comprised of four phases that include multiple steps, some of these include additional tools or solution links that may help address specific challenges throughout the PVA lifecycle.
+
+The Glossary is a comprehensive document which provides a list of commonly used terms in a PVA.
+
+Covering different product lifecycles and multiple product types.
+
+Designed to flexible for different types of agreements and different company structures.
+
+The Table of Contents (TOC) provides a framework of headings and points to consider for potential incorporation into PVAs, including regulatory citations. Created with user in mind – no rigid template text, flexible to adapt according to needs Comprehensive, adaptable for development and review of a PVA, or possibly for generating or updating a PVA template:
+
+Allow filtering according to the type of activity/situation by selecting information for region, lifecycle and type of product;
+
+PDF format, may potentially be exported into other formats for different uses; and
+
+Each module has a specific focus and provides structure.
+
+The PVAO Initiative is also reviewing data related to Timelines Benchmarking, which aims to provide an aggregated benchmarking data of exchange timelines in member companies’ PVAs, to address the issue that insight on agreed safety data exchange timeline is not available within the industry. This may help the user to identify clusters of more or most common exchange days for some types of ICSRs and improving activities/aspects involved in PVA process, such as training, negotiation and, in general, awareness.
+
+By enhancing their PVA process, companies may better support quality of PV and facilitate partnership: this may lead to a better and easier access of patients to medicines and overall contribute to patients’ safety. All solutions are available at Pharmacovigilance Agreements Optimization – TransCelerate (transceleratebiopharmainc.com)
+
+TransCelerate encourages provision of feedbacks by users, to contribute to solutions optimization.
+
+Noelle Humphrey
+
+PrimeVigilance
+
+The management of audits, and inspections is, for many organizations a very stressful and time-consuming experience. In addition, the COVID-19 pandemic forced us to conduct audits remotely, and as a result, auditors’ methodologies and approaches changed. The return to onsite audits is now creating new pain points for many companies because the skills needed for onsite audit hosting and interviews have been depleted.
+
+When well-managed, however, audits still represent a significant opportunity to drive process and systems optimisation and improvement and streamline operational activities. The resulting changes can have significant performance, cost, quality and cultural benefits. There are various approaches to managing audits that helps us to manage these challenges. Some will suit some organizations better than others, but all have a common theme. Preparation is key to success. Without proper preparation to ensure that the audit schedule and scope are agreed, to ensure that resources are secured, and adequate and appropriate documentation is provided, audits can easily become a difficult engagement with a poor outcome.
+
+In addition, and as critical to an audit’s success, is Audit Management. The management and governance structure applied to an audit must be relative to the size, maturity and knowledge levels of an organization, be risk based and time bound. There will always many challenges related to audits, but with good audit management to ensure that things are addressed and actioned properly and in a timely manner we will greatly increase the probability of a successful audit.
+
+Domenico Di Giorgio
+
+AIFA – Italian Medicines Agency
+
+Gathering and analysing the signals from the field is a key practice in counteracting pharmaceutical crime: the connection between the units dealing with pharmacrime and enforcement/customs offices is quite obvious, but also the networks set up for pharmacovigilance, quality defects, distribution, e-market, GXP should be properly considered, since suspicious signals may be found in reports that are usually not considered in terms of possible criminal behaviours, as it happened in 2014 with the Volcano Operation led by AIFA, that was triggered by a quality report, allowing to discovered an impressive scheme for falsification, theft and laundering of medicines at European level.
+
+The usual reports that the AIFA competent office submit to in-depth analysis relate to:
+
+medicines without Marketing/Import Authorization in Italy, found at customs following passengers or in courier shipments;
+
+medicines in transit at Italian customs offices, coming/going from/to third countries;
+
+medicines from third countries, lacking any authorization in Italy, intended for local communities in Italy;
+
+medicines without AIC in Italy, found in points of sale not authorized for the marketing of medicines or illegally held, in large quantities, by unauthorized private parties;
+
+pharmacologically active medicines/active substances, the subject of suspicious commercial transactions between third countries;
+
+falsified medicines, found in Europe and in non-EU countries;
+
+medicines bearing falsified machine-readable stickers;
+
+stolen medicines; and
+
+illegal websites.
+
+In this framework, the increase in the use of e-commerce (due to lockdown and pandemic), increasing demand for ‘miracle medicines’ against COVID-19 and other diseases: illegal framework (and strategies) are changing, as it is reflected in the most recent recurring cases that were investigated, that is,
+
+Traditional Chinese Medicines without authorization in Italy (customs and local shops);
+
+Non authorized medicines marketed as cosmetics (local shops);
+
+Medicines against relevant diseases, e.g. psoriasis, sold as cosmetics (online market);
+
+Counterfeit OTC products from unauthorized channels (online market); and
+
+‘Miracle medicines’ for the prevention of COVID-19 (online market and local distribution).
+
+The increase in the use of e-commerce (due to lockdown and pandemic) is changing the channels for offering: social network had a major role in creating the demand for ‘miracle medicines’ against COVID-19, mirroring the one we already know for other diseases.
+
+This change in the offer also triggered a change in the communication strategy: the need for a reaction to the so-called ‘infodemic’, that is, the outbreak of fake news, mainly circulating through social network, forced AIFA to find proper models for showing the whole framework behind many apparently nonrelated issues, underlining the danger related to the new channels/products, more than their illegality.
+
+Vojtech Kvita
+
+NextPV Services s.r.o.
+
+EudraVigilance, as a system for managing and analysing information on suspected adverse reactions to medicines which have been authorized or being studied in clinical trials in the European Economic Area, is always improving and changing to comply with the latest trends as well as applicable regulatory guidelines. In recent years, the system faced multiple challenges: continuous implementation of E2B(R3) standards for reporting; introduction of EVDAS access for Marketing Authorization Holders and of course the COVID-19 pandemic, which resulted in an enormous surge in reports coming into the system, as well as increased demand of public access to data via the ADR reports portal.
+
+Since the access to EVDAS has been granted to MAHs, there was a limit of five users per organization. Due to the stabilization of the system, this has now been increased to 10. Another new rule is the implementation of European Directorate for the Quality of Medicines & HealthCare (EDQM) codes for pharmaceutical dose forms and route of administration while reporting ICSRs. This poses a certain challenge for organizations, as they need to download and implement the terms onto their databases on a periodic basis.
+
+Changes to Article 57 Database (XEVMPD), another component of EudraVigilance, are also worth mentioning. While the information about medicinal products is preparing for transition to ISO IDMP standards, MAHs and Sponsors still have the obligation to send information about authorized and development medicinal products to XEVMPD. The platform runs on an older version of the Internet Explorer browser, which Microsoft stopped providing support for in June 2022. The European Medicines Agency provided a workaround using Microsoft Edge or by downloading extensions for other browsers that emulate the Internet Explorer mode. Not only EudraVigilance is being updated and modernized, internal EMA tools such as Service Desk are also keeping up with the pace and are being transferred from their current JIRA platform to ServiceNow (SNOW). We also cannot forget the changes post Brexit. MAHs are using the ICSR Submission Portal for transmission of ICSRs to MHRA, and since the beginning of October 2022, SUSARs from Clinical Trials are also submitted via this portal.
+
+Calin Lungu
+
+DDCS S.A.
+
+With the implementation of the clinical trials regulation 536/2014, the EMA has launched the Clinical Trials Information System (CTIS) on 31 January 2022.1,2 An extensive training programme based on online modules as well as live training courses is available for sponsors of clinical trials, both commercial and noncommercial. The EMA systems are becoming more complex and interconnected than ever before. CTIS has two restricted workspaces, one for the sponsors and one for the National Competent Authorities (NCAs), the European Commission and the EMA, who ensures the system maintenance. One public website is also available, where some documents are published in relation to the clinical trials existing in CTIS. The system is connected with the EMA account, also known as Identity and Access Management (IAM), where users manage their roles in the different EMA systems, such as EudraVigilance, the eXtended EudraVigilance Medicinal Product Dictionary (XEVMPD), the Substance Product Referentials and Organization Management Services (SPOR) and others. CTIS sources master data from these systems for the purpose of clinical trials applications (CTAs). In the process of creating a CTA, data from the SPOR OMS (Organization Management Services) is extracted to identify the various stakeholders involved in a clinical trial (sponsor, clinical trial site(s), third parties, etc.). Data from the XEVMPD is also extracted to identify the medicinal products used in the clinical trial (test, comparator, auxiliary medicinal products). Documents are classified ‘for publication’ or ‘not for publication’ on the public website and are managed by the EMA through a SharePoint directory. Currently, and until the 31 January 2025, there is a transition phase for clinical trials managed via the EudraCT system to CTIS. Sponsors will have to decide when they start using CTIS, bearing in mind that all clinical trials that are not ended or transitioned to CTIS before that date will lapse.
+
+References
+
+1. Regulation (EU) No 536/2014 of the European Parliament and of the Council of 16 April 2014 on clinical trials on medicinal products for human use, and repealing Directive 2001/20/EC.
+
+2. The rules governing medicinal products in the European Union VOLUME 10 – Guidance documents applying to clinical trials Clinical Trials Regulation (EU) No 536/2014 Questions & Answers Version 6.2.

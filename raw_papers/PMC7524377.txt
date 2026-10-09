@@ -1,0 +1,245 @@
+Forum
+
+The US Institute for Safe Medication Practices (ISMP), which determines causes of medication errors and measures to prevent them, and ECRI, an evidence-based practice centre which conducts medical device evaluations, have launched a joint Patient Safety Organization (PSO) to improve the safety of medication, medical devices and healthcare practices in all US settings.
+
+"Our new PSO is a single source for safety that's unrivaled in the market place... Together, ECRI and ISMP bring up-to-date information and real-time guidance to assure healthcare leaders that they're making the best decisions to keep patients, long-term care residents, and staff safe," said Dr Marcus Schabacker, president and CEO of ECRI, "Our joint PSO brings together global experts in medication safety, device errors, patient safety, risk, and quality, to support healthcare providers in real-time when they need it the most," he said.
+
+The PSO will enable providers and healthcare organisations to "report quality and patient safety information confidentially and without fear of legal discovery. Using this process, PSOs can help healthcare professionals learn from quality and patient safety concerns to prevent similar problems from happening in the future," noted the ISMP.
+
+Institute for Safe Medication Practices. ECRI and the Institute for Safe Medication Practices launch new Patient Safety Organization. 17 Aug 2020. https://www.ismp.org/news/ecri-and-institute-safe-medication-practices-launch-new-patient-safety-organization. Accessed 15 Sept 2020.
+
+A pharmacovigilance service appears to improve the documentation of adverse drug reactions (ADRs) within electronic medical records (EMRs) of paediatric patients, according to findings of a retrospective study published in the Journal of Clinical Pharmacology.
+
+Data from the Children's Mercy Hospital system, Kansas City, Missouri, USA, which includes a paediatric hospital, a regional hospital campus and four urgent care centres, were used to investigate the documentation of ADRs within EMRs within 24 h after admission to a hospital or clinic from October 2010 (when a Drug Safety Service [DSS] was introduced) until November 2018 in centres with and without quarterly DSS reports to a Pharmacy and Therapeutics committee.
+
+Overall, 31% of the 3065 ADRs requiring medical care did not have appropriate ADR documentation in EMRs prior to discharge from the hospital or clinic. ADRs were more frequently documented in EMRs in centres with versus without DSS monitoring (87% vs 61%; p < 0.01). ADR severity was not predictive of documentation; 15% of severe ADRs and 34% of moderate ADRs were not documented.
+
+Antimicrobials were most frequently implicated drug class in ADRs (n = 1852) but were not documented within 24 h in 33% of cases. The most frequent ADRs were rash (35%) and urticaria (18%), which were not documented within 24 h in 42% and 34% of cases, respectively. Allergy/hypersensitivity was not documented in 36% of cases. Multivariate regression analysis found that ADRs associated with contrast media and opioid analgesics were more likely to be documented than those associated with antimicrobials, while those associated with antiepileptic drugs and topical medication were less likely to be documented.
+
+ADRs were less likely to be documented in outpatient clinics and emergency departments than in hospitalised patients.
+
+"The identification of factors such as specific medications, ADR types, and clinical treatment settings associated with decreased ADR documenting may help to identify targeted areas and to provide support for increased pharmacovigilance efforts. Further work is needed to assure timely, accurate ADR documentation, which is essential for avoiding repeat ADRs," concluded the authors.
+
+Tillman EM, Suppes SL, Feldman K, et al. Enhancing pediatric adverse drug reaction documentation in the electronic medical record. J Clin Pharmacol. Epub 9 Aug 2020. https://doi.org/10.1002/jcph.1717. Accessed 15 Sept 2020.
+
+Analysis of postlicensure vaccine label changes in the USA revealed that most safety issues were identified through existing postmarketing surveillance, according to study results reported in the Annals of Internal Medicine, which confirms "the robustness of the vaccine approval system and postmarketing surveillance".
+
+The cohort study evaluated 57 vaccines against infectious diseases approved by the FDA in 1996–2015. Initial approval for 53 vaccines (93%) was supported by randomised controlled trials. The median cohort size was 4161 participants; 36 vaccines were compared with other vaccines rather than placebo. The most common vaccine indication was seasonal influenza (n = 21), followed by DTP, poliomyelitis, HiB, HAV or HBV combination vaccines (n = 16), meningococcus vaccines (n = 5), HPV vaccines (n = 3) and rotavirus vaccines (n = 3). There were 10 live attenuated vaccines.
+
+The initial vaccine label was evaluated for any safety-related changes in subsequent labels. There were 58 changes, comprising 49 warnings and precautions, 8 contraindications, and the withdrawal of the RotaShield rotavirus vaccine. Three changes involved removal of safety data, with the remaining changes involving data addition. Changes occurred a median of 5 years post-approval.
+
+The most frequent safety issue type was population restriction (n = 21, including immunocompromised, premature and pregnant patients or those with specific pre-existing conditions). This was followed by allergy (n = 13, mostly latex allergy-related) and syncope (n = 12). The data source for the label change was postmarketing surveillance in 28 cases, including 10 population restrictions and all 12 cases of syncope.
+
+The label changes were associated with 25 vaccines, mostly DTP, poliomyelitis, HiB, HAV or HBV combination vaccines (n = 19), followed by influenza vaccines (n = 4) or meningococcus vaccines (n = 4).
+
+Initial trial approval characteristics were "similar in vaccines with and without postmarketing, safety-related label modifications", the authors note. "We report that a large cohort encompassing all vaccines approved over a 20-year period was found to be safe" they add, "with no important postapproval safety issues".
+
+Tau N, Yahav D, Shepshelovich D, et al. Postmarketing safety of vaccines approved by the U.S. Food and Drug Administration. Ann Intern Med. Epub 28 Jul 2020. https://doi.org/10.7326/M20-2726. Accessed 15 Sept 2020.
+
+An e-learning pharmacovigilance (PV) course developed by the WHO's Uppsala Monitoring Centre (UMC) has been well received throughout the world, according to findings of a study published in Drug Safety.
+
+Acceptance of the UMC's e-learning course, a microlearning approach with small learning modules targeting specific learning objectives, was investigated by assessing usage data and results of user surveys on modules 1–4 (signal detection and causality; launched in 2017) and module 5 (statistical reasoning and algorithms; launched in 2018) in 137 countries.
+
+The survey on modules 1–4 was completed by 40.7% of the 2067 people who enrolled in it, and the survey on module 5 was completed by 65.9% of the 1685 people who enrolled in it. Most participants were from the pharmaceutical industry (36.6%), national PV centres (22.6%) or academia (16.3%).
+
+Satisfaction ratings were excellent or good in over 90% of learners. Most participants expressed satisfaction with the learning platform, course content and the duration of lessons, and most believed they would be able to apply the knowledge gained.
+
+Over 99% of participants would recommend the e-learning course to others, and would study future modules. Suggested enhancements included an interactive forum, more practical examples, and practice exercises.
+
+"This UMC e-learning course in pharmacovigilance based on microlearning was well received across all the aspects evaluated, with a global coverage among relevant professional disciplines, including the primary target group, national PV centre staff," said the authors.
+
+Hegerius A, Caduff-Janosa P, Savage R, et al. E-learning in pharmacovigilance: an evaluation of microlearning-based modules developed by Uppsala Monitoring Centre. Drug Saf. Epub 13 Aug 2020. https://doi.org/10.1007/s40264-020-00981-w. Accessed 15 Sept 2020.
+
+The UK National Institute for Health and Care Excellence (NICE) has announced the signing of a Memorandum of Understanding for a collaboration with the Colombian health technology assessment (HTA) agency, the Institute of Health Technology Assessment (IETS).
+
+NICE will share its expertise in developing guidance for HTA with IETS and the two organisations will exchange experiences on the development of specific clinical guidelines and quality standards. In addition, IETS will ask NICE to provide expert advice in support of knowledge sharing activities with other HTA agencies in Latin America.
+
+"This will lead to high quality knowledge sharing events and research projects for the benefit of the UK, Colombia and international healthcare system stakeholders," said Jeanette Kusel, Director of NICE Scientific Advice and NICE International.
+
+"The agreement will promote, over the next two years, the joint promotion and development of scientific-technological, academic, research and extension activities of each of the agencies," said Adriana Robayo García, executive director of IETS.
+
+National Institute for Health and Care Excellence. NICE signs agreement with Colombia's Institute of Health Technology Assessment to forge closer working ties. 9 Jul 2020. https://www.nice.org.uk/news/article/nice-signs-agreement-with-colombia-s-institute-of-health-technology-assessment-to-forge-closer-working-ties. Accessed 15 Sept 2020.
+
+Newly approved prescription drugs may have long periods of marketing exclusivity before generic or biosimilar competition, according to findings of an analysis published in Clinical Pharmacology and Therapeutics.
+
+Claims data were used to estimate market exclusivity periods for 264 small-molecule drugs and four biological drugs which were newly approved in USA and faced generic or biosimilar competition between 2012 and 2018.
+
+Market exclusivity periods for biologics were 29.3 years for epoetin-alfa (first-in-class, approved 2018), 24.5 years for filgrastim (first-in-class, approved 2015), 18.4 years for infliximab (approved 2017) and 16.5 years for pegfilgrastim (approved 2016). The longest marketing exclusivity periods were 50.5 and 53.9 years for flurandrenolide formulations approved in 2016 and 2017, respectively. The shortest exclusivity period was 3.0 years for modified clonidine and modified nevirapine, approved in 2013 and 2014, respectively.
+
+Median market exclusivity periods were 21.5 years for biologics versus 14.4 years for small-molecule drugs (p = 0.02), and were 14.4 years for drugs with annual revenue of $500 million or greater versus 6.6 years for those with annual revenue less than $75 million (p = 0.006). They were shorter for drugs for which the first generic was granted exclusivity for 180 days in order to expedite generic competition (14.1 vs 15.9 years, p < 0.01). Drugs which were modified versions of existing brand-name drugs also had shorter exclusivity periods than new drugs (median 9.9 vs 14.5 years; p < 0.01).
+
+"Longer exclusivity among the small number of biologics in the cohort raises concern that overall median exclusivity may lengthen in the future since biologics represent a larger fraction of new drug approvals over the last decade than they did the previous decade. Unnecessarily long exclusivity periods delay patient access to lower-priced medications, and policymakers should consider options to encourage timely competition, particularly among biologic drugs," commented the authors.
+
+Rome BN, Lee CC, Kesselheim AS. Market exclusivity length for drugs with new generic or biosimilar competition, 2012–2018. Clin Pharmacol Ther. Epub 12 Jul 2020. https://doi.org/10.1002/cpt.1983. Accessed 15 Sept 2020.
+
+Many cost-utility analyses (CUAs) that cite high cost-effectiveness thresholds (CETs) also result in greater incremental cost-effectiveness ratios (ICERs) for the novel interventions that they investigate, report researchers from the US.
+
+The researchers performed a systematic review of CUAs, conducted from US societal perspectives and published from January 2000 through February 2017, to explore whether the choice of CET was independent of the resulting ICER for a CUA.
+
+The review identified 317 ICER results with the referenced CETs. More than half of the published ICERs (n = 186) were below $US50,000 per quality-adjusted life year (QALY), 53 between $50,000 and $99,999 per QALY, 20 between $100,000 and $149,999 per QALY, and 58 ≥ $150,000 per QALY.
+
+More than two-thirds of the ICERs (238) were compared to a single CET benchmark and 43 to multiple CETs.
+
+Examining the association between the choices of CET and ICERS for 194 eligible studies showed a significant association between chosen CETs and positive results when interpreting the findings of CUAs with large ICERs > $100,000 per QALY.
+
+"Thus, higher ICERs are associated with a shift in the frequent use of higher CETs," suggest the researchers. Regression analysis showed that CETs began at $52,000 per QALY and grew by $0.37 per dollar increase in the ICER. "Based on findings from our systematic review of CETs and statistical analysis, we cannot rule out such thresholds are selected a posteriori to analysis," note the researchers.
+
+Padula WV, Chen H-H, Phelps CE, et al. Is the choice of cost-effectiveness threshold in cost-utility analysis endogenous to the resulting value of technology? A systematic review. Appl Health Econ Health Pol. Epub 19 Aug 2020. https://doi.org/10.1007/s40258-020-00606-4. Accessed 15 Sept 2020.
+
+Diagnostics Assessment Programme (DAP) decisions made by the UK’s NICE are generally based on whether ICERs are below a willingness-to-pay (WTP) threshold of £20,000 per QALY gained, as recommended in the DAP manual, but in some cases may be impacted by decision-modifying factors, according to findings of a review published in Value in Health.
+
+All NICE Diagnostics Guidance documents published up to February 2018, and their associated diagnostics assessment reports, were reviewed to assess whether ICERs used in evaluations were consistent with WTP thresholds given in the DAP manual, and to investigate decision-modifying factors.
+
+Eight out of 30 Diagnostics Guidance documents were excluded because the Diagnostics Advisory Committee (DAC) concluded that the evidence was insufficient for decision making.
+
+In total, 91 decision problems were identified for further analysis in the other 22 Diagnostics Guidance documents and received guidance of recommended (n = 52), not recommended (15) or "not recommended—only in research" (24). ICERs for decision problems were below £20 000 per QALY gained in 80.8% of those recommended, 33.3% of those not recommended and 37.5% of those not recommended—only in research.
+
+Overall, 73.6% of decisions were consistent with the WTP threshold of £20,000 per QALY gained. Diagnostic interventions with ICERs below the threshold which were not recommended had more decision-modifying factors favouring comparators than interventions which were recommended. However, diagnostic interventions with ICERs exceeding the threshold of £20,000 per QALY gained had similar numbers of decision-modifying factors whether they were recommended or not recommended.
+
+"Overall, this analysis suggests that an ICER threshold of £20,000/QALY is generally followed by the NICE DAC, with patient-centric decision-modifying factors, healthcare-centric decision-modifying factors, and uncertainty likely contributing to the final decision," concluded the authors. "Our research provides insightful examples of situations, in which positive decision-modifying factors contributed to a recommended decision, despite an ICER greater than £20,000/QALY," they added.
+
+Chen G, Peirce V, Marsh W. Evaluation of the National Institute for Health and Care Excellence Diagnostics Assessment Program decisions: incremental cost-effectiveness ratio thresholds and decision-modifying factors. Value Health. Epub 18 Aug 2020. https://doi.org/10.1016/j.jval.2020.04.1835. Accessed 15 Sept 2020.
+
+Drug prices paid by consumers in the US have shown significant growth in recent years, and some of that growth is due to payments from pharmaceutical manufacturers to intermediaries in the prescription drug market, such as pharmacy benefit managers and distributors.
+
+These are the main findings of an analysis that explored payments in the US pharmaceutical market from 2011 to 2019 using the audited annual financial reports of a sample of 13 pharmaceutical manufacturers, thereby extending an earlier 2011–2016 analysis.
+
+In the period of 2017 to 2019, gross revenue of these pharmaceutical manufacturers increased by 6.8% per annum, and payments from manufacturers, which include rebates and chargebacks, increased by 13.5% per annum, whereas net revenues for these manufacturers increased by only 2.9% annually. By 2019, these manufacturers made payments of 67.4% of net revenue, or $US141.4 billion, to generate $209.9 billion in net sales. "The scale of these payments... is astonishing," comment the researchers. The analysis also showed that the proportion of payments to net revenue varied substantially by manufacturer. Three of the firms in the sample had payments greater than net revenues, with payments as a percentage of net revenue ranging from 122% for AstraZeneca to 138% for GlaxoSmithKline. "This analysis provides strong evidence of the impact of a complicated funds flow model on prescription drug prices paid by consumers," suggest the researchers.
+
+Weinstein EP, Schulman K. Exploring payments in the US pharmaceutical market from 2011 to 2019: update on pharmacy benefit manager impact. Am Heart J. 2020;227:107–10.
+
+The risk of respiratory tract infections (RTIs) is increased in patients with autoimmune diseases treated with interleukin (IL)-12/23 or IL-23 antagonists, according to the results of a systematic review and meta-analysis reported in the Journal of the American Academy of Dermatology, but not the risk of interstitial lung disease (ILD).
+
+The study searched ClinicalTrials.gov, the Cochrane database, EMBASE, Google Scholar, PubMed/MEDLINE, Scopus and conference abstracts to February 2019. There were 54 randomised controlled trials included, which involved 10 907 patients receiving IL-12/23 or IL-23 antagonists and 5175 patients receiving placebo. The trials included brazikumab (n = 1), briakinumab (n = 8), guselkumab (n = 9), risankizumab (n = 5), tildrakizumab (n = 5) and ustekinumab (n = 26).
+
+Compared with placebo, the risk of RTIs was significantly increased in IL-12/23 or IL-23 antagonist recipients (Mantel–Haenszel risk difference [RD] 0.019; p = 0.007; number needed to harm = 58.8). The risk was significantly increased for briakinumab (RD 0.021; p = 0.036) and risankizumab recipients (RD 0.040; p = 0.026). The authors note that the rate of trials which permitted concomitant therapies was higher for risankizumab than for other anti-IL-23 therapies, which may suggest that "combination therapy of anti-IL-23 agents with immunosuppressants might work synergistically to surface the risk of RTIs". The increased risk was attributed to upper RTIs (RD 0.017; p = 0.006) rather than lower RTIs (RD 0) or viral upper RTIs (RD 0.001).
+
+Compared with placebo, the risk of infectious pneumonia was not significantly increased (RD 0), and nor was the risk of non-infectious ILD (RD 0).
+
+"Our study might support that anti-IL-12/23 and anti-IL-23 therapies can be safety used for autoimmune diseases even during the current COVID-19 pandemic", note the authors, although further studies "particularly during the current pandemic, are necessary to provide enough evidence to ensure the safety of these drugs".
+
+Akiyama S, Yamada A, Micic D, et al. The risk of respiratory tract infections and interstitial lung disease with IL-12/23 and IL-23 antagonists in patients with autoimmune diseases: a systematic review and meta-analysis. J Am Acad Dermatol. Epub 10 Aug 2020. https://doi.org/10.1016/j.jaad.2020.08.026. Accessed 15 Sept 2020.
+
+There appears to be an association between increased levels of the cytokine IL-6 and suicidality in paediatric patients receiving the selective serotonin reuptake inhibitor (SSRI) fluoxetine, according to study results reported in European Neuropsychopharmacology, but only in children with pretreatment suicidality.
+
+The study investigated 92 patients with major depressive disorder and/or anxiety disorders who received fluoxetine 20–40 mg/day. There were 57 girls and 35 boys, with a median age of 13.90 years. At the 6-month follow-up visit, 50 children were still receiving fluoxetine, while the remaining patients had been switched to another SSRI.
+
+There was no significant change in tumour necrosis factor-α levels during the study. However, there were significant increases in both IL-6 levels (False Discovery Rate correction p = 0.012) and IL-1β levels (p = 0.006). There were no differences in patients who continued fluoxetine compared with those who switched to other SSRIs.
+
+There were 62 patients who had a non-zero Columbia Suicide Severity Rating Scale (C-SSRS) grade at baseline (39 girls and 23 boys, median age 14.27 years), indicating a high-risk group with pretreatment suicidality. There were significant increases in IL-6 (p = 0.025) and IL-1β (p = 0.003) for these patients, but no significant increases for the children without pretreatment suicidality.
+
+There were 16 high-risk children (26%) who developed clinically meaningful suicidal behaviours (SBs), comprising a suicide attempt (n = 7), worsening suicidal ideation (n = 4) or worsening or new onset non-suicidal self-injury (NSSI; n = 5). There were no age, sex, diagnostic, baseline cytokine level or tested clinical parameter differences between those who did and did not develop SBs. Significantly increased IL-6 levels only occurred in children who developed SBs (p = 0.006), which the authors note "is suggestive of an enhanced inflammatory response in these children despite the SSRI treatment".
+
+"Our study underscores circulatory IL-6 as a potential inflammatory biomarker of specific importance in the pathophysiology of SSRI-associated SB", note the authors. "It seems that in children prone to suicidality associated with SSRI treatment, there is an incapability of SSRI to suppress elevation in IL-6 synthesis", they add, "and persistent accumulation of the cytokine may lead to SBs".
+
+Amitai M, Taler M, Lebow M, et al. An increase in IL-6 levels at 6-month follow-up visit is associated with SSRI-emergent suicidality in high-risk children and adolescents treated with fluoxetine. Eur Neuropsychopharmacol. Epub 31 Jul 2020. https://doi.org/10.1016/j.euroneuro.2020.07.007. Accessed 15 Sept 2020.
+
+CAR T-cell therapy is associated with a high incidence of neurotoxicity which can be predicted by a score based on clinical and laboratory values, say authors of a US study published in JAMA Neurology.
+
+This study conducted at Brigham and Women's Hospital/Dana Farber Cancer Institute, Boston, Massachusetts, between April 2015 and February 2020 investigated the use of a tool for predicting the development of CAR-associated neurotoxicity in 204 patients with relapsed or refractory lymphoma undergoing treatment with axicabtagene ciloleucel. Patients were followed up for 30 days post-infusion.
+
+Patients who were admitted between April 2015 and April 2019 (61.8%) comprised the derivation cohort, and patients who were admitted between May 2019 and February 2020 (38.2%) comprised an internal validation cohort. Neurotoxicity was reported in 57.9% of patients in the derivation cohort and 57.7% of patients in the validation cohort, and was grade 3 or 4 in 33 and 18 patients, respectively. The median time to onset of neurotoxicity was six and seven days, respectively.
+
+Clinical and laboratory values during the day of infusion and the next 5 days in the derivation cohort were used to develop a score to predict the development of neurotoxicity. Histological subtype of lymphoma, age ≥ 52 years, maximum temperature ≥ 38.5 °C, maximum serum C-reactive protein ≥ 8.95 ng/mL, maximum serum ferritin ≥ 641 ng/mL, minimum WBC count ≤ 790/µL, cytokine release syndrome (CRS) severity, CRS onset day 1 or 2, and the number of doses of tocilizumab were predictive of neurotoxicity in multivariate analysis.
+
+When used in the validation cohort, the predictive score had an area under the curve of 74%, 77% accuracy, 82% sensitivity and 70% specificity in predicting neurotoxicity.
+
+"The score developed in this study may allow clinicians to more precisely allocate resources, anticipate patient needs, and facilitate earlier discharge from the hospital," said the investigators.
+
+Rubin DB, Al Jarrah A, Li K, et al. Clinical predictors of neurotoxicity after chimeric antigen receptor T-cell therapy. JAMA Neurol. Epub 10 Aug 2020. https://doi.org/10.1001/jamaneurol.2020.2703. Accessed 15 Sept 2020.
+
+The UK Medicines and Healthcare products Regulatory Agency (MHRA) has issued a Drug Safety Update advising that systemically administered vascular endothelial growth factor (VEGF) inhibitors may increase the risk of aneurysm and artery dissection.
+
+Cases of aneurysm and artery dissection have been reported in patients receiving systemic VEGF inhibitors authorised in the UK (aflibercept, axitinib, bevacizumab, cabozantinib, lenvatinib, nintedanib, pazopanib, ponatinib, ramucirumab, regorafenib, sorafenib, tivozanib and vandetanib).
+
+In a review of a European database of suspected ADRs, 660 cases of aneurysm or artery dissection in patients receiving VEGF inhibitors were identified up to December 2018. The most frequently reported ADRs were aortic dissection (n = 163), aneurysm (146), retinal aneurysm (93), aortic aneurysm (89), ruptured aortic aneurysm (43), intracranial aneurysm (34) and ruptured aneurysm (31). Some these cases were fatal, most frequently aortic aneurysm rupture and aortic dissection. There was insufficient evidence to determine whether intravitreal aflibercept or ranibizumab are associated with these risks.
+
+Healthcare professionals are advised that risk factors including comorbid diseases and smoking should be carefully considered before initiating systemic VEGF inhibitors. Patients should be monitored and treated for hypertension in accordance with recommendations in the Summary of Product Characteristics for the relevant systemic VEGF inhibitor.
+
+Medicines and Healthcare products Regulatory Agency. Systemically administered VEGF pathway inhibitors: risk of aneurysm and artery dissection. 31 Jul 2020. https://www.gov.uk/drug-safety-update/systemically-administered-vegf-pathway-inhibitors-risk-of-aneurysm-and-artery-dissection. Accessed 15 Sept 2020.
+
+Treatment with sodium-glucose cotransporter 2 (SGLT2) inhibitors was not associated with increased risk of below-knee amputations compared with dipeptidyl peptidase 4 (DPP-4) inhibitors in patients with type-2 diabetes according to findings of a large observational study published in the journal, Diabetes Care.
+
+The study analysed data from administrative health care databases from seven Canadian provinces and the UK using a prevalent new-user design and time-conditional propensity scores. The study cohort consisted of 207 817 SGLT2 inhibitor users matched to 207 817 DPP-4 inhibitor users by their exposure set (user type—incident or prevalent, level of antidiabetic therapy, time on DPP-4 inhibitors, prior use of glucagon-like peptide-1receptor agonists, and within 120 days of the SGLT2 inhibitor prescription). The amputation rate, determined during a mean exposed follow-up time of 11 months, was 1.3 per 1000 person-years for users of SGLT2 inhibitors versus 1.5 per 1000 person-years for users of DPP-4 inhibitors. There was no significant increase in risk of incident below-knee amputations with SGLT2 inhibitors compared with DPP-4 inhibitors (HR 0.88; 95% CI 0.71–1.09). Similar results were also found in stratified analyses of age, sex, prior use of insulin, or specific SGLT-2 inhibitor. Among prevalent new users of SGLT2 inhibitors there was a trend toward an increased risk of incident below-knee amputation compared with DPP-4 inhibitor users (HR 1.29; 95% CI 0.97–1.70).
+
+Previous studies assessing the risk of amputation with SGLT2 inhibitor use have produced heterogeneous results. The current study is the largest observational study to examine this potential safety issue of SGLT2 use. With the prevalent new-user design, patients who switched to or added an SGLT2 inhibitor to their treatment regimen were included in the study cohort, making these findings relevant to the realities of clinical practice. The authors acknowledged that the duration of follow-up was modest and suggest that "future studies with a longer duration of follow-up are needed to determine whether long-term use of SGLT2 inhibitors is associated with below-knee amputation risk".
+
+Yu OHY, Dell’Aniello S, Shah BR, et al. Sodium-glucose cotransporter 2 inhibitors and the risk of below-knee amputation: a multicenter observational study. Diabetes Care. Epub 31 Aug 2020. https://care.diabetesjournals.org/content/diacare/early/2020/08/03/dc20-0267.full.pdf. Accessed 15 Sept 2020.
+
+Although short-term hydroxychloroquine treatment of patients with rheumatoid arthritis does not appear to be associated with an increased risk of severe adverse events compared with sulfasalazine treatment, according to study results reported in The Lancet Rheumatology, long-term use or combination with azithromycin appears to be associated with an increased risk of cardiovascular disorders.
+
+Data was obtained from 14 databases in six countries from September 2000. The retrospective study (EUPAS34497) compared the incidence of 16 severe adverse events over 30 days in patients initiating hydroxychloroquine (n = 956 374) or sulfasalazine (n = 310 350) [1]. There was no significantly excess event risk for hydroxychloroquine recipients.
+
+For long-term users, hydroxychloroquine was associated with an increased risk of cardiovascular-related mortality versus sulfasalazine users (4.39 vs 2.00 per 1000 person-years; meta-analysis calibrated hazard ratio [HR] 1.65; 95% CI 1.12, 2.44). Results of a self-controlled cases series in all hydroxychloroquine users regardless of indication which compared periods on and off treatment "confirmed these findings", note the authors.
+
+Additionally, severe adverse events were compared in the patients who received hydroxychloroquine and azithromycin (n = 323 122) versus hydroxychloroquine and amoxicillin (n = 351 956). The risk of cardiovascular-related mortality was significantly increased (HR 2.19; 1.22, 3.95), as was the risk of chest pain/angina (HR 1.15; 1.05, 1.26) and heart failure (HR 1.22; 1.02, 1.45). The authors note that this was "probably arising through their synergistic effects on QT length and subsequent induction of fatal arrhythmia".
+
+"The collective experience of almost a million patients builds our confidence in the evidence around the safety profile of hydroxychloroquine", conclude the authors, who add that "a cautious assessment of cardiovascular risk is needed before initiating high-dose hydroxychloroquine plus azithromycin combination therapy, and in long-term monitoring of patients with rheumatoid arthritis, especially those with cardiovascular risk factors".
+
+In an accompanying comment reported in The Lancet Rheumatology [2], Tom Huizinga (Leiden University Medical Center) and Rachel Knevel (Brigham and Women's Hospital) note that although the study "provides a relevant guide for researchers in the field of electronic medical record analyses", the "question remains whether the results should guide our current standards of care". They add that as the cardiovascular mortality rate was very low, "one needs to consider that if bias between the groups exists, then the differences between 4 per 1000 and 2 per 1000 years of observation might also be caused by bias". They conclude that "it is difficult to weigh the current data in the context of daily care of patients with SLE, in which so much convincing evidence exists for the positive effects of hydroxychloroquine as recommended by EULAR".
+
+1. Lane JCE, Weaver J, Kostka K, et al. Risk of hydroxychloroquine alone and in combination with azithromycin in the treatment of rheumatoid arthritis: a multinational, retrospective study. Lancet Rheumatology. Epub 27 Aug 2020. https://doi.org/10.1016/S2665-9913(20)30276-9. Accessed 15 Sept 2020.
+
+2. Huizinga TWJ, Knevel R. Interpreting big-data analysis of retrospective observational data. Lancet Rheumatology. Epub 21 Aug 2020. https://doi.org/10.1016/S2665-9913(20)30289-7. Accessed 15 Sept 2020.
+
+Data from observational studies show that there is "a rare, short-term risk of cardiovascular events associated with macrolides, including erythromycin", says Ireland's Health Products Regulatory Agency (HPRA).
+
+The agency recently issued updated warnings after the EMA's Pharmacovigilance Risk Assessment Committee (PRAC) considered the above-mentioned study data as part of a routine periodic assessment of erythromycin-containing medicines. The specific cardiovascular (CV) events mentioned in these updated warnings included arrhythmia, myocardial infarction and CV-related mortality. The PRAC has recommended that healthcare professionals should balance the CV risks with known treatment benefits when prescribing erythromycin-containing medicines.
+
+In addition, the HPRA noted that "as part of the PRAC's assessment, an extensive literature review was undertaken and it was considered that there was consistent evidence across a reasonable body of literature to support an association between exposure to erythromycin in infants and the risk of infantile hypertrophic pyloric stenosis (IPHS)". Specifically, epidemiological data (including three meta-analyses) have suggested a two- to threefold increase in the risk of IPHS in children aged < 6 months, especially in those exposed during the first 14 days of life.
+
+The product information for erythromycin-containing medicines that are systemically absorbed (such medicines licensed in Ireland include Erythrocin, Erythroped and Primacine) has been updated to include the above-mentioned risks. Furthermore, the HPRA has advised healthcare professionals not to prescribe erythromycin to patients with a history of QT interval prolongation or ventricular cardiac arrhythmias, or in patients with electrolyte disturbances.
+
+Finally, recently identified information about an increased risk of bleeding associated with concomitant use of rivaroxaban (i.e. direct-acting oral anticoagulant) has also been added to the product information for erythromycin-containing medicines.
+
+Health Products Regulatory Authority. Erythromycin—updated warnings regarding cardiovascular risks and infantile hypertrophic pyloric stenosis. 17 Aug 2020. https://www.hpra.ie/docs/default-source/default-document-library. Accessed 15 Sept 2020.
+
+Androgen deprivation therapy (ADT) in patients with prostate cancer appears to increase the risk of dementia, according to findings of a systematic review and meta-analysis published in the Journal of Urology.
+
+PubMed and Web of Science databases were searched up to January 2020 for studies reporting the incidence of dementia and/or and Alzheimer's disease (AD) in patients with prostate cancer who received ADT (gonadotropin-releasing hormone stimulants, LHRH receptor agonists or LHRH receptor antagonists) compared with those who did not receive ADT. Six meta-analyses were performed to assess the associations between ADT for up to 12 months or over 12 months and all-cause dementia (including AD), AD, and AD or all-cause dementia. Of the 14 studies which met the selection criteria, nine reported data on all-cause dementia, eight reported data on AD, and five assessed the risks based on the duration of ADT.
+
+The risk of all-cause dementia and AD was higher in patients who received ADT (hazard ratio [HR] 1.21; 95% CI 1.11, 1.33) than in those who received no ADT (HR 1.16; 95% CI 1.09, 1.24). The risk of all-cause dementia was significantly increased in patients who received ADT for over 12 months (HR 1.36; 95% CI 1.07, 1.72) but not in those who received ADT for less than 12 months (HR 1.06; 95% CI 0.77, 1.28). No association was found between the duration of ADT and the risk of AD.
+
+"Based on these findings, we recommend routine monitoring of cognitive function in patients receiving ADT as well as mental/cognitive status assessment should be performed in all patients planned for ADT. Adequate patient counselling about these potential side effects of ADT should be part of the decision-making and follow up strategy," said the authors.
+
+Sari Motlagh R, Quhal F, Mori K, et al. The risk of new onset dementia and/or Alzheimer's disease among prostate cancer patients treated with androgen deprivation therapy: a systematic review and meta-analysis. J Urol. Epub 28 Aug 2020. https://doi.org/10.1097/JU.0000000000001341. Accessed 15 Sept 2020.
+
+Monitoring of blood clozapine levels for toxicity is now advised in certain clinical situations, according to a drug safety update from the MHRA in the UK, released on 26 August 2020.
+
+Clinical situations where monitoring of blood clozapine levels for toxicity is advised include when: a patient has pneumonia or other serious infection; a patient stops smoking or switches to an e-cigarette; or concomitant medicines may interact to increase blood clozapine levels.
+
+Monitoring of blood clozapine levels is also advised when toxicity is suspected or reduced clozapine metabolism is suspected. Such blood clozapine level monitoring should be carried out in addition to monitoring required to manage the risk of agranulocytosis.
+
+For other antipsychotics, where assays and reference values are available, blood level monitoring for toxicity may be helpful in certain clinical situations, for example when concomitant medicines may interact to increase antipsychotic drug levels or when toxicity is suspected.
+
+This new monitoring advice from the MHRA follows a request to take action in two Coroner's reports. In the reports, the patients' deaths were determined to have been partly caused by clozapine toxicity or amisulpride toxicity, respectively. These reports raised concerns regarding the need for monitoring of clozapine and antipsychotic blood levels.
+
+Medicines and Healthcare products Regulatory Agency. Clozapine and other antipsychotics: monitoring blood concentrations for toxicity. 26 Aug 2020. https://www.gov.uk/drug-safety-update/clozapine-and-other-antipsychotics-monitoring-blood-concentrations-for-toxicity. Accessed 15 Sept 2020.
+
+Real-world use of poly(ADP-ribose) polymerase (PARP) inhibitors in patients with gynaecological cancers requires more dosage modifications and discontinuations for the management of adverse events (AEs) than previously reported in clinical trials and is costly, according to findings of a US study published in Gynecologic Oncology.
+
+The toxicity profile and financial burden of PARP inhibitors were investigated by conducting a retrospective chart review of patients with recurrent ovarian, primary peritoneal or fallopian tube cancer who initiated olaparib, niraparib or rucaparib at a community oncology practice in Phoenix, Arizona, between December 2016 and November 2018.
+
+In total, 47 patients received 506 28-day cycles of niraparib (58% of cycles), olaparib (24%) or rucaparib (18%). Patients were covered by federal insurance (17.7%), private insurance (46.7%) or both (35.6%).
+
+Overall, the most frequently reported all-grade AEs were nausea (63% of patients) and fatigue (45%), and the most frequently reported grade ≥ 3 AE was anaemia (31%). Thrombocytopenia was reported in 11 patients.
+
+Grade ≥ 3 toxicity was reported in 17%, 27% and 43% of patients receiving olaparib, rucaparib and niraparib, respectively, and led to dose interruption in 69% of cycles, dosage reduction in 63% and treatment discontinuation in 29%. Niraparib was associated with more frequent dose interruptions but fewer treatment discontinuations than olaparib or rucaparib (p < 0.01).
+
+Overall, 1.4 telephone calls per cycle were received or made by clinical staff, most frequently for care coordination, to report laboratory results or for toxicity management. However, 12.5% of calls were cost-related.
+
+Reimbursement costs were $8018 per cycle of PARP inhibitor therapy overall ($7780 for olaparib, $8067 for niraparib and $9022 for rucaparib), and total costs were $67 139 per course.
+
+"The clinical burden of PARP inhibitors may... necessitate additional staff or education to ensure best patient outcomes. Additional research within a real world setting is needed to evaluate the cost effectiveness of PARP inhibitors and the effect of their financial burden on patient quality of life," concluded the authors.
+
+Eakin CM, Ewongwo A, Pendleton L, et al. Real world experience of poly (ADP-ribose) polymerase inhibitor use in a community oncology practice. Gynecol Oncol. Epub 15 Aug 2020. https://doi.org/10.1016/j.ygyno.2020.07.020. Accessed 15 Sept 2020.
+
+The risk and severity of fluoropyrimidine-related AEs in patients with colon cancer appear to be greater in women than in men, according to findings of a study published in the Journal of the National Cancer Institute.
+
+Logistic regression analysis of data from the international ACCENT (Adjuvant Colon Cancer End Points) database was used to investigate the risk and severity of fluoropyrimidine-related AEs in 34 640 patients with colon cancer receiving fluoropyrimidine (fluourouracil [5-FU] or capecitabine)-based adjuvant chemotherapy, with or without oxaliplatin.
+
+Grade III/IV AEs with significantly greater odds in women versus men (all p < 0.001) included: nausea with fluorouracil (odds ratio [OR] 2.33) and FOLFOX (folinic acid, fluorouracil and oxaliplatin; OR 2.34); vomiting with fluorouracil (OR 2.38), FOLFOX (OR 2.00) and CAPOX (capecitabine and oxaliplatin; OR 2.32); diarrhoea with fluorouracil (OR 1.35), FOLFOX (OR 1.60) and FOLFIRI (folinic acid, fluorouracil and irinotecan; OR 1.57); neutropenia with fluorouracil (OR 1.55), FOLFOX (OR 1.96), FOLFIRI (OR 2.01) and capecitabine (OR 4.17); and leucopenia with fluorouracil (OR 1.74) and FOLFIRI (1.75).
+
+"The current analysis raises several important questions, including whether males should receive higher doses of 5-FU and whether this may increase the effectiveness of chemotherapy in males with colon cancer, and whether females should receive either reduced doses of 5-FU or different or more intensive supportive treatments," said the authors, "Therefore, further rationally-designed, prospective clinical trials investigating alternatives to body surface area-based dosing of fluoropyrimidines are required to optimize dosing".
+
+Wagner AD, Grothey A, Andre T, et al. Sex and adverse events of adjuvant chemotherapy in colon cancer: an analysis of 34,640 patients in the ACCENT database. J Natl Cancer Inst. Epub 24 Aug 2020. https://doi.org/10.1093/jnci/djaa124. Accessed 15 Sept 2020.

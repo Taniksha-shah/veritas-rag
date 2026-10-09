@@ -1,0 +1,21 @@
+Other adverse reaction research
+
+Below is a list of other recently published drug safety-related scientific literature.
+
+Boels D, et al. Fatal and life-threatening ADRs associated with paliperidone palmitate: an observational study in the French pharmacovigilance database. Clinical Toxicology : 8 Feb 2021. Available from: URL: https://doi.org/10.1080/15563650.2021.1878206
+
+Choi YH, et al. Clinical significance of potential drug-drug interactions in a pediatric intensive care unit: A single-center retrospective study. PLOS One : 8 Feb 2021. Available from: URL: https://doi.org/10.1371/journal.pone.0246754
+
+FitzGerald JM, et al. Safety of As-Needed Budesonide-Formoterol in Mild Asthma: Data from the Two Phase III SYGMA Studies. Drug Safety : 6 Feb 2021. Available from: URL: http://dx.doi.org/10.1007/s40264-020-01041-z
+
+Gao J, et al. Post-marketing safety surveillance for inactivated Enterovirus 71 vaccines in Jiangsu, China from 2017 to 2019. Vaccine : 1 Feb 2021. Available from: URL: http://dx.doi.org/10.1016/j.vaccine.2021.01.048
+
+Honybun E, et al. Prenatal valproate exposure and adverse neurodevelopmental outcomes: Does sex matter? Epilepsia : 5 Feb 2021. Available from: URL: http://dx.doi.org/10.1111/epi.16827
+
+Laroche C, et al. Younger children treated with rituximab for nephrotic syndrome are at higher risk of adverse events. Nephrology Dialysis Transplantation : 4 Feb 2021. Available from: URL: http://dx.doi.org/10.1093/ndt/gfab013
+
+Magro L, et al. Identifying and Characterizing Serious Adverse Drug Reactions Associated With Drug-Drug Interactions in a Spontaneous Reporting Database. Frontiers in Pharmacology : 18 Jan 2021. Available from: URL: https://doi.org/10.3389/fphar.2020.622862
+
+Mendez SR, et al. Dihydropyridine Calcium Channel Blockers and the Risk of Severe COVID-19. Chest : 3 Feb 2021. Available from: URL: http://dx.doi.org/10.1016/j.chest.2021.01.073
+
+Wang Y, et al. Retrospective Analysis of Laboratory Abnormalities in Pediatric Patients Prescribed Terbinafine for Superficial Fungal Infections. Journal of the American Academy of Dermatology : 27 Jan 2021. Available from: URL: http://dx.doi.org/10.1016/j.jaad.2021.01.073

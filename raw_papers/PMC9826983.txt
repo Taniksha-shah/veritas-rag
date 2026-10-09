@@ -1,0 +1,137 @@
+Participation of a pharmacist in patient care for critically ill Covid-19 patients in Morocco: A prospective study
+
+The recent pandemic has made a remarkable impact on the healthcare system, causing heavy economic and social consequences that were more pronounced in the developing world. As a response, changes were made to Moroccan health structures by creating new critical care units and increasing the number of beds. Despite these efforts, hospitals were overwhelmed during the first wave with the number of Covid-19 patients admitted to the intensive care unit (ICU), which was doubled, putting additional pressure on ICU resources [1].
+
+In these difficult times, there were numerous challenges related to the pandemic which brought concern about the quality of care that was delivered to Covid-19 patients. This has motivated the healthcare community to look for solutions to improve patient outcomes and reduce damage.
+
+Although relatively new in Morocco, clinical pharmacy has gained great recognition in North American countries these last few decades. It is a constantly evolving discipline in many regions of the world.
+
+Pharmacist missions that were previously centered around drug preparations have shifted with the emergence of pharmaceutical care. The pharmacist has thus become a health practitioner whose skills involve him as a manager of health risk, a contributor to therapeutic consensus and guidelines, a specialist in drug consumption and cost-savings, and an actor in patient education.
+
+According to the guidelines of the Society of Critical Care Medicine, a dedicated clinical pharmacist must be available in the ICU as an integrated member of a multidisciplinary team to provide direct patient care [2]. Their presence in the ICU has been documented to be associated with clinical and economic benefits, such as lower rates of medication errors, decreased total cost of care, and reduced mortality in United States hospitals [3], [4].
+
+Critical Care pharmacists were assigned multiple roles during the pandemic that were described in many studies. Besides pharmacotherapy management, they coordinated between intensivists and pharmacists, ensured the availability of medication, participated in clinical trials, and elaborated institutional protocols with physicians [5].
+
+The rate of adverse drug events (ADEs), which is reportedly the highest in the ICU, is expected to be higher in critically ill Covid-19 patients in comparison with normal circumstances [6].
+
+The purpose of this work is to share the experience of a clinical pharmacist in a Covid-19 ICU, by reviewing detailed drug problems and assessing the clinical impact of pharmaceutical interventions.
+
+A prospective study was conducted over a four-month-period, between 11th September 2020 and 11th January 2021 at the Ibn Sina university hospital of Rabat in Morocco. The study took place in a 12-bed intensive care unit of emergency trauma that was converted into a Covid-19 critical care unit during the study period. ICU admissions consisted of confirmed or suspected Covid-19 patients with pulmonary failure.
+
+A decentralized clinical pharmacy model was adopted where an intern in pharmacy becomes a full-time member of the medical team. The pharmacist attended the unit five days a week and participated in medical rounds. Medical prescriptions of all hospitalized patients admitted to the unit were assessed daily using medical files and biological data. The medication history of newly admitted patients was also reviewed as well as medical observations of their stay in previous units.
+
+The pharmacist performed level 3 pharmaceutical analysis according to the French Society of Clinical Pharmacy, which consists of the evaluation of drug choices, verification of their dosage, identification of contraindications and drug interactions, while taking into account the patient's clinical events and biological results. The pharmacist also aims to ensure drug stability and safety by assisting nurses at the step of preparation and administration of drugs (figure 1 ).
+
+Diagram of study design with classification of drug problems and PIs
+
+*: Drug-related problem; **Pharmaceutical intervention.
+
+A pharmaceutical intervention (PI) is made after identification of a drug-related problem. The PI is communicated to the prescriber who will then decide to accept or refuse the pharmacist's recommendation.
+
+A PI is uninformed when it is considered but the prescriber did not respond with its acceptance or refusal. A PI is noted « before prescription » when the pharmacist alerts the prescriber of a possible drug error, or if the pharmacist assists the physician in the prescription process. A PI is noted « after prescription » if the pharmacist identifies a drug error after prescription analysis and before administration, or during the preparation and administration step when the pharmacist is assisting nurses.
+
+Drugs involved in PIs were classified according to the Anatomical Therapeutic Chemical (ATC) classification system.
+
+Validation of prescriptions required the use of tools such as the ANSM (National Agency for the Safety of Medicines and Health Products) Drug Interactions Thesaurus, the Prescription and Kidney site (GPR) for dosage adjustment, Gray's Injectable Drugs Guide as a reference for physico-chemical incompatibilities, and guidelines of scientific societies.
+
+At the time of the study, healthcare institutions and professionals were instructed to follow a Covid-19 therapeutic protocol which was published by the Moroccan Ministry of Health [7].
+
+PIs were entered in the electronic platform “google doc” which is connected to an Excel table and a PI sheet inspired by the French Society of Clinical Pharmacy [8]. This helped share PIs with the clinical pharmacy team for review of clinical activities of the pharmacist, and served as a collection form for subsequent analysis in Excel.
+
+An assistant professor in clinical pharmacy who monitored interns during the clinical pharmacy program, measured the clinical impact of PIs using the Hatoum scale (0- > I- > II- > III) [9].
+
+Clinical impact (0): the intervention either has a purely financial or informational purpose or was proposed after the event and is therefore of no consequence to the patient.
+
+Clinical impact (I): the intervention increases the effectiveness of the treatment and/or the safety of the patient and/or the quality of life of the patient.
+
+Clinical impact (II): the intervention prevents organic dysfunction, avoids intensive medical monitoring or irreversible sequelae.
+
+Clinical impact (III): the intervention prevents a potentially fatal accident.
+
+This study was conducted in accordance with guidelines of the Ethic Committee for Biomedical Research of Rabat.
+
+In all, 132 patients were admitted to the ICU for pulmonary failure due to Covid-19. 106 patients (80.3%) had at least one drug-related problem that required the pharmacist's intervention.
+
+A total of 720 medical prescriptions were analyzed during the study period. 234 prescriptions required a PI [PI rate = 32.5%; PI per patient = 2.2]. In all, 362 PIs were performed by the pharmacist.
+
+Patients of our study were predominantly male (68.86%) and had a median age of 65.5 years. Common comorbidities were hypertension (32.1%), diabetes (31.1%), and obesity (18.9%) (table I ).
+
+Baseline characteristics and clinical events of patients with PIs expressed in number (percentage) or median (interquartile range).
+
+Dosage error accounted for 43% of drug-related problems, followed by non-conformity to guidelines (19.6%), drug omission (12.40%), and drug interaction (7.5%). The main PIs were as follows: dose adjustment (49.4%), drug discontinuation (16.8%), and treatment recall (9.4%) (figure 2 ).
+
+Characteristics of interventions carried out by the pharmacist during the study period
+
+A. Types of drug related-problem encountered. B. Characterization of pharmaceutical interventions. C. Moment of the pharmaceutical intervention. D. Profile of the prescriber to whom the intervention was communicated.
+
+In all, 28 patients had 1 intervention during their stay, 20 patients had 2 interventions, and 19 patients had 3 interventions (table II ).
+
+Number of interventions (1 ≥ n > 10) per patient.
+
+In all, 413 drugs in total were involved in PIs. 85.9% of PIs involved one drug 14.1% involved two drugs. J (anti-infective for systemic use), B (blood and blood forming organs), and P (antiparasitic products, insecticides and repellents) ATC groups were subject to 37.3%, 18.2%, and 15.5% of PIs respectively (table III ).
+
+ATC classification of drugs (n = 413) involved in pharmaceutical interventions.
+
+Some examples of pharmacist's recommendations are detailed in table IV .
+
+Examples of detailed pharmaceutical interventions with their description.
+
+GFR: glomerular filtration rate.
+
+Regarding other activities, 43 adverse events were reported to the pharmacovigilance center. 27% of these events were related to a prolonged QT interval, followed by hyperglycemia (18.6%) and bleeding (13.9%).
+
+In all, 90% of PIs were accepted. According to Hatoum scale, 64.9% of PIs had a significant impact, whereas 35.1% had a very significant impact (table V ).
+
+Pharmaceutical interventions ranked according to the future of the intervention and the clinical impact.
+
+It is well known that pharmacokinetic parameters vary highly in the critical care environment due to organ damage, mechanical ventilation, septic shock, and hypoalbuminemia [10]. In Covid-19 patients, the prevalence of obesity, acute renal failure, and the elderly population has added to the complexity of providing efficient and safe therapies [11].
+
+During the pandemic, the hospital faced other challenges that included extreme workload, recruitment of less experienced teams from different departments, limited knowledge of Covid-19, and insufficient human and medical resources. In the unit, medical staff were specialized in acute care surgery and were temporarily treating Covid-19 patients. This change of habits and lack of experience could potentially expose this already sensitive population to drug errors and worsen their prognosis. In addition to these difficulties, physicians were compelled to prescribe a wide range of symptomatic and antiviral therapies in a climate of urgency and uncertainty.
+
+To our knowledge, this is the first prospective study to evaluate pharmacist interventions in a Covid-19 critical care setting. Only two other similar retrospective studies were conducted on critically ill Covid-19 patients [12], [13].
+
+Study results revealed that error in dosing regimen and non-conformity to guidelines were the most common drug problems. In comparison to a study conducted in an ICU in China, drug errors were mainly related to adverse drug reactions [12]. This was slightly different when compared to another study conducted in a non-ICU Covid-19 unit, where dose error and drug omission were the main drug errors [14]. Drug classes were difficult to compare since other studies didn’t use the ATC classification system. Results of a study in Saudi Arabia found that the most common classes with PIs were antibiotics, electrolytes/minerals and vitamins [13].
+
+In this exceptional time, there were several drugs explored to treat infected patients which led to the implementation of protocols in hospitals. Morocco is one of many countries to allow treatment with hydroxychloroquine and azithromycin. The use of this combination was shown to be a risk factor of prolonged QT in Covid-19 patients [15]. Along with factors like hypokalemia, bradycardia, and ischemic heart disease, this risk is increased when combined with other common drugs with this side effect such as fluoroquinolones and amiodarone [16]. Thus, ECG monitoring, and high vigilance from medical professionals is necessary to prevent lethal arrhythmias. Bleeding is an additional risk that was found to be associated with the frequent use of corticosteroids, acetylcysteine and therapeutic doses of enoxaparin [17]. To avoid these adverse reactions, it is required to take into account patients BMI and renal function when implementing these therapies.
+
+As a result of pre-existing comorbidities, some Covid-19 patients were treated with multiple therapies before admission, which increased the risk of drug interactions. This is the case of the association between azithromycin, an inhibitor of CYP3A enzymes, and substrats of these enzymes like digoxin, simvastatin, and colchicine [18]. Based on the benefice/risk balance, the pharmacist would either propose a temporary discontinuation of drugs involved in associations with potential harm to the patient. The pharmacist could also suggest dosage adjustment or drug monitoring in a high-risk population.
+
+While the pharmacist dedicated most of his time to prescription analysis and identification of medication problems, his activity has expanded during the course of this study. The pharmacist was involved in reporting adverse drug events, providing drug information, and sharing the latest findings of drug recommendations with medical staff.
+
+We experienced, like many hospitals, a short supply of essential medications for the ICU, obligating clinicians to search for alternative therapies and to implement conservation strategies. The pharmacist helped the chief nurse with managing ongoing shortages of Covid-19 therapies (azithromycin, hydroxychloroquine, vitamin D, vitamin C, and zinc) which arrived to the unit in kits for each patient. Shortages weren’t limited to drugs but have touched medical devices as well, like double- and triple-lumen central venous catheters. Consequently, patients had limited venous access and nurses were likely to administer simultaneously continuous infusions of incompatible drugs in the same venous line. To prevent this type of incidents, the pharmacist would usually recommend to alternate drug infusions or to add a peripheral venous line when possible.
+
+Approximatively 40% of PIs were made before prescription, either after the prescriber asks for the pharmacist's opinion, or the pharmacist notices a possible drug error during medical rounds. This usually happens when new drugs are added to a patient's prescription or when new clinical events occur during their stay.
+
+In our study, the prescriber was rarely a specialist, which reflects the state of many wards where specialists were surpassed by the growing number of severe cases and depended on interns and residents in the prescription process.
+
+A high acceptance rate was noted, and all PIs had either a significant or a very significant clinical impact. This is an indication of the active role played by the pharmacist in the pharmacotherapy process and the real need for pharmaceutical care in the intensive care unit, especially in times of crisis. This work underlines the importance of teamwork in the ICU, individualization of therapy, and a multidisciplinary approach in decision-making.
+
+The prospective design and the large sample of patients contributed to the strength of our study. However, some limitations need to be considered when interpreting our results. They were represented mainly by the short period of time and the absence of a control group. Although PIs clinical impact was reviewed by an assistant professor in clinical pharmacy using the Hatoum scale, this tool remains not precise and could vary depending on the evaluator. A committee of reviewers consisting of pharmacists and physicians is preferred when using this scale in further studies. The high flow of patients at the time of the study as well as limited entry due to Covid-19 protection instructions prevented the pharmacist from reviewing other possible errors, particularly at the step of preparation and administration. A solution to this problem is to implicate students in pharmacy to help gather patient information and assist different nurses at the same time.
+
+Nevertheless, the sharing of the pharmacist experience will provide an insight into drug management of critically ill Covid-19 patients, and could serve as a valuable resource for healthcare workers in future epidemics.
+
+Pharmacy services in Covid-19 critical care unit were found to be beneficial and contribute to the prevention of medical errors and adverse drug reactions. It is therefore recommended to include more pharmacists in the future to promote rational drug use and minimize unnecessary costs.
+
+this study was conducted in accordance with guidelines of the Ethic Committee for Biomedical Research of Rabat.
+
+the authors declare that the work described has been carried out in accordance with the Declaration of Helsinki of the World Medical Association revised in 2013 for experiments involving humans as well as in accordance with the EU Directive 2010/63/EU for animal experiments.
+
+the authors declare that this report does not contain any personal information that could lead to the identification of the patient(s) and/or volunteers.
+
+the authors declare that they have no competing interest.
+
+this work did not receive any grant from funding agencies in the public, commercial, or not-for-profit sectors.
+
+all authors attest that they meet the current International Committee of Medical Journal Editors (ICMJE) criteria for Authorship.
+
+Amina Hida: conceptualization, formal analysis, data Curation, writing – original draft, visualization.
+
+Larbi Aberouch: validation, investigation, resources.
+
+Mamoun Faroudy: methodology, validation, investigation, resources, writing – review & editing, supervision, project administration.
+
+Aicha Chaibi: methodology, writing – review & editing, supervision, project administration.
+
+We thank our colleagues from the critical care unit where the study took place, who provided insight and expertise that greatly assisted the research.
+
+We thank professors of the faculty of medicine and pharmacy for assistance with methodology and for comments that greatly improved the manuscript.

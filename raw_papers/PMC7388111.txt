@@ -1,0 +1,297 @@
+Forum
+
+The final US Food and Drug Administration (FDA) guidance “provides recommendations to industry regarding postmarketing adverse event reporting” for medical products and dietary supplements during a pandemic, says the agency.
+
+Four FDA divisions (i.e. the Centers for Food Safety and Applied Nutrition, Drug Evaluation and Research, Devices and Radiological Health, and Biologics Evaluation and Research) recently announced its intended approach to enforcement of adverse event (AE) reporting requirements for medical products (i.e. drugs, biologics, medical devices and combination products), as well as dietary supplements, in situations when a pandemic has been declared.
+
+The FDA stated that it “anticipates that during a pandemic, industry and FDA workforces may be reduced because of high employee absenteeism while reporting of adverse events related to widespread use of medical products indicated for the treatment or prevention of the pathogen causing the pandemic may increase. The extent of these possible changes is unknown”.
+
+In addition, the agency encouraged the submission of comments (i.e. online or in writing) on any of its guidance documents.
+
+US Food and Drug Administration. Postmarketing adverse event reporting for medical products and dietary supplements during a pandemic. 11 May 2020. https://www.fda.gov/regulatory-information/search-fda-guidance-documents/postmarketing-adverse-event-reporting-medical-products-and-dietary-supplements-during-pandemic. Accessed 16 July 2020.
+
+The UK Medicines and Healthcare Products Regulatory Agency (MHRA) has set up a website for reporting adverse drug reactions (ADRs) and equipment-related incidents in patients with COVID-19, in preparation for large-scale use of potential new or repurposed medicines, medical devices, diagnostic tests and future vaccines.
+
+COVID-19 Yellow Card reports will be used to monitor the safety of healthcare products being used in COVID-19 treatment, identify new or emerging risks, and take appropriate regulatory action, where necessary.
+
+“I encourage healthcare professionals and patients to use our new dedicated site to report problems with medical equipment, including ventilators or testing kits, as well as any suspected side effects from medicines used to combat COVID-19,” said Dr June Raine, Chief Executive of MHRA.
+
+Medicines and Healthcare Products Regulatory Agency. Coronavirus: new website for reporting medicines side-effects and equipment incidents. 4 May 2020. https://www.gov.uk/government/news/coronavirus-new-website-for-reporting-medicines-side-effects-and-equipment-incidents. Accessed 16 July 2020.
+
+The Uppsala Monitoring Centre (UMC) is encouraging the use of common coding principles when completing individual case safety reports (ICSRs) for recipients of COVID-19 treatments. Sharing of relevant AE reports with minimal delays in reporting is crucial to improve understanding about treatment efficacy and safety.
+
+The Medical Dictionary for Regulatory Activities (MedDRA) 23.0 release has been updated with COVID-19-related terms; using the appropriate terms when coding the indication of use is particularly important. For identification and analysis of COVID-19-related cases, the following details are particularly useful: patient age, patient sex, relevant medical history, reaction outcome, results of tests or procedures, cause of death narrative, sender’s diagnosis and sender’s comments.
+
+If the patient was treated as part of a clinical trial, the report type should indicate the source, along with the study name and number. If the treatment was given for an unapproved indication or off-label, these terms can also be captured under therapeutic response and additional information fields.
+
+The UMC notes that the recommended implementation of the updated MedDRA 23.0 was 4 May 2020 or when all translations are available.
+
+Uppsala Monitoring Centre. How to capture ICSRs for COVID-19 treatments. 29 Apr 2020. https://www.who-umc.org/global-pharmacovigilance/covid-19/how-to-report-icsrs-for-covid-19-treatments. Accessed 16 July 2020.
+
+Reframing side-effect information in patient information leaflets (PILs) to emphasise those who remain free from side-effects “significantly reduced side-effect expectations” according to study results reported in Drug Safety, and provided more accurate risk perceptions without impacting satisfaction or credibility.
+
+The study involved an online survey of 1067 people in England who were 16–75 years of age. They read a PIL for ormicillin, a hypothetical new antibiotic, which either communicated side-effect information following current practice (e.g. common; up to 1 in 10 people are affected, n = 356) or by positive framing using either natural frequencies (e.g. uncommon; 9 in 10 people are not affected, n = 356) or percentages (e.g. uncommon; 90% of people are not affected, n = 355). They subsequently completed measures of their side-effect expectations (based on a selected side-effect and any side-effect), absolute risk perceptions (personal side-effect expectations, and how many out of 10,000 people would be affected), and leaflet satisfaction and credibility.
+
+Compared with the current practice PIL, side-effect expectations were significantly lower for both positively framed PILs for all side-effects except seizures, which was only significantly better for the percentage PIL. There were no significant differences between the two positively framed PILs. The reduction in side-effect expectations was more pronounced for the more common side-effects like diarrhoea and nausea.
+
+The positively framed PIL using natural frequencies was associated with more accurate risk perceptions than the PIL using percentages, and performed equally with the current practice PIL. All three PILs scored well for satisfaction and credibility, with no significant between-leaflet differences.
+
+All leaflets “performed poorly on informing people about their risk of getting any side-effects”, note the authors, who add that “this information is not explicitly stated in PILs” and “our results demonstrate that it cannot be inferred from the information that is available”. In addition, “policy makers should consider how side-effect risk is framed in PILs”, but “first replication is needed in a clinical sample and in those with lower educational status”. Also, consideration “needs to be given to the verbal risk descriptors used in positively framed PILs” as “simply flipping the current format is not so straightforward”.
+
+Webster RK, Rubin GJ. The effect of positively framing side-effect risk in two different formats on side-effect expectations, informed consent and credibility: a randomised trial of 16- to 75-year-olds in England. Drug Saf. Epub 16 Jun 2020. 10.1007/s40264-020-00959-8. Accessed 16 July 2020.
+
+An AE recognition system developed for Twitter does not appear to be reliable for detecting drug safety concerns when evaluated using the WEB-RADR reference dataset, according to findings of a study published in Drug Safety.
+
+The performance and transferability of an AE recognition system identifying and classifying AEs in a dataset of 196,533 Tweets were evaluated using the benchmark dataset of the WEB-RADR consortium. Product names were recognised using WHO Drug Global, and AEs were recognised using MedDRA Lowest Level Terms and VigiBase.
+
+The Twitter-based system achieved 0.53 precision, 0.52 recall and 0.52 F1-score on the development test set, but its performance decreased to 0.38 precision, 0.20 recall and 0.26 F1-score when the WEB-RADR reference dataset was applied. Similarly, a previously published method of automatically detecting AE Tweets was reported to achieve 0.50 precision, 0.92 recall and 0.65 F1-score, but its performance decreased to 0.37 precision, 0.63 recall and 0.46 F1-score using the WEB-RADR reference dataset.
+
+Potential factors leading to poor transferability included selection bias, label bias, overfitting and prevalence.
+
+“We warn the community about a potentially large discrepancy between the expected performance of automated AE recognition systems based on published results and the actual observed performance on independent data … Our recommendation is to use benchmark independent datasets, such as the WEB-RADR reference, to investigate the transferability of the adverse event recognition systems and ultimately enforce rigorous comparisons across studies,” said the authors.
+
+Gattepaille LM, Hedfors Vidlin S, Bergvall T, et al. Prospective evaluation of adverse event recognition systems in Twitter: results from the Web-RADR project. Drug Saf. Epub 14 May 2020. 10.1007/s40264-020-00942-3. Accessed 16 July 2020.
+
+A signal for an ADR can be communicated effectively to patients through social media, enabling additional sharing in comments that may strengthen the signal, according of findings of a study published in Drug Safety.
+
+A message describing a signal for levothyroxine-related panic symptoms, which was tailored to patients and included recommendations on what patients should do when experiencing the symptoms, was communicated in December 2018 via the digital newsletter, website and print magazine of the Netherlands thyroid organisation, and via public and private Facebook pages and Twitter. The article in the print magazine recommended reporting ADRs to the Netherlands Pharmacovigilance Centre Lareb.
+
+The digital newsletter was distributed to approximately 5000 subscribers. The message was viewed by 13,820 people on Facebook and there were 2346 clicks in the message which indicated an intention to read the post. The message on Twitter reached 3000 people and was retweeted 15 times. Interactions on social media were generally positive.
+
+Three ADR reports received by Lareb within 9 weeks after the print article was published were on the association between panic attacks and levothyroxine.
+
+“The additional patient experiences that were shared in the comments on social media further strengthened the original signal and its relevance to patients, creating an interesting feedback loop,” said the authors. “The favourable experience from the perspective of both the pharmacovigilance community and the patient organisation in this study supports further consideration and exploration of this approach to communicating adverse drug reactions,” they concluded.
+
+Harmark L, Weits G, Meijer R, et al. Communicating adverse drug reaction insights through patient organizations: experiences from a pilot study in the Netherlands. Drug Saf. Epub 16 May 2020. 10.1007/s40264-020-00932-5. Accessed 16 July 2020.
+
+Paradoxical ADRs primarily in patients receiving immunomodulators or psychotropic drugs have been reported to the French PharmacoVigilance DataBase (FPVDB), according to findings of a study published in the European Journal of Clinical Pharmacology.
+
+ADR reports to the FPVDB between 1984 and 2018 which included the term paradoxical reaction were assessed. In total, 57 reports of paradoxical reaction were identified, and approximately 50% of them were reported between 2015 and 2018.
+
+The drugs involved were immunomodulators in 28 cases and psychotropic drugs in 28 cases. The most frequently reported paradoxical ADRs were psychiatric disorders (anxiety, sleep disorders and behavioural disorders) or skin disorders. The paradoxical reaction was benzodiazepine-related in 19 cases, and was more frequent in children and older adults. Contributory factors included alcohol consumption and underlying psychiatric disorders in 64% of psychotropic-induced paradoxical reactions. The most frequently reported paradoxical reactions in patients receiving immunomodulating agents were skin disorders.
+
+Unexpected paradoxical reactions included cognitive decline with donepezil, and recurrence of impulsive smoking addiction with varenicline.
+
+“In order to identify this type of ADR more effectively, work on awareness and harmonization is required to register these reports. The addition of the term “paradoxical reaction to the drug” to the list of other symptoms would facilitate their identification and analysis,” said the authors.
+
+Hakimi Y, Petitpain N, Pinzani V, et al. Paradoxical adverse drug reactions: descriptive analysis of French reports. Eur J Clin Pharmacol. Epub 16 May 2020. 10.1007/s00228-020-02892-2. Accessed 16 July 2020.
+
+Although 2019 data from the Therapeutic Goods Administration (TGA’s) Pharmacovigilance Inspection Programme (PVIP) show “an overall improvement in sponsor compliance with pharmacovigilance legislation and guidelines”, there are still a number of deficiencies, says the TGA.
+
+Earlier this month, the TGA released a metrics report containing data from 10 routine inspections conducted during the 2019 calendar year (i.e. second reporting period), which provided “a high-level overview of inspection deficiencies including a comparison of deficiencies identified in the first reporting period, to assist sponsors with improving their pharmacovigilance systems and preparing for pharmacovigilance inspections”, explained the agency.
+
+Ten inspections were conducted in the first reporting period (between 1 September 2017 and 31 December 2018). Medicine sponsors inspected during the current 2019 period included large and small innovator companies, as well as sponsors of generic medicines, vaccines, over-the-counter and complementary medicines.
+
+None of the 10 inspections carried out during the 2019 period led to “for-cause” inspections or re-inspections, but a total of 78 deficiencies were identified and graded as critical (n = 1), major (n = 41) or minor (n = 36).
+
+The agency explained the critical deficiency identified was “comprised of multiple findings that contributed to a failure to collect and collate adverse drug reactions, including serious adverse drug reactions that warranted reporting to the TGA within 15 calendar days”. The TGA added that “following the inspection, the sponsor developed a Corrective and Preventative Actions (CAPA) plan that addressed the critical deficiency and proposed actions to mitigate the risk of reoccurrence”.
+
+Of the 41 major deficiencies identified, the highest proportion of these related to the “management of significant safety issues” (24%), and “management of reference safety information” and “reporting serious adverse drug reactions” (both 19%).
+
+Similarly, of the 36 minor deficiencies identified, the highest proportion of these related to the “quality management system” (22%), “post-approval commitments” (19%) and “management of adverse drug reactions (17%).
+
+The TGA concluded that the overall improvement in sponsor compliance between the two reporting periods was particularly evident by the reduction of major deficiencies from the first reporting period (n = 53), to the current reporting period (n = 33).
+
+Therapeutic Goods Administration. Pharmacovigilance Inspection Program metrics report: Jan - Dec 2019. May 2020. https://www.tga.gov.au/pharmacovigilance-inspection-program-metrics-report-jan-dec-2019. Accessed 16 July 2020.
+
+The absence of appropriate warning labels on critical care drugs introduced in the US to alleviate shortages created by the COVID-19 pandemic, have prompted the Institute for Safe Medication Practices (ISMP) to issue an alert to the United States healthcare community.
+
+The organisation is concerned that the absence of the standard vial cap label “Warning: Paralysing Agent” on neuromuscular-blocking agents, may make them look similar to other medications in similar-sized vials and cap colours increasing the potential for mix-ups if they are stored together. When used incorrectly, these drugs can have catastrophic outcomes, and the ISMP is urging organisations to alert their staff, review their storage areas and affix their own warning labels upon receipt of the products.
+
+An overseas propofol product known as Propoven 2% will be made available in the US under an emergency use authorisation that restricts its use to sedation maintenance in patients requiring ventilation during the COVID-19 pandemic. This product contains twice the propofol concentration of the FDA-approved Diprivan and the ISMP is concerned that without a warning label to highlight this, there is risk of overdose if practitioners are unaware.
+
+It recommends that an interdisciplinary committee comprising those professions associated with critical care, review the Propoven 2% product prior to use and that warning labels be applied to the Propoven 2% vials as soon as the product is received by the pharmacy.
+
+Institute for Safe Medication Practices. ISMP warns about medication safety issues with drug shortage replacement products. 5 Jun 2020. https://www.ismp.org/news/ismp-warns-about-medication-safety-issues-drug-shortage-replacement-products. Accessed 16 July 2020.
+
+The permitted implementation time for labelling and/or packaging updates for human medicines has been temporarily extended due to the COVID-19 pandemic by the Health Products Regulatory Authority (HPRA), to help maintain medicine availability in Ireland, according to a recent news item.
+
+Following variation approval of any updates, implementation is normally required within 6 months. This will still be required for significant safety updates that have labelling or packaging implications, as evaluated by the marketing authorisation holder. For other variations, implementation can be extended to 9 months without requiring a batch-specific request. This decision will be kept under review by the authority.
+
+Health Products Regulatory Authority. Variation implementation times for labelling and leaflet updates to human medicines: update on regulatory flexibility during the COVID-19 pandemic. 18 May 2020. https://www.hpra.ie/homepage/medicines/news-events/item?t=/variation-implementation-times-for-labelling-and-leaflet-updates-to-human-medicines-update-on-regulatory-flexibility-during-the-covid-19-pandemic&id=eb890d26-9782-6eee-9b55-ff00008c97d0. Accessed 16 July 2020.
+
+The European Medicines Agency (EMA) has published recommendations on impurities in medicines, based on lessons learnt from the discovery of carcinogenic nitrosamine impurities in angiotensin type 1 receptor antagonists (sartans).
+
+The June 2020 recommendations clarify the roles and responsibilities of drug companies, amend guidance on controlling impurities and good manufacturing practice, and detail the management of impurities once detected including communication with patients and healthcare professionals, and cooperation with other international regulatory authorities.
+
+The EMA launched an Article 5(3) procedure in September 2019 to provide additional guidance to companies that manufacture and market medicines in the EU. Recommendations based on the lessons learnt will complement the outcome of the Article 5(3) procedure, and provide key scientific opinion on nitrosamine impurities in medicines containing chemically synthesised active substances.
+
+Marketing authorisation holders should review their manufacturing processes to identify and, if necessary, mitigate the risk of presence of nitrosamine impurities in three steps. Although the deadline to complete step 1 (risk evaluation) has been extended until 1 October 2020 because of restrictions due to the COVID-19 pandemic, the EMA encourages marketing authorisation holders to submit the outcome of this step earlier if they have completed the risk evaluation or identified any risk in their products. They should notify the national competent authorities as soon as possible if tests confirm the presence of nitrosamine, irrespective of the amount detected, and should assess the immediate risk to patients and take appropriate action to minimise exposure to nitrosamines.
+
+If a risk for an active substance is identified, marketing authorisation holders should submit the step 1 response template and proceed with step 2 confirmatory testing of the finished product (if no risk is identified, they should conduct a risk evaluation of the finished product and submit the outcome of step 1 after they reach final conclusion on the active substance and finished product). In step 2, marketing authorisation holders should perform confirmatory testing on the products identified to be at risk of nitrosamine formation or contamination and report any confirmed presence of nitrosamines as soon as possible. In step 3, they should apply for any necessary changes to the manufacturing process resulting from this review using established regulatory procedures.
+
+The EMA plans to complete their review of manufacturing processes by 26 September 2022.
+
+European Medicines Agency. European regulators make recommendations drawing on lessons learnt from presence of nitrosamines in sartan medicines. 23 Jun 2020. https://www.ema.europa.eu/en/news/european-regulators-make-recommendations-drawing-lessons-learnt-presence-nitrosamines-sartan. Accessed 16 July 2020.
+
+The US FDA has launched a pilot for Project Patient Voice, a website initiated by the Oncology Center of Excellence to record patient-reported symptoms and side effects in cancer trial participants, which will inform patients and healthcare professionals making treatment decisions.
+
+“The Project Patient Voice pilot is a significant step in advancing a patient-centered approach to oncology drug development. Where patient-reported symptom information is collected rigorously, this information should be readily available to patients,” said Dr Amy Abernethy, FDA Principal Deputy Commissioner.
+
+Project Patient Voice is intended to serve as a complement to FDA patient labeling and patient information, not a sole source of information for decision-making.
+
+During clinical trials of new cancer therapies, patient-reported outcome (PRO) data will be collected before treatment initiation and at multiple time points during the first 6 months of treatment, using questionnaires on the frequency and severity of cancer symptoms and adverse drug reactions. The Project Patient Voice website will include a list of cancer clinical trials with available PRO data provided by drug companies during the trials.
+
+Only one trial (conducted by AstraZeneca) will be included in the first phase of the Project Patient Voice pilot. The FDA will seek feedback on how the PRO data is displayed, in order to make it informative and user-friendly, at a virtual public workshop entitled the Clinical Outcome Assessments in Cancer Clinical Trials, co-sponsored with the American Society of Clinical Oncology, on 17 July 2020. Stakeholders participating in the workshop will include patients, healthcare providers, researchers, advocacy groups and the pharmaceutical industry.
+
+US Food and Drug Administration. FDA announces first of its kind pilot program to communicate patient reported outcomes from cancer clinical trials. 23 Jun 2020. https://www.fda.gov/news-events/press-announcements/fda-announces-first-its-kind-pilot-program-communicate-patient-reported-outcomes-cancer-clinical. Accessed 16 July 2020.
+
+According to study results reported in Drug Safety, the prescription sequence symmetry analysis (PSSA) method can be utilised to help enhance signal detection in pharmacovigilance (PV) activities.
+
+The study applied the PSSA method to single-ingredient medicines dispensed under the Australian Pharmaceutical Benefits Scheme (PBS) in 2012−2016. Using furosemide initiation as a proxy for new-onset heart failure (HF) resulted in 654 furosemide-medicine pairs to be investigated.
+
+A signal was considered present if the adjusted sequence ratio (ASR) was > 1 and the lower limit of the 95% CI was > 1. Of the 186 potential signals detected (28%), 160 medicines were removed due to the medicine having HR risk listed in the product information (PI), being indicated for HR treatment, or being an analgesic or anti-infective medicine.
+
+The 26 potential new HF signals (4%) comprised 12 cancer treatments, 4 glaucoma treatments, 3 migraine treatments and 7 medications for other indications. ASR values ranged from 1.07 for denosumab to 4.64 for temozolomide.
+
+Five signals prioritised for further investigation on the basis of ASR value, signal consistency in a medicine class, number and proportionality of reports to the TGA, VigiBase signals, published literature, biological plausibility and clinical impact concerned fluorouracil, folinic acid, temozolomide, vinblastine and vincristine. The signal was not verified for all except fluorouracil, mainly due to likely confounding by other cardiotoxic medicines or that the reason for using the medicine is a more plausible explanation. Temporal analysis revealed that more patients initiated furosemide after fluorouracil than before fluorouracil (1956 vs 1181; ASR 1.65; 95% CI 1.54, 1.78). Concurrent with this study, the TGA was made aware that HF associated with fluorouracil had been investigated by the marketing authorisation holder, and HF had been added to the Australian PI. The authors note that “corroboration of the PSSA signal through this process was an important result”.
+
+“Results of this study indicate that the application of PSSA to dispensing data can complement the TGA’s routine signal detection work”, note the authors. “Future research should examine how multiple complementary approaches to signal detection for the purpose of regulatory PV can be used to enhance the quality and timeliness of medication safety monitoring”, they conclude.
+
+King CE, Pratt NL, Craig, N, et al. Detecting medicine safety signals using prescription sequence symmetry analysis of a national prescribing data set. Drug Saf. Epub 23 Jun 2020. 10.1007/s40264-020-00940-5. Accessed 16 July 2020.
+
+Disproportionality analysis of subgroups of drug–AE pairs reported to VigiBase, the WHO database of ICSRs, identifies signals of risk groups for ADRs, according to findings of a study published in Drug Safety.
+
+Subgroup disproportionality analysis was applied to 15.4 million ICSRs in VigiBase, up to August 2017. Disproportionality analyses for drug–AE pairs were performed across the full database, and across subgroups defined by covariates including age, sex, body mass index, pregnancy, underlying disease, country and region. Drug–AE pairs over-reported in subgroups, with substantial differences between observed-to-expected ratios, were considered potential signals and clinically assessed to determine clinically relevant signals.
+
+In total, 354 statistical signals were assessed and seven signals were identified for communication to pharmacovigilance centres or in the WHO Pharmaceutical Newsletter: hepatitis with ceftriaxone in patients 75 years or over; myoclonus with levofloxacin in patients 75 years or over; anaphylactic shock with omalizumab in female patients; deep vein thrombosis and pulmonary embolism with aflibercept in male patients; gynaecomastia with esomeprazole in obese adults; hypoglycaemia with selegiline in underweight adults; and palpitations with glibenclamide in Asian patients. Six of the communicated signals were for ADRs in previously unrecognised potential risk subgroups.
+
+Assessments of disproportionate over-reporting in subgroups included reviews of reporting patterns for similar drugs, AEs or subgroups, and investigation of plausible mechanisms to support risk hypotheses.
+
+“This novel approach, incorporating broad screening of several different risk factors of ADRs into statistical signal detection in a global collection of adverse event reports, is promising,” said the authors. “Our findings suggest the potential to use such statistical methodologies for risk characterisation in subpopulations of concern, thereby increasing the precision of pharmacovigilance,” they added.
+
+Sandberg L, Taavola H, Aoki Y, et al. Risk factor considerations in statistical signal detection: using subgroup disproportionality to uncover risk groups for adverse drug reactions in VigiBase. Drug Saf. Epub 20 Jun 2020. 10.1007/s40264-020-00957-w. Accessed 16 July 2020.
+
+The decline rate of individual funding request (IFR) submissions in England indicates gaps in access to high cost drugs for rare diseases, say authors of a study published in the British Journal of Clinical Pharmacology.
+
+Data from electronic patient health records at a National Health Service (NHS) tertiary hospital [University College London Hospitals NHS Foundation Trust (UCLH)] and the UCLH High Cost Drug Database were used to assess outcomes of all IFR submissions submitted by UCLH to NHS England (NHSE) or Clinical Commissioning Group (CCG) commissioners between 2014/2015 and 2018/2019.
+
+During the study period, 112 IFRs were submitted to NHSE and 71% of these were declined, while 118 IFRs were submitted to a CCG and 34% of these were declined. The primary reason given for declining IFRs between 2016 and 2018 was the lack of exceptionality (93%). The treatment was funded through the internal hospital budget or other routes in approximately 50% of patients whose IFR was declined.
+
+Clinical outcomes were positive in 50% of patients who received IFR funding from NHSE, 54% of patients who received IFR funding from a CCG, and 91% of patients who received funding through other routes.
+
+“The funding of high cost medicines in the United Kingdom is straightforward if the medicine has been approved by NICE or forms part of an NHSE policy. In other circumstances, it is complex, uncertain, and made more difficult by the demand for ‘exceptionality’. The system might become fairer if the details of previous funding decisions by NHSE and CCGs were available and were linked to data on patient outcome,” said the authors.
+
+Sanghvi S, Allen R, Cho S, et al. Are high cost drug funding mechanisms fit for purpose?—A retrospective study of Individual Funding Requests in an NHS tertiary hospital. Br J Clin Pharmacol. Epub 5 Jun 2020. http://doi.org/10.1111/bcp.14409. Accessed 16 July 2020.
+
+Multiple orphan drugs have received additional market exclusivity that extended beyond the initial 7 years granted under the US Orphan Drug Act, according to a study in PharmacoEconomics.
+
+A retrospective analysis was undertaken of a cohort of US orphan drug approvals filed between 1983 and 2017, with data sourced from the US FDA Orphan Drug Designations and Approvals query. IQVIA pharmaceutical claims data was used to measure total US drug spending for patients with rare disease diagnoses, with mixed-effects negative binomial regression utilised to estimate additional years of exclusivity per drug per orphan approval. The budget impact of exclusivity periods of greater than the initial 7 years after orphan drug approval was analysed based on possible reductions in price associated with the introduction of biosimilars or generic competition.
+
+Over the time period assessed, 432 branded drugs were approved for 615 orphan indications, with an exponential increase observed over time in the rate of approvals. Orphan drugs had, on average, 1.47 approvals with an increase in market exclusivity period of 1.6 years. Drugs with a second orphan approval had an increase in market exclusivity after the initial approval period of an average of 4.7 years. Furthermore, third, fourth and fifth approvals resulted in average increases in additional years of market exclusivity of 3.1, 2.7 and 2.9 years, respectively (p < 0.05), with orphan drugs with five approvals having an average of 13.4 additional years of market exclusivity.
+
+Thirteen drugs were found to have a market exclusivity period that extended at least a decade past the initial period of exclusivity, with seven of these drugs receiving market exclusivity for two decades or more. The societal budget impact of maintaining branded prices on drugs with orphan indications beyond the seventh year of exclusivity was estimated to be $US591.1 billion across all observed drugs and orphan indications
+
+“Limiting the total number of rare disease approvals or overall years that a pharmaceutical can benefit from the Orphan Drug Act could provide some savings in the billions of dollars with respect to the availability of generics or biosimilars at lower prices”, concluded the authors. “However, doing so could impact future innovations and discovery of drugs for rare diseases”.
+
+Padula WV, Parasrampuria S, Socal MP, et al. Market exclusivity for drugs with multiple orphan approvals (1983–2017) and associated budget impact in the US. Pharmacoeconomics. Epub 12 Jun 2020. 10.1007/s40273-020-00934-2. Accessed 16 July 2020.
+
+The impact of the COVID-19 pandemic on health technology assessment (HTA) is discussed by Paula Lorgelly, University College of London, and Amanda Adler, University of Oxford, in a commentary published in Applied Health Economics and Health Policy.
+
+The impact of the pandemic on health systems and economies has led to a suspension of most clinical trials and research that are not directly related to COVID-19. Guidance has been issued to study sponsors by both the US FDA and the EMA to ensure patient safety and preserve data integrity if protocol deviations are required. However, the “implications of this situation includes missing real treatment effects for underpowered studies, or erroneously declaring a treatment effective based on a surrogate endpoint”. Additional impacts of COVID-19 on research and development arise from the lockdown measures implemented in many areas, as well as prioritisation of COVID-19 research by pharmaceutical and medical technology companies, which means that “[d]elays this year in discoveries and initial experiments may not be evident until a decade later given the length of time to get innovations to market”.
+
+Lorgelly and Adler noted that regulators and HTA committees will need to adjust to working remotely, including considerations of being quorate; the need for secure video platforms; under-resourcing due to many members being health professionals; and a potential reduction in patient participation due to technological or medical challenges. Non-essential meetings in April 2020 were cancelled or postponed by the US FDA, whilst the EMA moved to a virtual format for this time, with enforcement of the Medical Device Regulation (European Union) 2017/745 postponed from its planned date of 26 May 2020 due to resourcing and prioritisation considerations. In the UK, rapid guidance and evidence summaries related to COVID-19 have been produced by the National Institute for Health and Care Excellence (NICE), with free scientific fast-track advice offered for companies responding to the pandemic, and only therapeutically critical or COVID-19 related guidance and guidelines being published. On issue of HTA for COVID-19 therapies, the authors cautioned that fast-tracking of these therapies through a HTA process may undermine the cost and clinical effectiveness of approved treatments, and raised the issue of whether usual cost-effectiveness thresholds would be applied in these assessments as “perhaps the middle of a pandemic is not the best time to debate the value of life”.
+
+In returning to a “new normal”, the authors commented that “[a] well-functioning HTA system … will be critical” but it is not clear whether HTA agencies will face government-imposed budget constraints, which could result in lower thresholds of cost effectiveness. Lorgelly and Adler commented that HTA may need to focus on “technology management” rather than “technology adoption” and “evaluate divesting in inefficient services or low-value healthcare”. HTA agencies may become more risk adverse in response to financial uncertainty and the potential that disruptions in clinical trials resulted in a more uncertain evidence base. This may lead to a heavier reliance on approaches such as risk sharing arrangements or managed access schemes, possibly accompanied by pricing innovations such as outcome-based payments. They concluded that “[o]ur healthcare systems are changing rapidly, and our means of undertaking assessments of value will also need to change. HTA is not immune to COVID-19, but it can and will adapt”.
+
+Lorgelly PK, Adler A. Impact of a global pandemic on health technology assessment. Appl Health Econ Health Policy. Epub 7 May 2020. 10.1007/s40258-020-00590-9. Accessed 16 July 2020.
+
+Net benefit measures have “numerous advantages” over incremental cost-effectiveness ratios (ICERs) as summary measures for economic evaluations of health technologies, according to a PharmacoEconomics editorial by Mike Paulden from the School of Public Health at the University of Alberta in the US [1].
+
+The editorial reflects on a Practical Application article in the same journal in which Paulden described how to calculate and interpret the two measures, and discussed their relative strengths and limitations [2], resulting in “some fundamental weaknesses of the ICER” becoming “apparent”.
+
+Paulden notes that ICERs are laborious to calculate in evaluations of three or more strategies due to their pairwise nature potentially requiring multiple ICER calculations and recalculations. In contrast, calculation of net benefit measures is simple, as the net benefit of a strategy is not dependent on other strategies. He also believes that ICERs are more difficult to interpret as evaluation requires consideration of varying decision rules in each quadrant of the incremental cost-effectiveness plane, with the decision rule becoming “unintuitive” in evaluations of three or more strategies. In comparison, net benefit interpretation is more straightforward as the most cost-effective strategy has the highest net benefit.
+
+The editorial notes that ICERs are not easily used for scenario or sensitivity analyses, with the Practical Application article finding that “observing change in the ICER does not necessarily imply that a strategy is more or less cost effective than in the reference-case analysis”, which creates a “critical problem” for the use of ICERs in these analyses. In contrast, the use of net benefit in these analyses allows easy interpretation as there is a clear relationship between an increase in net benefit and improved cost effectiveness, and vice versa. Paulden also highlights that ICERs cannot be used for ranking in evaluations of three or more strategies, whilst ranking can easily be achieved with net benefit measures. Additionally, consideration of the relative cost effectiveness of different strategies is not achievable with ICERs, whilst net benefit contributes “meaningful information” on this measure.
+
+Furthermore, Paulden comments that use of ICERs for probabilistic analysis is “burdensome” due to convoluted and repetitive calculation steps and difficulties in reporting a meaningful credible interval. In contrast, these calculations are straightforward with net benefit, with a meaningful credible interval able to be reported. The editorial also notes that equity concerns are not easily considered with ICERs, whilst net benefit measures appear to be more directly applicable in this area. Lastly, Paulden addresses the issue of “unknown” thresholds in light of anecdotal reasons for ICER use over net benefit measures being the need for a threshold for net benefit calculation. He comments that “[e]xcept in the special case where one strategy dominates all others, a threshold is required to determine the most cost-effective strategy, regardless of whether the HTA agency uses ICERs or net benefit”.
+
+The editorial concludes that “[g]iven the importance of the decisions made by HTA agencies, it is clearly unacceptable to use a flawed measure when better alternatives exist. It is time to abandon the ICER in favour of measures of net benefit”.
+
+1. Paulden M. Why it’s time to abandon the ICER. Pharmacoeconomics. Epub 11 May 2020. 10.1007/s40273-020-00915-5. Accessed 16 July 2020.
+
+2. Paulden M. Calculating and interpreting ICERs and net benefit. Pharmacoeconomics. Epub 11 May 2020. http://dx.doi.org/10.1007/s40273-020-00914-6. Accessed 16 July 2020.
+
+Differences in patient-reported outcomes (PROs) between treatments in cancer randomised controlled trials (RCTs) are typically reported for combinations of functional health, symptoms and global QOL in most trials.
+
+This is the main finding of a pooled analysis of 229 RCTs of the most common cancer types (breast, lung, colorectal, genitourinary and gynaecological), published between January 2004 and February 2019, which used the European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire Core 30 (EORTC QLQ-C30) as PRO instrument.
+
+In most trials (134; 58.5%), statistically significant differences between treatment arms were reported for at least one of the QLQ-C30 domains. In most of these trials (78), differences were reported for 2 or all 3 types of PRO domains (functional health [physical, role, social, emotional and cognitive functioning]; symptoms [including fatigue, pain, nausea/vomiting and loss of appetite]; and global QOL). The most frequently observed differences for individual PRO domains were observed for global QOL (29.7% of the trials), physical functioning (19.2%), fatigue (18.8%) and nausea/vomiting (18.3%). The study also found that the prevalence of global QOL differences was not associated with the quality of PRO reporting. Furthermore, key study characteristics, such as industry support or design (open-label vs blinded), were not associated with a greater likelihood of finding a statistically significant difference between treatment arms. The results highlight “the importance of a multidimensional approach to PRO assessment to most comprehensively capture the overall burden of therapy from the patients’ standpoint,” conclude the researchers.
+
+Giesinger JM, Blazeby J, Aaronson NK, et al. Differences in patient-reported outcomes that are most frequently detected in randomized controlled trials in patients with solid tumors: a pooled analysis of 229 trials. Value Health. Epub 25 Apr 2020. 10.1016/j.jval.2020.02.007. Accessed 16 July 2020.
+
+A US-UK trade agreement has the potential to “substantially increase” the UK NHS drugs bill, according to an article by Dzintars Gotham and colleagues in the BMJ.
+
+Health has become an early focus of public discussion on the trade agreement currently being worked on by the UK and US governments, with concerns emerging that the agreement may promote privatisation of the NHS, and uncertainty existing around whether draft text will be released to the public. Based on existing trade agreements that the US has in place with other countries, as well as priorities set out to the US Trade Representative by the US pharmaceutical industry lobby, the authors recommend that key areas that could affect NHS drug costs are “scrutinised”. These areas include provisions influencing cost-effectiveness protections, investor-state dispute settlement and intellectual property conditions.
+
+The UK NICE performs a crucial role in evaluating HTA and cost-benefit considerations to determine cost effectiveness and negotiate medicine prices. However, strong criticisms of the UK’s pharmaceutical price negotiation system have been expressed by the largest US drug industry group during negotiations, with claims made that the system “significantly undervalues innovative medicines”. Lobby groups recommend that the US-South Korea trade agreement (KORUS) be used as the basis for the US-UK agreement, which promotes the use of “competitive market-derived prices” which are likely to be different from prices derived via HTAs. The authors state that “[a]lthough this is the least clear aspect of a potential trade deal, it is potentially the most costly”, due to added costs being substantial if there is no strong mechanism for enforcing cost-effectiveness thresholds.
+
+Gotham et al. also discuss the area of investor-state dispute settlement (ISDS), a mechanism that enables foreign companies to sue a government if policies are adopted that allegedly violate trade agreement terms. They believe that “[i]f policy makers fear ISDS lawsuits, this may hinder public health legislation”, with the possibility that ISDS could be used to challenge NHS cost control mechanisms or procurement mechanisms.
+
+The third area of concern is the duration of monopoly rights for originator products through patents or regulatory exclusivity systems. Although the UK and the US currently grant similar periods of patent protection, new types of protection may be pursued by US negotiators such as a “patent term adjustment”. Regulatory exclusivities differ between countries, with the UK preventing the approval of generic competitors for the first 10−11 years after approval of the originator medicine, whilst the US applies a 12-year exclusivity period for biological medicines and less for other medicine types. The US has often urged trade partners to adopt longer regulator exclusivities which could have a significant impact on the NHS drug budget if the UK agrees to align on this issue.
+
+To provide some estimate of cost impact, the authors also analysed UK versus US drug expenditure and found that per capita pharmaceutical expenditure was 2.5 higher in the US than the UK in 2016. Application of this factor to 2017−2018 data resulted in a crude estimate of an additional £27 billion expenditure on medicines by NHS England if UK prices were equivalent to the US.
+
+Provisions that extend pharmaceutical monopolies, restrict the role of NICE or allow the UK government to be sued under ISDS could potentially affect all new medicines, with national sovereignty over health effectively being reduced with the inclusion of medicines or other health system considerations in a trade agreement. “Multiple sources suggest that weakening UK pharmaceutical cost containment regulations is high on the US negotiating agenda”, concluded the authors. “The choices made by this government in negotiating a US–UK trade agreement could have effects on NHS sustainability for decades to come.” They conclude that “[d]emocratic scrutiny of trade agreement negotiations will be crucial to ensuring that drug prices are truly off the table”.
+
+Gotham D, Barber MJ, Hill AM. How a US-UK trade agreement could affect NHS drug prices. BMJ. 2020;369:m1332.
+
+Close relations exist between patient organisations and pharmaceutical companies in Sweden, with a small number of companies dominating relations by supporting patient organisations in disease areas linked to their drug portfolios.
+
+These are the main findings of a study that assessed the pattern of engagement of the pharmaceutical industry with patient organisations in Sweden using a centralised database of industry-provided payment reports covering a 5-year period (January 2014 to December 2018). The association between drug commercialisation and industry funding of patient organisations was also examined.
+
+Over the 5-year study period, 46 pharmaceutical companies reported 1412 relationships with 77 patient organisations. Information on the value of the payment was lacking in 75 reports (5.3%), which were subsequently excluded. The analysis of 1337 payment reports revealed a total value of €6,449,224. The top ten donors provided 67.9% of the funding (€4,379,604), with Pfizer being the major donor (14.8%, €954,234). There was a strong association between drug commercialisation and industry funding across conditions and disease areas, with companies supporting patient organisations in diseases linked to their drug portfolios. Therefore, much funding was awarded to organisations for certain disease areas (cancer, diabetes mellitus and HIV), with limited funding going to organisations for patients facing other major public health challenges, such as mental illness. “The strong association between drug commercialisation and industry funding is arguably problematic in light of the uncertainty surrounding the therapeutic value of many new and typically expensive drugs,” conclude the researchers.
+
+Mulinari S, Vilhelmsson A, Rickard E, et al. Five years of pharmaceutical industry funding of patient organisations in Sweden: Cross-sectional study of companies, patient organisations and drugs. PLoS One. Epub 24 Jun 2020. 10.1371/journal.pone.0235021. Accessed 16 July 2020.
+
+Antineoplastics and immunomodulators have the highest reporting rates of drug-related interstitial lung disease (ILD) in Japan, according to findings of a study published in Drug Safety.
+
+Data from the Japanese Pharmaceuticals and Medical Devices Agency (PMDA) website were used to identify post-marketing ILD-related labelling changes up to July 2019 following ICSRs, and data from the Japanese Adverse Drug Event Report (JADER) database (April 2004−February 2017) were used to investigate ILD ADR reports for drugs in Japan classified by anatomical therapeutic chemical (ATC) group. Regulatory actions for the drugs with the most frequent ILD reports were assessed.
+
+ILD-related label changes in the Clinically Significant Adverse Reactions section of product labelling were made for 93 drugs between April 2002 to March 2017; 92% of these changes required the inclusion of ILD in the label, while 8% involved further characterisation of the previously described ILD risk. The four ATC drug classes with the most labelling changes were antineoplastic and immunomodulator agents (22.6%), systemic anti-infectives (18.3%), herbal medicines (18.3%) and cardiovascular drugs (18.3%). Although antineoplastic and immunomodulating agents was the most common drug class to undergo labelling change, many drugs within this class contained information on the ILD risk at the time of the market launch.
+
+Within antineoplastic and immunomodulator agents, ILD was most frequently reported for protein kinase inhibitors (26%), pyrimidine analogues (16%), monoclonal antibodies (13%) and folic acid analogues (12%). However, the folic acid analogue methotrexate had the greatest number of ILD reports in the JADER database. ILD reporting ratios for methotrexate, gefitinib and erlotinib decreased gradually over time but those for gemcitabine and docetaxel were more constant and those for everolimus appeared to increase.
+
+“In this study, we identified the high reporting of ILD derived from mainly the ATC group L (antineoplastic and immunomodulatory) drugs … As ILD is a targeted ADR for these types of drugs in a regulatory mandated use-results survey, we conclude that pro-active regulatory requirements contribute to the high reporting of ILD observed in Japan,” said the authors.
+
+Iwasa E, Fujiyoshi Y, Kubota Y, et al. Interstitial lung disease as an adverse drug reaction in Japan: exploration of regulatory actions as a basis for high reporting. Drug Saf. Epub 2 Jul 2020. 10.1007/s40264-020-00968-7. Accessed 16 July 2020.
+
+Severe weight gain associated with psychotropic drugs is a slow process and may be under-reported, say authors of a German study published in European Neuropsychopharmacology.
+
+Data from the German drug safety in psychiatry program [Arzneimittelsicherheit in der Psychiatry (AMSP)] were used to investigate psychotropic-associated severe weight gain (defined as increase in bodyweight > 10%) in 340,099 inpatients 15−90 years of age at 60 psychiatric hospitals between 2001 and 2016. Psychotropic drugs included antipsychotics, antidepressants, antiepileptics, anxiolytics and lithium; subgroups included first-generation antipsychotics, second-generation antipsychotics, selective serotonine reuptake inhibitors, selective serotonine-noradrenaline reuptake inhibitors, noradrenergic and specific serotonergic antidepressants, and tricyclic antidepressants (TCAs).
+
+In total, 344 cases of severe weight gain were reported in inpatients during the study period. Patients had a mean weight gain of 12.7 kg within 12 weeks, and a 4.4 kg/m2 increase in body mass index (BMI) to 28.8 kg/m2. In addition, retrospective analysis of data at admission found that 142 patients had a BMI gain 6.4 kg/m2 over a one-year period, resulting in a BMI of 31.9 kg/m2. The gain in bodyweight exceeded 20 kg gain in 35% of the patients. Most patients became overweight or obese, and only 27% of the patients could lose weight after hospitalisation.
+
+Psychotropic drugs associated with severe weight gain included second-generation antipsychotics, antidepressants and antiepileptic drugs; most frequently olanzapine (54.7%), quetiapine (16.3%), mirtazapine (13.4%), oral risperidone (11.6%), valproic acid (11.3%) and clozapine (8.4%).
+
+“Severe weight gain is a slow process and it is rarely documented as adverse drug reaction under real-life conditions compared to the high percentage of patients with weight gain in clinical studies. It might often remain unnoticed due to shorter stationary treatment and changing treatment settings,” said the authors.
+
+Schneider M, Pauwels P, Toto S, et al. Severe weight gain as an adverse drug reaction of psychotropics: Data from the AMSP project between 2001 and 2016. Eur Neuropsychopharmacol. Epub 11 Jun 2020. http://doi.org/10.1016/j.euroneuro.2020.05.001. Accessed 16 July 2020.
+
+Antidepressant use is associated with ADRs in 3% of paediatric case reports to the French Pharmacovigilance Database (FPVD), according to findings of a study published in the European Journal of Clinical Pharmacology.
+
+Antidepressants were suspected as the cause of 2922 ADRs in 3% of the 45,070 case reports in paediatric patients to the FPVD between 1985 and 2016. Antidepressant-related ADRs were most frequently reported in adolescents (49%). The antidepressants most commonly implicated were clomipramine (17.1%), paroxetine (14.6%), fluoxetine (13.0%), sertraline (13.0%) and amitriptyline (11.5%), but there was an increase in reporting for sertraline, venlafaxine and escitalopram over the 30-year study period.
+
+In utero exposure to antidepressants was most frequently associated with congenital, familial, and genetic disorders. The most frequently reported ADRs in neonates and infants were congenital, familial and genetic disorders, and CNS disorders.
+
+The most frequently reported ADRs in patients 2−17 years of age were agitation, somnolence, suicidal ideation, abdominal pain, nausea, vomiting and hepatitis. Other ADRs included tachycardia, hypotension, skin and soft tissue disorders, eye disorders, blood and lymphatic disorders, and renal and urinary disorders.
+
+Unexpected ADRs were three cases of pancreatitis in adolescents receiving amitriptyline, fluoxetine and mirtazapine, respectively; once case of hypomagnesaemia and hypokalaemia in a child receiving clomipramine; one case of neutropenia in an adolescent receiving escitalopram; and one case of dysphagia/dysarthria in an adolescent receiving sertraline.
+
+Cases of suicidal ideation and behaviour increased after 2003, possibly as a result of black box warnings.
+
+“Our results showed the high prevalence of neuropsychiatric and gastrointestinal and hepatobiliary ADRs, as it was already described in adults. We also observed a high proportion of cardiovascular ADRs (tachycardia, hypotension) and anticholinergic effects (mydriasis, blurred vision, dysuria) … in this pediatric population, mainly with TCAs” said the authors.
+
+Barthez S, Revet A, Chouchana L, et al. Adverse drug reactions in infants, children and adolescents exposed to antidepressants: a French pharmacovigilance study. Eur J Clin Pharmacol. Epub 25 Jun 2020. http://doi.org/10.1007/s00228-020-02944-7. Accessed 16 July 2020.
+
+There is no evidence of an increased risk of Kawasaki disease (KD) in children given pneumococcal conjugate vaccines (PCV) or meningococcal B (MenB) vaccines in England, according to study results reported in Vaccine. The self-controlled case series study used a national database to identify children who received 7-valent or 13-valent PCV or MenB vaccines [4CMenB, Bexsero] at about 2, 4 and 12 months of age.
+
+Analysis revealed 553 admissions for KD in 512 patients within 28 days postvaccination; 64.6% of children were male. Many children received DTaP vaccine concomitantly with PCV doses 1 and 2, and MMR vaccine with dose 3. There were 25 KD cases in children who received PCV alone, 47 cases in recipients of PCV and MenB vaccine, and none in recipients of MenB vaccine alone.
+
+For PCV, there was no significantly increased risk of KD after doses 1 or 2 (relative incidence [RI] 0.62; 95% CI 0.38, 1.00). There was a significantly reduced risk after dose 3 (RI 0.30; 0.11, 0.77), especially in days 8−28 postvaccination. In 87% of patients, dose 3 was given concomitantly with MMR vaccine; the authors note that “a protective effect of PCV or MMR vaccine, mediated via an as-yet unknown immune regulatory effect, cannot … be discounted”. No difference was detected between 7-valent and 13-valent PCV.
+
+For MenB, there was no significantly increased risk of KD after doses 1 or 2 (RI 1.03; 0.51, 2.05) or dose 3 (RI 0.64; 0.08, 5.26).
+
+“While our study shows no evidence of an increased risk of KD after either PCV or MenB vaccine” note the authors, “the results are consistent with a protective effect of either PCV or MMR when given in the second year of life that merits further investigation”.
+
+Stowe J, Andrews NJ, Turner PJ, et al. The risk of Kawasaki disease after pneumococcal conjugate and meningococcal B vaccine in England: a self-controlled case-series analysis. Vaccine. 2020;38(32):4935–9.

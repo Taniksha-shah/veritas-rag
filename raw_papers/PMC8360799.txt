@@ -1,0 +1,11 @@
+Anaphylaxis after Pfizer-BioNTech COVID-19 vaccine in Japan
+
+Anaphylaxis and anaphylactoid symptoms have been reported after the use of Pfizer-BioNTech COVID-19 vaccine [tozinameran; Comirnaty] in Japan, say researchers from the Office of Pharmacovigilance II, Pharmaceuticals and Medical Devices Agency, Tokyo, Japan, in a report published in Drug Safety.
+
+Adverse Event Following Immunization (AEFI) reports of anaphylaxis and anaphylactoid symptoms to the Japanese Pharmaceutical and Medical Devices Agency (PMDA) during the first month after initiation of the COVID-19 vaccination programme in February 2021 were assessed.
+
+In total, 578 835 doses of Comirnaty were administered to health professionals during the first month, and the PMDA receive 181 suspected event reports of anaphylaxis and anaphylactoid symptoms, resulting in an overall reporting rate of 31.3 per 100 000 doses.
+
+The Committee on Drug Safety of the Pharmaceutical Affairs and Food Sanitation Council and the Vaccine Adverse Reaction Review Committee of the Ministry of Health, Labour and Welfare (MHLW) evaluated the 181 cases according to Brighton Collaboration Criteria, and confirmed 47 (26%) cases as anaphylaxis (Brighton level 1–3; reporting rate 8.1 per 100 000 doses). Most (74%) patients with confirmed anaphylaxis had a history of allergic disease or allergic reactions to medications and/or food, and 94% of patients with anaphylaxis were women.
+
+"We need to continue close monitoring of the reporting trend of suspected anaphylaxis and anaphylactoid symptom cases after vaccinations, as the target populations of vaccination were shifted from health professionals to the elderly population in May 2021," said the authors. "The PMDA, in collaboration with the MHLW, will be regularly publishing the cumulative results of event reporting," they added.

@@ -1,0 +1,245 @@
+Forum
+
+A new draft guidance is seeking public comment on its proposal for evaluating the safety of new drugs for type 2 diabetes mellitus (T2DM), says the US Food and Drug Administration (FDA).
+
+This 2020 draft guidance stems from the FDA’s ongoing evaluation of cardiovascular outcomes trials and recommendations from its Endocrinologic and Metabolic Drugs Advisory Committee, “which noted safety data beyond ischemic cardiovascular safety data was desired to evaluate the safety profile of antidiabetic drugs before they were approved”, explained the FDA. The new guidance will replace two FDA industry guidances entitled “Diabetes Mellitus—Evaluating Cardiovascular Risk in New Antidiabetic Therapies to Treat Type 2 Diabetes” (published in December 2008), and “Diabetes Mellitus: Developing Drugs and Therapeutic Biologics for Treatment and Prevention” (published in February 2008).
+
+Specifically, the FDA noted that it is seeking comment “on its proposals for broad safety evaluations before drug approval that look beyond ischemic (reduced blood flow) cardiovascular disease, as well as for the inclusion of a broader scope of human subjects, such as older subjects and those with chronic kidney disease who may be more vulnerable to drug-related side effects”.
+
+However, the agency noted that the new draft guidance does not include the recommendation that sponsors of all new T2DM therapies “uniformly rule out a specific degree of risk for ischemic cardiovascular adverse outcomes, which was recommended in previous guidance and has typically been done through cardiovascular outcome trials”. Dr Lisa Yanoff from the FDA’s Center for Drug Evaluation and Research explained that sponsors that followed the FDA’s previous recommendations have shown that new T2DM drugs “do not have excess ischemic cardiovascular risk, which has provided reassuring cardiovascular safety information for millions of diabetes patients”.
+
+US Food and Drug Administration. FDA proposes broad approach for conducting safety trials for type 2 diabetes medications. 09 Mar 2020. https://www.fda.gov/news-events/press-announcements/fda-proposes-broad-approach-conducting-safety-trials-type-2-diabetes-medications. Accessed 5 May 2020.
+
+Counterfeit medical items intended to assist in the fight against the global COVID-19 pandemic have been recently seized under Operation Pangea XIII, says Interpol.
+
+The agency highlighted that the outbreak of COVID-19 globally “has offered an opportunity for fast cash, as criminals take advantage of the high market demand for personal protection and hygiene products”.
+
+Police, customs and health regulatory authorities from 90 countries (including Italy, Ireland, Costa Rica, Mozambique and Malaysia) have enforced powers via Operation Pangea XIII, which Interpol stated has “resulted in 121 arrests worldwide and the seizure of potentially dangerous pharmaceuticals worth more than USD 14 million”, including counterfeit face masks, substandard hand sanitisers and unauthorised antiviral medications.
+
+The agency added that “during the week of action (3–10 March 2020) authorities in participating INTERPOL countries inspected more than 326,000 packages of which more than 48,000 were seized by customs and regulatory authorities”.
+
+Overall, approximately 4.4 million units of illicit pharmaceutical products, including cancer medications, pain medications/analgesics, anabolic steroids, nervous system agents, hypnotic and sedative agents, erectile dysfunction pills, skin therapy agents and vitamins, were seized by authorities during this operation. In addition, more than 37,000 unapproved and counterfeit medical devices were seized, with the vast majority of these being surgical masks and self-testing kits (HIV and glucose).
+
+Interpol’s Secretary General, Jürgen Stock, stated that “once again, Operation Pangea shows that criminals will stop at nothing to make a profit. The illicit trade in such counterfeit medical items during a public health crisis shows their total disregard for people’s wellbeing, or their lives”.
+
+Under this operation, the general public within INTERPOL member countries have been reached via videos, brochures, exhibitions and talks at hospitals and schools, in an effort to raise awareness of the risks of purchasing pharmaceuticals from unregulated online sources. To date, more than 2500 web links (including websites, social media pages, online marketplaces and online advertisements) for illicit pharmaceuticals have been shut down, with a similar number being in the process of being closed down.
+
+Interpol. Global operation sees a rise in fake medical products related to COVID-19. 19 Mar 2020. https://www.interpol.int/en/News-and-Events/News/2020/Global-operation-sees-a-rise-in-fake-medical-products-related-to-COVID-19. Accessed 5 May 2020.
+
+Australia’s Therapeutic Goods Administration (TGA) says that it “helps protect Australians from counterfeit medicines” but that they are not always to identify these fraudulent medicines.
+
+Differences between genuine formulations of a medicine (e.g. tablets) and counterfeit medicines can be subtle (e.g. minor alterations in company/brand name marks, colour, rough vs smooth edges, etc).
+
+The TGA noted that there are two types of counterfeit medicines: (i) products that imitate genuine medicines; and (ii) products that make false claims about their ingredients.
+
+It is possible for a counterfeit medicine to have the following:
+
+no active ingredient
+
+substandard ingredients
+
+undeclared ingredients
+
+illegal or dangerous ingredients
+
+incorrect dosage (i.e. too much, too little or variation in dose across tablets)
+
+contaminants from unhygienic manufacturing processes.
+
+The regulatory agency highlighted that “all unapproved therapeutic goods pose a risk, and counterfeit goods have a much greater risk”. Australia has a strong medicines regulation process and fake medicines are rare, especially when bought from reputable retailers (e.g. registered pharmacies). Any pharmacist found to deal in counterfeit medicines could have their registration cancelled.
+
+The TGA said that “the quickest way to spot a bogus medicine is to compare it with an authentic medicine” and that counterfeit medicines can have subtle differences in packaging, size, weight, colour, quality or embossing. Sometimes, there are more obvious differences such as spelling errors in the medicine name.
+
+Laboratory testing is undertaken to assess suspected counterfeit medicines, and “our analytical chemistry techniques profile the ingredients and potency of these medicines, which can confirm that a medicine is a fake”, said the TGA. Any counterfeit medicines found to be imported into Australia are seized and destroyed.
+
+Patients can lower their risk of buying counterfeit medicines by only purchasing from a registered pharmacy/pharmacist, either in-store or online.
+
+Therapeutic Goods Administration. How to spot a counterfeit medicine. 10 Mar 2020. https://www.tga.gov.au/blogs/tga-topics/how-spot-counterfeit-medicine. Accessed 5 May 2020.
+
+Two divisions of the US FDA are collaborating “to help ensure that claims being made for pharmacogenetic tests offered today are grounded in sound science to avoid inappropriate management of patients’ medications”, say the respective division Directors.
+
+Director of the Center for Devices and Radiological Health (CDRH), Dr Jeffrey Shuren, and Director of the Center for Drug Evaluation (CDER), Dr Janet Woodcock, noted that pharmacogenetic testing “offers promise for informing the selection or dosing of some medications for certain individuals”. However, they publicly acknowledged the FDA’s concerns back in 2018 regarding “firms offering genetic tests making claims about how to use the genetic test results to manage medication treatment that are not supported by recommendations in the FDA-approved drug labeling or other scientific evidence”, noted Drs Shuren and Woodcock.
+
+They added that “decisions based on inaccurate information can result in patient harm because patients may not receive the most inappropriate medication, may receive a medication that could be harmful or may receive a prescription for an inappropriate dose”.
+
+A new web-based resource is now available that includes a table describing selected gene–drug interactions that are consistent with current FDA labelling for the relevant medications (e.g. associations between certain genetic variants, or genetic variant-inferred phenotypes, and altered drug metabolism, and differences in therapeutic effects or risks of adverse events), and for which there is sufficient literature-based scientific evidence.
+
+While the above-mentioned table is not complete, Drs Shuren and Woodcock stated they “felt it is important to provide clinicians, patients and test developers with information now while we continue to review the scientific evidence”. The agency is seeking public comment and feedback on the specific pharmacogenetic associations that should (or should not) be included in the table.
+
+US Food and Drug Administration. FDA announces collaborative review of scientific evidence to support associations between genetic information and specific medications. 3 Mar 2020. https://www.fda.gov/news-events/press-announcements/fda-announces-collaborative-review-scientific-evidence-support-associations-between-genetic. Accessed 5 May 2020.
+
+The UK Medicines and Healthcare products Regulatory Agency (MHRA) has launched a social media campaign to encourage reporting of suspected adverse effects using the Yellow Card Scheme.
+
+The campaign will focus on reporting adverse effects associated with polypharmacy, defined as the use of four or more medicines including prescription drugs, over-the-counter medicines and traditional or herbal medicines. Polypharmacy is more common in older patients and those with chronic conditions. Healthcare professionals are being encouraged to review patients’ medications when prescribing, dispensing or administrating multiple medicines, and to monitor and report suspected adverse events and drug interactions to the Yellow Card Scheme.
+
+“Patients, their carers, and healthcare professionals are asked to report suspected side effects on a Yellow Card to the MHRA online or via the app. Reporting helps to improve the safety of medicines for all patients and can result in better tailored prescribing or administrative advice and information about monitoring, which can help improve adherence to treatment, and ultimately improves patient safety,” said Mick Foy, Head of Pharmacovigilance Strategy at the MHRA.
+
+Medicines and Healthcare products Regulatory Agency. Taking multiple medicines? Support the Yellow Card scheme by reporting suspected side effects. 17 Feb 2020. https://www.gov.uk/government/news/taking-multiple-medicines-support-the-yellow-card-scheme-by-reporting-suspected-side-effects. Accessed 5 May 2020.
+
+In New Zealand during 2019, there were 4247 adverse drug reaction reports to Medsafe’s Centre for Adverse Drug Reaction Monitoring (CARM), according to a recent report in Prescriber Update.
+
+There were 2688 reports involving medicines, 1531 reports involving vaccines, and 28 reports involving complementary or alternative medicines (CAMs), which the agency notes is a pattern similar to that in previous years. Overall, 18.7% of reports were considered serious, comprising 27.7%, 2.8% and 28.6% of reports involving medicines, vaccines or CAMs, respectively. Most reports were submitted by nurses, followed by general practitioners and hospital doctors.
+
+Medsafe urges healthcare practitioners to continue reporting any adverse reactions, enabling the agency to quickly identify and respond to emerging medicine safety issues.
+
+Medsafe. Adverse reaction reporting in New Zealand—2019. Prescriber Update. 2020;41(1):8–9.
+
+Adverse events associated with influenza virus vaccines are variable, according to findings of a sentinel network study published in Vaccine.
+
+Medical record data from the Royal College of General Practitioners Research and Surveillance Centre sentinel network database from 2010 to 2018 were used to investigate the incidence rates of adverse events of interest (AEI), as specified by the European Medicines Agency (EMA), within 7 days after vaccination with influenza virus vaccines in the UK. Vaccines were compared by manufacturer, number of viral strains (trivalent vs quadrivalent), route of delivery (intramuscular vs intranasal) and manufacturing technology (mammalian cell vs fertilised hen egg).
+
+The relative incidence (RI) of AEIs was significantly higher with quadrivalent inactivated vaccine than with trivalent inactivated vaccine (RI 1.14; 95% CI 1.10, 1.18; p < 0.01). It was significantly lower with live attenuated influenza vaccination than with inactivated influenza vaccine (RI 0.60; 95% CI 0.63, 0.68; p < 0.001), and was also lower with mammalian cell manufacturing (RI 0.78; 95% CI 0.61, 0.99; p = 0.04).
+
+The most frequently reported AEIs were muscle pain, cough, exanthema and headache. However, 495 cases of anaphylaxis and 266 cases of Guillain–Barré Syndrome were reported. AEIs varied between influenza seasons. Exanthema and muscle pain were reported more frequently during the 2014/15 season, while respiratory disorders were more frequent during the 2016/17 season. AEIs were more frequent in pregnant women (RI 1.78; 95% CI 1.62, 1.95) and in young children under 5 years of age (RI 1.76; 95% CI 1.56, 1.99).
+
+“The vaccine manufacturer, number of included viruses, the administration route, and the method used to create the vaccine all affect the incidence of AEI,” said the authors. “Sentinel networks could be developed to provide more robust brand specific comparisons,” they said.
+
+Cross JW, Joy M, McGee C, et al. Adverse events of interest vary by influenza vaccine type and brand: Sentinel network study of eight seasons (2010–2018). Vaccine. 2020;38(22):3869–80.
+
+A pilot initiative in Malawi which involved an 18-month training and mentoring programme was effective in enhancing passive safety surveillance, according to study results reported in Drug Safety. At the start of the project, Malawi did not have a functional national pharmacovigilance (PV) centre, there were no training programmes for healthcare professionals (HCPs) in PV and the rate of adverse event (AE) reporting was very low.
+
+The programme involved national stakeholders in partnership with the Ministry of Health, GSK, and PATH. Expanded Programme on Immunisation (EPI) coordinators (n = 34) and National Regulatory Authority (NRA) representatives (n = 4) received two days of training. HCPs (n = 443) from 61 healthcare facilities (HCFs) received abridged training and mentoring. Support was also given to upgrade the national PV system.
+
+From 6 months into the project, the number of reported AEs increased progressively. Between January 2000 and October 2016, there had been 22 reported AEs in Malawi. In the period from November 2016 to May 2018, this had increased to 228 reports. This comprised 78 adverse events following immunisation (AEFIs) and 150 suspected adverse drug reactions (ADRs). There were 193 reports (84.6%) from PV-trained districts, including 57.7% of AEFIs and 100% of ADRs. The primary reporting route was via WhatsApp mobile messages, with other routes including SMS, telephone calls or email; none were reported via the pre-paid postal service.
+
+Most AE report forms (98%) contained the mandatory information concerning reporter, event, patient and product. However, only two reports (< 1%) were transmitted to the national pharmacovigilance office within 48 h. The average time for transmission to the national PV centre was 2 months. “Delayed transmission of AE forms was a major challenge at all levels of the healthcare system”, note the authors, “primarily because of the remoteness of HCFs and unclear transmission mechanism”. Of the 12 serious AEs, only 1 (8.3%) was investigated by the district focal point, below the 100% target rate.
+
+“Regular PV training and mentoring of HCPs was effective in improving passive safety surveillance and increasing AE reporting rates”, note the authors, who add that “the increased number of AE reports allowed Malawi to become the 135th full member of the WHO PIDM (Programme for International Drug Monitoring) in 2019”.
+
+Jusot V, Chimimba F, Dzabala N, et al. Enhancing pharmacovigilance in sub-Saharan Africa through training and mentoring: a GSK pilot initiative in Malawi. Drug Saf. Epub 1 Apr 2020. 10.1007/s40264-020-00925-4. Accessed 5 May 2020.
+
+For pivotal clinical trials linked to approved cancer therapies, the reporting rates of cardiovascular disease (CVD) AEs “trail expected population rates”, according to study results reported in the Journal of the American College of Cardiology, even though “CVD is an increasingly important limitation of effective cancer therapy”.
+
+The study manually searched the USA’s Drugs@FDA database for anticancer therapies which received new drug application approval for treatment of adults between January 1998 and June 2018. Data from 189 phase II and phase III trials tied to the approval of 123 drugs was identified and extracted. The primary outcome was major adverse cardiovascular events (MACE), with any reported CVD a secondary outcome. MACE was not reported in 51.3% of trials; 37.6% of trials did not report any CVD events.
+
+The trials involved 97,365 participants with 148,138 person-years (PY) of follow-up. Cancer therapies were received by 57,978 patients (72.5%). The most frequently involved therapeutic class in the trials was targeted therapies (n = 70), followed by biologic or immunotherapy (n = 67), chemotherapy (n = 31) and hormonal therapy (n = 14). There were 52 phase II trials and 137 phase III trials.
+
+There were 1148 incident MACE events reported, comprising heart failure (n = 375), myocardial infarction (n = 253), CVD death (n = 246), stroke (n = 180), a trial fibrillation (n = 65) and revascularisation (n = 29). There were 792 MACE events in the intervention arms, compared with 356 events in the control arms (p < 0.01).
+
+For the 64 trials where patients with baseline CVD were excluded, the overall weighted-average incidence was 542 events per 100,000PY, or 716 per 100,000PY in the intervention arms, compared with 1408 per 100,000PY for non-cancer trial participants of a similar age (relative risk 0.38; p < 0.01; risk difference = 866).
+
+“These findings suggest a general underreporting and/or appreciation of CVD events among cancer clinical trial participants”, note the authors, who add that “moreover, these discrepancies may in part underlie the discordance between perceived CVD risk and that observed in actual clinical care”.
+
+Bonsu JM, Guha A, Charles L, et al. Reporting of cardiovascular events in clinical trials supporting FDA approval of contemporary cancer therapies. J Am Coll Cardiol. 2020;75(6):620–28.
+
+The Institute for Clinical and Economic Review (ICER) has announced that Aetion will be its preferred partner and platform to generate decision-grade real-world evidence (RWE) as part of ICER’s commitment to expand the use of RWE in value assessments.
+
+The ICER committed to generating new RWE for the assessment process in its updated 2020 Value Assessment Framework, and proposed to pilot a formal process for the use of RWE in 24-month re-evaluations of FDA-approved drugs under accelerated approval pathways. ICER will use Aetion’s Evidence Platform® to generate RWE for select assessments and 24-month re-evaluations, with the developed protocols to be included in the publicly released assessments to allow other stakeholders to replicate studies.
+
+“Aetion’s rapid-cycle analytics will enable us to quickly generate evidence with the needed rigor and transparency to include in our reviews”, says Pamela Bradt, ICER’s Chief Scientific Officer. “Through this partnership we aim to set new standards for how RWE can better inform the consequential decisions that biopharma manufacturers, insurers, and other stakeholders make every single day around drug pricing and patient access”.
+
+Institute for Clinical and Economic Review. ICER and Aetion partner to develop real-world evidence for value assessment of treatments. 24 Feb 2020. https://icer-review.org/announcements/icer-and-aetion-rwe. Accessed 5 May 2020.
+
+The National Institute for Health and Care Excellence (NICE) and Health Technology Wales (HTW) have announced a strategic partnership aimed at increasing collaborative planning and information sharing for the assessment of medical technologies in England and Wales.
+
+A Memorandum of Understanding has been signed by both organisations detailing how they will work together to strategically plan and deliver independent and authoritative guidance on medical technology. The collaboration agreement will increase cooperation between NICE and HTW assessors in England and Wales who carry out health technology assessments to determine the clinical effectiveness, cost effectiveness and safety of medical device innovations.
+
+The agreement with HTW “which aims to improve the way both organisations collaborate and communicate” was welcomed by Meindert Boysen, Director of the NICE Centre for Health Technology Evaluation. Professor Peter Groves, Chair of Health Technology Wales, will remain as the chairman of NICE’s Medical Technologies Advisory Committee and announced that HTW are “delighted to formalise our relationship with NICE”. Professor Groves added “[i]t’s timely that we collaborate to share resources and knowledge so that we can ensure the best possible outcomes from the work of both organisations in improving the health of people in Wales”.
+
+National Institute for Health and Care Excellence. Strategic collaboration announced by NICE and Health Technology Wales. 3 Mar 2020. https://www.nice.org.uk/news/article/strategic-collaboration-announced-by-nice-and-health-technology-wales. Accessed 5 May 2020.
+
+While outcomes-based drug pricing has the potential to reduce antihyperglycaemic costs in patients with T2DM, using change in the proportion of glycosylated haemoglobin (HbA1c) over a short period of time as the only outcome is unlikely to be clinically meaningful compared with cardiovascular outcomes and adverse event rates, say authors of US study published in Value in Health.
+
+Claims data including data on laboratory tests and medication dispensing from the Optum Clinformatics Data Mart Database (April 2005–September 2018) were used to evaluate the cost impact of outcomes-based contracts for dulaglutide, exenatide and sitagliptin based on target HbA1c of 8% for dulaglutide and exenatide, and “appropriate” HbA1c values for sitagliptin, in adults with T2DM with newly filled prescriptions of exenatide (n = 5079), dulaglutide (6966), sitagliptin (40,752), canagliflozin (16,404) or glipizide (59,985).
+
+Based on as-treated analysis, the proportion of patients achieving HbA1c levels under 8% was 80% with exenatide, 83% with dulaglutide, 83% with sitagliptin, 71% with canagliflozin and 82% with glipizide, and the rate of hypoglycaemia per 1000 patient-years was 25, 37, 28, 18 and 34, respectively.
+
+The cash price per 1-month supply of medication was $847 for exenatide, $859 for dulaglutide, $550 for sitagliptin, $608 for canagliflozin and $14 for glipizide, and the wholesale acquisition price was $700, $759, $451, $494 and $7, respectively.
+
+“Outcomes-based contracts related to the pricing of diabetes medications have the potential to lower the cost of medications for insurance companies and potentially patients. Nevertheless, using outcomes such as hemoglobin A1C over the short period of time of the contract may not be meaningful because similar changes in A1C can be achieved with generic medications at a far lower cost that rebates are unlikely to match,” commented the authors.
+
+Fralick M, Gagne JJ, Patorno E, et al. Using data from routine care to estimate the effectiveness and potential limitations of outcomes-based contracts for diabetes medications. Value Health. 2020;23(4):434–40.
+
+The UK NICE has published its first Medtech Innovation Briefing on artificial intelligence (AI) software.
+
+CT brain scans of people with suspected brain abnormalities can be assessed by the AI software which would support hospital radiologists through automating aspects of brain abnormality detection and helping prioritise urgent cases. It is thought that the technology may be most beneficial in cases where CT images cannot be initially reviewed by specialist neuroradiologists.
+
+Evidence from 11 studies was used in the NICE briefing, including seven studies comprising 31,118 CT brain scans that indicated the technology was as effective as neuroradiologists at detecting intracranial haemorrhages, although study conditions did not represent NHS current practice. The other four studies were real world observational studies of 59,655 CT brain scans that suggested the software may perform well in clinical practice. However, as some studies had limited methodological detail, NICE noted that “the evidence base would benefit from well controlled comparative studies with an appropriate follow-up time to capture patient outcome and time to treatment”.
+
+Costs for AI software for CT brain scans vary depending on the number of analyses done and the size of the NHS Trust, ranging from £8250 to £80,000 per licence fee per year, with a £45 pay-per-use available for one of the listed technologies. The technology is more expensive that analysis of scans by radiologists alone but NICE believe “the extra cost may be offset by faster diagnosis of time-sensitive cases, reducing complications related to delayed treatment”.
+
+National Institute for Health and Care Excellence. NICE publishes its first medtech briefing on artificial intelligence software. 17 Mar 2020. https://www.nice.org.uk/news/article/nice-publishes-its-first-medtech-briefing-on-artificial-intelligence-software. Accessed 5 May 2020.
+
+While drug safety warnings addressed to HCPs generally have an effective or partially effective impact on drug therapy, in some cases they may have unintended effects, according to findings of a systematic review published in Pharmacoepidemiology and Drug Safety.
+
+EMBASE and MEDLINE were searched from 1998 to 2018 for English-language randomised, controlled trials, cohort studies and case-control studies reporting the impact of drug safety warnings including new adverse reactions, indication limitations or contraindications, changes in authorised dosage, additional monitoring of laboratory parameters, and newly identified interactions.
+
+Of the 72 studies which met the inclusion criteria, 39% reported that the safety warnings were effective in changing drug therapy, 36% reported that the warnings were partially effective (with only one of the two warnings having an impact), and 17% reported that warnings had no effect on drug therapy. However, 8% of studies reported unintended effects of safety warnings including an increase in suicide attempts or abortion rate.
+
+Approximately half of the studies assessing the impact of safety warnings used an interrupted time series design, a before versus after design, or a time series design. The impact of warnings was effective in 23% of psychotropic drugs (antidepressants, antiepileptic drugs, antipsychotics, promethazine or zolpidem), compared with 53% of other drugs such as cisapride, clopidogrel, erythropoiesis stimulants, long-acting beta-2 adrenergic receptor agonists, thiazaolidinediones and others.
+
+“Safety warnings lead, do not lead, or partially lead to an intended or unintended change in drug therapy. Furthermore, safety warnings regarding psychotropic drugs seem to influence drug therapy less than safety warnings on other substance groups,” concluded the authors. “Further research is needed to clarify which parameters influence the impact of safety warnings to what extent,” they added.
+
+Georgi U, Lammel J, Datzmann T, et al. Do drug-related safety warnings have the expected impact on drug therapy? A systematic review. Pharmacoepidemiol Drug Saf. 2020;29(3):229–51.
+
+Clinical trials funded by the pharmaceutical industry have stronger evidence than trials funded by other sources in the area of metastatic non-small cell lung cancer (NSCLC).
+
+This is one of the findings of a study, conducted by researchers from Brazil, that compared the evidence strength of industry-funded clinical trials with that of clinical trials funded by other sources for the treatment of advanced or metastatic NSCLC.
+
+The literature search identified 477 trials (275 industry-funded and 202 funded by other sources), published between November 2012 and November 2017. The total number of patients involved was 85,328 for industry-funded trials and 20,894 for trials funded by other sources. Industry-funded trials had significantly stronger evidence than trials funded by other sources (55% vs 44% for randomised controlled trials; 33% vs 62% for single-arm studies; and 1% vs 5% for retrospective studies). Industry-funded trials enrolled a higher number of patients on average (mean 231 vs 103). “The higher availability of financial resources for the development of new drugs may explain why [pharmaceutical industry]-funded studies can include more patients and therefore generate higher levels of evidence,” comment the researchers. Furthermore, industry-funded trials evaluated more innovative treatments (72% vs 36%) and more costly treatments (mean monthly cost $US16 072 vs $9330). In addition, more industry-funded trials were available for Open Access (63% vs 47%). The analysis also showed that industry-sponsored trials did not favour the experimental arms. Furthermore, the reporting bias was considered low for nearly 90% of all included studies.
+
+de Souza Gutierres B, Aguiar PN Jr, Dourado BB, et al. Evidence strength of pharmaceutical industry funded clinical trials in metastatic non-small cell lung cancer: a comparison with other sources of funding. J Thorac Oncol. Epub 23 Mar 2020. http://doi.org/10.1016/j.jtho.2020.03.004. Accessed 5 May 2020.
+
+Concurrent use of dipeptidyl peptidase-4 inhibitors (DPP-4 inhibitors; CD26 antigen inhibitors) does not appear to increase the risk of serious muscular injuries in patients receiving HMG-CoA reductase inhibitors (statins) or fibric acid derivatives (fibrates), according to findings of a French study published in Drug Safety.
+
+This nested case-control study used multivariate logistic regression analysis of data from the French health insurance database (2009–2014) to investigate the incidence of serious muscular injury (rhabdomyolysis or myopathy requiring hospitalisation) associated with DPP-4 inhibitor use in patients with type 2 diabetes mellitus receiving treatment with statins or fibrates. Cases also included patients in whom testing for myoglobin or creatine phosphokinase was followed by a change in statin or fibrate prescription.
+
+Each case was matched to up to ten controls based on age, sex and lipid-lowering agent; 437 statin-user cases were matched to 4358 statin-user controls, and 54 fibrate-user cases were matched to 540 fibrate-user controls.
+
+The risk of serious muscular injury was not significantly increased with concurrent use of DPP-4 inhibitors in statin users (adjusted odds ratio [aOR] 1.0; 95% CI 0.7, 1.2) or in fibrate users (aOR 0.8; 95% CI 0.4, 1.9). However, concomitant use of fibrates was associated with an increased risk of muscular injury in statin users (aOR 3.1; 95% CI 1.4, 6.9), and concomitant use of statins was associated with an increased risk of muscular injury in fibrate users (aOR: 13.8; 95% CI 4.0, 47.4).
+
+“These results do not support the signal initially raised concerning a potential muscular toxicity of DPP-4 inhibitors,” said the authors. “However, as it could be hypothesized that current users of statins or fibrates could be somehow resistant or less prone than others to drug-induced muscular injuries, it does not completely rule out a potential muscular toxicity of DPP-4 inhibitors,” they said.
+
+Pariente A, Labat V, Mansiaux Y, et al. DPP-4 inhibitors in combination with lipid-lowering agents and risk of serious muscular injury: a nested case-control study in a nationwide cohort of patients with type 2 diabetes mellitus. Drug Saf. Epub 18 Apr 2020. 10.1007/s40264-020-00936-1. Accessed 5 May 2020.
+
+Treatment with direct-acting antivirals (DAAs) in patients with chronic hepatitis C virus (HCV) infection is not associated with an increased risk of new or recurrent liver cancer (hepatocellular carcinoma [HCC]), according to findings of a safety review by Health Canada.
+
+This review, triggered by new cases of HCC in Canadian patients receiving DAAs and new evidence from published literature, was a follow-up to a review completed in 2017 which assessed the risk of HCC with use of DAAs available in Canada. DAAs included daclatasvir (Daklinza), sofosbuvir (Sovaldi), ledipasvir/sofosbuvir (Harvoni), sofosbuvir/velpatasvir (Epclusa), sofosbuvir/velpatasvir/voxilaprevir (Vosevi), elbasvir/grazoprevir (Zepatier) and glecaprevir/pibrentasvir (Maviret).
+
+Health Canada reviewed 125 reports (86 Canadian and 39 international reports) of new or returning HCC. Although 41 of these cases were found to have a possible link with DAA use, limitations in data provided prevented Health Canada from establishing an association.
+
+In addition, 1669 cases of new or recurrent HCC had been reported to WHO’s Adverse Drug Reaction Database, Vigibase, but these reports lacked enough information in to establish a link between DAAs and HCC, and a review of 70 published studies also did not support a link.
+
+This 2019 review of the available information did not make a link between the use of DAAs and new or returning HCC, concluded Health Canada. However, Health Canada will continue to monitor the safety of DAAs.
+
+Health Canada. Summary safety review—direct-acting antivirals (DAAs)—Health Canada. 2 Apr 2020. https://hpr-rps.hres.ca/reg-content/summary-safety-review-detail.php?lang=en&linkID=SSR00236. Accessed 5 May 2020.
+
+The incidence of immune checkpoint inhibitor (ICI)-related adverse pituitary events has increased over time, according to study results reported in the Journal of Endocrinological Investigation, including hypophysitis, hypopituitarism and pituitary enlargement.
+
+The retrospective study used data from WHO’s VigiBase database between 1 January 2011 and 6 March 2019. Disproportionality analyses were performed using information component (IC) and reporting odds ratio (ROR) measures.
+
+Of the 61,931 AEs reported in ICI recipients, there were 6089 endocrine AEs including 1144 pituitary events (18.8%). For hypophysitis, there were 835 reports in ICI recipients versus 897 reports in the full database (IC 6.74; 95% CI 6.63, 6.83). For hypopituitarism, there were 268 vs 534 reports (IC 6.12; 5.92, 6.27), For pituitary enlargement, there were 28 vs 76 reports (IC 5.19; 4.57; 5.63). The IC values are all positive, and the confidence intervals are narrow, “which indicates that these AEs are significantly associated with IC treatments”, note the authors. For pituitary tumour, there were 4 vs 530 reports (IC 1.0; 0.77, 2.07).
+
+Reporting of pituitary-related AEs increased over time; there were 12 reported cases of hypophysitis/hypopituitarism in 2011 and 327 cases in 2018. Year by year, the IC values tended to be stable and the confidence intervals tended to narrow. For the 581 cases of hypophysitis/hypopituitarism which reported reaction outcomes, 428 cases (73.7%) had recovered/resolved and 12 cases (2.2%) were fatal.
+
+IC values tended to be higher for anti-CTLA-4 ICIs compared with ant-PD or anti-PD-1 ICIs. Time to reaction onset was earlier for anti-CTLA-4 ICIs (67 days) or ipilimumab/nivolumab combination therapy (90 days) than for anti-PD/anti-PD-1 ICIs (140 days).
+
+“ICI-associated hypophysitis or hypopituitarism cases significantly increased”, conclude the authors, “thus, raising the awareness of ICI-associated pituitary adverse events early in the treatment process become much more important”.
+
+Bai X, Chen X, Wu X, et al. Immune checkpoint inhibitor-associated pituitary adverse events: an observational, retrospective, disproportionality study. J Endocrinol Invest. Epub 1 Apr 2020. http://doi.org/10.1007/s40618-020-01226-4. Accessed 5 May 2020.
+
+According to the results of a systematic review reported in Drugs—Real World Outcomes, the use of RWE to evaluate medication safety or effectiveness is not fully developed in paediatric patients.
+
+The study searched PubMed to identify 29 observational studies published in English during 2016, comprising 14 prospective cohort studies, 9 retrospective cohort studies, 5 case-control studies and 1 self-controlled study. There were 24 studies conducted in North America or Europe.
+
+There were 23 studies where the entire population was < 18 years old at baseline or at first exposure to the studied drug. The studies included 25–734,114 patients (median 367 patients). “These smaller sample sizes are consistent with the reliance on manual medical record review, primary data collection, and studies conducted at single institutions”, note the authors, suggesting that “some RWE studies to assess medication safety and effectiveness in children have not fully realized one of the potential strengths of RWD [real-world data]: larger sample sizes”. For the 20 studies which reported age ranges, 7 focused on narrowly defined age groups, while other studies reported on age groups which spanned infancy to adolescence. For the remaining studies where the entire population was not < 18 years old, mean/median ages were < 18 years, or they reported data on a subgroup < 18 years of age. However, as “in almost one-quarter of the studies in this review, we could not ascertain the number of study participants under 18 years old or the age range of the study participants”, note the authors, this “lack of information about the age of a study population inhibits our ability to apply study results in a clinical or regulatory context and hampers reproducibility”.
+
+The most commonly included indications were psychiatric conditions (n = 5), followed by juvenile idiopathic arthritis (n = 4) and preterm/low birth weight infants (n = 4). In 13 studies, the treatment of interest was compared to an unexposed group, while 12 studies compared treatments, 3 studies compared treatment doses, and 1 study compared time on and off treatment. A specific medication or medication combination was evaluated in 16 studies, with no specific medication predominating, while the remaining studies categorised exposure more broadly by drug class or other grouping.
+
+Two studies reported on power calculations. There were 19 studies which reported multivariable methods to control for confounding, while 8 studies did not report use of any statistical method and 2 relied on stratification.
+
+There were 13 studies which reported on safety endpoints, 13 which reported on effectiveness endpoints, and 3 which reported on both. Study quality was evaluated using the 11-item GRACE checklist. The number of items scored as “sufficient” ranged from 4 to 11; half the studies scored “sufficient” on ≥ 8 items.
+
+The most frequently utilised data source was medical review and extraction (n = 12), followed by primary data collection on study forms (n = 7), analyses from administrative claims databases (n = 4) or electronic health record databases (n = 4), and data from registries (n = 2). “This indicates that the use of RWE is not fully developed in pediatrics”, note the authors, “and suggests an opportunity to further develop capabilities and more fully leverage administrative and electronic health record databases to study medication safety and effectiveness in children.”
+
+Lasky T, Carleton B, Horton DB, et al. Real-world evidence to assess medication safety or effectiveness in children: systematic review. Drugs Real World Outcomes. Epub 28 Feb 2020. 10.1007/s40801-020-00182-y. Accessed 5 May 2020.
+
+Drug safety issues distributed by direct healthcare professional communications (DHPCs) tend to have most of the involved drugs covered by social media, according to the results of a study in the Netherlands reported in Drug Safety, with a smaller proportion of the safety issues covered by newspapers.
+
+The quantitative overview study assessed newspaper coverage for 387 DHPCs published in 2001–2015 which covered 250 different drugs. There were 457 newspaper articles published within 2 months, covering 41 of the DHPCs (10.6%). The highest coverage rates were for drugs for the cardiovascular system (20.8%), alimentary tract (20.0%) or nervous system (17.7%). Coverage was also high for widely used drugs (24.7%), drugs without a specialist indication (26.1%) and older drugs (18.5%). Multivariate analysis revealed significantly more coverage for drugs without rather than with a specialist indication (adjusted OR 5.32; 95% CI 2.64, 0.73). Those approved > 11 years earlier were significantly more likely to be covered than those approved 3–5 years earlier (OR 0.30; 0.11, 0.82) or 6–11 years earlier (OR 0.18; 0.06, 0.58); there was similar coverage for those approved ≤ 2 years earlier (OR 0.45; 0.19, 1.10). “The reason for this is not clear”, note the authors, “but it could be that newspaper journalists prefer to focus on safety issues regarding well-known drugs and are less interested in similar information about relatively new, less familiar drugs”.
+
+The study also assessed social media coverage of the drugs from 220 DHPCs published in 2010–2015 which covered 164 different drugs. There were 5928 social media postings within 14 days, covering 180 of the DHPC drugs (81.8%). Coverage rates were highest for widely used drugs (92.3%), moderately used drugs (89.5%) and drugs without a specialist indication (95.8%). Publication due to clinical issues had a coverage rate of 84.9%, higher than those published because of a defect (70.2%), shortage (66.7%) or withdrawal (66.7%). Multivariate analysis revealed significantly more coverage for drugs without rather than with a specialist indication (OR 6.92; 1.56, 30.64) or for clinical issues rather than other issues (OR 5.46; 2.03, 14.66).
+
+“When communicating about drug safety issues”, note the authors, “regulators and professional organisations should … possibly provide lay versions of these communications as well”.
+
+de Vries E, Denig P, de Vries ST, et al. Drug safety issues covered by lay media: a cohort study of direct healthcare provider communications sent between 2001 and 2015 in The Netherlands. Drug Saf. Epub 24 Mar 2020. 10.1007/s40264-020-00922-7. Accessed 5 May 2020.

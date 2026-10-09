@@ -1,0 +1,115 @@
+Characterization of VigiBase reports on tinnitus associated with bisoprolol—An exploratory and descriptive study
+
+adverse drug reactions
+
+health care professionals
+
+patient information leaflets
+
+Bisoprolol has the potential to cause hearing disorders
+
+Individual case safety reports of adverse drug reactions (ADR) are often rich in descriptive information, especially reports directly from patients
+
+Patients want to get an increased understanding of experienced ADRs beyond what is available in patient information leaflets (PILs).
+
+​
+
+Reports in VigiBase provide additional information about ADRs, beyond what is in the label, for example, information about severity and impact on daily life.
+
+Reports of tinnitus with bisoprolol suggest a potential increased risk of a long‐term reaction if the treatment is prolonged after the tinnitus has appeared.
+
+​
+
+​
+
+When a medicinal product is approved for marketing, the Product Information (the Label) for both health care professionals (HCP) and consumers (patient information leaflet) is approved at the same time. These documents are legal, scientific, and should be up to date based on post‐marketing experience regarding adverse drug reactions (ADRs) with the medicinal products. Package Leaflet refers to product information for consumers, which for ADRs should be in line with the label for HCPs, but with a different structure and in plain language to make it more user friendly. This information can be found on the web in national regulatory databases. However, although the approximate frequencies of the ADRs are provided on a population level, there is hardly any further description of most of the ADRs in respect of the time they take to develop, if and when they disappear, and how to manage them. Furthermore, the impact of acquiring a certain ADR on a patient's daily life is not set out. In fact, research on the content and design of medicine information leaflets has shown that they do not meet patients’ needs. 1 Patients therefore seek information elsewhere, which may not be evidence based, such as in social media. 2
+
+With over 22 million reports of suspected ADRs in the WHO global database of individual case safety reports, VigiBase, many signals for new ADRs have been generated. In the current study, our hypothesis was that additional information to what is available in medicine labels about known ADRs could be retrieved from these reports, which could potentially help patients and health care providers to understand them in a better way.
+
+With this in mind, our study looked further into one reported hearing disorder for the drug bisoprolol, namely tinnitus, which was highlighted in a signal detection activity and chosen for further investigation. Subjective tinnitus (i.e. only the patient can hear the sounds) is referred to as “the false perception of sound in the absence of an acoustic stimulus”. 3
+
+Bisoprolol is a commonly used β1‐blocking drug used in the treatment of hypertension and angina pectoris. The mechanism for what leads to decreased blood pressure is unclear, but it has a negative inotropic effect, to reduce cardiac output and to depress plasma renin activity. In patients with angina pectoris the reduced cardiac output leads to reduced oxygen demand and thus relieves the symptoms of angina pectoris. It is given once daily at an individual dose between 5 and 20 mg, most commonly 10 mg. 4
+
+Drug‐induced tinnitus can be both reversible and irreversible and is associated with acute intoxication and long‐term administration of many drugs. The mechanism is unclear but may involve biochemical and consequent electrophysiological changes in the inner ear and eighth cranial nerve impulse transmission. 5 Drug‐induced tinnitus for betablockers have previously been mentioned in literature. 6 Tinnitus is not mentioned in the UK product information (Summary of Product Characteristics for HCP or Package Leaflet for consumer) for bisoprolol. Although hearing disorders are mentioned as an ADR, no further specification is given. 4 In the US Daily Med product label tinnitus is mentioned in a comprehensive list of adverse experiences reported with bisoprolol “in worldwide studies, or in post‐marketing experience” 7 without further information.
+
+Against this background, this study aimed to examine individual case safety reports on tinnitus associated with bisoprolol for additional elucidation in relation to the already available product information.
+
+The study was descriptive and explorative with an inductive quantitative and qualitative approach. Structured and narrative data from ADR case reports submitted to VigiBase through the WHO Programme for International Drug Monitoring (WHO PIDM) were analysed. Reports on tinnitus as a MedDRA preferred term reported for bisoprolol were included for review. Suspected duplicates were excluded using the algorithm vigiMatch. 8
+
+The identified cases for bisoprolol and tinnitus were assessed for the characteristics of the reaction. The reports with narratives were analysed for descriptive information about the perception of the reaction and how it impacted the patients’ daily lives. The reports shared within the WHO Programme are deidentified, and research based on this data is not subject to ethics approval or informed consent.
+
+As of 3 May 2020, there were 123 reports of bisoprolol and the MedDRA preferred term 9 tinnitus from 24 countries available in VigiBase, reported between 1989 and 2020 (with 90% received in 2011 or later). This may be compared to the 54 reports expected from disproportionality analysis 10 based on the overall reporting of the drug and ADR separately in the database. The reported sex is 58% female, 41% male, and in 1% the biological sex was not given. In 40% of the cases the reports were marked as serious. Where reports contained a narrative description of the tinnitus (63 reports), reports shared by patients, alone or together with a health care provider, were more common than reports from any single type of health care professional (47% were sent in by patients, compared with 23% for pharmacists, which was the reporter type with the second largest proportion of reports).
+
+The time to the onset of the tinnitus after starting bisoprolol was specified on 41% of all of the reports and ranged from starting the same day to starting after 2 years. However, in more than half of these reports (27 reports), the tinnitus began within one week of the first dose. The median time to onset of the reaction was 6 days. In one report (case 13 in Table 1), tinnitus appeared 25 days after bisoprolol was withdrawn. This report was included for its descriptive information of tinnitus although a relationship between the drug and reaction seems unlikely.
+
+Report demographics and characteristics for bisoprolol associated tinnitus in selected cases with narratives in VigiBase
+
+Drug withdrawn (No effect observed)
+
+Past drug therapy indicates patient had been on bisoprolol and experienced tinnitus, thus counted as positive rechallenge
+
+‐
+
+Experienced tinnitus 25 days after last intake of bisoprolol
+
+Dose reduced (Events improved)
+
+Rechallenge (Reaction recurred)
+
+Headache and tinnitus after substitution of one
+
+bisoprolol (generic with another generic product) Latency of one day after switch. Complaints of stabbing and a whistle in the head.
+
+M, male, F, female, the “;” in “substance; substance” indicates that the substances together constitutes a combination drug.
+
+When the information on what action was taken with the drug and on the outcome of the reaction were available, the tinnitus stopped in 30 cases upon removal of the drug (compared to 13 cases where the tinnitus continued after drug removal or dose reduction). In two cases the reaction reoccurred upon reintroduction of the drug (case 1 and 2 in Table 1), and in one additional case tinnitus reoccurred upon increasing the dose (case 14 in Table 1).
+
+In ten cases no action was taken with bisoprolol and the reaction continued. In two cases however, the tinnitus stopped although the drug was continued at the same dose. For one of these cases the duration of the tinnitus was given as 4 days.
+
+There were also cases that described how the tinnitus continued after bisoprolol was discontinued (eight cases), or the dose was reduced (five cases). Two of the reports that described continuation of tinnitus after having stopped using bisoprolol described long‐term suffering from tinnitus and are worth a special mention (case 1 and 12, Table 1). For the other reports, no follow‐up information about ADR duration was reported.
+
+In one patient (case 15) the tinnitus appeared one day after the product was switched to another brand of bisoprolol. The outcome in that case is unknown. In another case (case 16), the tinnitus appeared after medicine from a new batch of the same brand was taken. She switched batch again and the event resolved.
+
+All cases with available descriptions of the tinnitus, 13 within the narrative information of the reports, and three which reported the tinnitus in a descriptive way such as “ear buzzing” in the coded fields, are set out in Table 1. In 13 of the 63 reports that included narratives the experienced tinnitus was further described. In six reports it was described by a patient (one of these co‐reported with a physician), in five the experience was described by a pharmacist, and in two by physicians alone. The tinnitus was for example described as “ringing in the ears”, “loud ringing in the ears”, “ear buzzing”, “continuous hearing of low frequency sounds”,”odd noises in the back of the head” or “knocking noises in the back of the head”.
+
+In four cases the patients described how the ADR affected their daily life (cases 1–4, Table 1). In addition to these cases there is one other, also published in the literature, describing a female, 47 years old, who committed suicide after depression and persistent tinnitus while treated with several drugs, one of which was bisoprolol. 11
+
+In a qualitative study using focus groups to find out what patients wish to know about their medications it was noted that patients want specific information about ADRs, duration of treatment, and range of available treatment options. 1 The narratives of the reports in VigiBase give a broader picture of a reported ADR than just a term mentioned in the product information for a drug and could meet their need for specific information about how other patients experienced an ADR.
+
+In the reports in VigiBase, the tinnitus is described in different ways as experienced by several patients. There is also information about how the ADR affected the daily life, the severity of the reaction, and information about the outcome of the event upon removal of the drug. Information like how the ADR affected the patients’ lives and what the outcome were upon removing the drug for different patients after different time periods, are not currently information that patients can find through the product labels.
+
+In a few cases other hearing disorders were also described, such as hyperacusis or loss of hearing. These descriptions and stories regarding ADRs are similar to what is communicated in social media. 2 If tinnitus is not mentioned in the product information, patients and health care providers may fail to see a link between the drug and the ADR. Also, without added information about severity, for instance, the reaction might not be taken seriously. Several of the reports describe how the reaction experienced persisted throughout the day, affecting sleep as well as in one case the ability to undertake a job.
+
+In a study of patient experiences for tinnitus treatment in UK it was shown that most patients waited more than three months to see a physician for it, and when they did seek medical advice approximately one in five patients stated that they received no intervention for their tinnitus. 12 Two reports in VigiBase described tinnitus that had not disappeared although several years had passed after having stopped bisoprolol. This highlights a potential increased risk of a long‐term reaction in susceptible patients if the treatment is prolonged after the tinnitus has appeared.
+
+The importance of report narratives has previously been demonstrated for reports submitted to VigiBase. 13 Without a description of the circumstances in which suspected ADRs occur, there could be crucial misunderstandings and clinically useful information to health care providers could be missed. 13 For bisoprolol associated tinnitus, 47% of the reports were sent in by patients, compared with 23% for pharmacists, the reporter type with the second largest proportion of reports. It has been noted that reports from patients typically contain more detailed information on the impact on daily life, the severity of ADRs, and circumstances of use. 14 , 15 , 16 , 17 The high proportion of patient reports for tinnitus associated with bisoprolol further illustrates their importance.
+
+The slightly larger proportion of reports of tinnitus for women than men while on bisoprolol, could be related to the fact that there are in general more reports on ADRs from women than men, in VigiBase. 18 However, it has been shown that women develop more depressive feelings than men related to tinnitus of the same intensity and same tinnitus related distress. 19
+
+​
+
+Furthermore, a study investigating a potential sex‐specific association of attempted suicide attempts in patients with tinnitus found an association between severe tinnitus and suicide attempt was statistically significant in women but not in men. In the same study it was also observed that contrary to patients reporting tinnitus or severe tinnitus without a formal diagnosis, patients with a diagnosis of tinnitus did not have a higher number of attempted suicides compared to people without tinnitus. 20 This highlights the importance of properly diagnosing and managing tinnitus, drug induced or not.
+
+​
+
+It should be noted that in VigiBase it cannot be proven that a specific drug (rather than, for example, underlying illness or concomitant drugs) is the cause of an event. In addition, the likelihood that the drug caused the event may vary across countries and between reporters. The quality of the reports, including the case narratives, varies widely within VigiBase. For the reports of tinnitus with bisoprolol it should also be noted that they reflect a limited time in the patients’ lives. Where bisoprolol was stopped and the tinnitus was reported as not improved, it is not possible to say if the reaction improved in the future.
+
+In conclusion, the reports in VigiBase of tinnitus associated with bisoprolol allow for more detailed risk characterisation of tinnitus than do medicine labels. They describe the patients’ experience of the ADR, that is, the perception of the tinnitus, the context, how it affects the patient's daily life and the outcome of the ADR upon ending the treatment. Previous tinnitus‐like symptoms before bisoprolol treatment warrant careful monitoring during treatment. Appearance of tinnitus for patients treated with bisoprolol should lead to a re‐evaluation of the benefit‐risk profile of the drug in these patients. Health care professionals and patients may together take risk minimisation measures as necessary such as reducing the dose or discontinuing treatment.
+
+Sarah Watson, Marian Attalla, Henric Taavola, Elenor Kaminsky, and Quin‐Ying Yue have no conflicts of interest that are directly relevant to the content of this study.
+
+All authors contributed to the study conception and design. Material preparation, data collection and analysis were performed by Sarah Watson, Henric Taavola, Marian Attalla, Elenor Kaminsky, and Quin‐Ying Yue. The first draft of the manuscript was written by Sarah Watson and all authors commented on previous versions of the manuscript. All authors read and approved the final manuscript.
+
+The reports shared within the WHO Programme are deidentified, and research based on this data is not subject to ethics approval or informed consent.
+
+There has been no need for a principal investigator since the data used for this study was already collected and no investigations were performed except for analysis of de‐identified VigiBase cases.
+
+The authors are indebted to the national centers which make up the WHO Programme for International Drug Monitoring and provide reports to VigiBase. However, the opinions and conclusions of this study are not necessarily those of the various centers nor of WHO.
+
+Funding information
+
+No funding to conduct the study was received.
+
+The datasets generated and analyzed during the current study are not publicly available due to agreements between contributors of data to the database used (VigiBase) and the custodian of this database. National centers (mainly national drug regulatory authorities) constituting the WHO Programme for International Drug Monitoring (PIDM) contribute data to VigiBase and the Uppsala Monitoring Centre is the custodian in its capacity as WHO collaborating centre for international drug monitoring. Some subsets of the data may be available from the corresponding author on reasonable request.
+
+The datasets generated and analyzed during the current study are not publicly available due to agreements between contributors of data to the database used (VigiBase) and the custodian of this database. National centers (mainly national drug regulatory authorities) constituting the WHO Programme for International Drug Monitoring (PIDM) contribute data to VigiBase and the Uppsala Monitoring Centre is the custodian in its capacity as WHO collaborating centre for international drug monitoring. Some subsets of the data may be available from the corresponding author on reasonable request.

@@ -1,0 +1,13 @@
+Abstracts from the Pharmacy Education, Science and Practice Conference 2025 Part A
+
+Background: Insulin dose requirements vary between patients with type 1 diabetes mellitus (T1DM). Bolus doses depend on the patient's insulin to carbohydrate ratio (ICR), for meal-time dosing, and on the correction factor (CF), for elevated blood glucose correction. In clinical practice, it usually takes several days of heuristic insulin dose adjustments, guided by blood glucose concentration measurements and carbohydrate counting before a patient's ICR and CF values can be accurately estimated.
+
+Aims: (1) To review commonly used ICR and CF estimation models, and (2) to develop and evaluate new models for ICR and CF using retrospective patient data.
+
+Methods: 1) A scoping literature review of online databases and search engines was conducted to identify commonly used ICR and CF formulae. 2) Linear regression analyses of retrospectively collected data was undertaken using clinical characteristic, laboratory measurements, and insulin dosing data from 70 children (≤ 18 years old) admitted to Dunedin hospitals (New Zealand) due to new onset T1DM. Regression models for ICR and CF values were developed and evaluated for bias and precision using mean error and root mean squared error, respectively.
+
+Results: 1) According to the literature, covariates such as age and weight are commonly used to estimate ICR and CF. 2) Based on the final ICR and CF prediction models, for patients < 6 years old, total daily dose of insulin administered on first day (TDD_first) was the only significant predictor for ICR and CF (p < 0.05). For patients ≥ 6 years old, patient's total daily dose of insulin administered on first day, and age were found to be significant predictors for both ICR and CF (p < 0.05).
+
+Conclusion: Accounting for a patient's age and insulin dose on first day allows for better estimation of true (i.e. asymptotic) ICR and CF values. This can potentially provide better glycaemic control sooner during hospital stay.
+
+Keywords: Type 1 Diabetes, Insulin, Paediatric

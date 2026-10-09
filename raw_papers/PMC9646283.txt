@@ -1,0 +1,553 @@
+Vaccines
+
+advisory committee on immunization practices
+
+adverse events
+
+adverse events following immunization
+
+anthrax vaccine adsorbed
+
+Bacillus Calmette–Guerin vaccine
+
+diphtheria + tetanus toxoid + acellular pertussis vaccine
+
+grading of recommendations, assessment, development, and evaluation
+
+hepatitis A vaccine
+
+hepatitis A live vaccine
+
+hepatitis A inactivated vaccine
+
+hepatitis B vaccine
+
+Haemophilus influenzae type B vaccine
+
+human papillomavirus
+
+quadrivalent human papillomavirus vaccine
+
+herpes zoster subunit vaccine
+
+herpes zoster vaccine
+
+inactivated influenza vaccine
+
+inactivated poliovirus vaccine
+
+Japanese encephalitis vaccine
+
+Japanese encephalitis chimeric vaccine
+
+live attenuated influenza vaccine
+
+live attenuated Japanese encephalitis vaccine
+
+Neisseria meningitidis serogroup B vaccine
+
+Neisseria meningitidis serogroup C vaccine
+
+measles + mumps + rubella vaccine
+
+measles + mumps + rubella + varicella vaccine
+
+morbidity and Mortality Weekly Report
+
+oral poliovirus vaccine
+
+10-valent pneumococcal conjugate vaccine
+
+13-valent pneumococcal conjugate vaccine
+
+15-valent pneumococcal conjugate vaccine
+
+23-valent pneumococcal conjugate vaccine
+
+Plasmodium falciparum sporozoite vaccine
+
+23-valent pneumococcal polysaccharide vaccine
+
+quadrivalent influenza vaccine
+
+recombinant influenza vaccine
+
+rotavirus vaccine
+
+recombinant zoster vaccine
+
+serious adverse events
+
+tetanus toxoid + diphtheria toxoid + acellular pertussis vaccine
+
+tetravalent influenza vaccine
+
+varicella virus vaccine live
+
+varicella zoster virus
+
+World Health Organization
+
+yellow fever vaccine
+
+zoster vaccine live
+
+Vaccines play a leading role in returning life to a semblance of normalcy even with the confounders of COVID-19 variants and incomplete vaccine uptake. Concerns persist with the safety of the COVID-19 vaccines, although the evidence for all approved vaccines shows a strong safety profile. Even with the strong safety profiles of vaccines generally, concerns with AEs associated with all vaccines, not just COVID-19 vaccines, have also increased.
+
+As noted last year, the safety profile of COVID-19 vaccines should be compared to the symptoms and risks associated with COVID-19 infection. Many, including medical professionals and scientists, compare the safety profiles of the vaccine with pre-pandemic health. Using pre-pandemic health as the baseline obscures true risk. Further, many espouse natural immunity sometimes over vaccination. Most would agree that natural immunity is good; however, natural immunity is espoused without noting the associated health risks by not vaccinating, especially long-term COVID-19 infection risks (i.e., Long COVID) and inconsistent natural protection (Karlsson et al., 2021 [r], p. 19).
+
+COVID-19 vaccines reviewed last year (Moderna's mRNA-1273, BioNTech/Pfizer BNT162b2, Janssen Ad.26.COV2.S (J&J), Oxford Vaxzevria, Sinovac CoronaVac) had a consistent safety profile even with widescale rollout with a few rare exceptions that are noted briefly in this paragraph and in detail in the body of this chapter. A systematic review and metanalysis of U.S.-approved COVID-19 vaccines showed that the overall pooled incidence rate was 1.5% for AEs, 0.4 per 10 000 for SAEs, and 0.1 in 10 000 for death after vaccination. The authors noted that the analysis showed a “reassuring safety” profile, especially in comparison to disease outcomes. A VAERS study confirmed this finding and suggests that vulnerable populations should have long-term post-marketing surveillance. A review of all AEs associated with COVID-19 vaccination included myocarditis, rhabdomyolysis, Bell's Palsy, Acute Disseminated Encephalomyelitis, Acute Transverse Myelitis, Guillain-Barré syndrome, Myocarditis/Pericarditis, Thrombotic Thrombocytopenia, and Anaphylaxis showed most AEs were rare and self-limited. Safety Surveillance of COVID-19 mRNA vaccines was assessed through the Vaccine Safety Datalink. The study showed that the COVID-19 vaccines, especially the mRNA vaccines, maintained a strong safety profile for the general population with a small risk for vaccinees aged 12–39 years for developing myocarditis/pericarditis (detailed below) . Generally, inactivated COVID-19 vaccines report the lowest AEs.
+
+The four approved vaccines (by World Health Organization) not reviewed last year are discussed here for their safety profile and notable adverse events.
+
+In clinical trials of NVX-CoV2373 COVID-19 Vaccine of 14 039 people, the AEs, including reactogenicity, were mild and self-resolving. The incidence of SAEs was comparable to placebo. The safety profile of COVOVAX was determined to be acceptable. The vaccine is currently approved for all adults by WHO and numerous other countries either as a EUA or with full authorization.
+
+The Bharat Biotech BBV152 vaccine is an inactivated, whole-virus vaccine (using beta-propiolactone) . The BBV152 vaccine is approved by WHO and numerous other countries for all adults. Contraindications specific to BBV152 include hypersensitivities to active substance or excipients in the vaccine or fever or acute infection [S]; In a phase 3 trial (NCT04641481) of 25 798 participants vaccinated with BBV152, there was “no clinically significant differences in the distributions of solicited, unsolicited, or serious adverse events between the groups, and no cases of anaphylaxis or vaccine-related deaths”.
+
+The Sinopharm BIBP COVID-19 vaccine is an inactivated, whole-virus vaccine (again using beta-propiolactone). BBIBP-CorV uses technology similar to the Covaxin and CoronaVac vaccines. WHO approved BIBP-CorV, noting that the safety data presented for BIBP-CorV vaccination in clinical trials showed an acceptable safety profile (Interim Recommendations for Use of the Inactivated COVID-19 Vaccine BIBP Developed by China National Biotec Group (CNBG)).
+
+While older people have been underrepresented in COVID-19 clinical trials, the safety profile of approved COVID-19 in the elderly remains strong. Trials of mRNA vaccination in older people show an acceptable safety profile, with most AEs being mild to moderate and self-limiting. SAEs are rare, which is consistent with the overall profile in the general population [R]. A VAERS Analysis reported that older adults had higher reported rates of AEs, SAEs, and death. Norway reported the deaths of 23 “frail” elderly people after BNT162b vaccination. Norwegian Medicines Agency and the Norwegian Institute of Public Health did not identify any evidence the deaths were associated with the vaccine.
+
+In clinical trials of mRNA-1273 and BNT162b2 COVID-19 vaccines in adolescents aged 12–17, the data showed an acceptable safety profile. BNT162b has been approved for emergency use (EUA) in this age group. The CDC reviewed VAERS and v-safe data for the BNT162b vaccine and noted that myocarditis, a rare but SAE, was observed after vaccination with mRNA vaccines. Cases of myocarditis in this age group have been reported, with most self-resolving rapidly after treatment .
+
+Preauthorization trials for BNT162b2 in children aged 5–11 years reported an acceptable safety profile, but additional studies would provide a more complete picture.
+
+Anaphylaxis is a well-known, rare, and serious AEs to COVID-19 vaccination, particularly with the mRNA vaccines. According to a VAERS analysis, anaphylactic reactions were not disproportionately associated with mRNA vaccines. However, in post-surveillance monitoring, women were more susceptible to anaphylaxis for the LNP-mRNA vaccines . Allergies have been considered a susceptibility factor, and the administration of COVID-19 vaccines is recommended with monitoring for potential anaphylaxis reactions. An allergy workup is recommended in the case of allergic/anaphylactic reactions. Polyethylene glycol (PEG) and polysorbate 80, both common in household and food products, are the primary allergens in COVID-19 vaccines. Guidance for patients with allergies to cow's milk is to vaccinate with protracted observation in case of anaphylaxis.
+
+Stress-related AEs are common and include acute anxiety, vasovagal reactions (e.g., syncope), mass psychogenic illness, and possibly functional neurological disorders. Individuals with negative expectations and/or anxiety (nocebo effect) about vaccination report an increased number of AEs .
+
+Patients with autoimmune diseases, including psoriasis, vaccinated with a COVID-19 vaccine show a similar safety profile to the overall safety profile with a small risk of mild, self-limiting autoimmune events. A study of 250 patients with autoimmune and inflammatory rheumatic diseases (AIIRD) vaccinated for COVID-19 also showed a strong safety profile, with only grade 1 and 2 AEs reported. The National Psoriasis Foundation COVID-19 task force recommends vaccination immediately for individuals with psoriasis where it is not contraindicated and continue their therapies . Patients with SLE are advised to be vaccinated with attention to individual situations. A case series of five patients with preexisting immune dysregulation developed hyperinflammatory syndromes after vaccination with mRNA vaccines .
+
+In a survey conducted in Spain, most AEs were not related to BMI.
+
+For patients with dermatological diseases such as eczema, atopic dermatitis, psoriasis, vitiligo, lichen planus, urticaria, and dermatological infections, COVID-19 vaccines are recommended unless the patient has been seriously ill (wait for 4–8 weeks).
+
+A study using a questionnaire given to people with epilepsy (PwE) concluded that BNT162b2 and ChAdOx1 vaccines have a good safety profile in PwE vaccinees with a minimal risk of seizure worsening longitudinally after vaccination.
+
+Patients with HIV who were administered COVID-19 vaccines had a similar safety profile to the overall clinical trial safety profile (i.e., overall grade 1 and 2 AEs that were self-limiting).
+
+Patients who received a solid organ transplant (SOT) and a two-dose mRNA-1273 vaccine had an acceptable safety profile, as did a small clinical trial with a third dose.
+
+The British Society of Gastroenterology Inflammatory Bowel Disease section endorsed vaccination for patients with Irritable Bowel Disease (IBD) as “likely to outweigh [the] theoretical concerns” associated with COVID-19 vaccination. A VAERS study of 3908 AEFIs in patients with IBD after COVID-19 vaccines showed AEs were non-severe reactions. A study of 3316 individuals with IBD and at least one COVID-19 vaccine showed that the vaccines are safe and have low IBD flare rates (2%).
+
+Patients with mastocytosis are recommended to receive COVID-19 vaccination with monitoring due to the low incidence of AEs.
+
+Neurodegenerative diseases include Parkinson's disease (PD), Alzheimer's disease (AD), multiple sclerosis (MS), and amyotrophic lateral sclerosis (ALS). Age and immunosuppression, commonly associated with neurodegenerative diseases, affect the safety of all vaccines, including COVID-19. Additional study is warranted for the safety of COVID-19 vaccines for patients with neurodegenerative diseases; however, initial data support vaccination due to an acceptable safety profile. For MS patients, surveys of patients with multiple sclerosis that were vaccinated indicated a favorable safety profile. Authors urge more studies on vaccinating patients with neurodegenerative diseases.
+
+Patients with neuromuscular disorders are recommended to get the vaccine. Additional guidance with considerable detail is provided in the manuscript.
+
+Studies of patients with solid-tumor cancers vaccinated with a COVID-19 vaccine showed the vaccine was well tolerated with minimal safety concerns. Kuderer et al. noted that patients on active cancer therapies need extra attention for planning and monitoring the timing of vaccination to maintain the safety and efficacy of both vaccine and cancer therapies. Patients with other cancers (not solid tumors) receiving COVID-19 vaccines have a similar safety profile to the overall population (mild reactogenicity).
+
+Herpes zoster (HZ) reinfection after mRNA COVID-19 vaccination has been reported by several studies . Trantafyllidis et al. reviewed the literature and noted 91 cases of HZ reinfection. The vaccine has not been causally linked to reinfection . The authors noted that further study here is warranted.
+
+While a VAERS analysis suggested higher rates of AEs and SAEs for men, a meta-analysis comparing sex differences in the safety profile of COVID-19 vaccines indicates that there is an increase in AEs for women and also supports the need to include sex as a biological variable in all studies. The rate of anaphylaxis is slightly higher in women in postvaccination surveillance systems, most notable for the LNP-mRNA vaccines.
+
+COVID-19 vaccines were determined to have a strong safety profile in patients with a solid organ transplant, including booster doses. Patients receiving hemopoietic stem cell transplants tolerated the COVID-19 vaccine similarly to the general safety profile.
+
+Guidelines and scientific consensus support vaccinating pregnant people especially given that pregnancy is a risk factor for severe COVID-19 disease, including ICU admittance. Initial information on the safety and efficacy of COVID-19 vaccines for pregnant persons was noticeably absent, and even now, information is limited but compelling. In an analysis of VAERS and v-safe data for vaccines, Shimabukuro et al. found that the safety profile of the mRNA vaccines was strong. Additional studies are warranted.
+
+4863 Cardiovascular AEs were reported to the WHO's VigiBase after the patient was administered a COVID-19 vaccine. Common AEs included hypertension, including severe hypertension, supraventricular tachycardia, sinus tachycardia, and palpitations across all age groups and sexes. Causality was not determined to be the vaccines, and AE signals were not above baseline for the general population. Authors encouraged continued monitoring.
+
+Myocarditis is a rare, but SAE risk associated with COVID-19 vaccines, especially in 12-to-39-year-old males. Myocarditis frequencies were influenced by vaccine type, vaccine dose, sex, and age of the individuals vaccinated, with evidence that interferon-gamma impacting MAPK and JAK-STAT signaling pathways also influences. Danish population-based cohort study showed an increased risk of myocarditis or myopericarditis in young males. In a retrospective review in Israel, 136 cases of probable or definitive cases of myocarditis a few days after mRNA vaccination were reported. A VAERS analysis of myocarditis/pericarditis after COVID-19 vaccination showed mRNA vaccines were significantly associated with increased risks for myocarditis/pericarditis and Ad26.COV2.S (Janssen) was not. Numerous other groups reported cases of myocarditis after mRNA vaccinations . The incidence of myocarditis is reported to be low, and the clinical presentation was mild. Most patients were young males, and most myocarditis was reported after the second dose. Patients fully recovered in most cases. While numerous reports indicated a higher risk of myocarditis, “ACIP determined that the benefits of using mRNA COVID-19 vaccines under the FDA's EUA outweigh the risks in all populations, including adolescents and young adults”. Evidence suggests glucocorticoids as a preferred treatment. It is important to note that COVID-19 infection poses a much higher risk of myocarditis with much higher morbidity than the risk of COVID-19 vaccination.
+
+Thrombotic events were extremely rare (28 of 54 571 occurrences in the EudraVigilance database) after vaccination with ChAdOx1-S, although several were SAEs. Specific thrombotic diseases are discussed individually below.
+
+Venous thromboembolism post vaccinated with mRNA-1273 was reported in three patients. All three cases were women with no history of thrombotic disorders.
+
+Cerebral venous sinus thrombosis (CVST) after the ChAdOx1 vaccination was reported to the European Medicines Agency in 213 individuals. It was noted in the study that CVST after ChAdOx1 vaccination is associated with thrombocytopenia resulting in a high mortality rate that has a distinct clinical profile distinct from CVST unrelated to vaccination. mRNA vaccination does not have the same risk profile, although cerebral venous thrombosis (CVT) has been associated rarely with the BNT162b2 mRNA vaccine. Data from Germany shows a higher risk of CVT after vaccination with ChAdOx1, especially for women (0.02–0.15 per 100 000 person-months). Further, Some patients presented with heparin-induced thrombocytopenia (HIT)-like syndrome suggesting these AEs could have an immunological origin .
+
+Meylan et al. report a series of eight patients with stage III hypertension (8 symptomatic) after BNT162b2 vaccination. One patient was vaccinated with mRAN126B. All patients resolved hypertension after interventions were administered.
+
+Immune thrombocytopenia (ITP) is an atypical thrombosis and thrombocytopenia. Following COVID-19 vaccine administration, it is termed vaccine-induced immune thrombotic thrombocytopenia (VITT), Thrombosis with thrombocytopenia syndrome (TTS), or vaccine-induced prothrombotic immune thrombocytopenia (VIPIT). The pathogenesis of ITP/VITT is autoantibodies (IgG) to platelet factor 4 (PF4, also called CXCL4) that are bound to platelets. Although rare, ITP/VITT have the potential for high morbidity and even mortality. ITP/VITT was first identified in late February 2021 with the ChAdOx1 vaccine, but ITP/VITT also have been reported to the Vaccine Adverse Event Reporting System (VAERS) after mRNA vaccination. The EMA deemed the ChAdOx1 vaccine safe, but 20 countries suspended approval. While many countries reinstated the approval, some, like Denmark, have permanently revoked approval. While the exact incidence is not known, the reporting rate of VITT after COVID-19 vaccination is 0.80 per million doses. Welsh et al. report that VITT does not exceed the background rate of ITP. The CDC and the FDA recommended pausing the administration of the Janssen COVID-19 vaccine on April 13th after reports of VITT among vaccine recipients. Later, on April 23, ACIP concluded that the benefits of resuming Janssen COVID-19 vaccination among persons aged ≥18 years outweighed the risks and reaffirmed its interim recommendation under FDA's Emergency Use Authorization, which includes a new warning for rare clotting events among women aged 18–49 years. Education about TTS risk with the Janssen COVID-19 vaccine is critical. Numerous cases have been reported after vaccination including, a male patient reported thrombocytopenia and purpuric rash after mRNA-1273 vaccination. In a study with patients with preexisting ITP, an observational study of 65 patients showed that ITP relapses are “rare and most often benign”. Several other groups have reported thrombosis and thrombocytopenia after COVID-19 vaccination. An expert consensus on VITT details recommendations.
+
+Vasculitis and acute kidney injury were reported in two patients reported post-vaccination with mRNA-1273. After treatment, the symptoms resolved.
+
+Acute myocardial infarction after vaccination has been reported. Sung et al. presented two cases of acute MI after mRNA-1273 vaccination, both of who were discharged after standard care.
+
+Pancreatic injury was reported in a patient after vaccination with BNT162b. The AE was transitory, and the patient fully recovered after standard-of-care treatments were administered. As noted in the report, Pfizer reported a pancreatic injury as an SAE during clinical trials.
+
+Anaphylaxis has been reported as a side effect of COVID-19 vaccination. The incidence of anaphylaxis attributable to BNT162b has been reported to be ∼1:200 000 individuals, compared to the less than 1 per million doses for most vaccines. The causative antigen has been hypothesized to be polyethylene glycol. The patients have been responsive to epinephrine treatment.
+
+“COVID arm” or “COVID-19 vaccine arm” is a common AE associated with the mRNA COVID-19 vaccines. COVID arm is an allegoric reaction manifest as a red, itchy, swollen, or painful rash at the site of vaccine administration and can be large. Rashes start a few days to more than a week after vaccines are administered. Histology of patients with COVID-arm showed that it is a type IV hypersensitivity (DTH) associated with IFN-γ as a pathogenetic factor. COVID-19 vaccine arm should not be a contraindication to vaccination. Other cutaneous AEs include urticaria, lesions, bullous rash, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrosis, serum sickness-like reactions, vasculitides, and chilblains. Blumenthal et al. advocated for the preparation and reporting of delayed large local reactions to mRNA-1273.
+
+A case study of anti-neutrophil cytoplasmic antibody (ANCA) glomerulonephritis 2 weeks post-mRNA-1273 vaccination was reported. The patient receives ongoing dialysis treatments. Three cases of patients developing antineutrophil cytoplasmic antibody (ANCA) after COVID-19 vaccination were reported independently.
+
+An individual reported cervical lymphadenopathy post-vaccination. Trials have noted this as a noted AE for many COVID-19 vaccines.
+
+Antibody-dependent enhancement (ADE) from the vaccine is possible, especially with variants emerging regularly, and long-term surveillance for ADE is warranted.
+
+A systematic review noted that most AEs were transient and self-resolving. Common neurological symptoms reported after COVID-19 vaccination were transient, self-resolving cases of vertigo, cephalgia, pain, muscle spasms, myalgia, and paresthesias. Further, the data suggests that are no common causally associated neurological adverse events. VAERS data associates (not causally) other AEs with COVID-19 vaccination, including tremors, diplopia, tinnitus, dysphonia, seizures, reactivation of herpes zoster, stroke, GBS, Bell's palsy, transverse myelitis, and acute disseminated encephalomyelitis. The CDC noted no safety concerns, including neurological issues. Neurological events associated with the vaccine are rare.
+
+Acute disseminated encephalomyelitis (ADEM), a demyelinating disorder of the CNS, was reported in an individual 2 weeks after BNT162b vaccination. The patient had a history of post-infectious rhombencephalitis.
+
+Status epilepticus was reported after COVID-19 vaccination in several individuals. Several patients did report a previous diagnosis of epilepsy or had significant co-morbidities.
+
+Bell's palsy has been reported after COVID-19 vaccination. The cases were self-resolving. In addition to Bell's palsy, swelling of lips, tongue, and face has also been reported (Cirillo, 2021) [A].
+
+A case of Sweet syndrome, acute encephalitis, and myoclonus was reported after mRNA-1273 vaccination.
+
+A patient-reported exacerbation of GBS after COVID-19 vaccination.
+
+Functional Neurological Disorder (muscle weakness) in two cases post COVID-19 vaccination was reported.
+
+With the short durability of COVID-19 vaccines in some people and groups, new rounds of boosting have been recommended. Boosting is complicated due to variable risk factors and safety profiles in different demographic groups. In an online survey, individuals vaccinated with the BNT162b2 vaccine reported a higher frequency of AEs (most minor and self-resolving) after the second dose.
+
+COVID-19 vaccines with approval are reasonably safe in patients with immune-mediated inflammatory disorders (IMID). Patients are encouraged to get vaccinated in most cases.
+
+For patients being treated with immunomodulatory drugs, the vaccination may be given (1) without any modification in the drug/biological or (2) the drug may be withheld or the dosage reduced for 1–2 weeks following vaccination when the disease is stable.
+
+Immunogenicity and safety of a heterologous prime-boost COVID-19 vaccine schedule: ChAdOx1 vaccine Covishield followed by BBV152 Covaxin.
+
+Patients using cladribine tablets are advised to receive COVID-19 vaccination. Rieckmann et al. provided significant clinical guidance on timing and other important questions.
+
+Administering different vaccine combinations (i.e., heterologous administration) including ChAdOx1/BNT162b2, ChAdOx1-S/mRNA-1273 or BNT162b2/ChAdOx1-S maintained a strong safety profile.
+
+Coadministering influenza (ComFluCOV) and COVID-19 (ChAdOx1 or BNT162b2) vaccines is safe .
+
+Groups are calling for improved pre-vaccination screening to identify serostatus to improve the safety of the current Dengue vaccines by reducing possible harm from vaccinating a seronegative person.
+
+The pipeline for Dengue vaccines is robust with a primary challenge of improving vaccine safety, especially the struggles with different serotypes and antibody-dependent enhancement.
+
+ACIP recommends vaccination with Dengvaxia for children aged 9–16 having evidence of previous dengue infection (detection of anti-DENV immunoglobulin G with a highly specific serodiagnostic test) and living in areas where dengue is endemic.
+
+In MMWR, the ACIP updated guidance for the use of the rVSVΔG-ZEBOV-GP Ebola vaccine (Ervebo) in the U.S. Because the vaccine uses rice-derived components, the vaccine should not be administered to persons with a history of severe allergic reaction (e.g., anaphylaxis) to rice protein. ACIP recommends vaccination for adults at the highest risk for potential occupational exposure to Ebola.
+
+In the Democratic Republic of the Congo (DRC), the Universities of Antwerp and Kinshasa developed an algorithm and policies to support consistent management of non-related (serious) adverse events (NR-SAEs) related to Ebola vaccination. The European Union's Horizon 2020 research and innovation program, the European Federation of Pharmaceutical Industries and Associations, and the Coalition for Epidemic Preparedness Innovations funded the project. The study outcomes will be presented later .
+
+In human immunodeficiency virus (HIV)-endemic locations, shorter Ebola vaccine schedules are desirable. A two-dose vaccine regimen of MVA-BN-Filo and Ad26.ZEBOV in people living with HIV showed the regimen was safe and efficacious. Authors recommended further trials.
+
+Single-dose HAV vaccine programs continue to show a strong safety profile and solid efficacy in two studies. A review supports this conclusion but advocates for long-term studies to assess vaccine durability/persistence.
+
+A phase IV study of HA-L and HA-I vaccines with 9000 study participants was conducted to compare the vaccine safety, immunogenicity, and persistence in HBs-Ag-positive and -negative participants. The authors concluded that both vaccines were safe and provided durable protection.
+
+A 3-dose HAV vaccine study in patients with a kidney transplant showed a strong safety profile but did not show superior efficacy to the standard two-dose regimen.
+
+In a clinical trial of HA-I where an IM injection was aspirated or not aspirated, the IM administration without aspiration was shown to be as safe as IM with aspiration.
+
+An RCT with 182 patients infected with HIV that were administered a high-dose HBV was performed where the patients were vaccinated with standard- or high-dose HBV. Immunogenicity, durability/persistence, and safety were evaluated. High-dose HBV had “partially better” immunogenicity and durability with a similar safety profile.
+
+A phase IV RCT with yeast-based and CHO-based HBV was performed in patients with diabetes. Both had consistent safety profiles with solid efficacy.
+
+An RCT with three-dose and four-dose HBV vaccine study showed a strong safety profile in patients with a kidney transplant. The four-triple-dose regimens also show improved immunogenicity compared to the three-standard-dose regimen.
+
+In two maternity centers in the Democratic Republic of the Congo, infants from women with an HBV infection received a birth dose of Euvax-B within 24 h of birth. Sixty infants received a birth-dose vaccine with no serious adverse events and no cases of HBV mother-to-child transmission.
+
+An RCT of ∼300 patients was conducted with patients on methadone maintenance treatment who are administered either three or four doses of either a high- or standard-dose HBV. Four dose groups have higher immunogenicity with similar safety profiles.
+
+Media reports describing chronic fatigue syndrome-like symptoms associated with a patient who received the HPV in Denmark caused increased vaccine hesitancy and decreased vaccine uptake. A study by Krogsgaard et al. reports that the temporal proximity of a treated infection with HPV administration is correlated with a higher risk of reported AEs. Thus, infections are hypothesized to trigger the reported AEs rather than the HPV. Authors indicate that replication of these findings is warranted.
+
+A case of an 18-year-old-male who was diagnosed with myopericarditis after Gardasil9 vaccination was reported. Myopericarditis is a rare but possible adverse reaction associated with the HPV vaccines .
+
+The U.S. Advisory Committee on Immunization Practices (ACIP) updated recommendations, specifically the contraindications and precautions, for ccIIV4 and RIV4 for people with a history of severe allergic reactions to influenza vaccines. For persons with a history of a severe allergic reaction to any influenza vaccines(e.g., anaphylaxis), detailed recommendations should be consulted. The Standards of Care Committee (SOCC) of the British Society for Allergy and Clinical Immunology (BSACI) detailed care for egg allergies and vaccination.
+
+VAERS and VigiBase information was analyzed to determine if the influenza vaccine exacerbates myopericarditis and other immune-related AEs in patients with cancer being treated with immune checkpoint inhibitors (ICIs). The study supports the current strong recommendation for vaccination of patients with cancer.
+
+Weissman et al. performed a meta-analysis of 16 RCTs to compare high-dose vs standard-dose influenza vaccine. Both safety and efficacy of high-dose were stronger in adults.
+
+Furuya-Kanamori et al. conducted a systematic review analyzing the safety of the more than 15 approved JE vaccines. Twenty-three RCTs with 38 496 participants from 12 countries were evaluated. Newer JE vaccines (live chimeric, live attenuated, and inactivated Vero cell vaccines) have similar safety profiles with comparable immunogenicity/efficacy with older vaccines.
+
+A multi-center study by Kwak et al. reported that a third inactivated JEV booster was safe and effective .
+
+A study by Klein et al. shows a potential genetic link (HLA Class I loci A-29:02) between fever after measles vaccine.
+
+A case-series analysis on the safety of children who undergo liver transplants (LT) who were given MMR indicated the MMR vaccine is safe for children undergoing LT.
+
+When MMR was co-administered with EV71 (Enterovirus 71 vaccine licensed in China C4 genogroup strains) and LA-JEV in a phase IV trial, all vaccines maintained strong safety and efficacy profiles.
+
+Two studies compared the safety of Sabin IPV (sIPV) and wild strain wIPV (wIPV). AEFIs were low in both vaccines, and differences between vaccines were minimal.
+
+A prospective cohort study was conducted on infants with high-risk medical conditions to assess the VE and safety profile of the rotavirus vaccine (HRV) among infants with medical risk conditions that required prolonged or frequent postnatal care. HRV offered limited protection to vulnerable medical risk infants. HRV is generally well-tolerated in this group in a single administration, but when coadministered with routine vaccines, it is associated with a higher risk of (mostly gastrointestinal) AE.
+
+National guidelines for varicella vaccination vary by country. One of the points noted by the authors that affect guidance is that RZV has higher reactogenicity. While the side effects are commonly grade 1 or 2 and are self-limiting, the RZV has much higher efficacy than ZVL.
+
+A study by Bastard et al. shows that autosomal recessive IFNAR1 or IFNAR2 deficiency and neutralizing auto-Abs against type I IFNs account for a large portion of life-threatening YFV vaccine-associated AEs and diseases in their study. Further study of prescreening patients before YFV vaccination is warranted .
+
+A small trial was conducted in children treated with hydroxyurea (HU) for Sickle cell disease (SCD) and YF vaccine safety and efficacy. The trial suggests that YFV is safe and effective in children with SCD treated with HU.
+
+An observational retrospective study of patients with immunocompromised conditions who received the YFV showed no statistically significant difference in type or frequency of AEs.
+
+Ribero et al. examined patients with neurologic symptomologies after YFV from three tertiary referral centers in Brazil. Patients were evaluated according to CDC and the Brighton Collaboration criterion. Fifty patients met the criterion and were diagnosed with meningoencephalitis (32), disseminated encephalomyelitis (2), myelitis (2), and Guillain-Barré syndrome (3) (not comprehensive). Two deaths were also noted. Researchers advocated for additional development of neurological criteria for consistency and additional considerations. Three different reports of potential meningoencephalitis after vaccination were also reported.
+
+In a study assessing fractional-dose 17DD-YF vaccine in patients with autoimmune rheumatic disease (ARD), Tonacio showed a similar safety profile, immunogenic, and did not induce flares in ARD under low immunosuppression.
+
+YFV is contraindicated in patients with multiple sclerosis (MS) due to the potential risk of post-vaccine relapses. Still, newer studies have presented evidence suggesting vaccination does not affect MS relapse . Papeix et al. conducted an observational cohort study of 128 relapsing-remitting MS patients. The annualized relapse rate did not differ between vaccinated and unvaccinated groups . A modified Delphi consensus developed clinical recommendations for patients with MS that indicated patients with MS should be vaccinated “with careful consideration of risks and benefits” (not specific for YFV but inclusive of YFV). Other reviews also indicate vaccination is generally warranted in patients with MS.
+
+Four cases of ocular AEs after YVF were described, including self-resolving central serous chorioretinopathy, acute Vogt-Koyanagi-Harada disease, and bilateral diffuse retinal vasculitis.
+
+Patients with immune-mediated inflammatory disorders (IMID) are commonly treated with immunosuppressive/immunomodulating (ISIM) treatments. Live vaccines remain contraindicated during ISIM treatment course to reduce potential vaccine-strain infection. Schob et al. advocate for improving and refining ISIM treatment recommendations and publishing cases in patients with ISIM who are vaccinated with live vaccines.
+
+Even with OCV introduction, Cholera continues to lead to substantial morbidity and mortality, particularly in low socioeconomic settings. Improvement in surveillance systems for AEs (in addition to numerous other issues) is necessary for improved OCV uptake and for future improved safety and effectiveness of the cholera vaccine.
+
+BCG vaccine has received significant additional interest this year due to initial reports of BCG vaccine being efficacy for COVID-19 and further use in treating cancer and other infectious diseases.
+
+Busaidi et al. conducted a multicenter study to characterize BCG vaccine-related disease in Oman from January 2006 to December 2018. The incidence was calculated at 9.2 cases per 100 000 supporting continued BCG vaccination at birth. Children with immunodeficiency were a significant population of those affected, suggesting additional pre-screening might improve the safety profile of the BCG vaccine .
+
+Vaccine-induced regional suppurative lymphadenitis in children from the BCG vaccine remains a problem. Surgery has been explored to address but is controversial and requires additional validation by clinical trials. In a study by Liu et al., lymph node surgical excision of the abscess was performed successfully, paying attention to postoperative care and intraoperative meticulous manipulation and reported good outcomes.
+
+Sensory Systems BCG vaccination has seen increased interest in trained immunity to treat cancer and other infectious diseases; however, BCG has broad safety concerns associated with the eye. Jain et al. published a review where potential adverse events of BCG vaccination were listed, including innocuous follicular conjunctivitis, bilateral endophthalmitis, and optic neuritis.
+
+A study by Huang et al. analyzed the safety profile of BCG if the administration was postponed from 24 h after birth to 5–8 months of age. Osteomyelitis was less common, and inject-site reactions were shorter when vaccine was given at 24 h after birth; however, injection site reactions and lymphadenitis were more common when BCG inoculation occurred after 5 months. A study with longer observational periods is a limitation of this study.
+
+The safety of Adrenocorticotropic hormone (ACTH) therapy for West syndrome (WS)has been associated with Bacille de Calmette et Guérin (BCG) disease after BCG vaccination. The major concern is potential immunosuppression associated with West syndrome. The optimal interval between BCG vaccination and ACTH therapy is not known. In a study by Maki, 56 infants with West syndrome received ACTH therapy 14–280 days after BCG. No patients with ACTH therapy after BCG vaccination developed BCG infection.
+
+Wang et al. report two cases of disseminated BCG disease with family/genetic association in China. Thirty-five additional patients were analyzed. The authors advocated for further studies on immunodeficiency-related diseases and strengthening proactive surveillance programs.
+
+In a large, post-licensure observational safety study of over 100 000 children in the U.K. using The Health Improvement Network (THIN), adverse events were identified in children aged 1–18 months who were vaccinated with 4CMenB, alongside their routine immunizations. The trial concluded that there is a small but increased risk of seizures, and febrile seizures were found post-vaccination, but the events are uncommon. Vaccine combination may also be the cause of the small but increased risk.
+
+Abscess formation after Tdap vaccination is a rare but serious AE (1 in 6 Million). A case of a 22-year-old patient with no previous AEs after vaccination reported abscess formation after Tdap vaccination that resolved with treatment. Tereshkina et al. noted possible causes and solutions to this problem.
+
+A retrospective cohort study of pregnant people vaccinated with Tdap to determine safety and efficacy was conducted in Ontario, Canada using health administrative databases. Tdap vaccination during pregnancy was safe for infants into early childhood.
+
+A meta-analysis by Nguyen of 29 studies showed that pertussis vaccines were safe (no AE rates were above baseline) and effective for pregnant persons when administered during pregnancy, including chorioamnionitis. A prospective observational study of over 1200 pregnant persons in Australia showed no increased risk of adverse pregnancy and birth outcomes in mother and infant, including chorioamnionitis. A second observational study, the “Adacel (Tdap5) Pregnancy Registry”, consisting of over 1100 mothers, indicates that the vaccine is safe and effective. Another systematic review conducted by Anderson, however, showed an increased risk of chorioamnionitis by 27% in vaccinated pregnant people. Observational studies were the only studies examined during this review. Concern does still exist about the safety and efficacy of the timing of vaccine administration (i.e., during which trimester).
+
+A small study of 32 patients with bronchial asthma (BA) or chronic obstructive pulmonary disease (COPD) after administration of the 13-valent conjugated pneumococcal vaccine (PCV13) was performed to assess safety. PCV13 was found safe and immunogenic in BA and COPD patients.
+
+Severe adverse reactions were observed in seven patients with cryopyrin-associated periodic syndromes (CAPS) after vaccination with PCV vaccines. The authors expressed concern that other patients with the autoinflammatory disease could also have SAEs, and further research and guidelines should be developed .
+
+A multicenter study of pregnant women with HIV vaccinated with PCV13 and PPV23 showed that they were both safe and efficacious.
+
+A study of the safety and efficacy of inactivated vaccines (PCV-13, influenza, and TDAP) was conducted in patients with oncological diagnoses receiving checkpoint inhibitors. The study concluded that the efficacy of checkpoint inhibitors was not affected by the administration of inactivated vaccines. The authors note that further research is warranted and that unvaccinated risks are likely higher than the risk of adverse reactions.
+
+The uptake of PCV is decreased with the perceived number of AEs. Antipyretics have been proposed to reduce mild to moderate AEs to increase PCV uptake, but concerns exist that the vaccine effectiveness would be affected. A systematic review by Koufoglou provides evidence that prophylactic administration of paracetamol and ibuprofen could decrease immunogenicity in some serotypes and requires further investigation.
+
+Bar-Or et al. conducted a phase IIIIB clinical trial on the PPV23 vaccine responsiveness, including safety for patients with multiple sclerosis taking ocrelizumab. The safety experiments were consistent with previous trials, with most AEs being self-resolving grades 1 and 2.
+
+Previous studies have shown that some adults with a compromised immune system may have decreased immunogenicity upon a PCV13 booster if the primary vaccine was PPV23 [source]. A study by Ulanova et al. suggests in patients with chronic kidney disease (CKD), the immunogenicity was inferior to vaccine naïve patients, and systemic adverse events post PCV13 immunization were more frequent. However, the AEs were primarily graded 1 and 2.
+
+WHO approved RTS, S/AS01 (Mosquirix) in October of 2021 for use in children at risk in regions with moderate to high malaria transmission caused by Plasmodium falciparum. WHO noted that RTS,S/AS01 has a strong safety profile while a moderate efficacy (∼30%) profile. The reasons for moderate efficacy could include ecological, parasite, and human host factors, especially genetics that “will be critical for implementation policy and future vaccine designs”.
+
+The following 2021 references discuss vaccine-related adverse events to some degree:
+
+Safety and Efficacy of Single-Dose Ad26.COV2.S Vaccine against COVID-19
+
+Interim Results of a Phase 1–2a Trial of Ad26.COV2.S COVID-19 Vaccine
+
+Safety of COVID-19 vaccines
+
+Safety and Reactogenicity of the ChAdOx1 (AZD1222) COVID-19 Vaccine in Saudi Arabia.
+
+COVID-19 mRNA Vaccines Are Generally Safe in the Short Term: A Vaccine Vigilance Real-World Study Says
+
+Al Khames Aga, Q. A., Alkhaffaf, W. H., Hatem, T. H., Nassir, K. F., Batineh, Y., Dahham, A. T., Shaban, D., Al Khames Aga, L. A., Agha, M. Y. R., & Traqchi, M. (2021). Safety of COVID-19 vaccines. Journal of Medical Virology, 93(12), 6588–6594. https://doi.org/10.1002/jmv.27214 [R].
+
+Barsha, S. Y., Akiful Haque, M. et al. (2021). A case of acute encephalopathy and non-ST segment elevation myocardial infarction following mRNA-1273 vaccination: Possible adverse effect? Clinical and Experimental Vaccine Research, 10(3), 293–297. https://doi.org/10.7774/cevr.2021.10.3.293 [A].
+
+Beatty, A. L., Peyser, N. D., Butcher, X. E., et al. (2021). Analysis of COVID-19 Vaccine Type and Adverse Effects Following Vaccination. JAMA Network Open, 4(12), e2140364. https://doi.org/10.1001/jamanetworkopen.2021.40364 [R].
+
+Butler, M., Tamborska, A., G.K., et al. (2021) Considerations for causality assessment of neurological and neuropsychiatric complications of SARS-CoV-2 vaccines: from cerebral venous sinus thrombosis to functional neurological disorder. J Neurol Neurosurg Psychiatry, 92(11):1144–1151. https://doi.org/10.1136/jnnp-2021-326924 [R].
+
+Choi, A., Koch, M., Wu, K., et al. (2021). Safety and immunogenicity of SARS-CoV-2 variant mRNA vaccine boosters in healthy adults: An interim analysis. Nature Medicine, 27(11), 2025–2031. https://doi.org/10.1038/s41591-021-01527-y [C].
+
+Chu, L., McPhee, R., Huang, W., et al. (2021). A preliminary report of a randomized controlled phase 2 trial of the safety and immunogenicity of mRNA-1273 SARS-CoV-2 vaccine. Vaccine, 39(20), 2791–2799. https://doi.org/10.1016/j.vaccine.2021.02.007 [C].
+
+Doherty, J., Fennessy, S., Stack, R., et al. (2021). Review Article: Vaccination for patients with inflammatory bowel disease during the COVID-19 pandemic. Alimentary Pharmacology & Therapeutics, 54(9), 1110–1123. https://doi.org/10.1111/apt.16590 [R].
+
+Elboraey, M. O., & Essa, E. E. S. F. (2021). Stevens-Johnson syndrome post second dose of Pfizer COVID-19 vaccine: A case report. Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology, 132(4), e139–e142. https://doi.org/10.1016/j.oooo.2021.06.019 [A].
+
+Grieco, T., Maddalena, P., Sernicola, A., Muharremi, R., Basili, S., Alvaro, D., Cangemi, R., Rossi, A., & Pellacani, G. (2021). Cutaneous adverse reactions after COVID-19 vaccines in a cohort of 2740 Italian subjects: An observational study. Dermatologic Therapy, 34(6), e15153. https://doi.org/10.1111/dth.15153 [MC].
+
+Han, B., Song, Y., Li, C., Yang, W., Ma, Q., Jiang, Z., Li, M., Lian, X., Jiao, W., Wang, L., Shu, Q., Wu, Z., Zhao, Y., Li, Q., & Gao, Q. (2021). Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine (CoronaVac) in healthy children and adolescents: A double-blind, randomised, controlled, phase 1/2 clinical trial. The Lancet Infectious Diseases, 21(12), 1645–1653. https://doi.org/10.1016/S1473-3099(21)00319-4 [C].
+
+Kadali, R. A. K., Janagama, R., Peruru, S., Gajula, V., Madathala, R. R., Chennaiahgari, N., & Malayala, S. V. (2021). Non-life-threatening adverse effects with COVID-19 mRNA-1273 vaccine: A randomized, cross-sectional study on healthcare workers with detailed self-reported symptoms. Journal of Medical Virology, 93(7), 4420–4429. https://doi.org/10.1002/jmv.26996 [C].
+
+Kadali, R. A. K., Janagama, R., Peruru, S., & Malayala, S. V. (2021). Side effects of BNT162b2 mRNA COVID-19 vaccine: A randomized, cross-sectional study with detailed self-reported symptoms from healthcare workers. International Journal of Infectious Diseases: IJID: Official Publication of the International Society for Infectious Diseases, 106, 376–381. https://doi.org/10.1016/j.ijid.2021.04.047 [C].
+
+Klein, N. P., Lewis, N., Goddard, K., Fireman, B., Zerbo, O., Hanson, K. E., Donahue, J. G., Kharbanda, E. O., Naleway, A., Nelson, J. C., Xu, S., Yih, W. K., Glanz, J. M., Williams, J. T. B., Hambidge, S. J., Lewin, B. J., Shimabukuro, T. T., DeStefano, F., & Weintraub, E. S. (2021). Surveillance for Adverse Events After COVID-19 mRNA Vaccination. JAMA, 326(14), 1390–1399. https://doi.org/10.1001/jama.2021.15072 [C].
+
+Klimek, L., Novak, N., Cabanillas, B., Jutel, M., Bousquet, J., & Akdis, C. A. (2021). Allergenic components of the mRNA-1273 vaccine for COVID-19: Possible involvement of polyethylene glycol and IgG-mediated complement activation. Allergy, 76(11), 3307–3313. https://doi.org/10.1111/all.14794 [r].
+
+Leber, H. M., Sant'Ana, L., Konichi da Silva, N. R., Raio, M. C., Mazzeo, T. J. M. M., Endo, C. M., Nascimento, H., & de Souza, C. E. (2021). Acute Thyroiditis and Bilateral Optic Neuritis following SARS-CoV-2 Vaccination with CoronaVac: A Case Report. Ocular Immunology and Inflammation, 29(6), 1200–1206. https://doi.org/10.1080/09273948.2021.1961815 [A].
+
+Ling, Y., Zhong, J., & Luo, J. (2021). Safety and effectiveness of SARS-CoV-2 vaccines: A systematic review and meta-analysis. Journal of Medical Virology, 93(12), 6486–6495. https://doi.org/10.1002/jmv.27203 [R].
+
+Liu, J., Huang, B., Li, G., Chang, X., Liu, Y., Chu, K., Hu, J., Deng, Y., Zhu, D., Wu, J., Zhang, L., Wang, M., Huang, W., Pan, H., & Tan, W. (2022). Immunogenicity and Safety of a 3-Dose Regimen of a SARS-CoV-2 Inactivated Vaccine in Adults: A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial. The Journal of Infectious Diseases, 225(10), 1701–1709. https://doi.org/10.1093/infdis/jiab627 [C].
+
+Luxi, N., Giovanazzi, A., Capuano, A., Crisafulli, S., Cutroneo, P. M., Fantini, M. P., Ferrajolo, C., Moretti, U., Poluzzi, E., Raschi, E., Ravaldi, C., Reno, C., Tuccori, M., Vannacci, A., Zanoni, G., Trifirò, G., Trifirò, G., Moretti, U., Luxi, N., … Ilmiovaccino COVID19 collaborating group. (2021). COVID-19 Vaccination in Pregnancy, Paediatrics, Immunocompromised Patients, and Persons with History of Allergy or Prior SARS-CoV-2 Infection: Overview of Current Recommendations and Pre- and Post-Marketing Evidence for Vaccine Efficacy and Safety. Drug Safety, 44(12), 1247–1269. https://doi.org/10.1007/s40264-021-01131-6 [S].
+
+McMurry, R., Lenehan, P., Awasthi, S., Silvert, E., Puranik, A., Pawlowski, C., Venkatakrishnan, A. J., Anand, P., Agarwal, V., O'Horo, J. C., Gores, G. J., Williams, A. W., Badley, A. D., Halamka, J., Virk, A., Swift, M. D., Carlson, K., Doddahonnaiah, D., Metzger, A., … Soundararajan, V. (2021). Real-time analysis of a mass vaccination effort confirms the safety of FDA-authorized mRNA COVID-19 vaccines. Med, 2(8), 965–978.e5. https://doi.org/10.1016/j.medj.2021.06.006 [MC].
+
+Ossato, A., Tessari, R., Trabucchi, C., Zuppini, T., Realdon, N., & Marchesini, F. (2021). Comparison of medium-term adverse reactions induced by the first and second dose of mRNA BNT162b2 (Comirnaty, Pfizer-BioNTech) vaccine: A post-marketing Italian study conducted between 1 January and 28 February 2021. European Journal of Hospital Pharmacy. https://doi.org/10.1136/ejhpharm-2021-002933 [C].
+
+Parés-Badell, O., Martínez-Gómez, X., Pinós, L., Borras-Bermejo, B., Uriona, S., Otero-Romero, S., Rodrigo-Pendás, J. Á., Cossio-Gil, Y., Agustí, A., Aguilera, C., & Campins, M. (2021). Local and Systemic Adverse Reactions to mRNA COVID-19 Vaccines Comparing Two Vaccine Types and Occurrence of Previous COVID-19 Infection. Vaccines, 9(12), 1463. https://doi.org/10.3390/vaccines9121463 [c].
+
+Riad, A., Hocková, B., Kantorová, L., Slávik, R., Spurná, L., Stebel, A., Havriľak, M., & Klugar, M. (2021). Side Effects of mRNA-Based COVID-19 Vaccine: Nationwide Phase IV Study among Healthcare Workers in Slovakia. Pharmaceuticals, 14(9), 873. https://doi.org/10.3390/ph14090873 [MC].
+
+Soiza, R. L., Scicluna, C., & Thomson, E. C. (2021). Efficacy and safety of COVID-19 vaccines in older people. Age and Ageing, 50(2), 279–283. https://doi.org/10.1093/ageing/afaa274 [R].
+
+Straus, W., Urdaneta, V., Esposito, D. B., Mansi, J. A., Rodriguez, C. S., Burton, P., & Vega, J. M. (2021). Myocarditis After mRNA-1273 Vaccination: A Population-Based Analysis of 151 Million Vaccine Recipients Worldwide (p. 2021.11.11.21265536), medRxiv. https://doi.org/10.1101/2021.11.11.21265536 [r].
+
+Tré-Hardy, M., Cupaiolo, R., Papleux, E., Wilmet, A., Horeanga, A., Antoine-Moussiaux, T., Vecchia, A. D., Beukinga, I., Vekemans, M., & Blairon, L. (2021). Reactogenicity, safety and antibody response, after one and two doses of mRNA-1273 in seronegative and seropositive healthcare workers. Journal of Infection, 83(2), 237–279. https://doi.org/10.1016/j.jinf.2021.03.025 [c].
+
+Voysey, M., Clemens, S. a. C., & Madhi, S. A. (2021). Safety and efficacy of the ChAdOx1 nCoV-19 vaccine (AZD1222) against SARS-CoV-2: An interim analysis of four randomised controlled trials in Brazil, South Africa, and the UK (vol 397, p. 99, 2021). Lancet, 98–98 [C].
+
+Werbel, W. A., Boyarsky, B. J., Ou, M. T., Massie, A. B., Tobian, A. A. R., Garonzik-Wang, J. M., & Segev, D. L. (2021). Safety and Immunogenicity of a Third Dose of SARS-CoV-2 Vaccine in Solid Organ Transplant Recipients: A Case Series. Annals of Internal Medicine, 174(9), 1330–1332. https://doi.org/10.7326/L21-0282 [A].
+
+World Health Organization. (2021). Background document on the inactivated vaccine Sinovac-CoronaVac against COVID-19: Background document to the WHO Interim recommendations for use of the inactivated COVID-19 vaccine, CoronaVac, developed by Sinovac, 24 May 2021 (WHO/2019-nCoV/vaccines/SAGE_recommendation/Sinovac-CoronaVac/background/2021.1). World Health Organization. https://apps.who.int/iris/handle/10665/341455 [S].
+
+Wu, Q., Dudley, M. Z., Chen, X., Bai, X., Dong, K., Zhuang, T., Salmon, D., & Yu, H. (2021). Evaluation of the safety profile of COVID-19 vaccines: A rapid review. BMC Medicine, 19(1), 173. https://doi.org/10.1186/s12916-021-02059-5 [r].
+
+Wu, Z., Hu, Y., Xu, M., Chen, Z., Yang, W., Jiang, Z., Li, M., Jin, H., Cui, G., Chen, P., Wang, L., Zhao, G., Ding, Y., Zhao, Y., & Yin, W. (2021). Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine (CoronaVac) in healthy adults aged 60 years and older: A randomised, double-blind, placebo-controlled, phase 1/2 clinical trial. The Lancet Infectious Diseases, 21(6), 803–812. https://doi.org/10.1016/S1473-3099(20)30987-7 [C].
+
+Zeng, G., Wu, Q., Pan, H., Li, M., Yang, J., Wang, L., Wu, Z., Jiang, D., Deng, X., Chu, K., Zheng, W., Wang, L., Lu, W., Han, B., Zhao, Y., Zhu, F., Yu, H., & Yin, W. (2022). Immunogenicity and safety of a third dose of CoronaVac, and immune persistence of a two-dose schedule, in healthy adults: Interim results from two single-centre, double-blind, randomised, placebo-controlled phase 2 clinical trials. The Lancet Infectious Diseases, 22(4), 483–495. https://doi.org/10.1016/S1473-3099(21)00681-2 [C].
+
+Zhang, Y., Zeng, G., Pan, H., Li, C., Hu, Y., Chu, K., Han, W., Chen, Z., Tang, R., Yin, W., Chen, X., Hu, Y., Liu, X., Jiang, C., Li, J., Yang, M., Song, Y., Wang, X., Gao, Q., & Zhu, F. (2021). Safety, tolerability, and immunogenicity of an inactivated SARS-CoV-2 vaccine in healthy adults aged 18–59 years: A randomised, double-blind, placebo-controlled, phase 1/2 clinical trial. The Lancet Infectious Diseases, 21(2), 181–192. https://doi.org/10.1016/S1473-3099(20)30843-4 [C].
+
+Arredondo, J. L., Martinez, S. M. V., Morales, M. C., Meyer, S., Toh, M.-L., Zocchetti, C., Vigne, C., & Mascareñas, C. (2021). Immunogenicity and safety of a tetravalent dengue vaccine and a bivalent HPV vaccine given concomitantly or sequentially in girls aged 9 to 14 years in Mexico. Vaccine, 39(25), 3388–3396 [C].
+
+Biswal, S., Galvan, J. F. M., Parra, M. M., Galan-Herrera, J.-F., Rodriguez, M. B. C., Bueno, E. P. R., Brose, M., Rauscher, M., LeFevre, I., & Wallace, D. (2021). Immunogenicity and safety of a tetravalent dengue vaccine in dengue-naïve adolescents in Mexico City. Revista Panamericana de Salud Pública, 45 [C].
+
+Bonville, C., & Domachowske, J. (2021). Dengue. In J. Domachowske & M. Suryadevara (Eds.), Vaccines: A Clinical Overview and Practical Guide (pp. 121–130). Springer International Publishing. https://doi.org/10.1007/978-3-030-58414-6_9 [R].
+
+Coronel-MartÍnez, D. L., Park, J., López-Medina, E., Capeding, M. R., Bonfanti, A. A. C., Montalbán, M. C., Ramírez, I., Gonzales, M. L. A., DiazGranados, C. A., & Zambrano, B. (2021). Immunogenicity and safety of simplified vaccination schedules for the CYD-TDV dengue vaccine in healthy individuals aged 9–50 years (CYD65): A randomised, controlled, phase 2, non-inferiority study. The Lancet Infectious Diseases, 21(4), 517–528 [C].
+
+España, G., Leidner, A. J., Waterman, S. H., & Perkins, T. A. (2021). Cost-effectiveness of dengue vaccination in Puerto Rico. PLOS Neglected Tropical Diseases, 15(7), e0009606. https://doi.org/10.1371/journal.pntd.0009606 [r].
+
+Forrat, R., Dayan, G. H., DiazGranados, C. A., Bonaparte, M., Laot, T., Capeding, M. R., Sanchez, L., Coronel, D. L., Reynales, H., & Chansinghakul, D. (2021). Analysis of hospitalized and severe dengue cases over the 6 years of follow-up of the tetravalent dengue vaccine (CYD-TDV) efficacy trials in Asia and Latin America. Clinical Infectious Diseases, 73(6), 1003–1012 [c].
+
+Hassan, J., Toh, T.-H., Sivapunniam, S. K., Hasim, R., Ghazali, N. F., Sulaiman, S., Koh, M. T., Meyer, S., Toh, M.-L., & Zocchetti, C. (2021). Immunogenicity and safety of a tetravalent dengue vaccine administered concomitantly or sequentially with quadrivalent human papillomavirus vaccine in boys and girls 9–13 years of age in Malaysia: A phase IIIb, randomized, open-label study. The Pediatric Infectious Disease Journal, 40(8), 774 [C].
+
+Huang, Y., Moodie, Z., Juraska, M., Fong, Y., Carpp, L. N., Chambonneau, L., Coronel, D. L., Dayan, G. H., DiazGranados, C. A., & Gilbert, P. B. (2021). Immunobridging efficacy of a tetravalent dengue vaccine against dengue and against hospitalized dengue from children/adolescents to adults in highly endemic countries. Transactions of The Royal Society of Tropical Medicine and Hygiene, 115(7), 750–763. https://doi.org/10.1093/trstmh/traa154 [c].
+
+Naik, R., & Shetty, A. (2021). Impact of Dengue and Vaccines in India: Review. Journal of Biomedical Sciences, 0(0), 0–0. https://doi.org/10.36648/2254-609X.21.s5.003 [r].
+
+Park, J., Archuleta, S., Oh, M.-L. H., Shek, L. P.-C., Jin, J., Bonaparte, M., Fargo, C., & Bouckenooghe, A. (2019). Immunogenicity and safety of a dengue vaccine given as a booster in Singapore: A randomized Phase II, placebo-controlled trial evaluating its effects 5–6 years after completion of the primary series. Human Vaccines & Immunotherapeutics, 16(3), 523–529. https://doi.org/10.1080/21645515.2019.1661204 [c].
+
+Park, J., Archuleta, S., Oh, M.-L. H., Shek, L. P.-C., Wang, H., Bonaparte, M., Frago, C., Bouckenooghe, A., Jantet-Blaudez, F., & Begue, S. (2021). Humoral and cellular immunogenicity and safety following a booster dose of a tetravalent dengue vaccine 5+ years after completion of the primary series in Singapore: 2-year follow-up of a randomized phase II, placebo-controlled trial. Human Vaccines & Immunotherapeutics, 17(7), 2107–2116 [C].
+
+Santos, J., Montellano, M. E., Solante, R., Perreras, N., Meyer, S., Toh, M.-L., Zocchetti, C., Vigne, C., & Mascareñas, C. (2021). Immunogenicity and safety of a tetravalent dengue vaccine administered concomitantly or sequentially with Tdap vaccine: Randomized phase IIIb trial in healthy participants 9–60 years of age in the Philippines. The Pediatric Infectious Disease Journal, 40(9), 856 [MC].
+
+Tran, N. H., Chansinghakul, D., Chong, C. Y., Low, C. Y., Shek, L. P., Luong, C. Q., Fargo, C., Wartel, T. A., Sun, S., Skipetrova, A., & Bouckenooghe, A. (2019). Long-term immunogenicity and safety of tetravalent dengue vaccine (CYD-TDV) in healthy populations in Singapore and Vietnam: 4-year follow-up of randomized, controlled, phase II trials. Human Vaccines & Immunotherapeutics, 15(10), 2315–2327. https://doi.org/10.1080/21645515.2019.1578595 [c].
+
+Tricou, V., Biswal, S., Liu, M., Patel, S. S., Zent, O., Rauscher, M., Perez, G., Kandeil, W., & Folschweiller, N. (2021). 97. Tetravalent Dengue Vaccine (TAK-003) Development Program: A Bird's Eye View. Open Forum Infectious Diseases, 8(Supplement_1), S61. https://doi.org/10.1093/ofid/ofab466.097 [r].
+
+Wang, W.-H., Urbina, A. N., Lin, C.-Y., Yang, Z.-S., Assavalapsakul, W., Thitithanyanont, A., Lu, P.-L., Chen, Y.-H., & Wang, S.-F. (2021). Targets and strategies for vaccine development against dengue viruses. Biomedicine & Pharmacotherapy, 144, 112304. https://doi.org/10.1016/j.biopha.2021.112304 [r].
+
+Carnino, L., Vetter, P., Peyraud, N., Aebischer-Perone, S., Chappuis, F., Huttner, A., Kaiser, L., & Eperon, G. (2021). Feasibility and safety of rVSV-ZEBOV vaccination of humanitarian health workers against Ebola virus disease: An observational study. Journal of Travel Medicine, 28(8), taab086. https://doi.org/10.1093/jtm/taab086. [R]
+
+Diallo, A., Carlos-Bolumbu, M., Cervantes-Gonzalez, M., Wozniak, V., Diallo, M. H., Diallo, B. D., Delamou, A., & Galtier, F. (2021). Immunogenicity and safety of Ebola virus vaccines in healthy adults: A systematic review and network meta-analysis. Human Vaccines & Immunotherapeutics, 17(10), 3771–3783. https://doi.org/10.1080/21645515.2021.1932214 [M]
+
+Larivière, Y., Zola, T., Stoppie, E., Maketa, V., Matangila, J., Mitashi, P., De Bie, J., Muhindo-Mavoko, H., Van geertruyden, J.-P., & Van Damme, P. (2021). Open-label, randomised, clinical trial to evaluate the immunogenicity and safety of a prophylactic vaccination of healthcare providers by administration of a heterologous vaccine regimen against Ebola in the Democratic Republic of the Congo: The study protocol. BMJ Open, 11(9), e046835. https://doi.org/10.1136/bmjopen-2020-046835 [R]
+
+Sharma, A. R., Lee, Y.-H., Nath, S., & Lee, S.-S. (2021). Recent developments and strategies of Ebola virus vaccines. Current Opinion in Pharmacology, 60, 46–53. https://doi.org/10.1016/j.coph.2021.06.008 [r]
+
+Tomori, O., & Kolawole, M. O. (2021). Ebola virus disease: Current vaccine solutions. Current Opinion in Immunology, 71, 27–33. https://doi.org/10.1016/j.coi.2021.03.008 [r]
+
+Wolf, J., Jannat, R., Dubey, S., Troth, S., Onorato, M. T., Coller, B.-A., Hanson, M. E., & Simon, J. K. (2021). Development of Pandemic Vaccines: ERVEBO Case Study. Vaccines, 9(3), 190. https://doi.org/10.3390/vaccines9030190 [c]
+
+Woolsey, C., & Geisbert, T. W. (2021). Current state of Ebola virus vaccines: A snapshot. PLOS Pathogens, 17(12), e1010078. https://doi.org/10.1371/journal.ppat.1010078 [r]
+
+Bhandari, P., Brett, C., Batool, A., & Sapra, A. (2022). Hepatitis A Vaccine. In StatPearls. StatPearls Publishing. http://www.ncbi.nlm.nih.gov/books/NBK554604/ [R].
+
+Thuluva, S., Matur, R., Tsa, K., & Gv, S. R. (2021). A single blind randomized phase 3 study to evaluate safety and immunogenicity of inactivated hepatitis A vaccine (HAPIBEVTM) in 1–15 years-old healthy hepatitis A vaccine-naïve children. Vaccine, 39(49), 7166–7174. https://doi.org/10.1016/j.vaccine.2021.10.018 [MC].
+
+Bravo-Grande, J. L., Asunción Blanco-González, M., de la Torre-Robles, J. M., Asmat-Inostrosa, M. P., Fernández-Escribano, M., Villalobos, I. M., Covadonga Caso-Pita, M., Hervella-Ordoñez, M., Cañibano Cimas, L. M., de la Fuente-Martín, J. M., Luisa Rodríguez de la Pinta, M., Olivas, J. R. B., Muñóz-Ruipérez, C., Alonso López, M. A., del Campo, M., Antonieta Ramírez Pérez, M., Sánchez-Arcilla, I., Marzola-Payares, M., Rescalvo-Santiago, F., López-Pérez, R. (2021). Vaccination adjuvated against hepatitis B in Spanish National Healthcare System (SNS) workers typed as non-responders to conventional vaccines. Vaccine, 39(3), 554–563. https://doi.org/10.1016/j.vaccine.2020.12.006 [c].
+
+Chowdhury, F., Akter, A., Rahman Bhuiyan, T., Tauheed, I., Ahmed, T., Ahmmed, F., Ahmed, F., Karim, M., Mainul Ahasan, M., Rahman Mia, M., Mohammad Ibna Masud, M., Wahab Khan, A., Masum Billah, M., Nahar, Z., Khan, I., Rahad Hossain, Md., Ariful Islam, A. Z. M., Panday, A. S., Muktadir Rahman Ashik, Md., & Qadri, F. (2021). A non-inferiority trial comparing two recombinant vaccines (Hepa-B vs. Engerix-B) for hepatitis B among adults in Dhaka, Bangladesh. Vaccine, 39(43), 6385–6390. https://doi.org/10.1016/j.vaccine.2021.09.031 [C].
+
+Hirst, A., Hyer, R. N., & Janssen, R. S. (2021). Comparative cost-effectiveness of a 2-dose versus 3-dose vaccine for hepatitis B prevention in selected adult populations. Vaccine, 39(33), 4733–4741. https://doi.org/10.1016/j.vaccine.2021.05.020 [R].
+
+Yao, T., Shao, Z., Wu, L., Dong, S., Gao, L., Wu, Y., Shi, X., Shi, J., Liu, G., Wang, J., Zhao, H., Guo, H., Liu, H., Wu, X., Liu, L., Song, X., Zhu, J., Zhang, Y., Feng, Y., … Wang, S. (2021). Long-term persistent immunogenicity after successful standard and triple-dosed hepatitis B vaccine in hemodialysis patients: A 3-year follow-up study in China. Vaccine, 39(18), 2537–2544. https://doi.org/10.1016/j.vaccine.2021.03.074 [C].
+
+Cho, H.-W., Min, K.-J., Kwon, S.-H., Kim, K., Kim, S., Seong, S. J., Song, Y. J., Lee, K. H., Lee, S.-W., Lee, J.-W., Ju, W., Kim, Y. T., & Lee, J. K. (2021). Updated clinical guideline for human papillomavirus vaccine: The Korean Society of Gynecologic Oncology guidelines. Journal of Gynecologic Oncology, 32(6), e94. https://doi.org/10.3802/jgo.2021.32.e94 [S].
+
+Hineno, A., & Ikeda, S.-I. (2021). A Long-Term Observation on the Possible Adverse Effects in Japanese Adolescent Girls after Human Papillomavirus Vaccination. Vaccines, 9(8), 856. https://doi.org/10.3390/vaccines9080856 [c].
+
+Hu, Y., Pan, X., Shen, L., Chen, F., Wang, Y., Liang, H., Chen, Y., & Lv, H. (2021). Post-licensure safety monitoring of quadrivalent human papillomavirus vaccine using the national adverse event following immunization surveillance system from Zhejiang province, 2018–2020. Human Vaccines & Immunotherapeutics, 17(12), 5447–5453. https://doi.org/10.1080/21645515.2021.1978793 [MC].
+
+Kemmeren, J. M., van Balveren, L., Kant, A., & de Melker, H. (2021). Tolerability of MenACWY-TT vaccination in adolescents in the Netherlands; a cross-sectional study. BMC Public Health, 21(1), 1752. https://doi.org/10.1186/s12889-021-11767-9 [MC].
+
+Yih, W. K., Kulldorff, M., Dashevsky, I., & Maro, J. C. (2021). A Broad Safety Assessment of the 9-Valent Human Papillomavirus Vaccine. American Journal of Epidemiology, 190(7), 1253–1259. https://doi.org/10.1093/aje/kwab022 [MC].
+
+Basu, I., Agarwal, M., Shah, V., Shukla, V., Naik, S., Supe, P. D., Srivastava, M. K., Giriraja, K. V., Pinjar, P., Mishra, P. K., Joshi, S., Vijayakumar, R., & van de Witte, S. (2022). Immunogenicity and safety of two quadrivalent influenza vaccines in healthy adult and elderly participants in India—A phase III, active-controlled, randomized clinical study. Human Vaccines & Immunotherapeutics, 18(1), 1–10. https://doi.org/10.1080/21645515.2021.1885278 [C].
+
+Fan, R., Huang, X., Nian, X., Ou, Z., Zhou, J., Zhang, J., Zeng, P., Zhao, W., Deng, J., Chen, W., Chen, S., Duan, K., Chen, Y., Li, X., Zhang, J., & Yang, X. (2022). Safety and immunogenicity of a quadrivalent influenza vaccine in adults aged 60 years or above: A phase III randomized controlled clinical study. Human Vaccines & Immunotherapeutics, 18(1), 1–9. https://doi.org/10.1080/21645515.2021.1967041 [C].
+
+Lv, H., Pan, X., Liang, H., Wang, Y., & Hu, Y. (2021). Analysis of the adverse events following immunization with inactivated quadrivalent influenza vaccine from 2018 to 2020 in Zhejiang province, with a comparison to trivalent influenza vaccine. Human Vaccines & Immunotherapeutics, 17(11), 4617–4622. https://doi.org/10.1080/21645515.2021.1964310 [C].
+
+Moro, P. L., & Marquez, P. (2021). Reports of cell-based influenza vaccine administered during pregnancy in the Vaccine Adverse Event Reporting System (VAERS), 2013–2020. Vaccine, 39(4), 678–681. https://doi.org/10.1016/j.vaccine.2020.12.045 [C].
+
+O Murchu, E., Comber, L., Jordan, K., Hawkshaw, S., Marshall, L., O'Neill, M., Ryan, M., Teljeur, C., Carnahan, A., Pérez, J. J., Robertson, A. H., Johansen, K., Jonge, J. de, Krause, T., Nicolay, N., Nohynek, H., Pavlopoulou, I., Pebody, R., Penttinen, P., … Harrington, P. (n.d.). Systematic review of the efficacy, effectiveness and safety of MF59® adjuvanted seasonal influenza vaccines for the prevention of laboratory-confirmed influenza in individuals ≥18 years of age. Reviews in Medical Virology, n/a(n/a), e2329. https://doi.org/10.1002/rmv.2329 [R].
+
+Pepin, S., Nicolas, J.-F., Szymanski, H., Leroux-Roels, I., Schaum, T., Bonten, M., Icardi, G., Shrestha, A., & Tabar, C. (2021). Immunogenicity and safety of a quadrivalent high-dose inactivated influenza vaccine compared with a standard-dose quadrivalent influenza vaccine in healthy people aged 60 years or older: A randomized Phase III trial. Human Vaccines & Immunotherapeutics, 17(12), 5475–5486. https://doi.org/10.1080/21645515.2021.1983387 [C].
+
+Sarcina, D., Giovannini, M., Oranges, T., Barni, S., Pedaci, F. A., Liccioli, G., Canessa, C., Sarti, L., Lodi, L., Filippeschi, C., Azzari, C., Ricci, S., & Mori, F. (2021). Case Report and Review of the Literature: Bullous Skin Eruption After the Booster-Dose of Influenza Vaccine in a Pediatric Patient With Polymorphic Maculopapular Cutaneous Mastocytosis. Frontiers in Immunology, 12, 688364. https://doi.org/10.3389/fimmu.2021.688364 [c].
+
+Serradell, L., Wagué, S., Moureau, A., Nissilä, M., & Chabanon, A.-L. (2021). Enhanced passive safety surveillance of a trivalent and a quadrivalent influenza vaccine in Denmark and Finland during the 2018/2019 season. Human Vaccines & Immunotherapeutics, 17(4), 1205–1210. https://doi.org/10.1080/21645515.2020.1804247 [C].
+
+Vardeny, O., Kim, K., Udell, J. A., Joseph, J., Desai, A. S., Farkouh, M. E., Hegde, S. M., Hernandez, A. F., McGeer, A., Talbot, H. K., Anand, I., Bhatt, D. L., Cannon, C. P., DeMets, D., Gaziano, J. M., Goodman, S. G., Nichol, K., Tattersall, M. C., Temte, J. L., … INVESTED Committees and Investigators. (2021). Effect of High-Dose Trivalent vs Standard-Dose Quadrivalent Influenza Vaccine on Mortality or Cardiopulmonary Hospitalization in Patients With High-risk Cardiovascular Disease: A Randomized Clinical Trial. JAMA, 325(1), 39–49. https://doi.org/10.1001/jama.2020.23649 [C].
+
+Woo, E. J., & Moro, P. L. (2021). Postmarketing safety surveillance of quadrivalent recombinant influenza vaccine: Reports to the vaccine adverse event reporting system. Vaccine, 39(13), 1812–1817. https://doi.org/10.1016/j.vaccine.2021.02.052 [C].
+
+Hu, Y.-L., & Lee, P.-I. (2021). Safety of Japanese encephalitis vaccines. Human Vaccines & Immunotherapeutics, 17(11), 4259–4264. https://doi.org/10.1080/21645515.2021.1969852 [R].
+
+Vannice, K. S., Hills, S. L., Schwartz, L. M., Barrett, A. D., Heffelfinger, J., Hombach, J., Letson, G. W., Solomon, T., & Marfin, A. A. (2021). The future of Japanese encephalitis vaccination: Expert recommendations for achieving and maintaining optimal JE control. Npj Vaccines, 6(1), 1–9. https://doi.org/10.1038/s41541-021-00338-z [R].
+
+Chandramohan, D., Zongo, I., Sagara, I., Cairns, M., Yerbanga, R.-S., Diarra, M., Nikièma, F., Tapily, A., Sompougdou, F., Issiaka, D., Zoungrana, C., Sanogo, K., Haro, A., Kaya, M., Sienou, A.-A., Traore, S., Mahamar, A., Thera, I., Diarra, K., … Greenwood, B. (2021). Seasonal Malaria Vaccination with or without Seasonal Malaria Chemoprevention. New England Journal of Medicine, 385(11), 1005–1017. https://doi.org/10.1056/NEJMoa2026330 [C].
+
+Bianchi, F. P., Tafuri, S., Larocca, A. M. V., Germinario, C. A., & Stefanizzi, P. (2021). Long -term persistence of antibodies against varicella in fully immunized healthcare workers: An Italian retrospective cohort study. BMC Infectious Diseases, 21(1), 475. https://doi.org/10.1186/s12879-021-06180-x [C].
+
+Marin, M., Fiebelkorn, A. P., Bi, D., Coleman, L. A., Routh, J., Curns, A. T., & McLean, H. Q. (2021). Adverse Events Among Young Adults Following a Third Dose of Measles-Mumps-Rubella Vaccine. Clinical Infectious Diseases, 73(7), e1546–e1553. https://doi.org/10.1093/cid/ciaa1090 [C].
+
+van den Boogaard, J., de Gier, B., de Oliveira Bressane Lima, P., Desai, S., de Melker, H. E., Hahné, S. J. M., & Veldhuijzen, I. K. (2021). Immunogenicity, duration of protection, effectiveness and safety of rubella containing vaccines: A systematic literature review and meta-analysis. Vaccine, 39(6), 889–900. https://doi.org/10.1016/j.vaccine.2020.12.079 [R].
+
+Abu-Elyazeed, R., Klein, N. P., Moerman, L., Povey, M., Pruitt, A., Senders, S., Silas, P., Bi, D., Acevedo, A., Amisola, R., Anschutz, L., Bataille, R., Campbell, J., Cornish, M., Domachowske, J., Fling, J., Franklin, E., Fuller, J., Gabrielsen, A., … Zissman, E. (2021). Concomitant administration of a liquid formulation of human rotavirus vaccine (porcine circovirus-free) with routine childhood vaccines in infants in the United States: Results from a phase 3, randomized trial. Vaccine, 39(10), 1534–1543. https://doi.org/10.1016/j.vaccine.2020.08.070 [C].
+
+Chilengi, R., Mwila- Kazimbaya, K., Chirwa, M., Sukwa, N., Chipeta, C., Velu, R. M., Katanekwa, N., Babji, S., Kang, G., McNeal, M. M., Meyer, N., Gompana, G., Hazra, S., Tang, Y., Flores, J., Bhat, N., & Rathi, N. (2021). Immunogenicity and safety of two monovalent rotavirus vaccines, ROTAVAC® and ROTAVAC 5D® in Zambian infants. Vaccine, 39(27), 3633–3640. https://doi.org/10.1016/j.vaccine.2021.04.060 [MC].
+
+Wang, Y., Li, J., Liu, P., & Zhu, F. (2021). The performance of licensed rotavirus vaccines and the development of a new generation of rotavirus vaccines: A review. Human Vaccines & Immunotherapeutics, 17(3), 880–896. https://doi.org/10.1080/21645515.2020.1801071 [R].
+
+Flem, E., Graham, J., Yi, Z., Wisløff, T., & Johnson, K. D. (2022). Cost and health impact analysis of herpes zoster vaccination in Norway. Expert Review of Pharmacoeconomics & Outcomes Research, 22(2), 315–326. https://doi.org/10.1080/14737167.2021.1973893 [r].
+
+Benevides, M. L., Walz, R., & Costa Nunes, J. (2021). Yellow Fever Vaccine as a Possible Trigger of Inflammatory Myopathy: A Case Report. JCR: Journal of Clinical Rheumatology, 27(8S), S506. https://doi.org/10.1097/RHU.0000000000001147 [c].
+
+Coeckelbergh, E., & Reynders, T. (2021). Anti-NMDA receptor encephalitis after yellow fever vaccination: A case report. Acta Neurologica Belgica, 121(5), 1357–1359. https://doi.org/10.1007/s13760-021-01673-7 [c].
+
+Cohen, M., Nguyen, M., Nix, C. D., Case, B., Nickerson, J. P., Bernard, J., Durrant, J., Safarpour, D., Tucker, T., Vagnerova, K., & Messer, W. B. (2022). Case Report: Yellow Fever Vaccine-Associated Neurotropic Disease and Associated MRI, EEG, and CSF Findings. Frontiers in Neurology, 12, 779014. https://doi.org/10.3389/fneur.2021.779014 [c].
+
+Jean, K., Raad, H., Gaythorpe, K. A. M., Hamlet, A., Mueller, J. E., Hogan, D., Mengistu, T., Whitaker, H. J., Garske, T., & Hocine, M. N. (2021). Assessing the impact of preventive mass vaccination campaigns on yellow fever outbreaks in Africa: A population-level self-controlled case series study. PLOS Medicine, 18(2), e1003523. https://doi.org/10.1371/journal.pmed.1003523 [C].
+
+Takey, P. R. G., Pedro, R. S., Oliveira, P. M. N. de, Lignani, L. K., Castro, T. da M. de, Xavier, J. R., Maia, M. de L. de S., Guaraldo, L., & Brasil, P. (2021). Immunogenicity and safety of Yellow Fever Vaccine: Systematic review and metanalysis [R].
+
+Vignapiano, R., Vicchio, L., Favuzza, E., Cennamo, M., & Mencucci, R. (2021). Corneal Graft Rejection after Yellow Fever Vaccine: A Case Report. Ocular Immunology and Inflammation, 0(0), 1–4. https://doi.org/10.1080/09273948.2020.1870146 [c].
+
+Bannister, S., Sudbury, E., Villanueva, P., Perrett, K., & Curtis, N. (2021). The safety of BCG revaccination: A systematic review. Vaccine, 39(20), 2736–2745. https://doi.org/10.1016/j.vaccine.2020.08.016
+
+Hu, R., Peng, S., Liu, Y., Tang, F., Wang, Z., Zhang, L., Gao, J., & Guo, H. (2021). The characteristics and trend of adverse events following immunization reported by information system in Jiangsu province, China, 2015–2018. BMC Public Health, 21(1), 1338. https://doi.org/10.1186/s12889-021-11387-3 [R].
+
+Oduwole, O. A., Mwankon, J. P., Okebe, J., Esu, E. B., Chibuzor, M., Sallahdeen, A., Arikpo, D. I., Meremikwu, C., Effa, E. E., & Meremikwu, M. M. (2021). Booster Dose of Bacille Calmette-Guérin Vaccine for Tuberculosis in Low and Middle-Income Countries: A Systematic Review. Annals of Health Research, 7(3), 235–252. https://doi.org/10.30442/ahr.0703-04-133 [R].
+
+Pittet, L. F., Messina, N. L., Gardiner, K., Orsini, F., Abruzzo, V., Bannister, S., Bonten, M., Campbell, J. L., Croda, J., Dalcolmo, M., Elia, S., Germano, S., Goodall, C., Gwee, A., Jamieson, T., Jardim, B., Kollmann, T. R., Lacerda, M. V. G., Lee, K. J., … Curtis, N. (2021). BCG vaccination to reduce the impact of COVID-19 in healthcare workers: Protocol for a randomised controlled trial (BRACE trial). BMJ Open, 11(10), e052101. https://doi.org/10.1136/bmjopen-2021-052101 [MC].
+
+Rangesh, S., Vaidya, P. C., Mehra, N., Gupta, S., & Bharti, B. (2021). Incidence of lymphadenitis following Bacillus Calmette-Guérin (BCG) vaccination in north Indian children. Indian Journal of Tuberculosis. https://doi.org/10.1016/j.ijtb.2021.09.008 [C].
+
+Ujiie, M. (2021). Trends in the Incidence of Reported Adverse Events After Changing the Bacillus Calmette-Guérin Vaccination Age in Japan. Clinical Infectious Diseases, 73(7), e1785–e1786. https://doi.org/10.1093/cid/ciaa1640 [C].
+
+Adekunle, O., Dretler, A., Kauffman, R. C., Cho, A., Rouphael, N., & Wrammert, J. (2021). Longitudinal analysis of human humoral responses after vaccination with a live attenuated V. cholerae vaccine. PLOS Neglected Tropical Diseases, 15(9), e0009743. https://doi.org/10.1371/journal.pntd.0009743 [C].
+
+McCarty, J. M., Cassie, D., Bedell, L., Lock, M. D., & Bennett, S. (2021). Safety and Immunogenicity of Live Oral Cholera Vaccine CVD 103-HgR in Children Aged 2–5 Years in the United States. The American Journal of Tropical Medicine and Hygiene, 104(3), 861–865. https://doi.org/10.4269/ajtmh.20-0917 [C].
+
+Song, K. R., Lim, J. K., Park, S. E., Saluja, T., Cho, S.-I., Wartel, T. A., & Lynch, J. (2021). Oral Cholera Vaccine Efficacy and Effectiveness. Vaccines, 9(12), 1482. https://doi.org/10.3390/vaccines9121482 [r].
+
+Che, X., Liu, Y., Wang, J., Xu, Y., Zhang, X., Gu, W., Jiang, W., Du, J., & Zhang, X. (2021). Booster immunization of meningococcal meningitis vaccine among children in Hangzhou, China, 2014–2019. PLOS ONE, 16(5), e0251567. https://doi.org/10.1371/journal.pone.0251567 [MC].
+
+Dhingra, M. S., Namazova-Baranova, L., Arredondo-Garcia, J. L., Kim, K.-H., Limkittikul, K., Jantarabenjakul, W., Perminova, O., Kobashi, I. a. R., Bae, C.-W., Ojeda, J., Park, J., Chansinghakul, D., B'Chir, S., Neveu, D., Bonaparte, M., & Jordanov, E. (2021). Immunogenicity and safety of a quadrivalent meningococcal tetanus toxoid-conjugate vaccine administered concomitantly with other paediatric vaccines in toddlers: A phase III randomised study. Epidemiology & Infection, 149. https://doi.org/10.1017/S0950268821000698 [C].
+
+Kim, H. S., Engel, S., Neveu, D., Thollot, Y., Oster, P., & Yang, K. (2021). Post-Marketing Surveillance Observational Study of Quadrivalent Meningococcal Diphtheria Toxoid Conjugate Vaccine (MenACWY-DT, MCV4/Menactra®) in the Republic of Korea, 2014–2019. Infectious Diseases and Therapy, 10(1), 399–409. https://doi.org/10.1007/s40121-020-00393-4 [C].
+
+Piazza, F. M., Virta, M., Paassilta, M., Ukkonen, B., Ahonen, A., Esteves-Jaramillo, A., Forsten, A., Seppa, I., Ding, J., Neveu, D., Jordanov, E., & Dhingra, M. S. (2022). Immunogenicity and safety of an investigational quadrivalent meningococcal conjugate vaccine administered as a booster dose in children vaccinated against meningococcal disease 3 years earlier as toddlers: A Phase III, open-label, multi-center study. Human Vaccines & Immunotherapeutics, 18(1), 1–10. https://doi.org/10.1080/21645515.2021.1902701 [c].
+
+Vandermeulen, C., Leroux-Roels, I., Vandeleur, J., Staniscia, T., Girard, G., Ferguson, M., Icardi, G., Schwarz, T. F., Neville, A. M., Nolan, T., Cinquetti, S., Akhund, T., Van Huyneghem, S., Aggravi, M., Kunnel, B., de Wergifosse, B., Domenico, G. F. D., Costantini, M., Vir Singh, P., … Pellegrini, M. (2021). A new fully liquid presentation of MenACWY-CRM conjugate vaccine: Results from a multicentre, randomised, controlled, observer-blind study. Vaccine, 39(45), 6628–6636. https://doi.org/10.1016/j.vaccine.2021.09.068 [c].
+
+Vesikari, T., Brzostek, J., Ahonen, A., Paassilta, M., Majda-Stanislawska, E., Szenborn, L., Virta, M., Clifford, R., Jackowska, T., Kimmel, M., Bindi, I., Keshavan, P., Pedotti, P., & Toneatto, D. (2021). Immunogenicity and safety of different schedules of the meningococcal ABCWY vaccine, with assessment of long-term antibody persistence and booster responses—results from two phase 2b randomized trials in adolescents. Human Vaccines & Immunotherapeutics, 17(11), 4689–4700. https://doi.org/10.1080/21645515.2021.1968214 [C].
+
+Vliet, D. van der, Vesikari, T., Sandner, B., Martinón-Torres, F., Muzsay, G., Forsten, A., Adelt, T., Gonzalez, C. D., Simko, R., B'Chir, S., Neveu, D., Jordanov, E., & Dhingra, M. S. (2021). Immunogenicity and safety of a quadrivalent meningococcal tetanus toxoid-conjugate vaccine (MenACYW-TT) vs. a licensed quadrivalent meningococcal tetanus toxoid-conjugate vaccine in meningococcal vaccine-naïve and meningococcal C conjugate vaccine-primed toddlers: A phase III randomised study. Epidemiology & Infection, 149. https://doi.org/10.1017/S0950268821000261 [C].
+
+Buchwald, U. K., Andrews, C. P., Ervin, J., Peterson, J. T., Tamms, G. M., Krupa, D., Ajiboye, P., Roalfe, L., Krick, A. L., Sterling, T. M., Wang, M., Martin, J. C., Stek, J. E., Kohn, M. A., Folaranmi, T., Abeygunawardana, C., Hartzel, J., & Musey, L. K. (2021). Sequential administration of Prevnar 13TM and PNEUMOVAXTM 23 in healthy participants 50 years of age and older. Human Vaccines & Immunotherapeutics, 17(8), 2678–2690. https://doi.org/10.1080/21645515.2021.1888621 [C].
+
+Fujikawa, H., Miyazato, Y., Ebisuda, K., & Saito, M. (2021). Severe Inflammatory Response in Myelodysplastic Syndrome and Trisomy 8 Following 23-Valent Polysaccharide Pneumococcal Vaccine Administration. Turkish Journal of Hematology, 38(1), 92–94. https://doi.org/10.4274/tjh.galenos.2021.2020.0664 [c].
+
+Lalwani, S. K., Ramanan, P. V., Sapru, A., Sundaram, B., Shah, B. H., Kaul, D., Karthik Nagesh, N., Kalina, W. V., Chand, R., Ding, M., Suroju, S., Scott, D. A., & Lockhart, S. P. (2021). Safety and immunogenicity of a multidose vial formulation of 13-valent pneumococcal conjugate vaccine administered with routine pediatric vaccines in healthy infants in India: A phase 4, randomized, open-label study. Vaccine, 39(46), 6787–6795. https://doi.org/10.1016/j.vaccine.2021.09.029 [MC].
+
+Liu, Y., Xu, Y., Wang, J., Che, X., Gu, W., Du, J., Zhang, X., Zhang, X., Jiang, W., Chen, J., & An, Z. (2021). Vaccination pattern of the 23-valent pneumococcal polysaccharide vaccine (PPV23) in Hangzhou, China: A coverage and adverse events following immunization of different age groups. Human Vaccines & Immunotherapeutics, 17(1), 157–161. https://doi.org/10.1080/21645515.2020.1765620 [C].
+
+Chandramohan, D., Zongo, I., Sagara, I., Cairns, M., Yerbanga, R.-S., Diarra, M., Nikièma, F., Tapily, A., Sompougdou, F., Issiaka, D., Zoungrana, C., Sanogo, K., Haro, A., Kaya, M., Sienou, A.-A., Traore, S., Mahamar, A., Thera, I., Diarra, K., … Greenwood, B. (2021). Seasonal Malaria Vaccination with or without Seasonal Malaria Chemoprevention. New England Journal of Medicine, 385(11), 1005–1017. https://doi.org/10.1056/NEJMoa2026330 [C].

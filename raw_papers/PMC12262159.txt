@@ -1,0 +1,127 @@
+Non‐Specialist Physicians Successfully Treat Hepatitis C Infection With Simplified Care Pathway in France
+
+adverse event
+
+French association of hepatologists
+
+confidence interval
+
+direct‐acting antivirals
+
+hepatitis B virus
+
+hepatocellular carcinoma
+
+hepatitis C virus
+
+human immunodeficiency virus
+
+intravenous
+
+polymerase chain reaction
+
+first quartile
+
+third quartile
+
+ribonucleic acid
+
+standard deviation
+
+Sofosbuvir
+
+Sofosbuvir/Velpatasvir
+
+sustained virologic response
+
+sustained virologic response at week 12
+
+Velpatasvir
+
+World Health Organization
+
+According to the World Health Organization's (WHO), 58 million people currently live with chronic hepatitis C virus (HCV) infection, a life‐threatening disease [1]. With one million new infections occurring every year and no effective vaccine currently available, chronic HCV infection is a global health challenge. The introduction of direct‐acting antivirals (DAA) has, however, been revolutionary, with cure rates above 95% regardless of viral genotype, and treatment duration reduced from approximately one year to 8–12 weeks [2]. Consequently, the WHO developed a global strategy which aims to eliminate HCV infection by 2030 [3].
+
+France, one of the 15 countries on track to meet WHO's target, has notably improved treatment access. Prioritised followed by universal access to DAA therapy led to an increase in treatment initiations, followed by a subsequent decrease as the pool of patients with HCV started to shrink [4]. To reach the remaining patients, the French National Public Health and the French association of hepatologists (AFEF) recommend a simplified pathway for HCV care: once HCV viremia is confirmed, non‐specialists can immediately treat non‐severe patients—defined by fibroscan < 10 kPa (or fibrometer ≤ 0.58, or fibrotest ≤ 0.786) and absence of comorbidities (e.g., liver‐related complications, hepatitis B virus (HBV)/human immunodeficiency virus (HIV) coinfections, renal failure) (Figure S1) [5]. The recommended treatments include 12 weeks of Sofosbuvir/Velpatasvir (SOF/VEL). This approach, close to the “Test and Treat” model used in HIV care, ensures that people diagnosed with HCV are treated as soon as possible, and that only patients with severe disease and comorbidities are referred to specialists.
+
+Study HELIOS‐3 was conducted to determine if cure rates are equally high when HCV treatments are prescribed and monitored by physicians who are not specialists in hepatitis.
+
+HELIOS‐3 was a multicentre, prospective, noninterventional cohort study conducted across 39 sites in France from March 2020 to January 2023. Participating physicians were specialists in the field of hepato‐gastroenterology and non‐specialist physicians such as general practitioners and physicians working in prisons, addiction centres and psychiatric hospitals.
+
+Eligible participants were adults diagnosed with chronic HCV infection initiating treatment with SOF/VEL (Epclusa, Gilead Sciences). Only patients enrolled in another trial and patients at risk of not being able to be followed for 24 weeks were excluded from the study.
+
+SOF/VEL was prescribed at the physician's discretion according to the summary of product characteristics guidelines, that is, one 400 mg/100 mg tablet, taken orally, once daily for 12 weeks [6].
+
+Study data (e.g., patient characteristics, fibrosis evaluations, HCV RNA) was collected prospectively from the patients' medical charts at the closest time to two pre‐specified time points: (1) treatment initiation and (2) 12 weeks after treatment completion/discontinuation.
+
+The study's primary endpoint was the proportion of patients with sustained virologic response 12 weeks after discontinuation of therapy (SVR12), defined as HCV RNA < 25 IU/mL. Secondary endpoints included safety profile, time between tests and treatment initiation, and demographic characteristics of treated patients.
+
+Continuous variables were summarised descriptively with mean, 95% confidence interval (CI), standard deviation (SD), median, first and third quartile (Q1, Q3), range, minimum and maximum. Frequencies and percentages were reported for categorical variables. Methodology followed for statistical analyses has been previously described [7]. All statistical analyses were performed using statistical analysis software (SAS) release 9.2 or higher and nQuery Advisor(R) Version 7.0.
+
+The study protocol was approved by an independent ethics committee (i.e., comité de protection des personnes, Ile de France 1, Paris, France) and was conducted in accordance with the protocol, the Declaration of Helsinki, Good Clinical Practices, Good Pharmacovigilance Practices, and with the applicable local regulatory requirements. All participants provided written informed consent before study inclusion.
+
+Anonymized data not published within this article will be made available by request from any qualified investigator.
+
+A total of 375 patients were enrolled in the study. Among them, three patients were excluded from the Analysis Set as they did not meet all the eligibility criteria and one patient was excluded for protocol violation (i.e., administrative issue preventing complete treatment within study timelines). The Analysis Set therefore included 371 patients: 287 patients (77.4%) were treated by specialists and 84 patients (22.6%) by non‐specialists (Figure S2). The 12‐week treatment period and study period were completed by 93.3% (N = 346) and 89.5% (N = 332) of patients, respectively.
+
+Patients baseline characteristics are described in Table 1. Overall median age was 53.9 years (range: 19.8–90.2) and 64.7% of patients were male. The most frequent genotypes identified (HCV genotyping performed for 85.4% of patients) were type 1 (35.4%) and type 3 (16.6%). Intravenous (IV) drug use was the most frequent mode of HCV infection (45.8%), and at inclusion, 91.1% of patients were treatment‐naïve. Patients treated by specialists vs. non‐specialists were more likely to have ongoing comorbidities (29.6% vs. 7.1%), advanced fibrosis (26.3% vs. 18.4%) and cirrhosis (18.5% vs. 11.4%). Patients treated by non‐specialists were more likely to report previous alcohol overconsumption (39.3% vs. 34.4%), current excessive alcohol consumption (23.8% vs. 16.4%), drug use (53.6% vs. 11.0%), and HIV coinfection (14.3% vs. 2.8%).
+
+Population characteristics and study outcomes.
+
+Abbreviations: HBV, hepatitis B virus; HCC, hepatocellular carcinoma; HCV, hepatitis C virus; HIV, human immunodeficiency virus; IV, intravenous; m, missing data; PCR, polymerase chain reaction; Q1, first quartile; Q3, third quartile; SD, standard deviation; SVR12, sustained virologic response 12 weeks after discontinuation of therapy.
+
+n/N: number of patients/total number of patients with data available for analysis (modalities with missing data).
+
+Result not found in the patient's medical chart. Genotyping is no longer a requirement for treatment initiation as per French association of hepatologists (AFEF) guidelines.
+
+Patients with current excessive alcohol consumption and current recreational drug use.
+
+Multiple modes of HCV infection could be reported for a given patient (total exceeds 100%).
+
+Noninvasive assessment of liver fibrosis performed by fibroscan, fibrotest and/or fibrometer.
+
+To determine severity of the patient and if they could be treated with the simplified HCV care pathway the following data were collected: fibrosis stage, presence of cirrhosis, HBV coinfection, HIV coinfection, extrahepatic manifestations, liver disease complications and other ongoing comorbidities.
+
+Ongoing comorbidities reported were: diabetes, non‐alcoholic fatty liver disease, arterial hypertension, and renal insufficiency.
+
+Advanced Fibrosis assessed by Fibroscan according to the following rules: F0‐F1‐F2: < 10 kPa/F3‐F4: ≥ 10 kPa.
+
+Fibrosis stage F4 determined by Fibroscan (≥ 13 kPa), Fibrotest (≥ 0.75), Fibrometer (≥ 0.95).
+
+Among the 371 patients in the overall analysis population, 68 patients were excluded from the analysis of the success rate as they were either not treated for at least 8 weeks (N = 3, among patients with treatment duration available), performed the HCV RNA test earlier than required for SVR12 assessment (N = 27), or did not perform an HCV RNA test at all (N = 38 patients, including patients for whom treatment duration was not available).
+
+Overall, SVR12 was achieved by 298 out of 303 patients (98.3% [95% CI, 96.20–99.29]) (Table 1, Table S1). SVR12 rates were nearly identical between those treated by specialists (98.4% [95% CI: 95.84–99.36]) and those treated by non‐specialists (98.3% [95% CI: 91.14–99.71]), and high regardless of the genotype (> 96.0%) and the stage of fibrosis (> 94.4%) (Figure S3).
+
+Median time between obtaining the result of a positive PCR test and treatment initiation was 30 days for both the specialist and non‐specialist prescribers (Table 1). Time between liver fibrosis assessment by fibroscan and treatment initiation was however longer when patients were followed by non‐specialists than when there were treated by specialists (median time: 24 days vs. 13 days).
+
+Adherence to treatment was high overall (100% adherence for 88.2% of patients with available data [268/304]) irrespective of the study group (specialists, 89.5%; non‐specialists, 84.0%).
+
+A total of 24 adverse events (AE) considered related to SOF/VEL occurred in 16 patients (4.30%): 13 AEs occurred in nine patients (3.14%) in the specialist group and 11 AEs occurred in seven patients (8.24%) in the non‐specialist group (Table S2). The most frequent AEs related to the study treatment were gastrointestinal disorders, asthenia, and headaches. All reactions were of mild or moderate intensity, and only one AE related to treatment in the non‐specialist group led to treatment discontinuation (abdominal pain). Four deaths occurred during the study, none of which were related to SOF/VEL.
+
+Study results confirm the effectiveness of SOF/VEL in real‐world clinical practice. Subgroup analyses demonstrated that SVR12 rates are high, regardless of the prescriber (specialists: 98.4% [95% CI: 95.8–99.4], non‐specialists: 98.3% [95% CI: 91.1–99.7]). Treatment adherence was high in both populations and treatment‐related AEs were consistent with the safety profile of SOF/VEL. These results confirm the effectiveness and safety of SOF/VEL when prescribed by non‐specialists, indicating that the simplified HCV care pathway (i.e., immediate treatment initiation by non‐specialists for non‐severe patients) recommended by AFEF may be considered a clinically valid Test and Treat strategy.
+
+Median time between diagnosis and treatment initiation was 30 days for both specialist and non‐specialist physicians. The identical delay is significant as it indicates that patients are treated swiftly and equally, regardless of the prescriber. In addition, this result reveals a positive trend as the median time between HCV testing and treatment initiation was two times longer in 2016 (77 days) and 37 days in 2019 [4].
+
+Study results are therefore in favour of promoting the simplified HCV care pathway, especially since prescription of DAA by non‐specialists remains poor in France with 2.7% to 8.3% of first prescriptions made by a general practitioners [8]. In this study, most patients were treated by specialists (77.4%) and only 31.5% of patients were referred for a reason listed in the AFEF guidelines. Raising awareness and training physicians and other healthcare professionals is therefore essential to avoid needless referrals to specialists and prioritise the prescription by non‐specialists who are the first point of contact for hard‐to‐reach populations and have therefore the greatest opportunity of reaching the last reservoirs of HCV (e.g., people with high‐risk behaviour, marginalised population).
+
+Of note, fibrosis assessment does not seem to be a barrier for treatment initiation as time to treatment was similar between the groups even if time to fibrosis assessment was longer in the non‐specialist group.
+
+There were 33 early study discontinuations due to loss to follow‐up, highlighting the difficulties faced to control sustained virological response, particularly for marginalised patients who avoid health systems (i.e., drug users, homeless people, illegal immigrants).
+
+Study limitations include disruptions caused by the COVID‐19 pandemic which notably impacted patient recruitment. The number of patients included was, however, deemed sufficient for statistical analyses in both the specialist and non‐specialist groups.
+
+In conclusion, this noninterventional study provides evidence confirming that the simplified HCV care pathway strategy is effective and safe for the treatment of chronic HCV infection, regardless of the prescriber and patient characteristics. This approach should be promoted not only in France to increase prescription by non‐specialists, but also in other countries as a tool to achieve WHO HCV elimination goals by 2030.
+
+Denis Ouzan, Laurent Cattan, Ghassan Riachi, and Laurent Roudiere reported links of interest with Gilead Sciences and Abbvie; Vincent Leroy reported links of interest with Gilead Sciences, Abbvie, GSK, Ipsen, and Sanofi; Jean Pierre Bronowicki reported links of interest with Gilead Sciences, Astrazeneca, Roche, Abbvie, MSD, and BMS; Alexandra Heurgué reported links of interest with Gilead Sciences, Abbvie, Ipsen, and Roche; Juliette Foucher reported links of interest with Gilead Sciences, Abbvie, and Jansen; Laure Ekrief reported links of interest with Gilead Sciences, Abbvie, and Ipsen; Dan Pospait, Christophe Renou, Michel Antoni, Laurent Cuissard, Magdalena Meszaros, Jean‐Jacques Meurisse, Thierry Constant, Kouadjo Joseph Koffi, Hatem Salloum, and Philippe Gouiry reported links of interest with Gilead Sciences; Pr Stanislas Pol reported links of interest with Gilead Sciences, Abbvie, LFB, Pfizer, and Vivv; Malek Bentayeb, Laura E. Telep, Teri Chew, and Nicolas J‐P Martin are employees of Gilead Sciences.
+
+Figure S1. Simplified Hepatitis C Virus care pathway.
+
+Figure S2. Patient disposition.
+
+Figure S3. Sustained virologic response rate at 12 weeks per prescriber, fibrosis stage and genotype (eligible set, N = 303).
+
+Table S1. Patients excluded from effectiveness analysis (N = 68).
+
+Table S2. Summary of adverse events considered related to the study treatment (safety set, N = 372).
+
+Table S3. Population characteristics and study outcomes.

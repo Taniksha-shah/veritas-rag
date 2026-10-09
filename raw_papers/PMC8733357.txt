@@ -1,0 +1,525 @@
+The 5th European pharmacovigilance congress: speaker abstracts
+
+Marco Sardella
+
+Chief Pharmacovigilance Officer and EU-UK QPPV ADIENNE Pharma and Biotech–Chairperson and Scientific board for EU PV Congress
+
+Lucia Costanzo
+
+Senior Conference Manager PEC and Responsible Person for EU PV Congress
+
+The 2021 could be defined as the year of the start of the anti-coronavirus (COVID-19) vaccination campaigns. Leading authorities around the world have indeed focused most of their energies on trying to procure the necessary doses to vaccinate their citizens. 2021 has also been a year in which we have been literally bombarded with often unfounded news about vaccine safety. Misinformation and bad propaganda have produced fear in many people and even worse influenced some governments who made decisions purely political, unrelated to signal detection and risk/benefit evaluations, putting at risk the completion of the vaccination campaign itself.
+
+At the same time, 2021 was characterized by a significant fervour, discussion and reorganization within competent authorities and international bodies responsible for the surveillance of medicinal products. Many pharmacovigilance guidelines were reviewed, finalized and issued during the year. As example, the European Medicine Agency (EMA) issued new requirements on periodic safety update reports (PSURs) for COVID-19 Vaccines;1 launched a public consultation on the third revision of Module XVI on ‘Risk Minimisation Measures – Selection of tools and effectiveness indicators’ and its addendum II on ‘Methods for effectiveness evaluation’;2 initiated training activities in preparation on the upcoming EU Clinical Trials Information System (CTIS), which is expected to come into effect starting of end of January 2022;3 published a new version of the EU Implementation Guide for the ISO IDMP standards and terminologies, which will replace the Extended EudraVigilance medicinal product dictionary (XEVMPD);4 published the new extended timeline for the completion of the Signal Detection pilot phase which will continue to run until the end of 20225 and updated the contact list for the standalone signal notifications, applying to the MAHs participating in this EMA project. On 26 May 2021, the Medical Devices Regulation (Regulation (EU) 2017/745)6 became effective and from 31 August to 15 October 2021 the Commission Implementing Regulation (IR) on pharmacovigilance activities consulted with the EMA and its Pharmacovigilance Risk assessment Committee (PRAC), to discuss amendments to some chapters of the IR 520/2012 (e.g. chapter I on the PSMF; chapter III on the minimum requirements for the monitoring of data in EudraVigilance; chapter IV to be revised to reflect the terminology as per ISO IDMP standards; chapter V to include the DOI with the notification of ICSRs detected from the published literature; chapter VIII to include GVP requirement for entry in post-approval safety (PAS Register, etc.).7
+
+Following the Brexit, the UK Medicines and Healthcare products Regulatory Agency (MHRA) published several updates, training materials including webinars to existing guidances for Pharmacovigilance, such as the note on exceptions and modifications to the EU GVP modules.8
+
+The US Food and Drug Administration (FDA) issued the final guidance on electronic submission of Risk Evaluation and Mitigation Strategies (REMS) which will apply from 28 December 2022;9 published a new technical specifications document for the electronic submission of post-marketing safety reports to the FDA adverse event reporting system (FAERS) (e.g. the new mandatory regional data element for ‘FDA Safety Report Type A.1.FDA.16’);10 published a new Draft Guidance on Safety Reporting Requirements for Clinical Trials11 and a Draft Guidance on Safety Reporting obligations for Investigators (‘Investigator Responsibilities – Safety Reporting for Investigational Drugs and Devices’);12 issued a new draft guidance covering the aspects to consider for the use of electronic health records (EHRs) or medical claims data in clinical studies to support a regulatory decision for effectiveness or safety, including study design and the selection of data sources (draft guidance ‘Real-World Data: Assessing Electronic Health Records and Medical Claims Data to Support Regulatory Decision-Making for Drug and Biological Products’).13
+
+The International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) published a draft version of the updated good clinical practices (GCP) under development by the E6(R3).14 The Medical Dictionary for Regulatory Activities (MedDRA) System and Maintenance Organization (MSSO) announced the results from the new collaborative agreement between SNOMED International and the ICH: mappings between MedDRA and SNOMED CT which are intended to facilitate the exchange of data between regulatory databases (which use MedDRA) and healthcare databases/electronic health records (which use SNOMED CT). In one use case, key pharmacovigilance concepts coded in SNOMED CT in an electronic health record (EHR) could be converted to MedDRA for the purpose of adverse event reporting to regulatory authorities or for the purposes of epidemiological research. In the opposite direction, these same key terms coded in MedDRA representing adverse events, warnings and other regulatory information could be converted into SNOMED CT so that the information is available in the patient’s record to aid in clinical decision-making.15
+
+Pharmacovigilance regulatory updates and the global landscape were discussed during the fifth edition of the European Pharmacovigilance Congress, organized by the Pharma Education Centre, broadcasted online on 1–3 December 2021. Updates were provided from international pharmacovigilance organizations such as the ICH, the Council for International Organisations of Medical Sciences (CIOMS), the International Society of Pharmacovigilance (ISoP), the Uppsala Monitoring Centre (UMC) and the Pharmacovigilance Information and Pharmacovigilance Association (PIPA). Pharmacovigilance professionals from all over the world attended the event. The new emerging needs in pharmacovigilance were debated with the participations of experts from competent authorities, marketing authorization holders, clinical research organizations, sponsors of clinical trials and patient expert organizations.
+
+Key topics discussed during the congress included PV in COVID-19 vaccine, signal detection and evaluation, pharmacoepidemiology and risk management, the impact of the clinical trial regulation on PV, the management of data from the use of medical device and combination products following the implementation of the new requirements, PV in personal medicine (the role of pharmacogenomic in drug safety), interaction between pharmacovigilance (GVP) and manufacturing (GMP/GDP), digital health technology, PV inspections and audits.
+
+The sixth edition of the European Pharmacovigilance Congress will be held in Milan, Italy, on December 2022.
+
+References
+
+1. European Medicines Agency. Coronavirus disease (COVID-19), https://www.ema.europa.eu/en/human-regulatory/overview/public-health-threats/coronavirus-disease-covid-19/guidance-developers-companies/covid-19-guidance-post-authorisation#periodic-safety-update-reports-for-covid-19-vaccines-section (accessed 19 October 2021).
+
+2. European Medicines Agency, https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/guideline-good-pharmacovigilance-practices-gvp-module-xvi-risk-minimisation-measures-selection-tools_en.pdf (accessed 19 October 2021).
+
+3. European Medicines Agency. https://www.ema.europa.eu/en/human-regulatory/research-development/clinical-trials/clinical-trials-information-system-training-support (accessed 19 October 2021).
+
+4. European Medicines Agency. https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/product-management-services-pms-implementation-international-organization-standardization-iso_en-0.pdf (accessed 19 October 2021).
+
+5. European Medicines Agency, https://www.ema.europa.eu/en/human-regulatory/post-authorisation/pharmacovigilance/signal-management (accessed 19 October 2021).
+
+6. European Medicines Agency, https://www.ema.europa.eu/en/human-regulatory/overview/medical-devices (accessed 19 October 2021).
+
+7. European Commission, https://ec.europa.eu/health/human-use/consultations/amendments-regulation520-2012_en (accessed 19 October 2021).
+
+8. Medicines and Healthcare products Regulatory Agency, https://www.gov.uk/government/publications/exceptions-and-modifications-to-the-eu-guidance-on-good-pharmacovigilance-practices-that-will-apply-to-uk-mahs-and-the-mhra (accessed 19 October 2021).
+
+9. US Food and Drug Administration, https://www.fda.gov/drugs/risk-evaluation-and-mitigation-strategies-rems/rems-compliance-program (accessed 19 October 2021).
+
+10. US Food and Drug Administration, https://www.fda.gov/media/132096/download (accessed 19 October 2021).
+
+11. US Food and Drug Administration, https://www.fda.gov/media/150356/download (accessed 19 October 2021).
+
+12. US Food and Drug Administration, https://www.fda.gov/regulatory-information/search-fda-guidance-documents/investigator-responsibilities-safety-reporting-investigational-drugs-and-devices (accessed 19 October 2021).
+
+13. US Food and Drug Administration, https://www.fda.gov/regulatory-information/search-fda-guidance-documents/real-world-data-assessing-electronic-health-records-and-medical-claims-data-support-regulatory (accessed 19 October 2021).
+
+14. International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH), https://database.ich.org/sites/default/files/ICH_E6-R3_GCP-Principles_Draft_2021_0419.pdf (accessed 19 October 2021).
+
+15. MedDRA System Maintenance Organization, https://www.meddra.org/news-and-events/news/snomed-ct-meddra-mappings-are-now-available (accessed 19 October 2021).
+
+Christian Rausch1 and Hervé Le Louët2
+
+1MSc Global Health, Uppsala Monitoring Centre/WHO Collaborating Centre for International Drug Monitoring
+
+2CEO of the Uppsala Monitoring Centre/WHO Collaborating Centre for International Drug Monitoring, President of CIOMS
+
+The key priorities for the Uppsala Monitoring Centre/WHO Collaborating Centre for International Drug Monitoring continue to be in the development of the science behind the practice of pharmacovigilance, but also to further the mission of global drug safety. New technologies and tools are being developed to aid scientific discoveries and support the signal assessment process. In addition, new drug risk management tools are being developed.
+
+Internally, the UMC is changing so that it can position itself in the global landscape as a centre of excellence and support. The aim is not to compete with regulatory systems, but to provide them with the best scientific evidence and methodology, access to knowledge, and a platform for collaboration, coordination and capacity-building.
+
+Externally, UMC is looking to strengthen its links with academic networks, forge new relations with patient associations around the world, and increase its exchanges with WHO, large regulatory agencies and ICH. The connections with low- and middle-income countries will be renewed and strengthened, and UMC will then act as a facilitator across global landscape of pharmacovigilance.
+
+UMC is envisaging new projects to respond to the challenges of the future. The strong commitment of its staff gives reason for confidence that these goals will be expertly met.
+
+Lembit Rägo
+
+Secretary-General at Council for International Organizations of Medical Sciences (CIOMS)
+
+Co-founded by WHO and UNESCO in 1949, the Council for International Organizations of Medical Sciences (CIOMS) has as its mission to advance public health through guidance on health research, including clinical research ethics, medical product development, and safety. CIOMS has produced numerous guidance documents in the areas of bioethics, pharmacovigilance and drug development, and its publications have been also translated into many languages including Chinese, Japanese, Russian and Spanish. This report focuses on CIOMS activities in the area of pharmacovigilance and product development linked to it.
+
+When ICH was founded in 1990 to develop harmonized regulatory guidelines on the quality, safety and efficacy aspects of pharmaceutical products, the CIOMS consensus reports had created examples for the standardization of adverse reaction reporting and monitoring. Consequently, the recommendations of several CIOMS Working Groups were taken up in several ICH ‘E’ Guidelines, forming the basis of modern pharmacovigilance. The CIOMS Working Group (WG) on Standardized MedDRA® Queries was active from 2002 to 2019 and developed over 100 Standardized MedDRA® Queries (SMQs) during that time. This work was carried out in collaboration with the ICH MeDRA Management Committee and with the participation of the MedDRA® Maintenance and Support Services Organization (MMSSO). Today, the maintenance and creation of new SMQs are the responsibilities of the MMSSO. Since 2016, CIOMS is an official observer to ICH.
+
+More recent CIOMS WG reports include Evidence Synthesis and Meta-Analysis for Drug Safety – WG X (published in 2016), CIOMS Guide to Active Vaccine Safety Surveillance (2017), CIOMS Guide to Vaccine Safety Communication (2018), Drug-Induced Liver Injury (DILI): Current Status and Future Directions for Drug Development and the Post-Market Setting (2020), Clinical Research in Resource-limited Settings (2021) and the CIOMS Cumulative Pharmacovigilance Glossary Version 1.1 (2021). All CIOMS publications are freely downloadable from its website at https://cioms.ch/publications/ (for hardcopies postal costs apply).
+
+At present CIOMS has 7 active ongoing WGs involving around 240 experts. Five of them are related to pharmacovigilance and product development: (1) CIOMS WG XI on Patient Involvement in the Development, Regulation and Safe Use of medicines (started 2018 – the report will be published after public consultation in 2022), (2) CIOMS WG on MedDRA Labeling Groupings (MLGs – started 2019), (3) CIOMS WG XII on Benefit-risk Balance (update of CIOMS IV report on Beneft-risk balance for marketed drugs) (started 2019), (4) CIOMS WG XIII on Real World Evidence and Real World Data in Regulatory Decision-making (started 2020) and (5) CIOMS Working Group on Severe Cutaneous Adverse Reactions (SCARS) (started 2021). For transparency each WG has its specific section on the CIOMS website at https://cioms.ch/ which also contain public minutes of each full WG meeting held. In average, it takes around 3 years to get a mature WG report published.
+
+In conclusion, CIOMS is continuing to address important topics in the area of pharmacovigilance and is open for the ideas about new topics for its international working groups.
+
+Reference
+
+1. Younus MM, Zweygarth M, Rägo L, et al. The work of the Council for International Organizations of Medical Sciences (CIOMS) in global pharmacovigilance. Drug Saf 2020; 43: 1067–1071 (2020). https://doi.org/10.1007/s40264-020-01003-5
+
+Sarah Hall
+
+Managing Director of Mipsol Limited, HonFPIPA, MRQA
+
+The Pharmaceutical Information and Pharmacovigilance Association (PIPA) is a membership association for professionals working within the fields of medical information, pharmacovigilance and related functions in the pharmaceutical industry. PIPA facilitates professional networking to share best practice and raise standards and provides training, tools and resources to support the PIPA members. This update concentrates on information relevant to pharmacovigilance (PV) professionals during 2021. Due to the continuing pandemic, PIPA’s 2021 conference was held as a virtual event. This year a networking app was included to encourage communication between delegates and with speakers and exhibitors. Conference sessions included updates by the MHRA on the Safety Medicines in Pregnancy and Breastfeeding Consortium and UK Medical Device Regulations. There was also a session on Pharma and the UK National Health Service (NHS) exploring ways that pharmaceutical companies can provide a higher level of support to healthcare professionals (HCPs) as well as PV-specific workshops including one on signal detection for COVID-19 vaccines and PV lessons learned so far. PIPA’s face-to-face training courses have also been run virtually during 2021 taking on board lessons learned from running them virtually during 2020. The first PIPA Global MI and PV Forum was run in March and the PV Day covered the impact of Brexit, globalization and harmonization of PV regulations, risk minimization and Qualified Person for Pharmacovigilance (QPPV) hot topics. PIPELINE, the PIPA journal, continued to be delivered in digital format only and included articles such as PV in Africa, improving PV with modern technologies and the role of artificial intelligence in transforming clinical trials. The regular webinars also continued and areas covered included updating Extended EudraVigilance Medicinal Product Dictionary (xEVMPD) regarding Northern Ireland, PV for cross-border products, UK local literature searching and Safety Data Exchange Agreements. There were already PIPA PV guidance documents covering signal management, post marketing and clinical PV guidelines and data protection in post marketing PV. Three new PV guidance documents were added this year covering the QPPV role, UK medical device vigilance and EU medical device vigilance. Following a suggestion from last year’s EU PV Congress PIPA also launched the Pharmacovigilance System Master File (PSMF) Working Group. The kickoff meeting was in June and the team have been working on guidance notes and a PIPELINE article. The guidance notes are intended to cover all countries that require a PSMF, but it is acknowledged that they can only be guidance and will continue to change with time. 2021 has been another busy year for PIPA and it has taken on a more global view of PV, to better reflect the international scope of many of its members’ roles.
+
+Lembit Rägo
+
+Secretary-General at Council for International Organizations of Medical Sciences (CIOMS)
+
+Since its inception in 1990, the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH) has gradually evolved to respond to increasingly global developments in the pharmaceutical sector. Today, ICH guidelines are applied by a growing number of regulatory authorities. Since organizational changes in October 2015, ICH has grown and now has an increasing number of members (18) and observers (33). ICH has meetings of its governing bodies (ICH Assembly, ICH Management Committee and MedDRA Management Committee) and working groups twice a year. The Assembly meeting minutes are available on the ICH website (https://www.ich.org/). As of June 2021, ICH had 759 experts in 33 working groups.
+
+During the June 2021 ICH Assembly meeting (virtual), New Topic Proposals were discussed. The following new topics/areas were approved: (1) Revision of ICH Q1 Guidelines on Stability Testing and related ICH Q5 C Guideline on Quality of Biotechnological Products: Stability Testing of Biotechnological/Biological Products, (2) Revision of ICH Q6A and Q6B on Specifications: Test Procedures and Acceptance Criteria for New Drug Substances and New Drug Products: Chemical Substances and Biotechnological/Biological Products, (3) new ICH Guideline on General Principles on Planning and Designing Pharmacoepidemiological Studies that Utilize Real-World Data for Safety Assessment of a Medicine and (4) updated version of the ICH Reflection Paper on Patient-Focused Drug Development (PFDD) endorsed in November 2020. The paper presents opportunities for development of new ICH Guidelines to provide a globally harmonized approach to the inclusion of the patient’s perspective in a way that is methodologically sound and fit-for-purpose for both regulated industry and regulatory authorities. Naturally, there are other new topics/areas under discussion and additions to the list may come from the November 2021 ICH governing bodies meetings.
+
+A major recent ICH undertaking worth noting is the Good Clinical Practice ‘Renovation’. The respective ICH Reflection Paper (endorsed in 2017) describing the ICH proposal for further modernization of the ICH Guidelines related to clinical trial design, planning, management and conduct. The scope of the renovation included the revision of the E8 General Considerations for Clinical Trials, and the further revision of the E6 Guideline for Good Clinical Practice (E6(R2)). In line with the Reflection Paper, ICH held public meetings before the finalization of the revised E8 Guideline, including a Global Meeting which was held on 31 October 2019. The E6(R3) EWG web published the draft principles of Good Clinical Practice in April 2021 and had a global web conference on 18 and 19 May 2021 to facilitate broad public engagement and to ensure that stakeholders’ perspectives on and experiences with GCP guidelines are considered in developing ICH E6(R3).
+
+Recently, ICH has also been dealing in a more structured and systematic manner with training. In 2019, it launched an initiative aimed at engaging appropriate accredited non-profit training organizations/institutions as ICH Training Associates. This initiative is aimed at assisting ICH in its efforts to address in a strategic manner the increasing training needs of its Regulatory and Industry Members and Observers.
+
+Fabio De Gregorio 1 and Rachel McDermott 2
+
+1Vice President, Head of Drug Safety, Shionogi Europe
+
+2Safety Physician, Senior Manager Pharmacovigilance, Shionogi Europe
+
+The essence of pharmacovigilance is identifying new risks relating to the use of medicinal products. Signal detection is therefore pivotal for this goal. For an efficient signal detection, it is important to identify the most appropriate strategy and method based on the characteristics of the product and the volume of safety information that the use of the product generates. Data mining applications, able to evidence disproportionate reporting, are not applicable for products which generate low volumes of safety information. These small databases rely on qualitative methods and therefore on the quality of the cases processed to identify a signal. To ensure quality data, it is essential that there is a clear separation between incidental adverse events (AEs) and adverse drug reactions (ADRs) in small databases.
+
+However, this separation is also important in larger database, where data mining is conducted. An excess of fatal (or other serious) cases not attributable to the concerned products can easily generate misleading signals. Therefore, particular care should be exercised in avoiding regulatory submission of solicited AEs, for which suspicion of a causal relationship cannot be implied. Once a ‘false’ signal is generated in an Authorities’ database, it becomes very difficult to confute. Eventually, it may result in an unfavourable and unnecessary warning label, with obvious downsides. This is not in the genuine interest of patients as it may jeopardize continuous access to effective and safe treatments, and, equally importantly, may result in late identification of new true signals, which can easily happen if databases are polluted with low quality or useless information.
+
+Therefore, to avoid triggering false signals, only suspected ADR, as expressly requested by the legislation, should be submitted. Compliance with legal requirements must be maintained and this includes entering not related safety data in the company database, while ensuring they are clearly separated from ADRs. Regulatory submission of not related AE is over/mis reporting, and it is not compliant with GVP provisions and ICH guidance. In the long term, it might result in an inaccurate benefit/risk assessment which would be detrimental for both Company and patients, as described above.
+
+From the perspective of larger databases held by pharmaceutical companies, we can recognize the necessity to collect all safety information (including incidental AE), because with time, opinions and perspectives on causal associations can change. It addresses the problem of the unknown unknowns, which characterizes drug safety. There are always risks with any medications, for some of them we are aware of that which we do not know (known unknowns, for instance potential risks or missing information), but for some others we are not aware of every risk which might exist (unknown unknowns). The latter justifies gathering any kind of safety information, even if believed to be completely unrelated to the use of the product. Hence, collecting incidental events is necessary and useful, but only provided we are able to correctly classify them, marking clearly that which is part of medical history or underlying conditions. As far as smaller databases are concerned, it is even more important to avoid confused and chaotic information blurring the evidence we are looking for.
+
+An important downside of chaotic and disorganized collection of incidental events is reflected in the generation of a false signal of disproportionate reporting with data mining tools. Disproportional reporting calculations are severely biased by incidental events originating by inappropriately coding underlying conditions, medical history and treatment indication. This bias has greater impact on smaller databases. Therefore, an alternative and complementary approach to data mining is developing better qualitative tools which can filter out the polluting effect of incidental events from the database, by performing a more reliable and objective causal relationship assessment.
+
+Global introspection is the most commonly used approach for causality assessment, but it suffers from low inter-rater agreement and time taken to reach a consensus. In fact, global introspection is a subjective exercise and there is a growing need for more objective causality assessment on individual and cumulative levels. In the attempt to improve objectivity, algorithms demonstrated high sensitivity, but low specificity. The preferable approach to improve subjectivity is using a Bayesian method.1–4 Bayesian methods are certainly preferable in terms of quantifying uncertainty and have better discriminative power, allowing for more nuanced causality judgement by allowing for multiple causes to be broken down and assessed, but their application is unpractical as background information on likelihoods is difficult to source.
+
+The alternative is using an algorithm which can be converted from a numeric score into a probabilistic score by means of a logistic regression model. Théophile et al.,5 by comparing the two approaches against consensual expert judgement, found that the logarithmic probability approach was superior to the algorithm alone. In this way, scores (or probabilities) can be accumulated and used as a trigger for generating a signal. At Shionogi, we are developing and validating an internal version of MONARCSi (MOdified NARanjo Causality Scale for ICSRs), originally proposed by Comfort et al.6 The results obtained thus far, albeit still preliminary, are very interesting: the tool demonstrated to have an elevated accuracy (93.1%) for assessing relatedness, showing good sensitivity (91.5%) and specificity (94.5%). In a preliminary analysis, we noted an excellent intra-observer correlation (r = 0.89) and inter-observer correlation (r = 0.69) to assess causality. A lower level of inter-observer agreement was observed with assessment of some variables of the algorithm (specifically, ‘Temporality’, ‘De-challenge’ and ‘Experimental data’), which can be further improved with better guidance and setting clearer rules, definitions and conventions.
+
+In conclusion, both small and large database can be polluted by incidental events. A clear distinction between ADR and incidental event helps avoid that information on background conditions creates bias and delays the identification of true signals. In small databases, qualitative methods are more appropriate to correctly identify new signals, particularly if we can extract numbers and probability scores from good quality data, applying reliable causality assessment methods, with clear and proper rules.
+
+References
+
+1. Lane DA, Hutchinson TA, Jones JK, et al. A Bayesian approach to causality assessment and a Bayesian approach to causality assessment for suspected adverse drug reactions II: techniques for implementation. Technical report no. 472, June 1986. Minneapolis, MN: University of Minnesota.
+
+2. Hutchinson TA, Dawid AP, Spiegelhalter DJ, et al. Computerized aids for probabilistic assessment of drug safety I: a spreadsheet program. Drug Inf J 1991; 25: 29–39.
+
+3. Lanctôt KL and Naranjo CA. Computer-assisted evaluation of adverse events using a Bayesian approach. J Clin Pharmacol 1994; 34: 142–147.
+
+4. Lanctôt KL and Naranjo CA. Comparison of the Bayesian approach and a simple algorithm for assessment of adverse drug events. Clin Pharmacol Ther 1995; 58: 692–698.
+
+5. Théophile H, Arimone Y, Miremont-Salamé G, et al. Comparison of three methods (consensual expert judgement, algorithmic and probabilistic approaches) of causality assessment of adverse drug reactions. Drug Saf 2010; 33: 1045–1054.
+
+6. Comfort S, Dorrell D, Meireis S, et al. MOdified NARanjo Causality Scale for ICSRs (MONARCSi): a decision support tool for safety scientists. Drug Saf 2018; 41: 1073–1085.
+
+Calin Lungu
+
+CEO of DDCS S.A.
+
+Since 2018, a Marketing Authorization Holder (MAH) version of the EudraVigilance Data Analysis System (EVDAS) has been made available by the EMA to registered organizations. The EVDAS data access policy defines the levels of access to information in EVDAS. A pilot phase has been implemented, initially for 1 year, but has, since then extended several times. The currently announced end of the pilot phase is end of 2022. During the pilot phase, certain MAHs are legally obliged to monitor data in EudraVigilance by means of EVDAS. Other MAHs are allowed to use it as well. EVDAS essentially provides electronic reaction monitoring reports (eRMRs) covering several fixed reference periods, line listings and individual case safety report (ICSR) forms. Although the line listings and ICSR forms are intuitive and easy to use, the limited possibility of configuration by the users renders their analysis time consuming. eRMRs pose different challenges, such as applying workarounds in order to obtain complete reports (as they have a maximum export size limit to preserve the performance of the system) and understanding how to filter them. Several filters are combining various parameters to identify potential signals with a medicinal product. EVDAS operates at the level of the active substance high level; hence, users have the possibility to run an active substance grouping report in order to identify the active substance high level to use when requesting eRMRs. This presentation aimed at sharing the most common tips and guidance for using EVDAS.
+
+References
+
+1. Screening for adverse reactions in EudraVigilance (EMA/849944/2016).
+
+2. Guideline on good pharmacovigilance practices (GVP) Module IX – Signal management (Rev 1) (EMA/827661/2011 Rev 1).
+
+3. Guideline on good pharmacovigilance practices (GVP) Module IX Addendum I – Methodological aspects of signal detection from spontaneous reports of suspected adverse reactions (EMA/209012/2015).
+
+4. European Medicines Agency policy on access to EudraVigilance data for medicinal products for human use (EudraVigilance Access Policy) (EMA/759287/2009 Revision 4).
+
+Arduino A. Mangoni
+
+Discipline of Clinical Pharmacology, College of Medicine and Public Health, Flinders University, Adelaide, Australia; Department of Clinical Pharmacology, Flinders Medical Centre, Southern Adelaide Local Health Network, Adelaide, Australia
+
+The high prevalence of polypharmacy and the significant inter-individual variability in organ function, co-morbidity burden and frailty make the identification of a cause-effect relationship between a drug and an adverse drug effect particularly challenging in the older population. For example, two of more drugs concomitantly taken by an individual patient can cause hyponatraemia and specific co-morbidity states, for example heart and liver failure, might additionally confound such association. Machine learning, an artificial intelligence technique used to design and train software algorithms to learn from and act on data, might be useful in this context. Latent class analysis, an objective and unsupervised machine learning technique originally used in the social sciences, can identify underlying classes of drug usage within a population. This can then allow the assessment of potential, unrecognized, associations between these newly created classes and the outcome of interest, for example, an adverse drug reaction. Therefore, latent class analysis can be regarded as a ‘person-centred’ approach to analysis, focused on identifying groups of individuals with a pattern of similar drug usage, in contrast to traditional regression models that identify the mean effects of individual variables. This type of machine learning has been successfully used to disentangle the independent effects of individual drugs and other clinical and demographic characteristics on specific adverse drug reactions. Therefore, it represents a particularly useful statistical approach in a highly heterogeneous group such as the older patient population. Latent class analysis could be used in pharmacovigilance and randomized controlled study datasets to improve our capacity to capture new toxicity signals associated with specific medications or group of medications.
+
+Glyn Belcher
+
+CEO of PV Consultancy Ltd
+
+Probably because of its use by regulatory agencies and the mandatory use of Eudravigilance for some products in EU, it is often assumed that interrogation of safety databases using statistical methodology (data-mining) is the most appropriate methodology to be used by pharmaceutical companies in their own signal detection activities. However, the methodology itself has limitations, and safety data in safety databases, in the main spontaneous reports of suspect adverse drug reactions from the market, is only one source of new signals for pharmaceutical products. For some products, this approach may not be the most appropriate and methodologies used by companies will depend on the number and nature of products marketed by companies. This is supported by the EU GCP module on signal detection ‘Signal detection should follow a methodology which takes into account the nature of data and the characteristics (e.g. time on market, patient exposure, target population) as well as the type of medicinal product concerned . . .’ The frequency of performance of formal signal detection activities equally may differ between different companies and products and even for different products within the same company.
+
+A suitable signal detection methodology for a pharmaceutical company marketing only small molecule generic molecules without any clinical study activities would be different to one for a company marketing a new biological molecule for a rare disease receiving only three to four suspect adverse drug reactions per month. For the former safety database, data mining 6–12 monthly might be suitable. For the latter, this approach would not be so valuable but regular review (probably monthly) of individual ICSRs might be appropriate. If such a company was undertaking a disease registry, with mandatory recruitment for all patients receiving their drug, regular analyses of data accruing in this registry might be the most appropriate approach for signal detection.
+
+Whatever methodologies are determined to be most relevant a document describing and justifying the chosen methodologies, the sources of data to be used and the frequencies of signal detection activities should be available.
+
+Christian Rausch1 and Hervé Le Louët2
+
+1MSc Global Health, Uppsala Monitoring Centre/WHO Collaborating Centre for International Drug Monitoring
+
+2CEO of the Uppsala Monitoring Centre/WHO Collaborating Centre for International Drug Monitoring, President of CIOMS
+
+Drug and vaccine safety studies can be conducted through a wide variety of different methodological approaches. Despite its limitations, the use of a spontaneous reporting system remains essential as it is employed throughout the life of a drug and is widely operational in most countries. The world’s largest database of individual case safety reports (ICSRs) is VigiBase®. VigiBase® contains ICSRs submitted by participating member states of the WHO Programme for International Drug Monitoring. Since 1978, the Uppsala Monitoring Centre, on behalf of WHO, maintains and analyses VigiBase. VigiBase® is a valuable source for information about the safety profiles concerning drugs. This is particularly valuable during the current pandemic, when novel vaccines are being rolled-out.
+
+In this presentation, further insight will be given into the Uppsala Monitoring Centre, the interest of using VigiBase® and a practical example will be given regarding the COVID-19 vaccines. A general overview will be given into the role of VigiBase® as a global ICSR repository and its link with National Pharmacovigilance Centres. In an additional part, the signal detection process at the Uppsala Monitoring Centre will be further elucidated. Finally, a practical insight on VigiLyze®, a search and analysis tool for National, Regional and Global Pharmacovigilance Centres, will were discussed and new functionalities concerning global drug safety on the COVID-19 vaccines presented.
+
+Marco Tuccori
+
+University Hospital of Pisa – Unit of Adverse Drug reaction Monitoring
+
+Risk communication related to treatments was particularly challenging during the COVID-19 pandemic and became more complicated with the advent of vaccines. The miraculous speed with which the vaccines were developed and authorized was a key element in getting out of the emergency because it limited the circulation of the virus and consequently slowed down the onset of worrying variants. However, it was also the object of attack for all vaccine detractors, who considered development times too fast to guarantee safety. Cases of thrombotic syndrome with thrombocytopenia (TTS) generated a risk signal for the Vaxzevria vaccine, later confirmed by regulatory agencies, which fuelled the fear of the vaccine in the population and resulted in a rather widespread vaccination hesitancy. All this has been favoured by the large use of social media, where news (fake or not) circulates uncontrollably by the rampant populist and conspiracy sentiment in many Western countries and, in general, by the lack of trust in governments. In this context, the set up of a correct communication, which can effectively support a vaccination campaign that never before in history is a priority like in this moment, has become a particularly difficult challenge. To set up an effective communication strategy, it is first of all important to understand the mental shortcuts that underlie vaccination hesitancy.
+
+The population generally relies on heuristics to process risk information. These are mental processes that allow you to make quick decisions when dealing with large volumes of information. For example, people’s overestimation of an unlikely outcome (‘compression’) can make it difficult to communicate the actual size of an extremely rare event like TTS. Likewise, a serious but rare event such as TTS can carry more weight in the decision when it is highly publicized (‘availability’). Some people tend to anticipate negative emotions in the face of a decision and therefore avoid that path (‘anticipated regret’), and this can limit the acceptance of the vaccine and impact on the desire of a healthcare professional to recommend the Vaxzevria vaccine. In relation to this, people may prefer to accept an outcome that comes from doing nothing (not getting vaccinated) rather than an outcome that comes from doing something (getting vaccinated) (‘omission bias’) or avoid taking risks when the outcome is uncertain (‘aversion to ambiguity’). The heuristics is based on values that determine people’s thinking, feelings and actions towards risk. The relevant values for the approximate hesitation can be self-determination, fairness, harm minimization and justice.
+
+With these principles in mind, an effective communication strategy that supports the vaccination campaign must have the support of health professionals and regulatory authorities. Communication must be written and verbal and where possible use graphic tools that help understanding in the less educated population groups. It must be frequent and transparent so that the population feels part of the decisions made and the reasons behind these decisions. Vaccination should be promoted but not be over-reassuring, always communicating elements of uncertainty. The channels through which information is conveyed must be as diversified as possible. False or misleading information must be identified early and debunked. Communication should be prioritized in certain key groups such as healthcare professionals. It is important that the messages are conveyed by vaccine experts rather than politicians. Finally, it is advisable to consider monitoring the effects of communication by identifying parameters that can detect changes in behaviour and that allow adjustments to be made in the strategy, when necessary.
+
+Hadir Rostom
+
+Lecturer MSA university & President of ISoP Egypt Chapter
+
+Pharmacovigilance in its expanded scope is concerned with an integrated drug safety monitoring process not only for the identification and characterization of adverse drug reactions (ADRs) but also for adopting proactive risk mitigation strategies for them. The spontaneous reporting of ADRs and observational studies have been always seen as the most commonly and widely used method for collecting safety data; however, spontaneous reporting has its well-known limitations of under-reporting, poor quality of data and lack of a reliable denominator of exposure. With the advances in Pharmacovigilance practice, additional sources of safety data have been increasingly considered, examples include Electronic Health Records (EHRs), insurance claims, social media and other digital media.
+
+Generally, healthcare settings gather and store large digital sets of patient data resulting from routine medical examinations, prescriptions, laboratory testing and administrative claims; most of this information ends up reflected in patients’ EHRs. However, many of the existing EHRs were designed for purposes of medical billing rather than for medical care, resulting in challenges for using the recorded data for safety data capturing, as the majority of recorded clinical data in EHRs are unstructured.
+
+Digital health refers to a broad scope of using technologies in healthcare, among which telehealth and telemedicine which are markedly evolving era. Where Telehealth refers broadly to all clinical, educational and administrative services delivered remotely, Telemedicine – as subset of Telehealth – applies specifically to remote clinical care provided by a licensed professional.
+
+The various forms of telemedicine currently in use are Televisits which refers to the usual patient-provider visit but via videoconference, Tele-monitoring by which the signs or symptoms are being sent electronically from patient to provider team in another location, Tele-interpretation refers to remote interpretation of radiology and other tests, Tele-consultation in which a healthcare provider in one location presents a case to an expert in another location, and Telepharmacy a model which provides pharmacy operations at a distance including phone contacts, medication dispensing, educational support, digital pill counts to track adherence, and telemonitoring. Many of these platforms are integrated with Patient-Centric EHR System where it contains structured longitudinal data at the single patient level. As records are updated over time, they are suitable to address clinical questions that require regular patient follow-up and to predict outcomes at different stages of the patient’s journey.
+
+The notion of integrating features for Pharmacovigilance practice in these electronic platforms can support drug safety monitoring and patient safety, especially if this was considered early-on during the development of such technologies. The ultimate goal is to introduce features that facilitate ADR differential diagnosis, reporting, the mining in diverse data sources, the analysis of the acquired data, the aggregation of the evidence to conclude with ADR assessment and follow-up ADR monitoring over time in a systematic way. On the reverse direction, such integration can also support the delivery of safety communication and risk minimizations information to healthcare professionals and patient, which raise the need to open a dialogue between pharmacovigilance organizations and developers of such technologies on the needed integration.
+
+References
+
+1. Del Rio-Bermudez C, Medrano IH, Yebes L, et al. Towards a symbiotic relationship between big data, artificial intelligence, and hospital pharmacy. J Pharm Policy Pract 2020; 13: 75.
+
+2. Murdoch TB and Detsky AS. The inevitable application of big data to health care. JAMA 2013; 309: 1351–1352.
+
+3. Omboni S. Connected health in hypertension management. Front Cardiovasc Med 2019; 6: 76.
+
+4. Serper M and Volk ML. Current and future applications of telemedicine to optimize the delivery of care in chronic liver disease. Clin Gastroenterol Hepatol 2018; 16: 157–161.e8.
+
+5. Tuccori M and Wallberg M. Other sources of information for monitoring drug safety: now and in the future. In: Edwards I and Lindquist M (eds) Pharmacovigilance. Cham: Adis, 2017, pp. 181–193.
+
+Adriaan Kruger
+
+nuvoteQ Proprietary Limited
+
+With virtual and decentralized clinical trials being adopted more and more on a global scale, connectivity to patients in emerging markets (especially in rural areas) have become more and more challenging. Over the past 2–3 years, we have seen advancement in the arena of connectivity which will have a significant impact in the way clinical trials can be conducted in rural areas.
+
+Patient centricity will become more significant in the years to come and having the ability to connect with patients using a digital medium is going to be essential. In first world countries this is not a problem, but in many third world countries this is still a big problem today and it has an impact on patient safety, as adverse events are not reported as and when they happen.
+
+The following technologies will change this:
+
+Starlink is a company specializing in high-speed, low latency Internet on a global scale. Using advanced satellites in a low orbit, Starlink enables video calls, streaming and other high data rate activities that historically have not been possible with satellite Internet. The plan is to create a constellation of mini satellites spanning across the globe, thereby connecting the unconnected.
+
+Zero Rated Data is a technology concept which will allow patients to access online research platforms (i.e. ePRO platform, Pharmacovigilance platform) without using any of their own funds to pay for the data traffic. All the data traffic to these platforms are intercepted and reverse billed to the sponsor company, so doing making it available to anyone.
+
+Zero Rated video calling is a set of new bespoke technologies which will allow patients who take part in a clinical trial to phone the investigator or safety physician with any question regarding the study, or to log an adverse event. Empowering patients in rural communities with this capability will be a very large step towards patient centricity.
+
+Ilaria Grisoni
+
+Executive Director, Head of EU/International PV & Global Risk Management and EEA QPPV- jazz Pharmaceuticals
+
+The Pharmacovigilance (PV) environment is very complex and dynamic for what concerns its regulatory landscape worldwide. In 2021, several updates have occurred in global regulatory requirements, including key changes in already existing requirements as well as new and/or upcoming requirements in major and emerging markets. In these latter countries, there is a tendency towards adopting European guidance, but there are also local requirements and peculiarities that are specific for each Territory, thus creating multiple scenarios and raising challenges for pharmaceutical companies and their ability to comply with any necessary requirement globally. Companies are investing more budget and resources in the Regulatory Intelligence space for strategical and operational reasons, as there is an increasing focus of scrutiny during audits and inspections. Regulatory Intelligence has become a key asset for global PV activities, not only to improve compliance and adherence to regulatory requirements, and to support the commercial growth of the company and its expansion into new Territories, but also and above all to ensure patients’ safety.
+
+Helen Byomire Ndagije
+
+National Drug Authority, Kampala - International Society of Pharmacovigilance – Africa Chapter
+
+Pharmacovigilance is one of the rapidly changing fields of drug regulation.1 This dynamic scientific discipline in medicine regulation has recently evolved in scope due to the changes in the morbidity and mortality of different populations especially during the pandemic situation.2 The sudden increased access to medicines and vaccines to the household level has positioned pharmacovigilance to be a household name in the near future. The varied utilization of medicines at all levels of healthcare calls for more stringent measures locally, regionally and internationally to manage the possible harm that could arise.3 Even with limited resources, countries should adopt and implement strategic and more cost-effective ways to providing safer medicines and healthcare for the population. A good pharmacovigilance system requires to be supported by regulations and guidelines to ensure prompt recognition, response and prevention of drug-related issues and effective communication of information and solutions to all stakeholders. Despite close to 80% of African countries having joined the World Health Organization Programme on International Drug Monitoring, the continent contributes 1% of the suspected adverse drug reaction reports in the global database.4,5 Discussions of the Africa chapter of the International Society of pharmacovigilance revealed that a number of African countries have recently issued pharmacovigilance regulations and guidelines for reporting adverse events by the pharmaceutical industry.6 The establishment of the African Medicines Agency (AMA) could not have come at a better time than now.7 The AMA treaty ratified on 5 November 2021 by 80% of the continent aspires to enhance capacity in medicine regulation in order to improve access to quality, safe and efficacious medical products. An African Union model law is in place to catalyse this aspiration.8 The efforts of the African Medicines Regulatory Harmonization initiative have demonstrated that collaboration among member countries in a work-sharing and capacity-building environment is possible and contributes greatly to global medicine quality and safety data.9 In such an environment, the East African Community regional economic block has conducted a baseline national pharmacovigilance assessment and already developed a strategic business plan to address the gaps in the existence and enforcement of guidelines. Despite the wide array of regulatory environments and capacities, this is a firm commitment towards addressing the issue of under-reporting which is one of the biggest challenges of pharmacovigilance in the region. Uganda started systematic collection of safety information in 2007 with the formation of the National Pharmacovigilance Centre, and its incorporation as the 83rd member of the WHO Program of International Drug Monitoring. Over the years, the centre developed guidelines for the pharmacovigilance system in the country for healthcare facilities, public health programmes and market authorization holders.10 Active 3 pharmacovigilance monitoring have also been added to the traditional spontaneous reporting of adverse events. During the pandemic, guidelines for herbal medicines have been reviewed to handle the popular alternative therapies that were approved for supportive use in Uganda. Almost every African country has a medicines regulatory authority albeit with different levels of growth, maturity and expertise. The ongoing regulatory systems strengthening and harmonization efforts, including the recent establishment of the AMA, provide opportunities for growth of pharmacovigilance and medicine regulation.
+
+References
+
+1. Jeetu G and Anusha G. Pharmacovigilance: a worldwide master key for drug safety monitoring. J Young Pharm 2010; 2: 315–320.
+
+2. Kugener VF, Freedland ES, Maynard KI, et al. Enhancing pharmacovigilance from the US experience: current practices and future opportunities. Drug Saf 2021; 44: 843–852.
+
+3. Ogar C, Mathenge W, Khaemba C, et al. The challenging times and opportunities for pharmacovigilance in Africa during the COVID-19 pandemic. Drugs Therapy Perspect 2020; 36: 351–354.
+
+4. Members of the WHO Programme for International Drug Monitoring, https://www.who-umc.org/global-pharmacovigilance/members/whoprogramme-members/ (2021, accessed 27 October 2021).
+
+5. WHO Uppsala Monitoring Centre, Sweden. Analytics in vigilyze, https://vigilyze.who-umc.org/ (2021, accessed 19 November 2021).
+
+6. International Society Africa Chapter, 1. ISoP Africa chapter conference. In: Setting the stage for pharmacovigilance inspections in Africa, 2021, https://isoponline.org/chapters/africa/
+
+7. Treaty for establishment of the African Medicines Agency enters into force, 2021, https://au.int/en/pressreleases/20211109/treaty-establishment-african-medicines-agency-amaenters-force
+
+8. The African Union Commission. The AU Model Law, 2021, https://au.int/africanunion-model-law
+
+9. Barry A, Olsson S, Minzi O, et al. Comparative assessment of the national pharmacovigilance systems in East Africa: Ethiopia, Kenya, Rwanda and Tanzania. Drug Saf 2020; 43: 339–350.
+
+10. Kiguba R, Olsson S and Waitt C. Pharmacovigilance in low and middle-income countries: a review with particular focus on Africa, 2021.
+
+Sarah Hall
+
+Managing Director of Mipsol Limited, HonFPIPA, MRQA
+
+The United Kingdom of Great Britain and Northern Ireland (UK) left the European Union (EU) on 31 January 2020, and the transition period ended on 31 December 2020. Since 1 January 2021, compliance with UK Pharmacovigilance (PV) legislation has required following EU Good Pharmacovigilance Practice (GVP) together with the ‘Exceptions and modifications to the EU guidance on good pharmacovigilance practices that apply to UK marketing authorisation holders and the licensing authority’.1 The Medicines and Healthcare products Regulatory Agency (MHRA) has published additional guidance on their website2 which they continue to update. With almost a year’s experience of the new regulations, we have a preliminary look at the requirements and their impact. The UK PV landscape is complicated by the Northern Ireland Protocol put in place to avoid a hard boarder within the island of Ireland. The MHRA has legal responsibility for medicinal products and public safety for the whole of the United Kingdom. However, for products licensed in NI (EU Centrally Authorized Products (CAPs), UKwide (PL) and those covering NI only (PLNI)) Marketing Authorization Holders (MAHs) must follow both UK and EU legislation. All UK MAHs must have a UK Qualified Person for Pharmacovigilance (UK QPPV) based in the UK or EU/European Economic Area (EEA) and a UK Pharmacovigilance System Master File (UK PSMF). If the UK QPPV is based in the EU/EEA, a UK National Contact Person for Pharmacovigilance (NCPP) is also required. The NCPP must be appointed by 1 January 2022 so this is an area where we have very little experience so far. MAHs must report all UK serious Individual Case Safety Reports (ICSRs) to the MHRA and European Medicines Agency (EMA) within 15 days and non-serious NI ICSRs within 90 days. The MHRA no longer receives EU non-serious reports and the EMA no longer receives UK non-serious reports. Any Great Britain (GB) reports received directly by the MHRA are sent to MAHs via the MHRA Submissions Portal or Gateway and MAHs must submit serious GB reports to the EMA within 15 days. Likewise, EU serious reports received directly by an EU Member State (MS) and made available to MAHs via EudraVigilance (EV) must be submitted to the MHRA within 15 days. The additional reporting has led to an increase in Pharmacovigilance (PV) workload particularly for companies that aren’t using PV databases or reporting via the MHRA Gateway.
+
+Will the delay in awareness of serious ICSRs and non-receipt of non-serious ICSRs by the MHRA and EMA impact signal detection activities? Requirements for MAHs to conduct signal detection activities against their own and the EV databases and sharing of potential signals with the MHRA and the EMA will hopefully facilitate timely decision making. Identification of COVID-19 vaccine safety signals by both agencies at about the same time indicates that benefit:risk assessment and related decisions are not impacted, but this is probably an area to keep an eye on. We are still learning and the MHRA will continue to provide support and guidance, but implementation of the UK legislation has been relatively straight forward and successful.
+
+References
+
+1. Exceptions and modifications to the EU guidance on good pharmacovigilance practices that apply to UK marketing authorisation holders and the licensing authority, https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/949102/Exceptions_and_modifications_to_the_EU_guidance_on_good_pharmacovigilance_practices_that_apply_to_UK_MAHs_v2.pdf
+
+2. https://www.gov.uk/government/collections/new-guidance-and-information-for-industry-from-themhra
+
+Brian Edwards
+
+Managing Director – Husoteria Ltd
+
+Human factors for the pharmaceutical and device sectors needs to be a more important topic. Human performance impacts how all forms of medical products are manufactured, how hospital and community services work effectively, and how patients use medicines and drug-device combination products. Human factors can be used to improve the quality of products, efficiencies in processes, reduce errors, understand critical incidents and promote the well-being of staff and patients. However, like other areas of healthcare, human factors is generally not well established. The good news is that there is growing interest in its application. The UK Special Interest Group on Pharma Human Factors was launched in December 2015 and is based within the Chartered Institute of Ergonomics and Human Factors and its membership includes individuals with an interest in Human Factors and medical products across academia, the NHS, the Pharmaceutical Industry and Regulatory Authorities. It meets monthly via teleconference, and its Chair person is Brian Edwards, Adopting the principles and practices of human performance has led to valuable business and safety performance improvements in high-risk high-consequence industry sectors, such as energy and aviation. Eager to realize similar levels of improvement, several companies in the pharmaceutical and biopharmaceutical manufacturing sector have begun the adoption of human performance within their operations. However, the unique industry context and regulatory environment of this sector has proven the adoption of human performance principles and practices to be more challenging and complex than simply copying from the successes of other industries. Human performance is believed by many companies in our industry to be a focus on human error reduction, where work outcomes will improve by adding more requirements and coercing people to try harder to be infallible. This archaic approach is not sustainable today and is not human performance. In the United Kingdom, there is a unique pharmaceutical human factors group whose aim is to accelerate the pharmaceutical and device system maturity by building a greater understanding of what is desired what we mean by optimizing human performance, examining the evidence and explaining how to get there. We propose international harmonization of the systems for both pharmaceuticals and devices through guiding principles and we invite others to join our international community of practice.
+
+References
+
+1. https://www.biophorum.com/download/human-performance-blue-sky-thinking-in-human-performanceand-how-to-get-there/
+
+2. https://www.ergonomics.org.uk/Public/Resources/Publications/Learning_from_Adverse_Events/Learning_from_Adverse_Events.aspx 3
+
+3. Pharmaceutical Human Factors Sector Group, https://www.ergonomics.org.uk/Public/Get_Involved/Group_Details/Pharma_Human_Factors.aspx
+
+Doris Irene Stenver
+
+PV Adviser, Founder of Unique Advice
+
+The Pharmacovigilance Risk Assessment Committee (PRAC) was established in 2012, following the implementation of a new comprehensive legislation in the EU. The committee is composed of members from the 27 member states, Norway and Iceland, additional experts from universities across Europe as well as health care and patient representatives. The mandate covers all aspects of risk management pre- and post-authorization, benefit/risk assessments and organization of public hearings. The toolkit comprises referrals, periodic safety update reports, risk management plans, signals, post-authorization safety studies, post-authorization efficacy studies and additional monitoring. The PRAC recommendations are forwarded to the CMD(h) and CHMP or formal adoption. With the emergence of the pandemic, the existing guidance has been supplemented with a pharmacovigilance plan aiming at effective data collection, detection and assessment of safety data. Additional guidance regarding the development of risk management plans had been issued. PRAC has contributed significantly to the work in the pre- and postauthorization phase, having provided advice regarding the risk management plans and having assessed numerous signals, safety reports and PASS protocols for the COVID-19 vaccines. All done in accordance with the basic PRAC principles of risk-based approach, involvement and transparency.
+
+Elena Prokofyeva
+
+Drug safety Unit, DG PRE Authorization/Division R&D, Federal agency for medicines and health products, Brussels, Belgium
+
+Clinical trial regulation (CTR) No 536/2014 will come into force on 31 January 2022. The safety assessing Member State (SaMS) will play a key role in the annual safety report and SUSARs assessments under the CTR. The SaMS main responsibilities will include screening of information in all SUSARs and ASR and assessing them following a risk-based approach, requesting missing or further information from sponsors, and identification of active substance and investigational medicinal product-related safety concerns. The SaMS will support the assessment of aspects related to the reference safety information (RSI) in the initial application or in an application for substantial modification. The SaMS will record assessment of ASR/SUSARs as well as will prepare recommendations related to safety to Member States concerned (MSC) and Reporting Member States (RMS) so that they can request corrective measures, if necessary. The SaMS will also provide assistance with any additional safety matter related to the particular active substance when requested by MSC and RMS. The SaMS will work closely with the RMS and the MSC. They will support the SaMS in the coordinated safety assessment and will have the possibility to comment and raise queries on the assessments and take into due account safety-related concerns and recommendations by the SaMS in the context of the clinical trial they authorized. MSC/RMS will communicate safety concerns related to the active substance to the SaMS. RMS and MSC may coordinate and facilitate active substance-related safety surveillance and oversight across clinical trials. Specific rules and procedures for Member of States cooperation on safety assessment in clinical trials will be set in the commission implementing regulation, which will be published before the CTR comes into force.
+
+Gian Nicola Castiglione
+
+Head of Global Pharmacovigilance, EU-UK QPPV- Chiesi Farmaceutici S.p.A., Parma (Italy)
+
+A new Medical Device Regulation (EU MDR) governing medical devices products in the European Union came into application on 26 May 2021, with the intent of addressing some weaknesses recognized in the old directives and determining a significant change in how industries have to manage medical devices products for human use. The EU MDR indicates stricter rules on clinical evaluation processes, safety, classification and performance of medical device products. Of note, improved transparency through the establishment of a device traceability system; identification of at least a qualified person; reinforcement of the rules on clinical evidence; strengthening of post-market surveillance requirements for manufacturers; creation of a European database on medical devices products; and introduction in EU of the concept of drug-device combination product with an attempt to regulate this field. In small and medium pharmaceutical enterprises, the vigilance of medical device products is often asked to personnel managing pharmacovigilance. Considering the different setting, it is sometimes difficult to have a clear comprehension on how the two areas should be managed or merged. In order to provide some clearance on the matter, after an overview of the major changes in the EU MDR, the presenter will provide a description of the vigilance of medical device products with a special reference to the documentation which should be managed to be compliant with law.
+
+Reference
+
+1. Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EE.
+
+Tina Amini
+
+NDA Group, Medical Device Division Director
+
+The continuous evolvement of the regulatory landscape within the EU maintains the complexity, specifically for combination products. While adding to the challenge without ensuring compliance, companies are unable to launch a combination product and maintain market access. In the EU, there is no single definition of a combination product in the legal framework of either medicinal products or medical devices. EU products combining a medical device and medicinal product are either regulated as a medicinal product or a medical device with the primary mode of action and the intended purpose governing the regulatory pathway and the subsequent post marketing safety monitoring procedures.
+
+For devices containing active substances, the procedure for reporting of suspected adverse reactions and incidents varies depending on if these devices have been authorized in the EU as a single integral part of medicinal products or CE marked as medical devices. Devices authorized as an integral part of medicinal products (DDCs) follow the pharmacovigilance requirements provided in Directive 2001/83/EC and Regulation (EC) No 726/2004 as amended, while devices CE marked as medical devices even when co-packaged with the medicinal product or referenced follow the requirements for medical device vigilance as specified in the relevant regulations. Despite the common general principles and aims, each legislation necessitates different approaches and has different requirements.
+
+The new EU Medical Device Regulation EU/2017/745 (MDR) significantly strengthens requirements around post-market vigilance and reporting. Since the date of its implementation, medical device manufacturers must have an integrated post market surveillance system established within their overall Quality Management System ensuring that all new and updated requirements are addressed. This also applies to medical devices which are marketed under the old directives and for which a valid CE certificate remains in place.
+
+Fortunately, the amendment of Directive 2001/83/EC by EU MDR Article 117 and involvement of EU notified bodies in the assessment of device part of single integral DDCs does not change the fact that such products are regulated as medicinal products and the pharmacovigilance procedure remains applicable. However, as the uncertainty with role and responsibilities and potential duplicate reporting remain, further clarification and guidance for post-market surveillance in combination products is eagerly awaited.
+
+Giovanni Furlan
+
+Safety Risk Lead, Director - Pfizer S.r.l., Scientific Board EUPV congress
+
+Patients vary in their response to a drug: the same drug at the same dose can have different safety and efficacy in different patients. Genetic factors are estimated to account for 15–20% of these differences, but for some drugs they can account for up to 95% of interindividual variability.1
+
+Pharmacogenomics is the study of the genes, their polymorphism, structure, function, transcription and translation, how they interact with each other and with the environment. The goal of pharmacogenomics is to understand how genetic variants influence drugs’ pharmacokinetics and pharmacodynamics,2 thereby altering their benefit-risk balance. In fact, it has been suggested that one third of serious adverse reactions have a genetic variant as a contributory factor.3
+
+Sometimes the response to a drug is influenced by a single gene variant and can therefore be associated with clearly defined metabolizer or responder phenotypes. More frequently, however, multiple genes contribute to a trait and one gene can have multiple alternative forms with the relevant protein having an activity that can range from high to low. In these instances, the variability with which patients respond to a drug will have a normal distribution.4
+
+Warfarin, a drug used for the prevention and treatment of venous thromboembolism, is an example of how both genetic and environmental factors contribute to the safety and efficacy of a drug. Warfarin has a narrow therapeutic index: subtherapeutic anticoagulation increases the risk of thromboembolism, while supratherapeutic anticoagulation can cause bleeding. Unluckily, the dose required to achieve its target effect can vary up to 20-fold.
+
+Warfarin is a racemic mixture, and the S enantiomer is more effective in inhibiting vitamin K epoxide reductase (VKORC1) as compared to the R enantiomer.5 S-warfarin is metabolized by cytochrome 2 C9 (CYP2 C9), while R-warfarin mainly by CYP1A1 and 3A4. VKORC1 reduces epoxidized vitamin K to vitamin K hydroxyquinone, an essential cofactor of gamma-glutamyl carboxylase (GGCX), an enzyme that converts clotting factors from hypofunctional to functional. Traditional warfarin dosing is based on dose adjustment starting from 5 mg/day, while some guidelines base dosing on VKORC1 and CYP2 C9 genotyping, since variants of these genes affect warfarin metabolism and mechanism of action and are associated with lower warfarin requirements to achieve the target therapeutic effect. Dosing in European patients based on VKORC1 – 1639 G > A and CYP2 C 2* and 3* variant genotyping was found to increase the time in therapeutic range as compared to patients treated with traditional dose adjustment.6 Another study, instead, found that warfarin dosing based on the genotyping of the same gene variants resulted in African American patients staying less time in therapeutic range as compared to traditional dosing.7 The reason was that in this population also CYP2 C9 5*,6*,8* and 11* variants together with another variant in a CYP2 C non-coding region are particularly frequent and are associated with a lower warfarin requirement since they reduce CYP2 C9 functionality. Therefore, dosing guidelines that take into account these and other variants of genes that can influence the biochemical cascade triggered by warfarin (such as variants of CYP4 F2 that metabolizes vitamin K hydroxyquinone thereby reducing its concentration and therefore the functionality of GGCX) have been developed.8,9
+
+In general, whenever the metabolism and mechanism of action of a drug is complex and involves multiple steps, dosing algorithms should consider all the genetic variables that are frequent in the different ethnicities and that can influence the drug’s metabolism or mechanism of action. In these instances, dosing becomes more precise with the increase of the number of genetic variables that is considered (even if this can be at detriment of practicality). However, even these tailored dosing algorithms might not be perfect since it does not consider non-genetic factors that can influence dosing. For warfarin, for example, these include elderly age, weight, height and body mass, amount of vitamin K taken with the diet, drug–drug interactions and non-adherence to the prescribed dose.10
+
+In the future, we will probably know all genetic variants of each patient, how they affect the safety and efficacy of a drug and how they interact with the environment. Artificial intelligence could guide which drugs we should take and at what dose.
+
+References
+
+1. Kager L and Evans WE. Pharmacogenomics. In: Provan D and Gribben JG (eds) Molecular hematology. 4th ed. John Wiley & Sons.
+
+2. Pharmacogenomics. Challenges and opportunities in therapeutic implementation (ed YWF Lam and SA Scott). 2nd ed. Academic Press.
+
+3. Pirmohamed M. Personalized pharmacogenomics: predicting efficacy and adverse drug reactions. Annu Rev Genomics Hum Genet 2014; 15: 349–370.
+
+4. Roden DM, McLeod HL, Relling MV, et al. Pharmacogenomics. Lancet 2019; 394: 521–532.
+
+5. Hogg K and Wietz JI. Blood coagulation and anticoagulant. Fibrinolytic, and antiplatelet drugs. In: Bruton LL, Hilal-Dandan R and Knollman BC (eds) Goodman & Gilman’s the pharmacological basis of therapeutics. 13th ed. McGraw Hill.
+
+6. Pirmohamed M, Burnside G, Eriksson N, et al. A randomized trial of genotype-guided dosing of warfarin. NEJM 2013; 369: 2294–2303.
+
+7. Kimmel SE, French B, Kasner SE, et al. A pharmacogenetic versus a clinical algorithm for warfarin doing. NEJM 2013; 368: 2283–2293.
+
+8. Dean L. Warfarin therapy and VKORC1 and CYP genotype. In: Pratt VE, Scott SA, Pirmohamed M, et al. (eds) Medical genetic summaries. Bethesda, MD: National Center of Biotechnology Information, 2012 (updated in 2018).
+
+9. Johnson JA, Caudle KE, Gong L, et al. CPIC guideline for pharmacogenomics-guided warfarin dosing: 2017 update. Clin Pharcol Therap 2017; 102: 397–404.
+
+10. Daly AK. Pharmacogenomics of warfarin. In: Handbook of pharmacogenomics and stratified medicine. Elsevier, 2014.
+
+Qun-Ying Yue
+
+Senior Pharmacovigilance Expert -Uppsala Monitoring Centre
+
+Pharmacogenomics (PGx) can play an important role in interindividual responses to drugs and help to identify responders and non-responders, prevent adverse events and optimize drug dose.1–4
+
+Drug labelling may contain information on genomic biomarkers and can describe drug exposure and clinical response variability; risk of adverse events; genotype-specific dosing; mechanisms of drug action; polymorphic drug target and disposition genes; and trial design features.
+
+There are guidance documents available from regulatory authorities such as European Medicines Agency (EMA) and US Food and Drug Administration (FDA) addressing how variations in the human genome, specifically DNA sequence variants, could affect a drug’s pharmacokinetics (PK), pharmacodynamics (PD), efficacy or safety in new drug development;5 or addressing the influence of PGx on pharmacovigilance (PV), including considerations on how to evaluate the PV-related issues for medicines with PGx associations, and how to translate the results of these evaluations to appropriate treatment recommendations in the labelling throughout all stages of regulatory PV activities.6
+
+Different types of genomic biomarkers relevant for PV are available; for example, (1) biomarkers related to PK or PD such as CYP2C19 and clopidogrel, as well as CYP2 C9 and warfarin (for PK) and vitamin K epoxide reductase (VKORC1) and warfarin (for PD); (2) biomarkers associated with drug-induced toxicity risk status, such as human leukocyte antigen (HLA) alleles for idiosyncratic reactions with abacavir (hypersensitivity with HLA-B*5701) and carbamazepine (severe cutaneous adverse reactions with HLA-B*1502 in some Asian populations).
+
+The guideline on key aspects for the use of PGx in PV covers those aspects of PV activities and risk minimization measures in the risk management plan (RMP) related to the use of medicines in genetic subpopulations, signal detection and genomic data collection, as well as risk evaluation.
+
+There are several current challenges in this field, among them
+
+Regarding post-marketing genomic data collection: how spontaneous ADR reports related to possible genetic polymorphisms may trigger pharmacogenetic research? Is it possible to collect genomic samples from every patient receiving medication and experiencing a medically important ADR or lack of effectiveness in the initial post-launch period? Comparisons with DNA from patients without the safety/efficacy concerns? The possibility to collect pharmacogenetic information from pharmacoepidemiologic databases?
+
+Regarding implementation of the genomic biomarkers use, issues with awareness and knowledge on the recommendations on use of the biomarkers; availability of genetic testing and measurement of the effectiveness of the biomarker use.
+
+References
+
+1. Drews J. Genomic sciences and the medicine of tomorrow. Nat Biotechnol 1996; 14: 1516–1518.
+
+2. Roden D, Altman R, Benowitz N, et al. Pharmacogenomics: challenges and opportunities. Ann Intern Med 2006; 145: 749–757.
+
+3. Collins SL, Carr DF and Pirmohamed M. Advances in the pharmacogenomics of adverse drug reactions. Drug Saf 2016; 39: 15–27.
+
+4. Lauschke VM, Milani L, Ingelman-Sundberg M. Pharmacogenomic biomarkers for improved drug therapy – recent progress and future developments. AAPS J 2018; 20: 4.
+
+5. U.S. Food & Drug Administration. Clinical pharmacogenomics: premarket evaluation in early-phase clinical studies and recommendations for labeling. Clin Pharmacol 2013.
+
+6. European Medicines Agency. Guideline on key aspects for the use of pharmacogenomics in the pharmacovigilance of medicinal products, 2015.
+
+Mulugeta Russom 1,2,3
+
+1Eritrean Pharmacovigilance Centre, National Medicines and Food Administration, Asmara, Eritrea
+
+2Department of Medical Informatics, Erasmus Medical Centre, Rotterdam, the Netherlands
+
+3European Program for Pharmacovigilance and Pharmacoepidemiology, Bordeaux, France
+
+Introduction: From 2012 to 2018, over 140 cases of extrapyramidal reactions associated with artesunate/amodiaquine (AS/AQ) tablet, mainly in children and younger adults, were reported to the Eritrean Pharmacovigilance Centre. This represents about 54% of such cases reported to the WHO global pharmacovigilance database. About 88% of the cases were hospitalized and reaction was life-threatening in several patients. Given the nature and seriousness of the reaction, the National Medicines and Food Administration (NMFA) in collaboration with the Communicable Disease Control Division (CDCD) of the Department of Public Health has been working to identify risk factors. The aim of this report is to share what investigations were carried out to identify risk factors and the risk minimization measures employed.
+
+Methods: The age for body weight band of Eritreans was assessed using population data from the National Statistics Office. Data were reviewed by the experts from NMFA, CDCD and the World Health Organization (WHO). Moreover, sample of the Eritrea population was genotyped using PCR-RFLP in collaboration with the Uppsala University to rule out the effect of genetic polymorphism of CYP2 C8; amodiaquine slow metabolizers.
+
+Results: The median body weight of Eritreans aged 16–50 years was 46 kg for males and 43 kg for females. This showed that the global dose recommendation of AS/AQ tablet does not fit to the Eritrean population, and thus, several patients were taking overdoses, which could be one of the risk factors for the increased risk of extrapyramidal reactions. Upon molecular analysis, the allele frequencies of CYP2 C8*2 and *3 were found to be 5.9% (95% CI: 4.4–7.8) and 4.6% (95% CI: 3.2–6.3), respectively. Four out of the 17 patients with extrapyramidal reactions showed to be carriers of the alleles. As a risk minimization measure, the manufacturer issued a boxed warning, direct healthcare professionals communication, and revised the product information leaflet and summary of product characteristics to include extrapyramidal reactions as adverse effects of AS/AQ tablet. Furthermore, the Ministry of Health of Eritrea derived a new dosing regimen that suits the Eritrean population that is endorsed by the WHO. Revision of the malaria treatment protocol and sensitization of healthcare professionals and community health agents (CHAs) were instructed through trainings, circular letter and information bulletin. The awareness raising programmes were aimed at informing health workers to adhere to weight-based dosing instead of age, to follow the new age-based dosing regimen in case of unavailability of weighing balance, and avoid re-challenging patients with extrapyramidal reactions.
+
+Conclusion: In Eritrea, use of age-based AS/AQ tablet is likely to expose patients to overdose and thus weight-based dosing regimen is recommended. Moreover, CYP2 C8*2 and *3 frequencies among Eritreans were found to be intermediate between that documented for Caucasian and African populations. The fact that most of the cases with extrapyramidal reactions were not found to be carriers of CYP2 C8 minor alleles shows that such adverse effects can occur independent of these variants.
+
+Terenzo Ignoni
+
+SVP Quality and CMC- Gain Therapeutics
+
+The level of complexity pertaining to the pharmaceutical industry with specific reference to the development, manufacturing and control of medicines has substantially increased over the last decade.
+
+The cause of the increased complexity is multifactorial with contribution from social, thus epidemiological, and technological components.
+
+The social basis primarily involves the increased demand of medicines from high-income countries, the rapid shift of epidemiological patterns and new emerging threats to public health.
+
+To consistently support the social need, pharmaceutical companies, academic institutions and Regulatory Authorities have developed or have facilitated the development of novel therapies, more efficient manufacturing and control strategies, alongside with faster than ever product life-cycle, from proof of concept to the availability of medicines to patients on global scale.
+
+Sustaining this fast pace of development, large volume of manufacturing and control of medicine however unavoidably increases the probability of occurrence of unwanted events having the potential to jeopardize patients’ safety.
+
+In addition, albeit significantly improved in the most recent years, organizational silos characterizing the pharmaceutical industry neither efficiently enable a broader visibility on the variety of risk sources nor shift from reactive to preventive approach to potential threats.
+
+How far Pharmacovigilance’s visibility can go over the manufacturing and distribution channel of a medicine? Is the level of integration between GMP/GDP and GVP sufficient and there is an actual common basic knowledge? Some real-life examples of what can go wrong.
+
+Alberto Gramaccioli1 and Pramod Wable2
+
+1Director, Quality Management and Inspection - Pfizer
+
+2Director, Senior Inspection Management Lead - Pfizer
+
+In the last 5 years, several Medicinal Regulatory Authorities have started routine inspection activities in Good Pharmacovigilance Practice (GPvP) domain. Based on our inspection experiences, we identified the following authorities to be presented in this session; Saudi Food and Drug Authority (SFDA), Costa Rica Ministry of Health, Agency for Medicinal Products and Medical Devices of Bosnia and Herzegovina (ALMBIH), and National Agency for Regulation Control and Sanitary Surveillance (ARCSA) Ecuador. The presentation mainly focuses on key points for consideration, potential areas of interest and key takeaways.
+
+The authorities such as the Costa Rica Ministry of Health published their GPvP guidelines along with a verification guide/checklist that could be used to prepare for the inspections. Expectations on deliverables provided by the authorities in their GPvP regulations could be at the centre of inspection preparations activities. Inspection preparations may typically kick off with local Pharmacovigilance System Master File (PSMF)/Detailed Description of the Pharmacovigilance System (DDPS) and review of marketed products in the region. The roles and responsibilities of Qualified Person Responsible for Pharmacovigilance (QPPV)/PV Responsible Person (RP) and Country Safety Lead/Officer could be reviewed with applicable personnel. Discussions on deliverables and responsibilities with the business leads/Subject Matter Experts (SMEs) for core GPvP activities may be conducted in an anticipation of inspection interviews and document requests.
+
+The potential topics of interest for interviews and document reviews: roles and responsibilities of QPPV including delegation (when applicable), PSMF/DDPS, Risk Management Plan (RMP), Individual Case Study Reports (ICSRs), signal detection, and evaluation, Safety Data Exchange Agreements (SDEAs) and their oversight, labelling variations, notifications to regulatory authorities, Periodic Safety Update Report (PSUR) submission/tracking, audits, and safety-related training. A point to highlight is that some authorities may request a tour of archiving facility which is not a common practice.
+
+The inspections may not be ‘agenda’ driven and could focus on document reviews and subsequent ad hoc clarification discussions. As a key learning experience, these authorities may only focus on the local country-specific GPvP activities and interview local colleagues in the local language. Limited/no interviews may be performed with global colleagues although some of the activities and processes could be supported by the global teams. The expectation is that appropriate local Subject Matter Experts (SMEs) are available to explain the complete process including those areas that may be managed globally.
+
+These authorities are also learning and improving their inspection practices based on their ongoing experiences, and therefore, they are open for discussions and clarifications for a better understanding of GPvP activities performed by the companies.
+
+Overall, these inspections reflect how authorities are growing their vigilance in the GPvP space by introducing routine inspection programmes.
+
+References
+
+1. Home| Saudi Food and Drug Authority (sfda.gov.sa).
+
+2. Guideline on Good Pharmacovigilance (GVP)-0EN.pdf (sfda.gov.sa).
+
+3. Regulatory Framework for Pharmacovigilance (Ministerio de Salud.go.cr).
+
+4. Guide for Verification of Good Pharmacovigilance Practices – Costa Rica.
+
+5. Agency for medicinal products and medical devices (almbih.gov.ba).
+
+6. NORMATIVA SANITARIA DEL SISTEMA NACIONAL DE FARMACOVIGILANCIA, https://www.controlsanitario.gob.ec/wp-content/plugins/download-monitor/download.php?id=2888&force=1
+
+7. Guide for Verification of Good Pharmacovigilance practice in Ecuador (refer to Annex 2).
+
+8. Inspecciones de Buenas Prácticas de Farmacovigilancia para Establecimientos Farmacéuticos| Ecuador–Guía Oficial de Trámites y Servicios (www.gob.ec).
+
+Raj Bhogal
+
+Head of R&D Audits & Inspections, Jazz Pharmaceuticals
+
+Good Pharmacovigilance Practices (GVP) are a set of measures drawn up to facilitate the performance of pharmacovigilance in the European Union (EU). GVP apply to Marketing-Authorization Holders (MAH), the European Medicines Agency (EMA) and medicines regulatory authorities in EU Member States. They cover medicines authorized centrally via the Agency as well as medicines authorized at national level.
+
+Regulatory Agencies must inspect marketing authorization holders (MAH) with centrally authorized products that had located the pharmacovigilance system master file (PSMF) in the United Kingdom, against the pharmacovigilance requirements laid down in Titles IX and XI of Directive 2001/83/EC as amended2 (‘the Directive’), on behalf of the European Medicines Agency (EMA). The regulatory agencies typically take a risk-based approach to inspections. These can be onsite or remote or a combination.
+
+Inspections requested by the EMA’s Committee for Medicinal Products for Human use (CHMP). The inspections maybe conducted by one or multiple agencies. The scope may be GVP or a combination of GxP and MAH responsibilities.
+
+There are many types of inspections that the regulatory agencies can conduct based on risk:
+
+Routine National Inspections;
+
+Risk-based compliance programme;
+
+EU inspections;
+
+Marketing authorization holders with centrally authorized products;
+
+4-year EU inspection plan;
+
+Adopted by the Committee on Human Medicinal Products (CHMP);
+
+Usually conducted as routine national inspections;
+
+Triggered inspections;
+
+For GPvP breaches;
+
+Whistleblower, other regulatory authority or depts within agencies;
+
+Triggered EU inspections of marketing authorization holders;
+
+Requested by the Committee on Human Medicinal Products (CHMP).
+
+All member states must have appropriate National PV system in place and networking structure, EMA coordinating function. There are numerous requirements including:
+
+– Appropriate authorization procedures;
+
+– Systems to monitor, detect and analyse AEs;
+
+– Data management and communication;
+
+– For maximum impact PV in EU carried out by market authorization holders and authorities.
+
+It is very important that the MAH understand the scope of PV system and how to get ready for inspections and also to manage an ongoing readiness programme to avoid the consequences of a poor inspection.
