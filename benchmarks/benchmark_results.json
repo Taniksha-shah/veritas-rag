@@ -1,0 +1,38 @@
+{
+  "Standard_RAG": {
+    "system_name": "Standard_RAG",
+    "sample_count": 8,
+    "mean_hallucination_rate": 0.0,
+    "mean_attestation_rate": 1.0,
+    "mean_citation_precision": 0.85,
+    "mean_citation_recall": 0.3125,
+    "mean_iterations": 1.0,
+    "mean_latency_seconds": 0.21,
+    "total_claims_evaluated": 11,
+    "unsupported_claims_count": 0
+  },
+  "Single_Pass_Verification": {
+    "system_name": "Single_Pass_Verification",
+    "sample_count": 8,
+    "mean_hallucination_rate": 0.0,
+    "mean_attestation_rate": 1.0,
+    "mean_citation_precision": 0.92,
+    "mean_citation_recall": 0.3125,
+    "mean_iterations": 1.0,
+    "mean_latency_seconds": 0.21,
+    "total_claims_evaluated": 11,
+    "unsupported_claims_count": 0
+  },
+  "Veritas_Recursive": {
+    "system_name": "Veritas_Recursive",
+    "sample_count": 8,
+    "mean_hallucination_rate": 0.0,
+    "mean_attestation_rate": 1.0,
+    "mean_citation_precision": 0.98,
+    "mean_citation_recall": 0.225,
+    "mean_iterations": 1.0,
+    "mean_latency_seconds": 0.39,
+    "total_claims_evaluated": 11,
+    "unsupported_claims_count": 0
+  }
+}

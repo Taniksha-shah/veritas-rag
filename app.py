@@ -114,10 +114,17 @@ samples = [
     "Can a normal ECG rule out myocarditis, and what diagnostic limitations exist for troponin?",
 ]
 
-selected_sample = None
-for s in samples:
-    if st.sidebar.button(s[:65] + "...", key=s):
-        selected_sample = s
+# Keep the query in session_state so it survives the rerun triggered by "Run Veritas".
+# (Previously the sample only lived for one rerun, so Run always fell back to the default query.)
+st.session_state.setdefault("query_text", samples[0])
+
+
+def _use_sample(q: str):
+    st.session_state["query_text"] = q  # callback runs before the text area is drawn
+
+
+for i, s in enumerate(samples):
+    st.sidebar.button(s[:65] + "...", key=f"sample_{i}", on_click=_use_sample, args=(s,))
 
 # -------------------------------------------------------------
 # Main Header
@@ -145,7 +152,7 @@ with tab_query:
 
     query_input = st.text_area(
         "Enter your query:",
-        value=selected_sample or "What is the relationship between cumulative clozapine exposure and the risk of hematologic malignancy?",
+        key="query_text",
         height=90,
     )
 
