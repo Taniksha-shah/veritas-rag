@@ -1,0 +1,50 @@
+{
+  "seeded_error_check": {
+    "enabled": true,
+    "tested": 8,
+    "detected": 8,
+    "errors": 0,
+    "details": [
+      {
+        "id": "qa_01_clozapine_malignancy",
+        "injected_claim": "The recommended starting dose is 500 mg every 15 minutes.",
+        "flagged": true
+      },
+      {
+        "id": "qa_02_cardiac_irae",
+        "injected_claim": "The study was funded by a $4.2 million grant from the National Cancer Institute.",
+        "flagged": true
+      },
+      {
+        "id": "qa_03_ild_respiratory_support",
+        "injected_claim": "The treatment was approved by the FDA in 1987 for veterinary use only.",
+        "flagged": true
+      },
+      {
+        "id": "qa_04_hfnc_icu_mortality",
+        "injected_claim": "The authors reported that symptoms resolved within 24 hours in every patient.",
+        "flagged": true
+      },
+      {
+        "id": "qa_05_myocarditis_ecg",
+        "injected_claim": "A follow-up period of 15 years was required before any benefit could be observed.",
+        "flagged": true
+      },
+      {
+        "id": "qa_06_clozapine_inflammation_crp",
+        "injected_claim": "The recommended starting dose is 500 mg every 15 minutes.",
+        "flagged": true
+      },
+      {
+        "id": "qa_07_pnes_pharmacotherapy",
+        "injected_claim": "The study was funded by a $4.2 million grant from the National Cancer Institute.",
+        "flagged": true
+      },
+      {
+        "id": "qa_08_uppsala_signal_prioritization",
+        "injected_claim": "The treatment was approved by the FDA in 1987 for veterinary use only.",
+        "flagged": true
+      }
+    ]
+  }
+}

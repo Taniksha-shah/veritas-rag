@@ -41,10 +41,26 @@ class DenseRetriever:
             self.model.eval()
             self._is_initialized = True
             return True
+        
         except Exception as e:
-            # Fall back to lightweight Scikit-learn TF-IDF dense vectors for offline/low-resource resilience
+            # Fall back to TF-IDF and fit it on the stored corpus.
             from sklearn.feature_extraction.text import TfidfVectorizer
-            self._fallback_tfidf = TfidfVectorizer(max_features=512, stop_words="english")
+
+            self._fallback_tfidf = TfidfVectorizer(
+                max_features=512,
+                stop_words="english"
+            )
+
+            # Critical: a loaded retriever must fit the fallback
+            # vectorizer before transforming a query.
+            if self.corpus:
+                texts = [
+                    chunk.get("text", "")
+                    for chunk in self.corpus
+                ]
+                if any(text.strip() for text in texts):
+                    self._fallback_tfidf.fit(texts)
+
             self._is_initialized = True
             return False
 

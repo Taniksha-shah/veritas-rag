@@ -285,20 +285,28 @@ with tab_benchmarks:
         with open(bench_file, "r", encoding="utf-8") as f:
             b_data = json.load(f)
 
+        def _pct(x):
+            return x * 100 if x is not None else None
+
+        # Only measured metrics are shown. Citation precision/recall are not measured
+        # by the benchmark (older result files contained placeholder values for them).
         df_bench = pd.DataFrame([
             {
                 "System": k.replace("_", " "),
-                "Hallucination Rate (%)": v["mean_hallucination_rate"] * 100,
-                "Attestation Rate (%)": v["mean_attestation_rate"] * 100,
-                "Citation Precision (%)": v["mean_citation_precision"] * 100,
-                "Citation Recall (%)": v["mean_citation_recall"] * 100,
-                "Mean Iterations": v["mean_iterations"],
-                "Latency (s)": v["mean_latency_seconds"],
+                "Hallucination Rate (%)": _pct(v.get("mean_hallucination_rate")),
+                "Attestation Rate (%)": _pct(v.get("mean_attestation_rate")),
+                "Claims / Answer": v.get("mean_claims_per_answer"),
+                "Mean Iterations": v.get("mean_iterations"),
+                "Latency (s)": v.get("mean_latency_seconds"),
             }
             for k, v in b_data.items()
-        ])
+        ]).dropna(axis=1, how="all")
 
         st.dataframe(df_bench.style.highlight_min(subset=["Hallucination Rate (%)"], color="#dcfce7").highlight_max(subset=["Attestation Rate (%)"], color="#dcfce7"), use_container_width=True)
+        st.caption(
+            "Rates are judged by the engine's own verifier on a single gold passage per question. "
+            "Citation precision/recall are not measured. See benchmarks/benchmark_report.md for findings and limitations."
+        )
 
         col_c1, col_c2 = st.columns(2)
         with col_c1:

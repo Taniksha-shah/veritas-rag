@@ -113,7 +113,7 @@ def handle_benchmark(args):
     table.add_column("System", style="bold white")
     table.add_column("Hallucination Rate ↓", justify="right", style="red")
     table.add_column("Attestation Rate ↑", justify="right", style="green")
-    table.add_column("Citation Precision ↑", justify="right", style="cyan")
+    table.add_column("Claims / Answer", justify="right", style="cyan")
     table.add_column("Iterations", justify="right", style="magenta")
     table.add_column("Latency (s)", justify="right", style="yellow")
 
@@ -125,12 +125,22 @@ def handle_benchmark(args):
             name,
             f"{v.mean_hallucination_rate * 100:.1f}%",
             f"{v.mean_attestation_rate * 100:.1f}%",
-            f"{v.mean_citation_precision * 100:.1f}%",
+            f"{v.mean_claims_per_answer:.1f}",
             f"{v.mean_iterations:.1f}",
             f"{v.mean_latency_seconds:.2f}s",
         )
 
     console.print(table)
+
+    # Notes: say what these numbers are, and what was not measured.
+    console.print("[dim]Rates are judged by the engine's own verifier on a single gold passage per question. "
+                  "Citation precision/recall are not measured.[/dim]")
+    seeded = evaluator.checks.get("seeded_error_check", {})
+    if seeded.get("enabled") and seeded.get("tested"):
+        console.print(
+            f"[dim]Seeded-error check: verifier flagged {seeded['detected']}/{seeded['tested']} answers "
+            f"after one fabricated claim was injected into each.[/dim]"
+        )
 
 
 def main():
